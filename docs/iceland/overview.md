@@ -1,9 +1,11 @@
 ---
-title: 🇮🇸 Island - Euro Lavish
+title: 🇮🇸 Island
 description: Komplett levekostnad-guide for Island
 ---
 
 # 🇮🇸 Island
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-25.0%2C63.0%2C-11.0%2C67.0&layer=mapnik"></iframe>
 
 ![Island](/assets/countries/iceland.svg
 

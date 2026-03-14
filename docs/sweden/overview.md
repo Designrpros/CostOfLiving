@@ -1,11 +1,11 @@
 ---
-title: 🇸🇪 Sverige - Euro Lavish
+title: 🇸🇪 Sverige
 description: Komplett levekostnad-guide for Sverige
 ---
 
 # 🇸🇪 Sverige
 
-![Sverige](/assets/countries/sweden.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.0%2C55.0%2C24.0%2C69.0&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

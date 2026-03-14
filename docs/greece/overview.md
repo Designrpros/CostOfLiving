@@ -1,11 +1,11 @@
 ---
-title: 🇬🇷 Hellas - Euro Lavish
+title: 🇬🇷 Hellas
 description: Komplett levekostnad-guide for Hellas
 ---
 
 # 🇬🇷 Hellas
 
-![Hellas](/assets/countries/greece.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.0%2C34.0%2C30.0%2C42.0&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

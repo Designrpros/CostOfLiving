@@ -1,11 +1,11 @@
 ---
-title: 🇪🇸 Spania - Euro Lavish
+title: 🇪🇸 Spania
 description: Komplett levekostnad-guide for Spania
 ---
 
 # 🇪🇸 Spania
 
-![Spania](/assets/countries/spain.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-9.0%2C36.0%2C4.0%2C44.0&layer=mapnik"></iframe>
 
 ## 🔗 Nyttige Lenker
 

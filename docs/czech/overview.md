@@ -1,11 +1,11 @@
 ---
-title: 🇨🇿 Tsjekkia - Euro Lavish
+title: 🇨🇿 Tsjekkia
 description: Komplett levekostnad-guide for Tsjekkia
 ---
 
 # 🇨🇿 Tsjekkia
 
-![Tsjekkia](/assets/countries/czech.svg
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.0%2C48.5%2C19.0%2C51.5&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

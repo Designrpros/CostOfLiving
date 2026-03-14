@@ -1,11 +1,11 @@
 ---
-title: 🇬🇧 Storbritannia - Euro Lavish
+title: 🇬🇧 Storbritannia
 description: Komplett levekostnad-guide for Storbritannia
 ---
 
 # 🇬🇧 Storbritannia
 
-![Storbritannia](/assets/countries/uk.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.0%2C49.0%2C2.0%2C61.0&layer=mapnik"></iframe>
 
 ## 🔗 Nyttige Lenker
 

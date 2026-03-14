@@ -1,11 +1,11 @@
 ---
-title: 🇧🇪 Belgia - Euro Lavish
+title: 🇧🇪 Belgia
 description: Komplett levekostnad-guide for Belgia
 ---
 
 # 🇧🇪 Belgia
 
-![Belgia](/assets/countries/belgium.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.5%2C49.5%2C6.5%2C51.5&layer=mapnik"></iframe>
 
 ## 🔗 Nyttige Lenker
 

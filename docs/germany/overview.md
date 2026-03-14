@@ -1,11 +1,11 @@
 ---
-title: 🇩🇪 Tyskland - Euro Lavish
+title: 🇩🇪 Tyskland
 description: Komplett levekostnad-guide for Tyskland
 ---
 
 # 🇩🇪 Tyskland
 
-![Tyskland](/assets/countries/germany.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.0%2C47.0%2C15.0%2C55.0&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

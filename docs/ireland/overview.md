@@ -1,11 +1,11 @@
 ---
-title: 🇮🇪 Irland - Euro Lavish
+title: 🇮🇪 Irland
 description: Komplett levekostnad-guide for Irland
 ---
 
 # 🇮🇪 Irland
 
-![Irland](/assets/countries/ireland.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-10.0%2C51.0%2C-6.0%2C55.5&layer=mapnik"></iframe>
 
 ## 🔗 Nyttige Lenker
 

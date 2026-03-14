@@ -1,11 +1,11 @@
 ---
-title: 🇮🇹 Italia - Euro Lavish
+title: 🇮🇹 Italia
 description: Komplett levekostnad-guide for Italia
 ---
 
 # 🇮🇹 Italia
 
-![Italia](/assets/countries/italy.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0%2C36.0%2C19.0%2C47.0&layer=mapnik"></iframe>
 
 ## 🔗 Nyttige Lenker
 

@@ -1,11 +1,15 @@
 ---
-title: 🇫🇮 Finland - Euro Lavish
+title: 🇫🇮 Finland
 description: Komplett levekostnad-guide for Finland
 ---
 
 # 🇫🇮 Finland
 
-![Finland](/assets/countries/finland.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C60.0%2C32.0%2C70.0&layer=mapnik"></iframe>
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C60.0%2C32.0%2C70.0&layer=mapnik"></iframe>
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C60.0%2C32.0%2C70.0&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

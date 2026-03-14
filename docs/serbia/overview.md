@@ -1,11 +1,11 @@
 ---
-title: 🇷🇸 Serbia - Euro Lavish
+title: 🇷🇸 Serbia
 description: Komplett levekostnad-guide for Serbia
 ---
 
 # 🇷🇸 Serbia
 
-![Serbia](/assets/countries/serbia.svg
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.0%2C42.0%2C23.0%2C46.5&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

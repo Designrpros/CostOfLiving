@@ -1,11 +1,11 @@
 ---
-title: 🇳🇱 Nederland - Euro Lavish
+title: 🇳🇱 Nederland
 description: Komplett levekostnad-guide for Nederland
 ---
 
 # 🇳🇱 Nederland
 
-![Nederland](/assets/countries/netherlands.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0%2C50.5%2C7.5%2C54.0&layer=mapnik"></iframe>
 
 ## 🔗 Nyttige Lenker
 

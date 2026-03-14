@@ -1,11 +1,11 @@
 ---
-title: 🇷🇴 Romania - Euro Lavish
+title: 🇷🇴 Romania
 description: Komplett levekostnad-guide for Romania
 ---
 
 # 🇷🇴 Romania
 
-![Romania](/assets/countries/romania.svg
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C43.5%2C30.0%2C48.5&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

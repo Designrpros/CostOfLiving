@@ -1,11 +1,11 @@
 ---
-title: 🇦🇹 Østerrike - Euro Lavish
+title: 🇦🇹 Østerrike
 description: Komplett levekostnad-guide for Østerrike
 ---
 
 # 🇦🇹 Østerrike
 
-![Østerrike](/assets/countries/austria.svg
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.0%2C46.0%2C17.0%2C49.5&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

@@ -1,5 +1,5 @@
 ---
-title: 🇳🇴 Norge - Euro Lavish
+title: 🇳🇴 Norge
 description: Komplett levekostnad-guide for Norge
 ---
 

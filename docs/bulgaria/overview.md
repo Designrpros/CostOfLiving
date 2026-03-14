@@ -1,11 +1,11 @@
 ---
-title: 🇧🇬 Bulgaria - Euro Lavish
+title: 🇧🇬 Bulgaria
 description: Komplett levekostnad-guide for Bulgaria
 ---
 
 # 🇧🇬 Bulgaria
 
-![Bulgaria](/assets/countries/bulgaria.svg
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=22.0%2C41.0%2C29.0%2C45.0&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

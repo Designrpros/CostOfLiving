@@ -1,11 +1,11 @@
 ---
-title: 🇨🇭 Sveits - Euro Lavish
+title: 🇨🇭 Sveits
 description: Komplett levekostnad-guide for Sveits
 ---
 
 # 🇨🇭 Sveits
 
-![Sveits](/assets/countries/switzerland.svg
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.5%2C45.7%2C10.5%2C47.8&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 

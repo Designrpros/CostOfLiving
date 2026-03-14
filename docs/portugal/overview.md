@@ -1,11 +1,11 @@
 ---
-title: 🇵🇹 Portugal - Euro Lavish
+title: 🇵🇹 Portugal
 description: Komplett levekostnad-guide for Portugal
 ---
 
 # 🇵🇹 Portugal
 
-![Portugal](/assets/countries/portugal.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-9.5%2C39.0%2C-6.0%2C42.0&layer=mapnik"></iframe>
 
 ## 🔗 Nyttige Lenker
 
