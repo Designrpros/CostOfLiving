@@ -1,37 +1,31 @@
 ---
-title: 🏙️ Thessaloniki - Hellas
-description: Levekostnader i Thessaloniki
+title: 🏙️ Thessaloniki - Greece
+description: Cost of Living in Thessaloniki
 ---
 
 # 🏙️ Thessaloniki
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=22.9%2C40.6%2C23.2%2C40.9&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=22.9%2C40.6%2C23.3%2C40.8&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 550€ |
-| Måltid  | 12€ |
-| Øl (0.5L) | 4€ |
-| Cappuccino | 2.50€ |
-| Transport | 1.20€ |
-| Kino | 7€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 550€ | ~550€ |
+| Meal | 12€ | ~12€ |
+| Beer (0.5L) | 4€ | ~4€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 1.30€ | ~1.30€ |
+| Cinema | 7€ | ~7€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Spitogatos](https://www.spitogatos.gr) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/gr/thessaloniki.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/thessaloniki) | 🟡 Leie |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Thessaloniki) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Thessaloniki--Greece) | Vacation Rentals |
 
-## ← Tilbake
-[Tilbake til Hellas overview](../overview.md)
+## ← Back
+[Back to Greece overview](../overview.md)
 
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*
