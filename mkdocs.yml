@@ -22,37 +22,43 @@ plugins:
 
 nav:
   - 🏠 Home: index.md
+  
   - 🏔️ Nord-Europa:
-    - norway/overview.md
-    - sweden/overview.md
-    - denmark/overview.md
-    - estonia/overview.md
-    - iceland/overview.md
-    - finnland/overview.md
+    - [Norge](norway/overview.md)
+    - [Sverige](sweden/overview.md)
+    - [Danmark](denmark/overview.md)
+    - [Estland](estonia/overview.md)
+    - [Island](iceland/overview.md)
+    - [Finland](finnland/overview.md)
+    
   - 🏗️ Øst-Europa:
-    - poland/overview.md
-    - czech/overview.md
-    - hungary/overview.md
-    - romania/overview.md
-    - serbia/overview.md
-    - bulgaria/overview.md
+    - [Polen](poland/overview.md)
+    - [Tsjekkia](czech/overview.md)
+    - [Ungarn](hungary/overview.md)
+    - [Romania](romania/overview.md)
+    - [Serbia](serbia/overview.md)
+    - [Bulgaria](bulgaria/overview.md)
+    
   - ☀️ Sør-Europa:
-    - spain/overview.md
-    - portugal/overview.md
-    - italy/overview.md
-    - greece/overview.md
-    - croatia/overview.md
-    - malta/overview.md
+    - [Spania](spain/overview.md)
+    - [Portugal](portugal/overview.md)
+    - [Italia](italy/overview.md)
+    - [Hellas](greece/overview.md)
+    - [Kroatia](croatia/overview.md)
+    - [Malta](malta/overview.md)
+    
   - 🔵 Sentral-Europa:
-    - germany/overview.md
-    - austria/overview.md
-    - switzerland/overview.md
+    - [Tyskland](germany/overview.md)
+    - [Østerrike](austria/overview.md)
+    - [Sveits](switzerland/overview.md)
+    
   - 🌊 Vest-Europa:
-    - uk/overview.md
-    - ireland/overview.md
-    - netherlands/overview.md
-    - belgium/overview.md
-    - france/overview.md
-  - 💰 Affiliate: affiliate.md
-  - 🛠️ Praktisk: praktisk/index.md
-  - 🌍 Lenker: europe-links.md
+    - [Storbritannia](uk/overview.md)
+    - [Irland](ireland/overview.md)
+    - [Nederland](netherlands/overview.md)
+    - [Belgia](belgium/overview.md)
+    - [Frankrike](france/overview.md)
+    
+  - 💰 [Affiliate](affiliate.md)
+  - 🛠️ [Praktisk](praktisk/index.md)
+  - 🌍 [Lenker](europe-links.md)
