@@ -22,27 +22,23 @@ description: Complete cost of living guide for Malta
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Valletta | 1,100€ | Capital |
+| 1 | [Gozo](malta/byer/gozo/) | 700€ | Island |
+| 2 | [Qawra](malta/byer/qawra/) | 800€ | |
+| 3 | [Sliema](malta/byer/sliema/) | 1,000€ | |
+| 4 | [St. Julian's](malta/byer/stjulians/) | 950€ | |
+| 5 | [Valletta](malta/byer/valletta/) | 1,100€ | Capital |
 
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [MaltaHouse](https://www.maltahouse Malta) | Housing |
 | [Bay.com](https://www.bay.com) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Malta](https://www.indeed.mt) | Job search |
-| [Jobsinmalta](https://www.jobsinmalta.com) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [Malta Public Transport](https://www.transportmalta.com) | Bus |
-| [Tallinja](https://www.tallinja.com) | App |
 
 ## 🛸 Drug Policy
 

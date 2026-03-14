@@ -22,9 +22,11 @@ description: Complete cost of living guide for Croatia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Split | 650€ | Coast |
-| 2 | Zagreb | 700€ | Capital |
-| 3 | Dubrovnik | 800€ | Tourist |
+| 1 | [Osijek](croatia/byer/osijek/) | 400€ | |
+| 2 | [Split](croatia/byer/split/) | 650€ | Coast |
+| 3 | [Rijeka](croatia/byer/rijeka/) | 550€ | |
+| 4 | [Zagreb](croatia/byer/zagreb/) | 700€ | Capital |
+| 5 | [Dubrovnik](croatia/byer/dubrovnik/) | 800€ | Tourist |
 
 ## 🔗 Useful Links
 
@@ -32,19 +34,11 @@ description: Complete cost of living guide for Croatia
 | Link | Description |
 |------|-------------|
 | [Njuškalo](https://www.njuskalo.hr) | 🔴 Biggest housing |
-| [Index Oglasi](https://www.index.hr/oglasnik) | Classifieds |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Croatia](https://www.indeed.hr) | Job search |
-| [Posao.hr](https://www.posao.hr) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [HZ](https://www.hz.hr) | 🔵 Trains |
-| [ZET](https://www.zet.hr) | Zagreb |
 
 ## 🛸 Drug Policy
 

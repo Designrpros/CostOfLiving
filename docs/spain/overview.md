@@ -22,11 +22,11 @@ description: Complete cost of living guide for Spain
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Seville | 800€ | |
-| 2 | Malaga | 850€ | |
-| 3 | Valencia | 950€ | |
-| 4 | Barcelona | 1,400€ | 2nd city |
-| 5 | Madrid | 1,350€ | Capital |
+| 1 | [Sevilla](spain/byer/seville/) | 800€ | |
+| 2 | [Málaga](spain/byer/malaga/) | 850€ | |
+| 3 | [Valencia](spain/byer/valencia/) | 950€ | |
+| 4 | [Madrid](spain/byer/madrid/) | 1,350€ | Capital |
+| 5 | [Barcelona](spain/byer/barcelona/) | 1,400€ | 2nd city |
 
 ## 🔗 Useful Links
 
@@ -34,19 +34,11 @@ description: Complete cost of living guide for Spain
 | Link | Description |
 |------|-------------|
 | [Idealista](https://www.idealista.com) | 🔴 Biggest housing |
-| [Fotocasa](https://www.fotocasa.es) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Spain](https://www.indeed.es) | Job search |
-| [InfoJobs](https://www.infojobs.net) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [Renfe](https://www.renfe.com) | 🔵 Trains |
-| [EMT Madrid](https://www.emtmadrid.es) | Bus |
 
 ## 🛸 Drug Policy
 
