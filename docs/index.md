@@ -3,6 +3,21 @@ title: 🪙 Levekostnader i Europa
 description: Sammenlign levekostnader i 26 europeiske land
 ---
 
+<script>
+// Force Norwegian links on this page
+if (window.location.pathname === '/') {
+  document.querySelectorAll('a').forEach(link => {
+    if (link.href.includes('/overview-en/')) {
+      link.href = link.href.replace('/overview-en/', '/overview/');
+    }
+    // Also handle byer links
+    if (link.href.includes('/byer/') && !link.href.includes('overview')) {
+      // byer links are already Norwegian, keep as is
+    }
+  });
+}
+</script>
+
 # 🪙 Levekostnader i Europa
 
 *Din komplette guide til levekostnader i Europa*
@@ -80,6 +95,6 @@ description: Sammenlign levekostnader i 26 europeiske land
 - Billigst: 550€ (Hellas)
 - Dyrest: 2,580€ (Sveits)
 
-[🇬🇧 Switch to English](/index-en/)
+[🇬🇧 View English version](/index-en/)
 
 *Data: Numbeo.com, Mars 2026*
