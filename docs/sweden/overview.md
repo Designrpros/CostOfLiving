@@ -22,13 +22,13 @@ description: Complete cost of living guide for Sweden
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Västerås | 8,250 kr | |
-| 2 | Örebro | 8,250 kr | |
-| 3 | Linköping | 8,800 kr | |
-| 4 | Uppsala | 9,350 kr | University |
-| 5 | Malmö | 9,900 kr | |
-| 6 | Göteborg | 12,100 kr | 2nd city |
-| 7 | Stockholm | 15,500 kr | Capital |
+| 1 | [Västerås](sweden/byer/vasteras/) | 8,250 kr | |
+| 2 | [Örebro](sweden/byer/orebro/) | 8,250 kr | |
+| 3 | [Linköping](sweden/byer/linkoping/) | 8,800 kr | |
+| 4 | [Uppsala](sweden/byer/uppsala/) | 9,350 kr | University |
+| 5 | [Malmö](sweden/byer/malmo/) | 9,900 kr | |
+| 6 | [Göteborg](sweden/byer/goteborg/) | 12,100 kr | 2nd city |
+| 7 | [Stockholm](sweden/byer/stockholm/) | 15,500 kr | Capital |
 
 ## 🔗 Useful Links
 

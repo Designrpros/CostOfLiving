@@ -22,16 +22,16 @@ description: Complete cost of living guide for Norway
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Kristiansund | 8,500 kr | Oil + fishing |
-| 2 | Molde | 9,000 kr | Jazz festival |
-| 3 | Porsgrunn | 9,000 kr | Industry |
-| 4 | Moss | 9,200 kr | Center |
-| 5 | Fredrikstad | 9,500 kr | Østfold |
-| 6 | Drammen | 10,500 kr | Near Oslo |
-| 7 | Stavanger | 13,000 kr | Oil capital |
-| 8 | Bergen | 12,000 kr | Fjords |
-| 9 | Trondheim | 11,000 kr | Tech hub |
-| 10 | Oslo | 18,431 kr | Capital |
+| 1 | [Kristiansund](norway/byer/kristiansund/) | 8,500 kr | Oil + fishing |
+| 2 | [Molde](norway/byer/molde/) | 9,000 kr | Jazz festival |
+| 3 | [Porsgrunn](norway/byer/porsgrunn/) | 9,000 kr | Industry |
+| 4 | [Moss](norway/byer/moss/) | 9,200 kr | Center |
+| 5 | [Fredrikstad](norway/byer/fredrikstad/) | 9,500 kr | Østfold |
+| 6 | [Drammen](norway/byer/drammen/) | 10,500 kr | Near Oslo |
+| 7 | [Stavanger](norway/byer/stavanger/) | 13,000 kr | Oil capital |
+| 8 | [Bergen](norway/byer/bergen/) | 12,000 kr | Fjords |
+| 9 | [Trondheim](norway/byer/trondheim/) | 11,000 kr | Tech hub |
+| 10 | [Oslo](norway/byer/oslo/) | 18,431 kr | Capital |
 
 ## 🔗 Useful Links
 

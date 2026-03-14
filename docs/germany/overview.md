@@ -22,12 +22,13 @@ description: Complete cost of living guide for Germany
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Leipzig | 750€ | |
-| 2 | Stuttgart | 1,050€ | |
-| 3 | Cologne | 1,100€ | |
-| 4 | Frankfurt | 1,400€ | Finance |
-| 5 | Hamburg | 1,300€ | Port |
-| 6 | Munich | 1,800€ | Most expensive |
+| 1 | [Leipzig](germany/byer/leipzig/) | 750€ | |
+| 2 | [Stuttgart](germany/byer/stuttgart/) | 1,050€ | |
+| 3 | [Cologne](germany/byer/cologne/) | 1,100€ | |
+| 4 | [Frankfurt](germany/byer/frankfurt/) | 1,400€ | Finance |
+| 5 | [Hamburg](germany/byer/hamburg/) | 1,300€ | Port |
+| 6 | [München](germany/byer/munich/) | 1,800€ | Most expensive |
+| 7 | [Berlin](germany/byer/berlin/) | 1,270€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -42,12 +43,6 @@ description: Complete cost of living guide for Germany
 |------|-------------|
 | [Indeed Germany](https://www.indeed.de) | Job search |
 | [XING](https://www.xing.com) | German LinkedIn |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [Deutsche Bahn](https://www.bahn.de) | 🔵 Trains |
-| [FlixBus](https://www.flixbus.de) | Bus |
 
 ## 🛸 Drug Policy
 
