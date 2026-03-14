@@ -35,3 +35,18 @@ description: Komplett levekostnad-guide for Frankrike
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Opptil 1 år + bøter |
+| MDMA | 🔴 | Streng |
+
+### 📝 Merknader
+- Frankrike har **strenge lover**
+- Bruk = opptil 1 år fengsel
+- 2024: diskusjon om legalisering
+- Mange anholdelser for besittelse
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

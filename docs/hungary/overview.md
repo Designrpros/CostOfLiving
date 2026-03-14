@@ -36,3 +36,15 @@ description: Komplett levekostnad-guide for Ungarn
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Streng |
+
+### 📝 Merknader
+- Ungarn: **strenge lover**
+- Svært restriktivt
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

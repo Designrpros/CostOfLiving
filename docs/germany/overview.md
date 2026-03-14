@@ -97,3 +97,25 @@ description: Komplett levekostnad-guide for Tyskland
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟡 Legalisert (2024) | Regulert |
+| Kokain | 🔴 Illegal | Fengsel |
+| MDMA | 🔴 Illegal | Fengsel |
+
+### 📝 Merknader
+- Tyskland legaliserte cannabis for voksne i **mars 2024**
+- Maksimalt 25g på person, 50g hjemme
+- Klubber tillatt i noen delstater
+- Medisinsk cannabis lenge tillatt
+
+### 🔗 Lenker
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Bundesgesundheitsministerium](https://www.bundesgesundheitsministerium.de) | Helse dept. |
+| [Deutsche Cannabis Union](https://cannabis-union.de) | Cannabis-info |
+
+*⚠️ Vær oppmerksom: Reglene kan endres. Sjekk alltid lokale kilder.*

@@ -36,3 +36,15 @@ description: Komplett levekostnad-guide for Kroatia
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟡 | Delvis |
+
+### 📝 Merknader
+- Kroatia: medisinsk cannabis tillatt
+- Personlig bruk: mildt
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

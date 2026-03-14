@@ -36,3 +36,14 @@ description: Komplett levekostnad-guide for Estland
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Streng |
+
+### 📝 Merknader
+- Estland: strenge lover
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

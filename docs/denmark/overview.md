@@ -36,3 +36,17 @@ description: Komplett levekostnad-guide for Danmark
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Streng |
+| Medisinsk | 🟢 | Tillatt |
+
+### 📝 Merknader
+- Danmark: strengt men med unntak
+- Christiania: kjent for Pusher Street (nå stengt)
+- Medicinsk cannabis program siden 2018
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

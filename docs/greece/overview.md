@@ -96,3 +96,26 @@ description: Komplett levekostnad-guide for Hellas
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis (personlig) | 🟢 Decriminalisert | Bøter |
+| Cannabis (medisinsk) | 🟢 Tillatt | Resept |
+| Kokain | 🔴 Illegal | Fengsel |
+| MDMA | 🔴 Illegal | Fengsel |
+
+### 📝 Merknader
+- Hellas har **avkriminalisert** personlig bruk
+- Medisinsk cannabis er tillatt siden 2017
+- Små mengder = administrativ bot (ikke strafferettslig)
+- Politiet er generelt lite strenge
+
+### 🔗 Lenker
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Greek Police](https://www.astynomia.gr) | Politiet |
+| [Legalannabis Greece](https://www.legalannabis.gr) | Cannabis-info |
+
+*⚠️ Vær oppmerksom: Reglene kan endres. Sjekk alltid lokale kilder.*

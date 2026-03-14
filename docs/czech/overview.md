@@ -36,3 +36,17 @@ description: Komplett levekostnad-guide for Tsjekkia
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟢 Legalisert | 2024 |
+| Mdma | 🟡 | Personlig - lavt |
+
+### 📝 Merknader
+- Tsjekkia legaliserte cannabis i **2024**
+- Personlig bruk: 10g tillatt
+- Medisinsk cannabis lenge tillatt
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

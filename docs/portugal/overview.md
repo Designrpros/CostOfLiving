@@ -36,3 +36,24 @@ description: Komplett levekostnad-guide for Portugal
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Alle stoffer | 🟢 Decriminalisert | Ingen fengsel |
+| Cannabis | 🟢 Personlig bruk OK | Kun bøter |
+| Kokain | 🟡 Mildt | Bøter |
+
+### 📝 Merknader
+- Portugal **avkriminaliserte** alle stoffer i 2001
+- Behandling heller enn straff
+- Injiseringsrom tilgjengelig
+
+### 🔗 Lenker
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [SICAD](https://www.sicad.pt) | Rusbehandling |
+| [Transform Europe](https://transform-drugs.org) | Policy info |
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

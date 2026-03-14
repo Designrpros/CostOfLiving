@@ -36,3 +36,18 @@ description: Komplett levekostnad-guide for Sverige
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Opptil 6 år |
+| Alle stoffer | 🔴 | Strenge |
+
+### 📝 Merknader
+- Sverige har **Europas strengeste** ruspolitikk
+- "Kriminalisering" - fokus på avskrekking
+- Små mengder = fengsel
+- Politiet prioriteter
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

@@ -36,3 +36,24 @@ description: Komplett levekostnad-guide for Spania
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis (privat) | 🟢 Decriminalisert | - |
+| Cannabis (offentlig) | 🟡 | Bøter |
+| Kokain | 🔴 | Fengsel |
+
+### 📝 Merknader
+- Spania tillater **privat dyrking og bruk**
+- Offentlig bruk = bøter
+- Catalonia har egne regler (mer liberalt)
+- Cannabis clubs i mange byer
+
+### 🔗 Lenker
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Observatorio Español](https://www.observatoriocannabis.es) | Cannabis-info |
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

@@ -31,3 +31,18 @@ description: Komplett levekostnad-guide for Sveits
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟡 | Kanton-forskjeller |
+| MDMA | 🔴 | Illegal |
+
+### 📝 Merknader
+- Sveits: **kanton-bestemt**
+- Noen kantoner: mer tolerant
+- 2024: nasjonal legaliserings-debatt
+- Medicinsk cannabis: ja
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

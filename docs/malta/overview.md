@@ -36,3 +36,15 @@ description: Komplett levekostnad-guide for Malta
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟢 | 2021 legalisert |
+
+### 📝 Merknader
+- Malta: **første EU-land** til å legalisere
+- 2021: personlig bruk tillatt
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

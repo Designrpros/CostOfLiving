@@ -31,3 +31,15 @@ description: Komplett levekostnad-guide for Østerrike
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟡 | Medicinsk + debat |
+
+### 📝 Merknader
+- Østerrike: medisinsk cannabis
+- 2024: debatt om legalisering
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

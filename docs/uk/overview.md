@@ -36,3 +36,25 @@ description: Komplett levekostnad-guide for Storbritannia
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Opptil 5 år |
+| Kokain | 🔴 | Opptil 7 år |
+| MDMA | 🔴 | Opptil 7 år |
+
+### 📝 Merknader
+- UK har **strenge lover**
+- Class A/B/C system
+- Politiet kan gi advarsler
+- Recent: klinikker for medisinsk cannabis
+
+### 🔗 Lenker
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Gov.uk](https://www.gov.uk/penalties-drug-possession-dealing) | Offisiell info |
+| [Talk to Frank](https://www.talktofrank.com) | Rus-informasjon |
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

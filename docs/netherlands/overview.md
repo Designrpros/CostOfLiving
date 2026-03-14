@@ -33,3 +33,25 @@ description: Komplett levekostnad-guide for Nederland
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟢 Tolerert | Ingen strike |
+| Coffeeshops | 🟢 Legal | Regulert |
+| Kokain | 🔴 | Illegal |
+
+### 📝 Merknader
+- Nederland er **tolerante** med cannabis
+- Coffeeshops: kjøp og bruk tillatt
+- Lite politisk fokus på brukere
+- "gedoogbeleid" - toleransepolitikk
+
+### 🔗 Lenker
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jellinek](https://www.jellinek.nl) | Rusbehandling |
+| [Government.nl](https://www.government.nl) | Offisiell info |
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

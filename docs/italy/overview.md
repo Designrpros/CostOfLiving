@@ -36,3 +36,17 @@ description: Komplett levekostnad-guide for Italia
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis (medisinsk) | 🟢 Tillatt | Resept |
+| Cannabis (rekreasjons) | 🔴 | Bøter/fengsel |
+
+### 📝 Merknader
+- Medisinsk cannabis **tillatt** siden 2007
+- Offentlig bruk = bøter
+- Domstoler har softenet straffer
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

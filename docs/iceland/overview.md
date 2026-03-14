@@ -36,3 +36,15 @@ description: Komplett levekostnad-guide for Island
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Streng |
+
+### 📝 Merknader
+- Island: strenge lover
+- Liten, restriktiv tilnærming
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

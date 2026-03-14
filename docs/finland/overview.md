@@ -36,3 +36,15 @@ description: Komplett levekostnad-guide for Finland
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Streng |
+
+### 📝 Merknader
+- Finland: strenge lover
+- "Nordisk modell" - kriminalisering
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

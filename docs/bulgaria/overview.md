@@ -36,3 +36,14 @@ description: Komplett levekostnad-guide for Bulgaria
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Streng |
+
+### 📝 Merknader
+- Bulgaria: strenge lover
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

@@ -31,3 +31,16 @@ description: Komplett levekostnad-guide for Irland
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Opptil 5 år |
+
+### 📝 Merknader
+- Irland: strenge lover
+- 2015: nytt lovforslag
+- Fokus på helse, ikke straff
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

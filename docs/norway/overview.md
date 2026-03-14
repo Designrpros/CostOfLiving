@@ -100,3 +100,27 @@ description: Komplett levekostnad-guide for Norge
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | ⚠️ Illegal | Opptil 15 år |
+| Kokain | 🔴 Illegal | Opptil 21 år |
+| MDMA/Ecstasy | 🔴 Illegal | Opptil 10 år |
+| Amfetamin | 🔴 Illegal | Opptil 10 år |
+
+### 📝 Merknader
+- Norge har **strenge narkotikalover**
+- Eierskap = straffbart
+- Bøter og fengsel
+- medicinsk cannabis: Kun resept
+
+### 🔗 Lenker
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Lovdata - Narkotikaloven](https://lovdata.no/lov/2021-12-17-147) | Lovverket |
+| [Politiet](https://www.politi.no) | Politi-info |
+| [Helsedirektoratet](https://www.helsedirektoratet.no) | Helsemessige aspekter |
+
+*⚠️ Vær oppmerksom: Reglene kan endres. Sjekk alltid lokale kilder.*

@@ -32,3 +32,15 @@ description: Komplett levekostnad-guide for Belgia
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟢 | Delvis |
+
+### 📝 Merknader
+- Belgia: personlig bruk tillatt
+- Eierskap under 3g: ikke straffbart
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

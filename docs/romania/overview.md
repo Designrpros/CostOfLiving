@@ -36,3 +36,14 @@ description: Komplett levekostnad-guide for Romania
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Streng |
+
+### 📝 Merknader
+- Romania: strenge EU-standarder
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

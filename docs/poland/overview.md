@@ -36,3 +36,16 @@ description: Komplett levekostnad-guide for Polen
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🔴 | Opptil 3 år |
+
+### 📝 Merknader
+- Polen: strenge lover
+- Bruk er kriminalisert
+- Noe debatt om legalisering
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*

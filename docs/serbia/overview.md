@@ -36,3 +36,15 @@ description: Komplett levekostnad-guide for Serbia
 ---
 
 *Data: Numbeo.com, Mars 2026*
+
+## 🛸 Ruspolitikk
+
+| Stoff | Status | Straff |
+|-------|--------|--------|
+| Cannabis | 🟡 | Mildt |
+
+### 📝 Merknader
+- Serbia: mildere enn EU
+- Bruk: ofte kun bøter
+
+*⚠️ Vær oppmerksom: Reglene kan endres.*
