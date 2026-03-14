@@ -1,5 +1,5 @@
 ---
-title: 🇵🇱 Polen - Euro Lavish
+title: 🇵🇱 Polen
 description: Komplett levekostnad-guide for Polen
 ---
 

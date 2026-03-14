@@ -1,5 +1,5 @@
 ---
-title: 🇪🇸 Spania - Euro Lavish
+title: 🇪🇸 Spania
 description: Komplett levekostnad-guide for Spania
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 🇬🇧 Storbritannia - Euro Lavish
+title: 🇬🇧 Storbritannia
 description: Komplett levekostnad-guide for Storbritannia
 ---
 

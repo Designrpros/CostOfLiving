@@ -1,5 +1,5 @@
 ---
-title: 🪙 Euro Lavish - Cost of Living in Europe
+title: 🪙 Euro Lavish
 description: Compare cost of living across 26 European countries and 120+ cities
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 🇳🇱 Nederland - Euro Lavish
+title: 🇳🇱 Nederland
 description: Komplett levekostnad-guide for Nederland
 ---
 

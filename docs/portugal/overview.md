@@ -1,5 +1,5 @@
 ---
-title: 🇵🇹 Portugal - Euro Lavish
+title: 🇵🇹 Portugal
 description: Komplett levekostnad-guide for Portugal
 ---
 

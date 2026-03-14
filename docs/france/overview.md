@@ -1,5 +1,5 @@
 ---
-title: 🇫🇷 Frankrike - Euro Lavish
+title: 🇫🇷 Frankrike
 description: Komplett levekostnad-guide for Frankrike
 ---
 

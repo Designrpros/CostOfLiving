@@ -1,5 +1,5 @@
 ---
-title: 🇮🇪 Irland - Euro Lavish
+title: 🇮🇪 Irland
 description: Komplett levekostnad-guide for Irland
 ---
 

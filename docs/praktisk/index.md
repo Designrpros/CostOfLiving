@@ -1,5 +1,5 @@
 ---
-title: 🛠️ Praktisk - Euro Lavish
+title: 🛠️ Praktisk
 description: Nyttige verktøy og ressurser for flytting og liv i Europa
 ---
 
@@ -77,4 +77,4 @@ description: Nyttige verktøy og ressurser for flytting og liv i Europa
 
 ---
 
-*Samlet av Euro Lavish*
+*Samlet av Euro Lavish - Cost of Living in Europe*

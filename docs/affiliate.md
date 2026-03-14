@@ -1,5 +1,5 @@
 ---
-title: 💰 Affiliate - Euro Lavish
+title: 💰 Affiliate
 description: Tjenester vi anbefaler - og tjener kommisjon på
 ---
 

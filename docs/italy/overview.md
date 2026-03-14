@@ -1,5 +1,5 @@
 ---
-title: 🇮🇹 Italia - Euro Lavish
+title: 🇮🇹 Italia
 description: Komplett levekostnad-guide for Italia
 ---
 

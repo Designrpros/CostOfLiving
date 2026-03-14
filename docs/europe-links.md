@@ -86,4 +86,4 @@ description: Generelle lenker for hele Europa
 
 ---
 
-*Samlet av Euro Lavish*
+*Samlet av Euro Lavish - Cost of Living in Europe*
