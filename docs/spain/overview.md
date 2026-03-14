@@ -1,67 +1,67 @@
 ---
-title: 🇪🇸 Spania
-description: Komplett levekostnad-guide for Spania
+title: 🇪🇸 Spain
+description: Complete cost of living guide for Spain
 ---
 
-# 🇪🇸 Spania
+# 🇪🇸 Spain
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-9.0%2C36.0%2C4.0%2C44.0\&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,200€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 3€ |
+| Category | Price | 
+|----------|-------|
+| Rent (city center) | 1,200€ |
+| Meal | 15€ |
+| Beer (0.5L) | 3€ |
 | Cappuccino | 2.50€ |
 | Transport | 1.80€ |
-| Kino | 9€ |
+| Cinema | 9€ |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
+| # | City | Rent/month | Note |
+|---|------|------------|------|
 | 1 | [Zaragoza](byer/zaragoza.md) | 700€ | |
 | 2 | [Granada](byer/granada.md) | 750€ | |
 | 3 | [Malaga](byer/malaga.md) | 850€ | |
 | 4 | [Valencia](byer/valencia.md) | 900€ | |
-| 5 | [Barcelona](byer/barcelona.md) | 1,400€ | Turisme |
-| 6 | [Madrid](byer/madrid.md) | 1,500€ | Hovedstad |
+| 5 | [Barcelona](byer/barcelona.md) | 1,400€ | Tourism |
+| 6 | [Madrid](byer/madrid.md) | 1,500€ | Capital |
 
-## 🔗 Nyttige Lenker
+## 🔗 Useful Links
 
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Idealista](https://www.idealista.com) | 🔴 Største |
-| [Fotocasa](https://www.fotocasa.es) | Bolig |
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Idealista](https://www.idealista.com) | 🔴 Biggest |
+| [Fotocasa](https://www.fotocasa.es) | Housing |
 
-### 🛒 Kjøp & Salg
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Wallapop](https://www.wallapop.com) | 🟡 Største |
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [InfoJobs](https://www.infojobs.net) | Job search |
 
-### 🎮 Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
+### 🎮 Communities
+| Link | Description |
+|------|-------------|
 | [r/spain](https://www.reddit.com/r/spain/) | 🇺 Reddit |
-| [r/barcelona](https://www.reddit.com/r/barcelona/) | Reddit |
+| [r/Barcelona](https://www.reddit.com/r/barcelona/) | Reddit |
 
-## 🛸 Ruspolitikk
+## 🛸 Drug Policy
 
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis (privat) | 🟢 | Decriminalisert |
-| Cannabis (offentlig) | 🟡 | Bøter |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis (private) | 🟢 | Decriminalized |
+| Cannabis (public) | 🟡 | Fines |
 
-### 📝 Merknader
-- Spania tillater privat dyrking og bruk
-- Offentlig bruk = bøter
-- Catalonia har egne regler
+### 📝 Notes
+- Spain allows **private cultivation and use**
+- Public use = fines
+- Catalonia has own rules
 
-*⚠️ Vær oppmerksom: Reglene kan endres.*
+*⚠️ Note: Rules can change.*
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

@@ -1,60 +1,66 @@
 ---
-title: 🇳🇱 Nederland
-description: Komplett levekostnad-guide for Nederland
+title: 🇳🇱 Netherlands
+description: Complete cost of living guide for Netherlands
 ---
 
-# 🇳🇱 Nederland
+# 🇳🇱 Netherlands
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0%2C50.5%2C7.5%2C54.0\&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,800€ |
-| Måltid  | 18€ |
-| Øl (0.5L) | 6€ |
+| Category | Price | 
+|----------|-------|
+| Rent (city center) | 1,800€ |
+| Meal | 18€ |
+| Beer (0.5L) | 6€ |
 | Cappuccino | 4€ |
 | Transport | 3€ |
-| Kino | 13€ |
+| Cinema | 13€ |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
+| # | City | Rent/month | Note |
+|---|------|------------|------|
 | 1 | [Groningen](byer/groningen.md) | 1,100€ | |
 | 2 | [Utrecht](byer/utrecht.md) | 1,400€ | |
 | 3 | [Rotterdam](byer/rotterdam.md) | 1,500€ | |
 | 4 | [Den Haag](byer/denhaag.md) | 1,550€ | |
-| 5 | [Amsterdam](byer/amsterdam.md) | 1,800€ | Hovedstad |
+| 5 | [Amsterdam](byer/amsterdam.md) | 1,800€ | Capital |
 
-## 🔗 Nyttige Lenker
+## 🔗 Useful Links
 
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
 | [Pararius](https://www.pararius.com) | 🔴 |
-| [Funda](https://www.funda.nl) | Bolig |
+| [Funda](https://www.funda.nl) | Housing |
 
-### 🎮 Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed NL](https://www.indeed.nl) | Job search |
+
+### 🎮 Communities
+| Link | Description |
+|------|-------------|
 | [r/Netherlands](https://www.reddit.com/r/Netherlands/) | 🇺 Reddit |
 | [r/Amsterdam](https://www.reddit.com/r/Amsterdam/) | Reddit |
 
-## 🛸 Ruspolitikk
+## 🛸 Drug Policy
 
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🟢 | Tolerert |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟢 | Tolerated |
 | Coffeeshops | 🟢 | Legal |
 
-### 📝 Merknader
-- Nederland er tolerante med cannabis
-- Coffeeshops: kjøp og bruk tillatt
+### 📝 Notes
+- Netherlands is **tolerant** with cannabis
+- Coffeeshops: purchase and use allowed
+- "gedoogbeleid" - tolerance policy
 
-*⚠️ Vær oppmerksom: Reglene kan endres.*
+*⚠️ Note: Rules can change.*
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

@@ -1,34 +1,31 @@
 ---
-title: 🏙️ Trondheim - Norge
-description: Levekostnader i Trondheim
+title: 🏙️ Trondheim - Norway
+description: Cost of Living in Trondheim
 ---
 
 # 🏙️ Trondheim
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.3%2C63.4%2C10.5%2C63.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.2%2C63.4%2C10.5%2C63.6&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | NOK |
-|----------|------|-----|
-| Leie (sentrum) | 1,100€ | ~12,650 kr |
-| Måltid  | 17€ | ~195 kr |
-| Øl (0.5L) | 8€ | ~92 kr |
+| Category | Price | NOK |
+|----------|-------|-----|
+| Rent (center) | 1,100€ | ~12,650 kr |
+| Meal | 17€ | ~195 kr |
+| Beer (0.5L) | 8.50€ | ~98 kr |
 | Cappuccino | 4€ | ~46 kr |
 | Transport | 3.80€ | ~44 kr |
-| Kino | 12€ | ~138 kr |
+| Cinema | 12€ | ~138 kr |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Finn.no Trondheim](https://www.finn.no/bolig/boligtilsalg?location=120960) | 🔴 |
-| [Hybel](https://www.hybel.no) | Leie |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed Trondheim](https://www.indeed.no/l/trondheim) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Trondheim) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Trondheim--Norway) | Vacation Rentals |
 
----
+## ← Back
+[Back to Norway overview](../overview-en.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

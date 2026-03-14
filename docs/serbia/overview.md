@@ -1,86 +1,37 @@
 ---
 title: 🇷🇸 Serbia
-description: Komplett levekostnad-guide for Serbia
+description: Complete cost of living guide for Serbia
 ---
 
 # 🇷🇸 Serbia
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.0%2C42.0%2C23.0%2C46.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 700€ | 
-| Måltid  | 12€ |
-| Øl (0.5L) | 3.20€ |
+| Category | Price | 
+|----------|-------|
+| Rent (city center) | 450€ |
+| Meal | 8€ |
+| Beer (0.5L) | 2€ |
 | Cappuccino | 2€ |
-| Transport | 0.50€ |
-| Kino | 5€ |
+| Transport | 0.80€ |
+| Cinema | 5€ |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Sremska Mitrovica](byer/sremska_mitrovica.md) | 250€ | |
-| 2 | [Čačak](byer/cacak.md) | 260€ | |
-| 3 | [Kragujevac](byer/kragujevac.md) | 280€ | |
-| 4 | [Kraljevo](byer/kraljevo.md) | 280€ | |
-| 5 | [Zrenjanin](byer/zrenjanin.md) | 270€ | |
-| 6 | [Subotica](byer/subotica.md) | 300€ | |
-| 7 | [Niš](byer/nis.md) | 300€ | |
-| 8 | [Pančevo](byer/pancevo.md) | 320€ | |
-| 9 | [Novi Sad](byer/novi_sad.md) | 500€ | |
-| 10 | [Beograd](byer/beograd.md) | 700€ | Hovedstad |
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Niš](byer/nis.md) | 300€ | |
+| 2 | [Novi Sad](byer/novisad.md) | 350€ | |
+| 3 | [Beograd](byer/belgrade.md) | 450€ | Capital |
 
----
+## 🛸 Drug Policy
 
-*Data: Numbeo.com, Mars 2026*
-
-## 🛸 Ruspolitikk
-
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🟡 | Mildt |
-
-### 📝 Merknader
-- Serbia: mildere enn EU
-- Bruk: ofte kun bøter
-
-*⚠️ Vær oppmerksom: Reglene kan endres.*
-
-## 🔗 Nyttige Lenker
-
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Nepremicnine.net](https://www.nepremicnine.net) | 🔴 |
-| [HaloOglasi](https://www.halooglasi.com) | Bolig |
-
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [KupujemProdajem](https://www.kupujemprodajem.rs) | 🟡 |
-| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
-
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Poslovi.rs](https://www.poslovi.rs) | Jobbsøk |
-| [LinkedIn Serbia](https://www.linkedin.com) | Profesjonelt |
-
-### 🎮 Lokale Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/serbia](https://www.reddit.com/r/serbia/) | 🇺 Reddit |
-| [Facebook: Srbija](https://www.facebook.com/groups/) | Facebook |
-
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [RHMZ](https://www.hidmet.gov.rs) | 🌤️ Vær |
-| [Serbia Tourism](https://www.serbia.travel) | Turisme |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Mild |
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

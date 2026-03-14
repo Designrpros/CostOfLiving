@@ -1,85 +1,40 @@
 ---
-title: 🇨🇭 Sveits
-description: Komplett levekostnad-guide for Sveits
+title: 🇨🇭 Switzerland
+description: Complete cost of living guide for Switzerland
 ---
 
-# 🇨🇭 Sveits
+# 🇨🇭 Switzerland
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.5%2C45.7%2C10.5%2C47.8&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | CHF |
-|----------|------|-----|
-| Leie (sentrum) | 2,580€ | ~2,580 CHF |
-| Måltid  | 31€ | ~31 CHF |
-| Øl (0.5L) | 8.30€ | ~8.30 CHF |
-| Cappuccino | 6€ | ~6 CHF |
-| Transport | 5€ | ~5 CHF |
-| Kino | 20€ | ~20 CHF |
+| Category | Price | CHF |
+|----------|-------|-----|
+| Rent (city center) | 2,580€ | ~2,480 CHF |
+| Meal | 30€ | ~29 CHF |
+| Beer (0.5L) | 8€ | ~7.50 CHF |
+| Cappuccino | 6€ | ~5.50 CHF |
+| Transport | 4.50€ | ~4.30 CHF |
+| Cinema | 20€ | ~19 CHF |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Lugano](byer/lugano.md) | 1,700€ | |
-| 2 | [Bern](byer/bern.md) | 1,800€ | |
-| 3 | [Basel](byer/basel.md) | 1,900€ | |
-| 4 | [Genève](byer/geneve.md) | 2,400€ | |
-| 5 | [Zürich](byer/zurich.md) | 2,580€ | Dyrest |
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Lugano](byer/lugano.md) | 1,800 CHF | |
+| 2 | [Bern](byer/bern.md) | 2,000 CHF | |
+| 3 | [Zürich](byer/zurich.md) | 2,400 CHF | |
+| 4 | [Genève](byer/geneva.md) | 2,700 CHF | |
+| 5 | [Basel](byer/basel.md) | 2,200 CHF | |
 
----
+## 🛸 Drug Policy
 
-*Data: Numbeo.com, Mars 2026*
-
-## 🛸 Ruspolitikk
-
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🟡 | Kanton-forskjeller |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Canton differences |
 | MDMA | 🔴 | Illegal |
 
-### 📝 Merknader
-- Sveits: **kanton-bestemt**
-- Noen kantoner: mer tolerant
-- 2024: nasjonal legaliserings-debatt
-- Medicinsk cannabis: ja
-
-*⚠️ Vær oppmerksom: Reglene kan endres.*
-
-## 🔗 Nyttige Lenker
-
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [ImmoStreet](https://www.immostreet.ch) | 🔴 |
-| [Homegate](https://www.homegate.ch) | Bolig |
-| [Wüest Partner](https://www.wuestpartner.com) | Eiendom |
-
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Ricardo](https://www.ricardo.ch) | 🟡 Største |
-| [Tutti](https://www.tutti.ch) | Markedsplass |
-
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Jobs.ch](https://www.jobs.ch) | Jobbsøk |
-| [LinkedIn Switzerland](https://www.linkedin.com) | Profesjonelt |
-
-### 🎮 Lokale Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/switzerland](https://www.reddit.com/r/switzerland/) | 🇺 Reddit |
-| [r/zurich](https://www.reddit.com/r/zurich/) | Reddit |
-
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [MeteoSwiss](https://www.meteoswiss.admin.ch) | 🌤️ Vær |
-| [Switzerland Tourism](https://www.stay.com) | Turisme |
-
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

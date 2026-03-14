@@ -1,80 +1,40 @@
 ---
-title: 🇦🇹 Østerrike
-description: Komplett levekostnad-guide for Østerrike
+title: 🇦🇹 Austria
+description: Complete cost of living guide for Austria
 ---
 
-# 🇦🇹 Østerrike
+# 🇦🇹 Austria
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.0%2C46.0%2C17.0%2C49.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,077€ | 
-| Måltid  | 18€ |
-| Øl (0.5L) | 5.50€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 12€ |
+| Category | Price | 
+|----------|-------|
+| Rent (city center) | 1,077€ |
+| Meal | 15€ |
+| Beer (0.5L) | 4.50€ |
+| Cappuccino | 3.50€ |
+| Transport | 2.40€ |
+| Cinema | 10€ |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Linz](byer/linz.md) | 750€ | |
-| 2 | [Graz](byer/graz.md) | 800€ | |
-| 3 | [Salzburg](byer/salzburg.md) | 1,000€ | Turisme |
-| 4 | [Innsbruck](byer/innsbruck.md) | 1,050€ | Alpene |
-| 5 | [Wien](byer/wien.md) | 1,077€ | Hovedstad |
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Linz](byer/linz.md) | 700€ | |
+| 2 | [Graz](byer/graz.md) | 750€ | |
+| 3 | [Klagenfurt](byer/klagenfurt.md) | 700€ | |
+| 4 | [Innsbruck](byer/innsbruck.md) | 850€ | |
+| 5 | [Salzburg](byer/salzburg.md) | 950€ | |
+| 6 | [Wien](byer/vienna.md) | 1,077€ | Capital |
 
----
+## 🛸 Drug Policy
 
-*Data: Numbeo.com, Mars 2026*
-
-## 🛸 Ruspolitikk
-
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🟡 | Medicinsk + debat |
-
-### 📝 Merknader
-- Østerrike: medisinsk cannabis
-- 2024: debatt om legalisering
-
-*⚠️ Vær oppmerksom: Reglene kan endres.*
-
-## 🔗 Nyttige Lenker
-
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Willhaben](https://www.willhaben.at) | 🔴 Største |
-| [Immobilien.net](https://www.immobilien.net) | Bolig |
-
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Willhaben](https://www.willhaben.at) | 🟡 |
-| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
-
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [AMS](https://www.ams.at) | Arbeidsformidling |
-| [LinkedIn Austria](https://www.linkedin.com) | Profesjonelt |
-
-### 🎮 Lokale Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/austria](https://www.reddit.com/r/austria/) | 🇺 Reddit |
-
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [ZAMG](https://www.zamg.ac.at) | 🌤️ Vær |
-| [Austria.info](https://www.austria.info) | Turisme |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Medical + debate |
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

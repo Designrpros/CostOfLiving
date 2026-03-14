@@ -1,34 +1,31 @@
 ---
-title: 🏙️ Stockholm - Sverige
-description: Levekostnader i Stockholm
+title: 🏙️ Stockholm - Sweden
+description: Cost of Living in Stockholm
 ---
 
 # 🏙️ Stockholm
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.9%2C59.2%2C18.2%2C59.5&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.8%2C59.2%2C18.2%2C59.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | SEK |
-|----------|------|-----|
-| Leie (sentrum) | 1,600€ | ~18,400 kr |
-| Måltid  | 15€ | ~172 kr |
-| Øl (0.5L) | 7€ | ~80 kr |
-| Cappuccino | 4.50€ | ~52 kr |
-| Transport | 5€ | ~57 kr |
-| Kino | 14€ | ~161 kr |
+| Category | Price | SEK |
+|----------|-------|-----|
+| Rent (center) | 1,404€ | ~15,500 kr |
+| Meal | 15€ | ~165 kr |
+| Beer (0.5L) | 7€ | ~77 kr |
+| Cappuccino | 4.50€ | ~50 kr |
+| Transport | 4€ | ~44 kr |
+| Cinema | 14€ | ~154 kr |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Hemnet](https://www.hemnet.se) | 🔴 |
-| [Booli](https://www.booli.se) | Søk |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed Stockholm](https://www.indeed.se/l/stockholm) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Stockholm) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Stockholm--Sweden) | Vacation Rentals |
 
----
+## ← Back
+[Back to Sweden overview](../overview-en.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

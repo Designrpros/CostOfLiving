@@ -1,89 +1,78 @@
 ---
-title: 🇸🇪 Sverige
-description: Komplett levekostnad-guide for Sverige
+title: 🇸🇪 Sweden
+description: Complete cost of living guide for Sweden
 ---
 
-# 🇸🇪 Sverige
+# 🇸🇪 Sweden
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.0%2C55.0%2C24.0%2C69.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.0%2C55.0%2C24.0%2C69.0\&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | SEK |
-|----------|------|-----|
-| Leie (sentrum) | 1,404€ | ~16,150 kr |
-| Måltid  | 14€ | ~161 kr |
-| Øl (0.5L) | 6.50€ | ~75 kr |
+| Category | Price | SEK |
+|----------|-------|-----|
+| Rent (city center) | 1,404€ | ~16,150 kr |
+| Meal | 14€ | ~161 kr |
+| Beer (0.5L) | 6.50€ | ~75 kr |
 | Cappuccino | 4€ | ~46 kr |
 | Transport | 4.50€ | ~52 kr |
-| Kino | 14€ | ~161 kr |
+| Cinema | 14€ | ~161 kr |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Norrköping](byer/norrkoping.md) | 9,200 kr | Industri |
-| 2 | [Helsingborg](byer/helsingborg.md) | 9,500 kr | Kyst |
-| 3 | [Malmö](byer/malmo.md) | 9,500 kr | Storby |
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Norrköping](byer/norrkoping.md) | 9,200 kr | Industry |
+| 2 | [Helsingborg](byer/helsingborg.md) | 9,500 kr | Coast |
+| 3 | [Malmö](byer/malmo.md) | 9,500 kr | City |
 | 4 | [Västerås](byer/vasteras.md) | 9,800 kr | Tech |
-| 5 | [Örebro](byer/orebro.md) | 10,000 kr | Universitet |
+| 5 | [Örebro](byer/orebro.md) | 10,000 kr | University |
 | 6 | [Linköping](byer/linkoping.md) | 10,500 kr | Tech |
-| 7 | [Uppsala](byer/uppsala.md) | 10,000 kr | Universitet |
+| 7 | [Uppsala](byer/uppsala.md) | 10,000 kr | University |
 | 8 | [Lund](byer/lund.md) | 11,000 kr | Tech |
-| 9 | [Göteborg](byer/goteborg.md) | 12,000 kr | Storby |
-| 10 | [Stockholm](byer/stockholm.md) | 16,150 kr | Hovedstad |
+| 9 | [Göteborg](byer/goteborg.md) | 12,000 kr | City |
+| 10 | [Stockholm](byer/stockholm.md) | 16,150 kr | Capital |
 
-## 🔗 Nyttige Lenker
+## 🔗 Useful Links
 
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Booli](https://www.booli.se) | 🔴 Søk bolig |
-| [Hemnet](https://www.hemnet.se) | 🔴 Største |
-| [Studentbostad](https://www.studentbostad.se) | Studentbolig |
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Booli](https://www.booli.se) | 🔴 Search |
+| [Hemnet](https://www.hemnet.se) | 🔴 Biggest |
 
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Blocket](https://www.blocket.se) | 🟡 Største markedsplass |
-| [Tradera](https://www.tradera.com) | Auksjon |
-| [Facebook Marknad](https://www.facebook.com) | Facebook |
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Arbetsförmedlingen](https://www.arbetsformedlingen.se) | Public |
+| [LinkedIn Sweden](https://www.linkedin.com) | Professional |
 
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Arbetsförmedlingen](https://www.arbetsformedlingen.se) | Offentlig |
-| [LinkedIn Sweden](https://www.linkedin.com) | Profesjonelt |
-| [Glassdoor](https://www.glassdoor.com) | Anmeldelser |
-
-### 🎮 Lokale Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
+### 🎮 Communities
+| Link | Description |
+|------|-------------|
 | [r/Sweden](https://www.reddit.com/r/sweden/) | 🇺 Reddit |
 | [r/Stockholm](https://www.reddit.com/r/stockholm/) | Reddit |
-| [Flashback](https://www.flashback.org) | Forum |
 
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [SMHI](https://www.smhi.se) | 🌤️ Vær |
-| [Sweden.se](https://www.sweden.se) | Turisme |
+### 🌍 General
+| Link | Description |
+|------|-------------|
+| [SMHI](https://www.smhi.se) | 🌤️ Weather |
+| [Sweden.se](https://www.sweden.se) | Tourism |
+
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Up to 6 years |
+| All drugs | 🔴 | Strict |
+
+### 📝 Notes
+- Sweden has **Europe's strictest** drug policy
+- "Criminalization" - focus on deterrence
+- Small amounts = prison
+
+*⚠️ Note: Rules can change.*
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
-
-## 🛸 Ruspolitikk
-
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🔴 | Opptil 6 år |
-| Alle stoffer | 🔴 | Strenge |
-
-### 📝 Merknader
-- Sverige har **Europas strengeste** ruspolitikk
-- "Kriminalisering" - fokus på avskrekking
-- Små mengder = fengsel
-- Politiet prioriterer
-
-*⚠️ Vær oppmerksom: Reglene kan endres.*
+*Data: Numbeo.com, March 2026*

@@ -1,88 +1,38 @@
 ---
-title: 🇨🇿 Tsjekkia
-description: Komplett levekostnad-guide for Tsjekkia
+title: 🇨🇿 Czechia
+description: Complete cost of living guide for Czechia
 ---
 
-# 🇨🇿 Tsjekkia
+# 🇨🇿 Czechia
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.0%2C48.5%2C19.0%2C51.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,000€ | 
-| Måltid  | 9.50€ |
-| Øl (0.5L) | 2.40€ |
-| Cappuccino | 3€ |
-| Transport | 1€ |
-| Kino | 7€ |
+| Category | Price | CZK |
+|----------|-------|-----|
+| Rent (city center) | 1,000€ | ~24,500 Kč |
+| Meal | 9.50€ | ~294 Kč |
+| Beer (0.5L) | 2.40€ | ~59 Kč |
+| Cappuccino | 3.50€ | ~86 Kč |
+| Transport | 1.20€ | ~29 Kč |
+| Cinema | 7€ | ~171 Kč |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Jihlava](byer/jihlava.md) | 450€ | |
-| 2 | [Olomouc](byer/olomouc.md) | 480€ | |
-| 3 | [Ostrava](byer/ostrava.md) | 500€ | |
-| 4 | [Pardubice](byer/pardubice.md) | 500€ | |
-| 5 | [Plzeň](byer/plzen.md) | 550€ | |
-| 6 | [Liberec](byer/liberec.md) | 520€ | |
-| 7 | [Hradec Králové](byer/hradec_kralove.md) | 540€ | |
-| 8 | [Zlín](byer/zlin.md) | 520€ | |
-| 9 | [Brno](byer/brno.md) | 700€ | |
-| 10 | [Praha](byer/praha.md) | 1,000€ | Hovedstad |
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Ostrava](byer/ostrava.md) | 600€ | |
+| 2 | [Plzeň](byer/plzen.md) | 650€ | |
+| 3 | [Brno](byer/brno.md) | 750€ | |
+| 4 | [Praha](byer/prague.md) | 1,000€ | Capital |
 
----
+## 🛸 Drug Policy
 
-*Data: Numbeo.com, Mars 2026*
-
-## 🛸 Ruspolitikk
-
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🟢 Legalisert | 2024 |
-| Mdma | 🟡 | Personlig - lavt |
-
-### 📝 Merknader
-- Tsjekkia legaliserte cannabis i **2024**
-- Personlig bruk: 10g tillatt
-- Medisinsk cannabis lenge tillatt
-
-*⚠️ Vær oppmerksom: Reglene kan endres.*
-
-## 🔗 Nyttige Lenker
-
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Sreality](https://www.sreality.cz) | 🔴 Største |
-| [Reality.idnes](https://reality.idnes.cz) | Bolig |
-
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Bazoš](https://www.bazos.cz) | 🟡 |
-| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
-
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Jobs.cz](https://www.jobs.cz) | Jobbsøk |
-| [LinkedIn Czech](https://www.linkedin.com) | Profesjonelt |
-
-### 🎮 Lokale Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/czech](https://www.reddit.com/r/czech/) | 🇺 Reddit |
-| [r/czechia](https://www.reddit.com/r/czechia/) | Reddit |
-
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [CHMI](https://www.chmi.cz) | 🌤️ Vær |
-| [Czech Tourism](https://www.czechtourism.com) | Turisme |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟢 | Legalized 2024 |
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

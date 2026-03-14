@@ -1,57 +1,43 @@
 ---
-title: 🇧🇪 Belgia
-description: Komplett levekostnad-guide for Belgia
+title: 🇧🇪 Belgium
+description: Complete cost of living guide for Belgium
 ---
 
-# 🇧🇪 Belgia
+# 🇧🇪 Belgium
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.5%2C49.5%2C6.5%2C51.5\&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.5%2C49.5%2C6.5%2C51.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,100€ |
-| Måltid  | 18€ |
-| Øl (0.5L) | 5€ |
+| Category | Price | 
+|----------|-------|
+| Rent (city center) | 1,100€ |
+| Meal | 18€ |
+| Beer (0.5L) | 5€ |
 | Cappuccino | 3.50€ |
 | Transport | 2.50€ |
-| Kino | 11€ |
+| Cinema | 11€ |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
+| # | City | Rent/month | Note |
+|---|------|------------|------|
 | 1 | [Charleroi](byer/charleroi.md) | 700€ | |
 | 2 | [Liege](byer/liege.md) | 800€ | |
 | 3 | [Ghent](byer/ghent.md) | 900€ | |
 | 4 | [Antwerp](byer/antwerp.md) | 1,000€ | |
-| 5 | [Brussels](byer/brussels.md) | 1,100€ | Hovedstad |
+| 5 | [Brussels](byer/brussels.md) | 1,100€ | Capital |
 
-## 🔗 Nyttige Lenker
+## 🛸 Drug Policy
 
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Immoweb](https://www.immoweb.be) | 🔴 Største |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟢 | Partial |
 
-### 🎮 Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/belgium](https://www.reddit.com/r/belgium/) | 🇺 Reddit |
-
-## 🛸 Ruspolitikk
-
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🟢 | Delvis |
-
-### 📝 Merknader
-- Belgia: personlig bruk tillatt
-- Eierskap under 3g: ikke straffbart
-
-*⚠️ Vær oppmerksom: Reglene kan endres.*
+### 📝 Notes
+- Belgium: personal use allowed
+- Ownership under 3g: not criminal
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

@@ -1,85 +1,38 @@
 ---
 title: 🇷🇴 Romania
-description: Komplett levekostnad-guide for Romania
+description: Complete cost of living guide for Romania
 ---
 
 # 🇷🇴 Romania
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C43.5%2C30.0%2C48.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 600€ | 
-| Måltid  | 12€ |
-| Øl (0.5L) | 3€ |
-| Cappuccino | 2€ |
-| Transport | 0.50€ |
-| Kino | 6€ |
+| Category | Price | 
+|----------|-------|
+| Rent (city center) | 600€ |
+| Meal | 12€ |
+| Beer (0.5L) | 3€ |
+| Cappuccino | 2.50€ |
+| Transport | 0.70€ |
+| Cinema | 6€ |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Galați](byer/galati.md) | 320€ | |
-| 2 | [Craiova](byer/craiova.md) | 350€ | |
-| 3 | [Ploiești](byer/ploiesti.md) | 380€ | |
-| 4 | [Iași](byer/iasi.md) | 380€ | |
-| 5 | [Oradea](byer/oradea.md) | 400€ | |
-| 6 | [Timișoara](byer/timisoara.md) | 420€ | |
-| 7 | [Constanța](byer/constanta.md) | 450€ | Kyst |
-| 8 | [Brașov](byer/brasov.md) | 480€ | |
-| 9 | [Cluj-Napoca](byer/clujnapoca.md) | 500€ | Tech |
-| 10 | [București](byer/bucuresti.md) | 600€ | Hovedstad |
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Craiova](byer/craiova.md) | 400€ | |
+| 2 | [Timișoara](byer/timisoara.md) | 450€ | |
+| 3 | [Cluj-Napoca](byer/cluj.md) | 500€ | |
+| 4 | [București](byer/bucharest.md) | 600€ | Capital |
 
----
+## 🛸 Drug Policy
 
-*Data: Numbeo.com, Mars 2026*
-
-## 🛸 Ruspolitikk
-
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🔴 | Streng |
-
-### 📝 Merknader
-- Romania: strenge EU-standarder
-
-*⚠️ Vær oppmerksom: Reglene kan endres.*
-
-## 🔗 Nyttige Lenker
-
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Imobiliare](https://www.imobiliare.ro) | 🔴 |
-| [Storia](https://www.storia.ro) | Bolig |
-
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [OLX](https://www.olx.ro) | 🟡 |
-| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
-
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [BestJobs](https://www.bestjobs.eu) | Jobbsøk |
-| [LinkedIn Romania](https://www.linkedin.com) | Profesjonelt |
-
-### 🎮 Lokale Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/romania](https://www.reddit.com/r/romania/) | 🇺 Reddit |
-| [Facebook: Romania](https://www.facebook.com/groups/) | Facebook |
-
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [ANM](https://www.meteoromania.ro) | 🌤️ Vær |
-| [Romania Tourism](https://www.romania.travel) | Turisme |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*

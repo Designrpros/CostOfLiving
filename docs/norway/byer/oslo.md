@@ -1,35 +1,31 @@
 ---
-title: 🏙️ Oslo - Norge
-description: Levekostnader i Oslo
+title: 🏙️ Oslo - Norway
+description: Cost of Living in Oslo
 ---
 
 # 🏙️ Oslo
 
 <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.5%2C59.8%2C10.7%2C60.0&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | NOK |
-|----------|------|-----|
-| Leie (sentrum) | 1,603€ | ~18,431 kr |
-| Måltid  | 22€ | ~253 kr |
-| Øl (0.5L) | 10€ | ~115 kr |
+| Category | Price | NOK |
+|----------|-------|-----|
+| Rent (center) | 1,603€ | ~18,431 kr |
+| Meal | 22€ | ~253 kr |
+| Beer (0.5L) | 10€ | ~115 kr |
 | Cappuccino | 4.60€ | ~53 kr |
 | Transport | 3.80€ | ~44 kr |
-| Kino | 14€ | ~161 kr |
+| Cinema | 14€ | ~161 kr |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Finn.no](https://www.finn.no/bolig/boligtilsalg) | 🔴 Bolig |
-| [Hybel.no](https://www.hybel.no) | Leie |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed Oslo](https://www.indeed.no/l/oslo) | Jobbsøk |
-| [LinkedIn](https://www.linkedin.com/jobs) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Oslo) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Oslo--Norway) | Vacation Rentals |
 
----
+## ← Back
+[Back to Norway overview](../overview-en.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

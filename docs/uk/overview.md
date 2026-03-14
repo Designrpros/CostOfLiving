@@ -1,60 +1,65 @@
 ---
-title: 🇬🇧 Storbritannia
-description: Komplett levekostnad-guide for Storbritannia
+title: 🇬🇧 United Kingdom
+description: Complete cost of living guide for United Kingdom
 ---
 
-# 🇬🇧 Storbritannia
+# 🇬🇧 United Kingdom
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.0%2C49.0%2C2.0%2C61.0\&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | GBP |
-|----------|------|-----|
-| Leie (sentrum) | 2,500£ | ~€2,900 |
-| Måltid  | 20£ | ~€23 |
-| Øl (0.5L) | 7£ | ~€8 |
+| Category | Price | GBP |
+|----------|-------|-----|
+| Rent (city center) | 2,500£ | ~€2,900 |
+| Meal | 20£ | ~€23 |
+| Beer (0.5L) | 7£ | ~€8 |
 | Cappuccino | 4.50£ | ~€5.20 |
 | Transport | 3£ | ~€3.50 |
-| Kino | 15£ | ~€17 |
+| Cinema | 15£ | ~€17 |
 
-## 🏙️ Byer (Billig → Dyr)
+## 🏙️ Cities (Cheapest → Expensive)
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
+| # | City | Rent/month | Note |
+|---|------|------------|------|
 | 1 | [Leeds](byer/leeds.md) | 1,050£ | |
 | 2 | [Liverpool](byer/liverpool.md) | 950£ | |
 | 3 | [Birmingham](byer/birmingham.md) | 1,200£ | |
 | 4 | [Manchester](byer/manchester.md) | 1,400£ | |
-| 5 | [London](byer/london.md) | 2,500£ | Hovedstad |
+| 5 | [London](byer/london.md) | 2,500£ | Capital |
 
-## 🔗 Nyttige Lenker
+## 🔗 Useful Links
 
-### 🏠 Bolig & Leie
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Rightmove](https://www.rightmove.co.uk) | 🔴 Største |
-| [Zoopla](https://www.zoopla.co.uk) | Bolig |
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Rightmove](https://www.rightmove.co.uk) | 🔴 Biggest |
+| [Zoopla](https://www.zoopla.co.uk) | Housing |
 
-### 🎮 Fellesskap
-| Lenke | Beskrivelse |
-|-------|-------------|
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed UK](https://www.indeed.co.uk) | Job search |
+
+### 🎮 Communities
+| Link | Description |
+|------|-------------|
 | [r/UK](https://www.reddit.com/r/UK/) | 🇺 Reddit |
 | [r/london](https://www.reddit.com/r/london/) | Reddit |
 
-## 🛸 Ruspolitikk
+## 🛸 Drug Policy
 
-| Stoff | Status | Straff |
-|-------|--------|--------|
-| Cannabis | 🔴 | Opptil 5 år |
-| Kokain | 🔴 | Opptil 7 år |
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Up to 5 years |
+| Cocaine | 🔴 | Up to 7 years |
 
-### 📝 Merknader
-- UK har strenge lover
+### 📝 Notes
+- UK has **strict laws**
 - Class A/B/C system
 
-*⚠️ Vær oppmerksom: Reglene kan endres.*
+*⚠️ Note: Rules can change.*
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com, March 2026*
