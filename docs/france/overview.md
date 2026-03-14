@@ -1,11 +1,32 @@
 ---
-title: 🇫🇷 Frankrike
+title: 🇫🇷 Frankrike - Euro Lavish
 description: Komplett levekostnad-guide for Frankrike
 ---
 
 # 🇫🇷 Frankrike
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-5.0%2C41.0%2C10.0%2C51.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-5.0%2C41.0%2C10.0%2C51.0\&layer=mapnik"></iframe>
+
+## 📊 Levekostnader
+
+| Kategori | Pris | 
+|----------|------|
+| Leie (sentrum) | 1,800€ |
+| Måltid  | 18€ |
+| Øl (0.5L) | 7€ |
+| Cappuccino | 4€ |
+| Transport | 2.10€ |
+| Kino | 12€ |
+
+## 🏙️ Byer (Billig → Dyr)
+
+| # | By | Leie/mnd | Merknad |
+|---|-----|----------|---------|
+| 1 | [Nantes](byer/nantes.md) | 900€ | |
+| 2 | [Lyon](byer/lyon.md) | 1,000€ | |
+| 3 | [Toulouse](byer/toulouse.md) | 950€ | |
+| 4 | [Marseille](byer/marseille.md) | 1,000€ | |
+| 5 | [Paris](byer/paris.md) | 1,800€ | Hovedstad |
 
 ## 🔗 Nyttige Lenker
 
@@ -14,36 +35,12 @@ description: Komplett levekostnad-guide for Frankrike
 |-------|-------------|
 | [Seloger](https://www.seloger.com) | 🔴 Største |
 | [PAP](https://www.pap.fr) | Bolig |
-| [Locservice](https://www.locservice.fr) | Leie |
 
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Leboncoin](https://www.leboncoin.fr) | 🟡 Største |
-| [Vinted](https://www.vinted.fr) | Klær |
-
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed France](https://www.indeed.fr) | Jobbsøk |
-| [LinkedIn France](https://www.linkedin.com) | Profesjonelt |
-| [Apec](https://www.apec.fr) | For nyutdannede |
-
-### 🎮 Lokale Fellesskap
+### 🎮 Fellesskap
 | Lenke | Beskrivelse |
 |-------|-------------|
 | [r/France](https://www.reddit.com/r/france/) | 🇺 Reddit |
 | [r/paris](https://www.reddit.com/r/paris/) | Reddit |
-
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Météo France](https://www.meteofrance.com) | 🌤️ Vær |
-| [France.fr](https://www.france.fr) | Turisme |
-
----
-
-*Data: Numbeo.com, Mars 2026*
 
 ## 🛸 Ruspolitikk
 
@@ -52,8 +49,11 @@ description: Komplett levekostnad-guide for Frankrike
 | Cannabis | 🔴 | Opptil 1 år + bøter |
 
 ### 📝 Merknader
-- Frankrike har **strenge lover**
+- Frankrike har strenge lover
 - Bruk = opptil 1 år fengsel
-- 2024: diskusjon om legalisering
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+---
+
+*Data: Numbeo.com, Mars 2026*

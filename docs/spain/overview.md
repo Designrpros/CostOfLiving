@@ -1,11 +1,33 @@
 ---
-title: 🇪🇸 Spania
+title: 🇪🇸 Spania - Euro Lavish
 description: Komplett levekostnad-guide for Spania
 ---
 
 # 🇪🇸 Spania
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-9.0%2C36.0%2C4.0%2C44.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-9.0%2C36.0%2C4.0%2C44.0\&layer=mapnik"></iframe>
+
+## 📊 Levekostnader
+
+| Kategori | Pris | 
+|----------|------|
+| Leie (sentrum) | 1,200€ |
+| Måltid  | 15€ |
+| Øl (0.5L) | 3€ |
+| Cappuccino | 2.50€ |
+| Transport | 1.80€ |
+| Kino | 9€ |
+
+## 🏙️ Byer (Billig → Dyr)
+
+| # | By | Leie/mnd | Merknad |
+|---|-----|----------|---------|
+| 1 | [Zaragoza](byer/zaragoza.md) | 700€ | |
+| 2 | [Granada](byer/granada.md) | 750€ | |
+| 3 | [Malaga](byer/malaga.md) | 850€ | |
+| 4 | [Valencia](byer/valencia.md) | 900€ | |
+| 5 | [Barcelona](byer/barcelona.md) | 1,400€ | Turisme |
+| 6 | [Madrid](byer/madrid.md) | 1,500€ | Hovedstad |
 
 ## 🔗 Nyttige Lenker
 
@@ -14,36 +36,17 @@ description: Komplett levekostnad-guide for Spania
 |-------|-------------|
 | [Idealista](https://www.idealista.com) | 🔴 Største |
 | [Fotocasa](https://www.fotocasa.es) | Bolig |
-| [Habitaclia](https://www.habitaclia.com) | Eiendom |
 
-### 🛒 Kjøp & Salg (Brukt)
+### 🛒 Kjøp & Salg
 | Lenke | Beskrivelse |
 |-------|-------------|
 | [Wallapop](https://www.wallapop.com) | 🟡 Største |
-| [Milanuncios](https://www.milanuncios.com) | Markedsplass |
 
-### 💼 Jobb & Karriere
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [InfoJobs](https://www.infojobs.net) | Jobbsøk |
-| [LinkedIn Spain](https://www.linkedin.com) | Profesjonelt |
-
-### 🎮 Lokale Fellesskap
+### 🎮 Fellesskap
 | Lenke | Beskrivelse |
 |-------|-------------|
 | [r/spain](https://www.reddit.com/r/spain/) | 🇺 Reddit |
 | [r/barcelona](https://www.reddit.com/r/barcelona/) | Reddit |
-| [Facebook: España](https://www.facebook.com/groups/) | Facebook |
-
-### 🌍 Generelt
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [AEMET](https://www.aemet.es) | 🌤️ Vær |
-| [Spain.info](https://www.spain.info) | Turisme |
-
----
-
-*Data: Numbeo.com, Mars 2026*
 
 ## 🛸 Ruspolitikk
 
@@ -53,9 +56,12 @@ description: Komplett levekostnad-guide for Spania
 | Cannabis (offentlig) | 🟡 | Bøter |
 
 ### 📝 Merknader
-- Spania tillater **privat dyrking og bruk**
+- Spania tillater privat dyrking og bruk
 - Offentlig bruk = bøter
 - Catalonia har egne regler
-- Cannabis clubs i mange byer
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+---
+
+*Data: Numbeo.com, Mars 2026*

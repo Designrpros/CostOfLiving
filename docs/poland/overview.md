@@ -1,11 +1,35 @@
 ---
-title: 🇵🇱 Polen
+title: 🇵🇱 Polen - Euro Lavish
 description: Komplett levekostnad-guide for Polen
 ---
 
 # 🇵🇱 Polen
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.0%2C49.0%2C24.0%2C55.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.0%2C49.0%2C24.0%2C55.0\&layer=mapnik"></iframe>
+
+## 📊 Levekostnader
+
+| Kategori | Pris | PLN |
+|----------|------|-----|
+| Leie (sentrum) | 750€ | ~3,300 zł |
+| Måltid  | 10€ | ~44 zł |
+| Øl (0.5L) | 3€ | ~13 zł |
+| Cappuccino | 3€ | ~13 zł |
+| Transport | 1€ | ~4 zł |
+| Kino | 7€ | ~30 zł |
+
+## 🏙️ Byer (Billig → Dyr)
+
+| # | By | Leie/mnd | Merknad |
+|---|-----|----------|---------|
+| 1 | [Lublin](byer/lublin.md) | 2,000 zł | |
+| 2 | [Bialystok](byer/bialystok.md) | 2,200 zł | |
+| 3 | [Katowice](byer/katowice.md) | 2,500 zł | |
+| 4 | [Gdansk](byer/gdansk.md) | 3,000 zł | |
+| 5 | [Wroclaw](byer/wroclaw.md) | 3,200 zł | |
+| 6 | [Poznan](byer/poznan.md) | 3,300 zł | |
+| 7 | [Krakow](byer/krakow.md) | 3,500 zł | |
+| 8 | [Warszawa](byer/warsaw.md) | 4,200 zł | Hovedstad |
 
 ## 🔗 Nyttige Lenker
 
@@ -14,7 +38,6 @@ description: Komplett levekostnad-guide for Polen
 |-------|-------------|
 | [OLX](https://www.olx.pl) | 🔴 Største |
 | [Otodom](https://www.otodom.pl) | Bolig |
-| [Morizon](https://www.morizon.pl) | Eiendom |
 
 ### 🛒 Kjøp & Salg (Brukt)
 | Lenke | Beskrivelse |
@@ -41,10 +64,6 @@ description: Komplett levekostnad-guide for Polen
 | [IMGW](https://www.imgw.pl) | 🌤️ Vær |
 | [Poland Tourism](https://www.poland.travel) | Turisme |
 
----
-
-*Data: Numbeo.com, Mars 2026*
-
 ## 🛸 Ruspolitikk
 
 | Stoff | Status | Straff |
@@ -57,3 +76,7 @@ description: Komplett levekostnad-guide for Polen
 - Noe debatt om legalisering
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+---
+
+*Data: Numbeo.com, Mars 2026*
