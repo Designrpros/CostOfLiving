@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Leipzig - Tyskland
-description: Levekostnader i Leipzig
+title: 🏙️ Leipzig - Germany
+description: Cost of Living in Leipzig
 ---
 
 # 🏙️ Leipzig
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.3%2C51.2%2C12.6%2C51.5&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.3%2C51.3%2C12.6%2C51.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 700€ |
-| Måltid  | 12€ |
-| Øl (0.5L) | 3.50€ |
-| Cappuccino | 3.50€ |
-| Transport | 2.80€ |
-| Kino | 10€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 750€ | ~750€ |
+| Meal | 10€ | ~10€ |
+| Beer (0.5L) | 3€ | ~3€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 2.50€ | ~2.50€ |
+| Cinema | 9€ | ~9€ |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/de/leipzig.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/leipzig) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Tyskland overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Leipzig) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Leipzig--Germany) | Vacation Rentals |
 
----
+## ← Back
+[Back to Germany overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

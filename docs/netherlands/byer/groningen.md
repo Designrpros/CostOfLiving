@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Groningen - Nederland
-description: Levekostnader i Groningen
+title: 🏙️ Groningen - Netherlands
+description: Cost of Living in Groningen
 ---
 
 # 🏙️ Groningen
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5%2C53.2%2C6.8%2C53.5&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5%2C53.2%2C6.9%2C53.4&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,100€ |
-| Måltid  | 14€ |
-| Øl (0.5L) | 5€ |
-| Cappuccino | 3.50€ |
-| Transport | 2.60€ |
-| Kino | 11€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,000€ | ~1,000€ |
+| Meal | 13€ | ~13€ |
+| Beer (0.5L) | 3.50€ | ~3.50€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 3€ | ~3€ |
+| Cinema | 10€ | ~10€ |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/nl/groningen.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/groningen) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Nederland overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Groningen) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Groningen--Netherlands) | Vacation Rentals |
 
----
+## ← Back
+[Back to Netherlands overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

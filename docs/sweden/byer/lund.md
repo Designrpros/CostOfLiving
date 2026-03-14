@@ -1,32 +1,29 @@
 ---
-title: 🏙️ Lund - Sverige
-description: Levekostnader i Lund
+title: 🏙️ Lund - Sweden
+description: Cost of Living in Lund
 ---
 
 # 🏙️ Lund
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.1%2C55.6%2C13.4%2C55.9&layer=mapnik"></iframe>
+## 📊 Cost of Living
 
-## 📊 Levekostnader
+| Category | Price | SEK |
+|----------|-------|-----|
+| Rent (center) | 9,000 kr | ~780€ |
+| Meal | 12€ | ~132 kr |
+| Beer (0.5L) | 5.50€ | ~61 kr |
+| Cappuccino | 3.50€ | ~39 kr |
+| Transport | 3€ | ~33 kr |
+| Cinema | 11€ | ~121 kr |
 
-| Kategori | Pris | SEK |
-|----------|------|-----|
-| Leie (sentrum) | 1,100€ | ~12,650 kr |
-| Måltid  | 14€ | ~161 kr |
-| Øl (0.5L) | 6€ | ~69 kr |
-| Cappuccino | 4€ | ~46 kr |
-| Transport | 4.50€ | ~52 kr |
-| Kino | 13€ | ~149 kr |
+## 🏨 Hotels & Airbnb
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/se/lund.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/lund) | 🟡 Leie |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Lund) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Lund--Sweden) | Vacation Rentals |
 
-## ← Tilbake
-[Tilbake til Sverige overview](../overview.md)
+## ← Back
+[Back to Sweden overview](../overview.md)
 
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

@@ -1,37 +1,29 @@
 ---
-title: 🏙️ Genève - Sveits
-description: Levekostnader i Genève
+title: 🏙️ Geneva - Switzerland
+description: Cost of Living in Geneva
 ---
 
-# 🏙️ Genève
+# 🏙️ Geneva
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.1%2C46.1%2C6.4%2C46.4&layer=mapnik"></iframe>
+## 📊 Cost of Living
 
-## 📊 Levekostnader
+| Category | Price | CHF |
+|----------|-------|-----|
+| Rent (center) | 2,500 CHF | ~2,500€ |
+| Meal | 25€ | ~25 CHF |
+| Beer (0.5L) | 7€ | ~7 CHF |
+| Cappuccino | 5.50€ | ~5.50 CHF |
+| Transport | 4.50€ | ~4.50 CHF |
+| Cinema | 20€ | ~20 CHF |
 
-| Kategori | Pris | CHF |
-|----------|------|-----|
-| Leie (sentrum) | 2,800€ | ~2,700 CHF |
-| Måltid  | 35€ | ~33 CHF |
-| Øl (0.5L) | 9€ | ~8.50 CHF |
-| Cappuccino | 6.50€ | ~6 CHF |
-| Transport | 4€ | ~3.80 CHF |
-| Kino | 22€ | ~21 CHF |
+## 🏨 Hotels & Airbnb
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Homegate](https://www.homegate.ch) | 🔴 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Geneva) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Geneva--Switzerland) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/ch/geneva.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/geneva) | 🟡 Leie |
+## ← Back
+[Back to Switzerland overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Sveits overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

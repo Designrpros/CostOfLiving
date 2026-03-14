@@ -1,33 +1,31 @@
 ---
-title: 🏙️ München - Tyskland
-description: Levekostnader i München
+title: 🏙️ Munich - Germany
+description: Cost of Living in Munich
 ---
 
-# 🏙️ München
+# 🏙️ Munich
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.4%2C48.1%2C11.7%2C48.3&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.4%2C48.1%2C11.8%2C48.3&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 2,000€ |
-| Måltid  | 18€ |
-| Øl (0.5L) | 5€ |
-| Cappuccino | 4.50€ |
-| Transport | 3.50€ |
-| Kino | 14€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,800€ | ~1,800€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 4€ | ~4€ |
+| Cappuccino | 4€ | ~4€ |
+| Transport | 3€ | ~3€ |
+| Cinema | 12€ | ~12€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [ImmobilienScout24](https://www.immobilienscout24.de) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed München](https://www.indeed.de/l/muenchen) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Munich) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Munich--Germany) | Vacation Rentals |
 
----
+## ← Back
+[Back to Germany overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

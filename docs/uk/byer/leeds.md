@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Leeds - Storbritannia
-description: Levekostnader i Leeds
+title: 🏙️ Leeds - UK
+description: Cost of Living in Leeds
 ---
 
 # 🏙️ Leeds
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.6%2C53.7%2C-1.3%2C54.0&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.6%2C53.7%2C-1.2%2C53.9&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | GBP |
-|----------|------|-----|
-| Leie (sentrum) | 1,050£ | ~€1,220 |
-| Måltid  | 14£ | ~€16 |
-| Øl (0.5L) | 5£ | ~€6 |
-| Cappuccino | 3.50£ | ~€4 |
-| Transport | 2.60£ | ~€3 |
-| Kino | 11£ | ~€13 |
+| Category | Price | GBP |
+|----------|-------|-----|
+| Rent (center) | 800£ | ~915€ |
+| Meal | 13€ | ~11£ |
+| Beer (0.5L) | 5£ | ~5.50€ |
+| Cappuccino | 3.50£ | ~3.80€ |
+| Transport | 2.80£ | ~3€ |
+| Cinema | 10£ | ~11€ |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/gb/leeds.html) | 🔴 |
-| [Airbnb](https://www.airbnb.co.uk/leeds) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Storbritannia overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Leeds) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Leeds--UK) | Vacation Rentals |
 
----
+## ← Back
+[Back to UK overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

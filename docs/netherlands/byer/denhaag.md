@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Den Haag - Nederland
-description: Levekostnader i Den Haag
+title: 🏙️ The Hague - Netherlands
+description: Cost of Living in The Hague
 ---
 
-# 🏙️ Den Haag
+# 🏙️ The Hague
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.2%2C52.0%2C4.5%2C52.3&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.2%2C52.0%2C4.6%2C52.2&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,550€ |
-| Måltid  | 16€ |
-| Øl (0.5L) | 5.50€ |
-| Cappuccino | 3.80€ |
-| Transport | 2.80€ |
-| Kino | 12€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,400€ | ~1,400€ |
+| Meal | 14€ | ~14€ |
+| Beer (0.5L) | 4€ | ~4€ |
+| Cappuccino | 3.50€ | ~3.50€ |
+| Transport | 3€ | ~3€ |
+| Cinema | 10€ | ~10€ |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/nl/the-hague.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/the-hague) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Nederland overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=The+Hague) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/The-Hague--Netherlands) | Vacation Rentals |
 
----
+## ← Back
+[Back to Netherlands overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

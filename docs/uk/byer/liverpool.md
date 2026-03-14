@@ -1,32 +1,29 @@
 ---
-title: 🏙️ Liverpool - Storbritannia
-description: Levekostnader i Liverpool
+title: 🏙️ Liverpool - UK
+description: Cost of Living in Liverpool
 ---
 
 # 🏙️ Liverpool
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.0%2C53.3%2C-2.7%2C53.6&layer=mapnik"></iframe>
+## 📊 Cost of Living
 
-## 📊 Levekostnader
+| Category | Price | GBP |
+|----------|-------|-----|
+| Rent (center) | 750£ | ~860€ |
+| Meal | 12€ | ~10£ |
+| Beer (0.5L) | 5£ | ~5.50€ |
+| Cappuccino | 3.30€ | ~2.90£ |
+| Transport | 2.60€ | ~2.30£ |
+| Cinema | 9€ | ~8£ |
 
-| Kategori | Pris | GBP |
-|----------|------|-----|
-| Leie (sentrum) | 950£ | ~€1,100 |
-| Måltid  | 13£ | ~€15 |
-| Øl (0.5L) | 5£ | ~€6 |
-| Cappuccino | 3.50£ | ~€4 |
-| Transport | 2.40£ | ~€2.80 |
-| Kino | 10£ | ~€12 |
+## 🏨 Hotels & Airbnb
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/gb/liverpool.html) | 🔴 |
-| [Airbnb](https://www.airbnb.co.uk/liverpool) | 🟡 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Liverpool) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Liverpool--UK) | Vacation Rentals |
 
-## ← Tilbake
-[Tilbake til Storbritannia overview](../overview.md)
+## ← Back
+[Back to UK overview](../overview.md)
 
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

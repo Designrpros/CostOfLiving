@@ -1,32 +1,29 @@
 ---
-title: 🏙️ Bern - Sveits
-description: Levekostnader i Bern
+title: 🏙️ Bern - Switzerland
+description: Cost of Living in Bern
 ---
 
 # 🏙️ Bern
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.4%2C46.9%2C7.7%2C47.2&layer=mapnik"></iframe>
+## 📊 Cost of Living
 
-## 📊 Levekostnader
+| Category | Price | CHF |
+|----------|-------|-----|
+| Rent (center) | 1,800 CHF | ~1,800€ |
+| Meal | 22€ | ~22 CHF |
+| Beer (0.5L) | 6€ | ~6 CHF |
+| Cappuccino | 5€ | ~5 CHF |
+| Transport | 4€ | ~4 CHF |
+| Cinema | 18€ | ~18 CHF |
 
-| Kategori | Pris | CHF |
-|----------|------|-----|
-| Leie (sentrum) | 2,000€ | ~1,920 CHF |
-| Måltid  | 28€ | ~27 CHF |
-| Øl (0.5L) | 7.50€ | ~7 CHF |
-| Cappuccino | 5.50€ | ~5 CHF |
-| Transport | 4.20€ | ~4 CHF |
-| Kino | 18€ | ~17 CHF |
+## 🏨 Hotels & Airbnb
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/ch/bern.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/bern) | 🟡 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Bern) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Bern--Switzerland) | Vacation Rentals |
 
-## ← Tilbake
-[Tilbake til Sveits overview](../overview.md)
+## ← Back
+[Back to Switzerland overview](../overview.md)
 
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

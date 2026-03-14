@@ -1,42 +1,29 @@
 ---
-title: 🏙️ Roskilde - Danmark
-description: Levekostnader i Roskilde
+title: 🏙️ Roskilde - Denmark
+description: Cost of Living in Roskilde
 ---
 
 # 🏙️ Roskilde
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.0%2C55.6%2C12.3%2C55.8&layer=mapnik"></iframe>
+## 📊 Cost of Living
 
-## 📊 Levekostnader
-
-| Kategori | Pris | DKK |
-|----------|------|-----|
-| Leie (sentrum) | 1,000€ | ~7,485 kr |
-| Måltid  | 15€ | ~112 kr |
-| Øl (0.5L) | 6€ | ~45 kr |
+| Category | Price | DKK |
+|----------|-------|-----|
+| Rent (center) | 10,000 kr | ~1,370€ |
+| Meal | 15€ | ~112 kr |
+| Beer (0.5L) | 6€ | ~45 kr |
 | Cappuccino | 4€ | ~30 kr |
 | Transport | 3€ | ~22 kr |
-| Kino | 11€ | ~82 kr |
+| Cinema | 11€ | ~82 kr |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [BoligPortal](https://www.boligportal.dk) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/Denmark](https://www.reddit.com/r/denmark/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Roskilde) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Roskilde--Denmark) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/dk/roskilde.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/roskilde) | 🟡 Leie |
+## ← Back
+[Back to Denmark overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Danmark overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

@@ -1,32 +1,29 @@
 ---
-title: 🏙️ Jönköping - Sverige
-description: Levekostnader i Jönköping
+title: 🏙️ Jönköping - Sweden
+description: Cost of Living in Jönköping
 ---
 
 # 🏙️ Jönköping
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.1%2C57.7%2C14.4%2C58.0&layer=mapnik"></iframe>
+## 📊 Cost of Living
 
-## 📊 Levekostnader
+| Category | Price | SEK |
+|----------|-------|-----|
+| Rent (center) | 7,500 kr | ~650€ |
+| Meal | 11€ | ~121 kr |
+| Beer (0.5L) | 5€ | ~55 kr |
+| Cappuccino | 3€ | ~33 kr |
+| Transport | 3€ | ~33 kr |
+| Cinema | 10€ | ~110 kr |
 
-| Kategori | Pris | SEK |
-|----------|------|-----|
-| Leie (sentrum) | 900€ | ~10,350 kr |
-| Måltid  | 12€ | ~138 kr |
-| Øl (0.5L) | 5.50€ | ~63 kr |
-| Cappuccino | 3.50€ | ~40 kr |
-| Transport | 3.50€ | ~40 kr |
-| Kino | 11€ | ~126 kr |
+## 🏨 Hotels & Airbnb
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/se/jonkoping.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/jonkoping) | 🟡 Leie |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Jonkoping) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Jonkoping--Sweden) | Vacation Rentals |
 
-## ← Tilbake
-[Tilbake til Sverige overview](../overview.md)
+## ← Back
+[Back to Sweden overview](../overview.md)
 
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

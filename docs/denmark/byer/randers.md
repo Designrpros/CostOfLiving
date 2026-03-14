@@ -1,32 +1,29 @@
 ---
-title: 🏙️ Randers - Danmark
-description: Levekostnader i Randers
+title: 🏙️ Randers - Denmark
+description: Cost of Living in Randers
 ---
 
 # 🏙️ Randers
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.9%2C56.4%2C10.2%2C56.7&layer=mapnik"></iframe>
+## 📊 Cost of Living
 
-## 📊 Levekostnader
-
-| Kategori | Pris | DKK |
-|----------|------|-----|
-| Leie (sentrum) | 780€ | ~5,838 kr |
-| Måltid  | 13€ | ~97 kr |
-| Øl (0.5L) | 5€ | ~37 kr |
+| Category | Price | DKK |
+|----------|-------|-----|
+| Rent (center) | 6,200 kr | ~850€ |
+| Meal | 13€ | ~97 kr |
+| Beer (0.5L) | 5€ | ~37 kr |
 | Cappuccino | 3.50€ | ~26 kr |
-| Transport | 2.80€ | ~21 kr |
-| Kino | 10€ | ~75 kr |
+| Transport | 2.50€ | ~19 kr |
+| Cinema | 9€ | ~67 kr |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/dk/randers.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/randers) | 🟡 Leie |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Danmark overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Randers) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Randers--Denmark) | Vacation Rentals |
 
----
+## ← Back
+[Back to Denmark overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*
