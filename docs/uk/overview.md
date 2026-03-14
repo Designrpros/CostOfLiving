@@ -22,12 +22,11 @@ description: Komplett levekostnad-guide for Storbritannia
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | [Newcastle](byer/newcastle.md) | 1,000£ | |
-| 2 | [Leeds](byer/leeds.md) | 1,050£ | |
-| 3 | [Sheffield](byer/sheffield.md) | 950£ | |
-| 4 | [Birmingham](byer/birmingham.md) | 1,200£ | |
-| 5 | [Manchester](byer/manchester.md) | 1,400£ | |
-| 6 | [London](byer/london.md) | 2,500£ | Hovedstad |
+| 1 | [Leeds](byer/leeds.md) | 1,050£ | |
+| 2 | [Liverpool](byer/liverpool.md) | 950£ | |
+| 3 | [Birmingham](byer/birmingham.md) | 1,200£ | |
+| 4 | [Manchester](byer/manchester.md) | 1,400£ | |
+| 5 | [London](byer/london.md) | 2,500£ | Hovedstad |
 
 ## 🔗 Nyttige Lenker
 
