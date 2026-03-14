@@ -11,52 +11,43 @@ description: Complete cost of living guide for Sweden
 
 | Category | Price | SEK |
 |----------|-------|-----|
-| Rent (city center) | 1,404€ | ~16,150 kr |
-| Meal | 14€ | ~161 kr |
-| Beer (0.5L) | 6.50€ | ~75 kr |
-| Cappuccino | 4€ | ~46 kr |
-| Transport | 4.50€ | ~52 kr |
-| Cinema | 14€ | ~161 kr |
+| Rent (city center) | 1,404€ | ~15,500 kr |
+| Meal | 15€ | ~165 kr |
+| Beer (0.5L) | 7€ | ~77 kr |
+| Cappuccino | 4.50€ | ~50 kr |
+| Transport | 4€ | ~44 kr |
+| Cinema | 14€ | ~154 kr |
 
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Västerås | 8,250 kr | |
+| 2 | Örebro | 8,250 kr | |
+| 3 | Linköping | 8,800 kr | |
+| 4 | Uppsala | 9,350 kr | University |
+| 5 | Malmö | 9,900 kr | |
+| 6 | Göteborg | 12,100 kr | 2nd city |
+| 7 | Stockholm | 15,500 kr | Capital |
+
+## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Booli](https://www.booli.se) | 🔴 Search |
-| [Hemnet](https://www.hemnet.se) | 🔴 Biggest |
+| [Blocket](https://www.blocket.se) | 🔴 Biggest housing |
+| [Samtrygg](https://www.samtrygg.se) | Rentals |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [Arbetsförmedlingen](https://www.arbetsformedlingen.se) | Public |
-| [LinkedIn Sweden](https://www.linkedin.com) | Professional |
-
-### 🎮 Communities
-| Link | Description |
-|------|-------------|
-| [r/Sweden](https://www.reddit.com/r/sweden/) | 🇺 Reddit |
-| [r/Stockholm](https://www.reddit.com/r/stockholm/) | Reddit |
-
-### 🌍 General
-| Link | Description |
-|------|-------------|
-| [SMHI](https://www.smhi.se) | 🌤️ Weather |
-| [Sweden.se](https://www.sweden.se) | Tourism |
+| [Arbetsförmedlingen](https://www.arbetsformedlingen.se) | Public job search |
+| [LinkedIn](https://www.linkedin.com) | Professional network |
 
 ## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis | 🔴 | Up to 6 years |
-| All drugs | 🔴 | Strict |
-
-### 📝 Notes
-- Sweden has **Europe's strictest** drug policy
-- "Criminalization" - focus on deterrence
-- Small amounts = prison
-
-*⚠️ Note: Rules can change.*
-
----
+| Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*

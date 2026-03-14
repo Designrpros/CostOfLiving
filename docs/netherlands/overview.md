@@ -9,47 +9,50 @@ description: Complete cost of living guide for Netherlands
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,800€ |
-| Meal | 18€ |
-| Beer (0.5L) | 6€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Cinema | 13€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 2,260€ | ~2,260€ |
+| Meal | 18€ | ~18€ |
+| Beer (0.5L) | 5€ | ~5€ |
+| Cappuccino | 4€ | ~4€ |
+| Transport | 3.50€ | ~3.50€ |
+| Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Groningen | 1,000€ | |
+| 2 | Eindhoven | 1,200€ | |
+| 3 | Utrecht | 1,350€ | |
+| 4 | The Hague | 1,400€ | |
+| 5 | Rotterdam | 1,500€ | |
+| 6 | Amsterdam | 2,260€ | Capital |
+
+## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Pararius](https://www.pararius.com) | 🔴 |
-| [Funda](https://www.funda.nl) | Housing |
+| [Pararius](https://www.pararius.com) | 🔴 Rental housing |
+| [Funda](https://www.funda.nl) | Buy/rent |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [Indeed NL](https://www.indeed.nl) | Job search |
+| [Indeed Netherlands](https://www.indeed.nl) | 🔴 Job search |
+| [LinkedIn](https://www.linkedin.com) | Professional |
 
-### 🎮 Communities
+### 🚌 Transport
 | Link | Description |
 |------|-------------|
-| [r/Netherlands](https://www.reddit.com/r/Netherlands/) | 🇺 Reddit |
-| [r/Amsterdam](https://www.reddit.com/r/Amsterdam/) | Reddit |
+| [NS](https://www.ns.nl) | 🔵 Trains |
+| [GVB](https://www.gvb.nl) | Amsterdam |
 
 ## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis | 🟢 | Tolerated |
-| Coffeeshops | 🟢 | Legal |
-
-### 📝 Notes
-- Netherlands is **tolerant** with cannabis
-- Coffeeshops: purchase and use allowed
-- "gedoogbeleid" - tolerance policy
-
-*⚠️ Note: Rules can change.*
-
----
+| Cannabis | 🟢 | Legalized |
 
 *Data: Numbeo.com, March 2026*

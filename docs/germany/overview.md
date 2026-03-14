@@ -9,70 +9,50 @@ description: Complete cost of living guide for Germany
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,270€ |
-| Meal | 15€ |
-| Beer (0.5L) | 4.50€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Cinema | 12€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 1,270€ | ~1,270€ |
+| Meal | 12€ | ~12€ |
+| Beer (0.5L) | 3.50€ | ~3.50€ |
+| Cappuccino | 3.50€ | ~3.50€ |
+| Transport | 2.90€ | ~2.90€ |
+| Cinema | 10€ | ~10€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Leipzig | 750€ | |
+| 2 | Stuttgart | 1,050€ | |
+| 3 | Cologne | 1,100€ | |
+| 4 | Frankfurt | 1,400€ | Finance |
+| 5 | Hamburg | 1,300€ | Port |
+| 6 | Munich | 1,800€ | Most expensive |
+
+## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [ImmobilienScout24](https://www.immobilienscout24.de) | 🔴 Biggest |
+| [ImmobilienScout24](https://www.immobilienscout24.de) | 🔴 Biggest platform |
 | [WG-Gesucht](https://www.wg-gesucht.de) | Shared flat |
 
 ### 💼 Jobs
-### 🛒 Shopping (Used)
-| Link | Description |
-|-------|-------------|
-| [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de) | 🟡 Biggest in Germany |
-| [Facebook Marketplace](https://www.facebook.com/marketplace) | Facebook |
-| [Kleider](https://www.kleider.ch) | Used clothes |
-
-### 🚌 Transport
-| Link | Description |
-|-------|-------------|
-| [Deutsche Bahn](https://www.bahn.de) | 🔵 Trains |
-| [BVG](https://www.bvg.de) | Berlin transport |
-| [MVV](https://www.mvv-muenchen.de) | Munich transport |
-| [FlixBus](https://www.flixbus.de) | Bus |
-
 | Link | Description |
 |------|-------------|
 | [Indeed Germany](https://www.indeed.de) | Job search |
 | [XING](https://www.xing.com) | German LinkedIn |
 
-### 🎮 Communities
+### 🚌 Transport
 | Link | Description |
 |------|-------------|
-| [r/germany](https://www.reddit.com/r/germany/) | 🇺 Reddit |
-| [r/Berlin](https://www.reddit.com/r/berlin/) | Reddit Berlin |
-
-### 🌍 General
-| Link | Description |
-|------|-------------|
-| [Wetter.com](https://www.wetter.com) | 🌤️ Weather |
-| [Germany Travel](https://www.germany.travel) | Tourism |
+| [Deutsche Bahn](https://www.bahn.de) | 🔵 Trains |
+| [FlixBus](https://www.flixbus.de) | Bus |
 
 ## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis | 🟡 Legalized (2024) | Regulated |
-| Cocaine | 🔴 Illegal | Prison |
-| MDMA | 🔴 Illegal | Prison |
-
-### 📝 Notes
-- Germany legalized cannabis for adults in **March 2024**
-- Maximum 25g on person, 50g at home
-- Medical cannabis allowed
-
-*⚠️ Note: Rules can change.*
-
----
+| Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*

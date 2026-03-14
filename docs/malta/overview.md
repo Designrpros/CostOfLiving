@@ -1,6 +1,6 @@
 ---
 title: 🇲🇹 Malta
-description: Cost of Living in Malta
+description: Complete cost of living guide for Malta
 ---
 
 # 🇲🇹 Malta
@@ -17,6 +17,32 @@ description: Cost of Living in Malta
 | Cappuccino | 3€ | ~3€ |
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Valletta | 1,100€ | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [MaltaHouse](https://www.maltahouse Malta) | Housing |
+| [Bay.com](https://www.bay.com) | Real estate |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Malta](https://www.indeed.mt) | Job search |
+| [Jobsinmalta](https://www.jobsinmalta.com) | Jobs |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [Malta Public Transport](https://www.transportmalta.com) | Bus |
+| [Tallinja](https://www.tallinja.com) | App |
 
 ## 🛸 Drug Policy
 

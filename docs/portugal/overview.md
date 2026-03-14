@@ -1,6 +1,6 @@
 ---
 title: 🇵🇹 Portugal
-description: Cost of Living in Portugal
+description: Complete cost of living guide for Portugal
 ---
 
 # 🇵🇹 Portugal
@@ -17,6 +17,35 @@ description: Cost of Living in Portugal
 | Cappuccino | 2.50€ | ~2.50€ |
 | Transport | 1.80€ | ~1.80€ |
 | Cinema | 8€ | ~8€ |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Faro | 800€ | |
+| 2 | Coimbra | 850€ | University |
+| 3 | Porto | 1,000€ | 2nd city |
+| 4 | Lisbon | 1,400€ | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Idealista](https://www.idealista.pt) | 🔴 Biggest housing |
+| [Imovirtual](https://www.imovirtual.com) | Real estate |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Portugal](https://www.indeed.pt) | Job search |
+| [Net-Empregos](https://www.net-empregos.com) | Jobs |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [CP](https://www.cp.pt) | 🔵 Trains |
+| [Carris](https://www.carris.pt) | Lisbon bus |
 
 ## 🛸 Drug Policy
 

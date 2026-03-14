@@ -1,6 +1,6 @@
 ---
 title: 🇬🇷 Greece
-description: Cost of Living in Greece
+description: Complete cost of living guide for Greece
 ---
 
 # 🇬🇷 Greece
@@ -17,6 +17,35 @@ description: Cost of Living in Greece
 | Cappuccino | 3.50€ | ~3.50€ |
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Heraklion | 450€ | Crete |
+| 2 | Chania | 500€ | Crete |
+| 3 | Thessaloniki | 550€ | 2nd city |
+| 4 | Athens | 650€ | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Spyroska](https://www.spherus.com) | Housing |
+| [Airbnb](https://www.airbnb.com) | Vacation rentals |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Greece](https://www.indeed.gr) | Job search |
+| [LinkedIn](https://www.linkedin.com) | Professional |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [OSE](https://www.ose.gr) | 🔵 Trains |
+| [Athens Transport](https://www.athenstransport.com) | Metro/bus |
 
 ## 🛸 Drug Policy
 

@@ -1,6 +1,6 @@
 ---
 title: 🇵🇱 Poland
-description: Cost of Living in Poland
+description: Complete cost of living guide for Poland
 ---
 
 # 🇵🇱 Poland
@@ -17,6 +17,34 @@ description: Cost of Living in Poland
 | Cappuccino | 3.50€ | ~15 zł |
 | Transport | 1.10€ | ~4.70 zł |
 | Cinema | 7€ | ~30 zł |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Wroclaw | 3,225 zł | |
+| 2 | Krakow | 3,440 zł | |
+| 3 | Warsaw | 4,300 zł | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [OLX](https://www.olx.pl/nieruchomosci) | 🔴 Biggest housing |
+| [Otodom](https://www.otodom.pl) | Real estate |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Poland](https://www.indeed.pl) | 🔴 Job search |
+| [Pracuj.pl](https://www.pracuj.pl) | Jobs |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [PKP](https://www.pkp.pl) | 🔵 Trains |
+| [PKS](https://www.pks.pl) | Buses |
 
 ## 🛸 Drug Policy
 

@@ -1,6 +1,6 @@
 ---
 title: 🇧🇬 Bulgaria
-description: Cost of Living in Bulgaria
+description: Complete cost of living guide for Bulgaria
 ---
 
 # 🇧🇬 Bulgaria
@@ -17,6 +17,32 @@ description: Cost of Living in Bulgaria
 | Cappuccino | 2€ | ~2€ |
 | Transport | 0.80€ | ~0.80€ |
 | Cinema | 5€ | ~5€ |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Sofia | 669€ | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Imoti.net](https://www.imoti.net) | 🔴 Biggest housing |
+| [Housing.bg](https://www.housing.bg) | Real estate |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Bulgaria](https://www.indeed.bg) | Job search |
+| [Jobticker](https://www.jobticker.bg) | Jobs |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [BDZ](https://www.bdz.bg) | 🔵 Trains |
+| [Sofia Transport](https://www.sofiatraffic.bg) | Metro |
 
 ## 🛸 Drug Policy
 

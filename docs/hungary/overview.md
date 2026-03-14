@@ -1,6 +1,6 @@
 ---
 title: 🇭🇺 Hungary
-description: Cost of Living in Hungary
+description: Complete cost of living guide for Hungary
 ---
 
 # 🇭🇺 Hungary
@@ -17,6 +17,33 @@ description: Cost of Living in Hungary
 | Cappuccino | 2.50€ | ~980 Ft |
 | Transport | 1.10€ | ~430 Ft |
 | Cinema | 7€ | ~2,700 Ft |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Debrecen | 196,250 Ft | |
+| 2 | Budapest | 314,000 Ft | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Ingatlan.com](https://www.ingatlan.com) | 🔴 Biggest housing |
+| [Jofogas](https://www.jofogas.hu) | Classifieds |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Hungary](https://www.indeed.hu) | Job search |
+| [Profession](https://www.profession.hu) | Jobs |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [MAV](https://www.mav.hu) | 🔵 Trains |
+| [BKK](https://www.bkk.hu) | Budapest |
 
 ## 🛸 Drug Policy
 

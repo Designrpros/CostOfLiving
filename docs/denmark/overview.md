@@ -1,6 +1,6 @@
 ---
 title: 🇩🇰 Denmark
-description: Cost of Living in Denmark
+description: Complete cost of living guide for Denmark
 ---
 
 # 🇩🇰 Denmark
@@ -17,6 +17,38 @@ description: Cost of Living in Denmark
 | Cappuccino | 5€ | ~37 kr |
 | Transport | 3.40€ | ~25 kr |
 | Cinema | 13€ | ~97 kr |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Esbjerg | 5,952 kr | Port city |
+| 2 | Randers | 6,200 kr | |
+| 3 | Kolding | 6,500 kr | |
+| 4 | Herning | 6,800 kr | |
+| 5 | Odense | 7,068 kr | 2nd city |
+| 6 | Aarhus | 8,928 kr | University |
+| 7 | Copenhagen | 13,200 kr | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [BoligPortal](https://www.boligportal.dk) | 🔴 Biggest rental |
+| [DDL](https://www.ddl.dk) | Housing database |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Jobindex](https://www.jobindex.dk) | 🔴 Biggest job site |
+| [Indeed Denmark](https://www.indeed.dk) | Job search |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [Rejseplanen](https://www.rejseplanen.dk) | 🔵 Public transport |
+| [DSB](https://www.dsb.dk) | Trains |
 
 ## 🛸 Drug Policy
 

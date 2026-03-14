@@ -1,54 +1,59 @@
 ---
 title: 🇬🇧 United Kingdom
-description: Complete cost of living guide for United Kingdom
+description: Complete cost of living guide for UK
 ---
 
 # 🇬🇧 United Kingdom
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.0%2C49.0%2C2.0%2C61.0\&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.0%2C49.0%2C2.0%2C61.0&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 
 | Category | Price | GBP |
 |----------|-------|-----|
-| Rent (city center) | 2,500£ | ~€2,900 |
-| Meal | 20£ | ~€23 |
-| Beer (0.5L) | 7£ | ~€8 |
-| Cappuccino | 4.50£ | ~€5.20 |
-| Transport | 3£ | ~€3.50 |
-| Cinema | 15£ | ~€17 |
+| Rent (city center) | 2,530€ | ~2,200£ |
+| Meal | 20€ | ~17£ |
+| Beer (0.5L) | 7€ | ~6£ |
+| Cappuccino | 4.50€ | ~3.90£ |
+| Transport | 3.50€ | ~3£ |
+| Cinema | 15€ | ~13£ |
 
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Liverpool | 750£ | |
+| 2 | Leeds | 800£ | |
+| 3 | Glasgow | 825£ | |
+| 4 | Birmingham | 955£ | |
+| 5 | Manchester | 1,215£ | |
+| 6 | Edinburgh | 1,129£ | |
+| 7 | London | 2,200£ | Capital |
+
+## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Rightmove](https://www.rightmove.co.uk) | 🔴 Biggest |
-| [Zoopla](https://www.zoopla.co.uk) | Housing |
+| [Rightmove](https://www.rightmove.co.uk) | 🔴 Biggest housing |
+| [Zoopla](https://www.zoopla.co.uk) | Property |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [Indeed UK](https://www.indeed.co.uk) | Job search |
+| [Indeed UK](https://www.indeed.co.uk) | 🔴 Job search |
+| [LinkedIn](https://www.linkedin.com) | Professional |
 
-### 🎮 Communities
+### 🚌 Transport
 | Link | Description |
 |------|-------------|
-| [r/UK](https://www.reddit.com/r/UK/) | 🇺 Reddit |
-| [r/london](https://www.reddit.com/r/london/) | Reddit |
+| [National Rail](https://www.nationalrail.co.uk) | 🔵 Trains |
+| [TfL](https://tfl.gov.uk) | London transport |
 
 ## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis | 🔴 | Up to 5 years |
-| Cocaine | 🔴 | Up to 7 years |
-
-### 📝 Notes
-- UK has **strict laws**
-- Class A/B/C system
-
-*⚠️ Note: Rules can change.*
-
----
+| Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*

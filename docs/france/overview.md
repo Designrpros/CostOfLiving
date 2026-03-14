@@ -9,47 +9,50 @@ description: Complete cost of living guide for France
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,800€ |
-| Meal | 18€ |
-| Beer (0.5L) | 7€ |
-| Cappuccino | 4€ |
-| Transport | 2.10€ |
-| Cinema | 12€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 2,000€ | ~2,000€ |
+| Meal | 18€ | ~18€ |
+| Beer (0.5L) | 7€ | ~7€ |
+| Cappuccino | 4€ | ~4€ |
+| Transport | 2.10€ | ~2.10€ |
+| Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Nantes | 750€ | |
+| 2 | Toulouse | 800€ | |
+| 3 | Marseille | 850€ | |
+| 4 | Lyon | 950€ | 2nd city |
+| 5 | Nice | 1,100€ | |
+| 6 | Paris | 2,000€ | Capital |
+
+## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Seloger](https://www.seloger.com) | 🔴 Biggest |
-| [PAP](https://www.pap.fr) | Housing |
+| [Leboncoin](https://www.leboncoin.fr) | 🔴 Biggest housing |
+| [SeLoger](https://www.seloger.com) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
+| [Pôle Emploi](https://www.pole-emploi.fr) | 🔴 Public job service |
 | [Indeed France](https://www.indeed.fr) | Job search |
-| [Apec](https://www.apec.fr) | Graduate jobs |
 
-### 🎮 Communities
+### 🚌 Transport
 | Link | Description |
 |------|-------------|
-| [r/France](https://www.reddit.com/r/france/) | 🇺 Reddit |
-| [r/paris](https://www.reddit.com/r/paris/) | Reddit |
+| [SNCF](https://www.sncf.com) | 🔵 Trains |
+| [RATP](https://www.ratp.fr) | Paris metro |
 
 ## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis | 🔴 | Up to 1 year + fines |
-
-### 📝 Notes
-- France has **strict laws**
-- Use = up to 1 year prison
-- 2024: discussion about legalization
-
-*⚠️ Note: Rules can change.*
-
----
+| Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*

@@ -9,47 +9,49 @@ description: Complete cost of living guide for Spain
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,200€ |
-| Meal | 15€ |
-| Beer (0.5L) | 3€ |
-| Cappuccino | 2.50€ |
-| Transport | 1.80€ |
-| Cinema | 9€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 1,350€ | ~1,350€ |
+| Meal | 14€ | ~14€ |
+| Beer (0.5L) | 3€ | ~3€ |
+| Cappuccino | 2.50€ | ~2.50€ |
+| Transport | 1.80€ | ~1.80€ |
+| Cinema | 9€ | ~9€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Seville | 800€ | |
+| 2 | Malaga | 850€ | |
+| 3 | Valencia | 950€ | |
+| 4 | Barcelona | 1,400€ | 2nd city |
+| 5 | Madrid | 1,350€ | Capital |
+
+## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Idealista](https://www.idealista.com) | 🔴 Biggest |
-| [Fotocasa](https://www.fotocasa.es) | Housing |
+| [Idealista](https://www.idealista.com) | 🔴 Biggest housing |
+| [Fotocasa](https://www.fotocasa.es) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [InfoJobs](https://www.infojobs.net) | Job search |
+| [Indeed Spain](https://www.indeed.es) | Job search |
+| [InfoJobs](https://www.infojobs.net) | Jobs |
 
-### 🎮 Communities
+### 🚌 Transport
 | Link | Description |
 |------|-------------|
-| [r/spain](https://www.reddit.com/r/spain/) | 🇺 Reddit |
-| [r/Barcelona](https://www.reddit.com/r/barcelona/) | Reddit |
+| [Renfe](https://www.renfe.com) | 🔵 Trains |
+| [EMT Madrid](https://www.emtmadrid.es) | Bus |
 
 ## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis (private) | 🟢 | Decriminalized |
-| Cannabis (public) | 🟡 | Fines |
-
-### 📝 Notes
-- Spain allows **private cultivation and use**
-- Public use = fines
-- Catalonia has own rules
-
-*⚠️ Note: Rules can change.*
-
----
+| Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*

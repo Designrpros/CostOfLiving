@@ -1,6 +1,6 @@
 ---
 title: 🇪🇪 Estonia
-description: Cost of Living in Estonia
+description: Complete cost of living guide for Estonia
 ---
 
 # 🇪🇪 Estonia
@@ -17,6 +17,32 @@ description: Cost of Living in Estonia
 | Cappuccino | 3€ | ~3€ |
 | Transport | 2€ | ~2€ |
 | Cinema | 8€ | ~8€ |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Tallinn | 698€ | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [KV.ee](https://www.kv.ee) | 🔴 Biggest housing |
+| [City24](https://www.city24.ee) | Real estate |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Estonia](https://www.indeed.ee) | Job search |
+| [CV.ee](https://www.cv.ee) | Jobs |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [Elron](https://www.elron.ee) | 🔵 Trains |
+| [Tallinn Transport](https://www.tallinnlv.ee) | Bus/tram |
 
 ## 🛸 Drug Policy
 

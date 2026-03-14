@@ -1,6 +1,6 @@
 ---
 title: 🇮🇸 Iceland
-description: Cost of Living in Iceland
+description: Complete cost of living guide for Iceland
 ---
 
 # 🇮🇸 Iceland
@@ -17,6 +17,33 @@ description: Cost of Living in Iceland
 | Cappuccino | 5€ | ~720 kr |
 | Transport | 4€ | ~580 kr |
 | Cinema | 14€ | ~2,000 kr |
+
+## 🏙️ Cities (Cheapest → Expensive)
+
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | Akureyri | 173,400 kr | North |
+| 2 | Reykjavik | 260,000 kr | Capital |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Fasteignasolur](https://www.fasteignasolur.is) | Housing |
+| [Bunadarbanki](https://www.bunadarbanki.is) | Real estate |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [Indeed Iceland](https://www.indeed.is) | Job search |
+| [Visir](https://www.visir.is) | Jobs |
+
+### 🚌 Transport
+| Link | Description |
+|------|-------------|
+| [Routeyou](https://www.routeyou.com) | Routes |
+| [Stræto](https://www.straeto.is) | Bus |
 
 ## 🛸 Drug Policy
 
