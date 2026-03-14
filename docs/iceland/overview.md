@@ -22,8 +22,10 @@ description: Complete cost of living guide for Iceland
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Akureyri | 173,400 kr | North |
-| 2 | Reykjavik | 260,000 kr | Capital |
+| 1 | [Akureyri](iceland/byer/akureyri/) | 173,400 kr | North |
+| 2 | [Kópavogur](iceland/byer/kopavogur/) | 216,750 kr | |
+| 3 | [Hafnarfjörður](iceland/byer/hoskuldseyri/) | 202,300 kr | |
+| 4 | [Reykjavik](iceland/byer/reykjavik/) | 260,000 kr | Capital |
 
 ## 🔗 Useful Links
 
@@ -31,19 +33,6 @@ description: Complete cost of living guide for Iceland
 | Link | Description |
 |------|-------------|
 | [Fasteignasolur](https://www.fasteignasolur.is) | Housing |
-| [Bunadarbanki](https://www.bunadarbanki.is) | Real estate |
-
-### 💼 Jobs
-| Link | Description |
-|------|-------------|
-| [Indeed Iceland](https://www.indeed.is) | Job search |
-| [Visir](https://www.visir.is) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [Routeyou](https://www.routeyou.com) | Routes |
-| [Stræto](https://www.straeto.is) | Bus |
 
 ## 🛸 Drug Policy
 

@@ -22,7 +22,11 @@ description: Complete cost of living guide for Estonia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Tallinn | 698€ | Capital |
+| 1 | [Narva](estonia/byer/narva/) | 350€ | |
+| 2 | [Kohtla-Järve](estonia/byer/kohtla-jarve/) | 320€ | |
+| 3 | [Pärnu](estonia/byer/parnu/) | 450€ | |
+| 4 | [Tartu](estonia/byer/tartu/) | 500€ | University |
+| 5 | [Tallinn](estonia/byer/tallinn/) | 698€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -30,19 +34,11 @@ description: Complete cost of living guide for Estonia
 | Link | Description |
 |------|-------------|
 | [KV.ee](https://www.kv.ee) | 🔴 Biggest housing |
-| [City24](https://www.city24.ee) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [Indeed Estonia](https://www.indeed.ee) | Job search |
 | [CV.ee](https://www.cv.ee) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [Elron](https://www.elron.ee) | 🔵 Trains |
-| [Tallinn Transport](https://www.tallinnlv.ee) | Bus/tram |
 
 ## 🛸 Drug Policy
 

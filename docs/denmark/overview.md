@@ -22,13 +22,13 @@ description: Complete cost of living guide for Denmark
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Esbjerg | 5,952 kr | Port city |
-| 2 | Randers | 6,200 kr | |
-| 3 | Kolding | 6,500 kr | |
-| 4 | Herning | 6,800 kr | |
-| 5 | Odense | 7,068 kr | 2nd city |
-| 6 | Aarhus | 8,928 kr | University |
-| 7 | Copenhagen | 13,200 kr | Capital |
+| 1 | [Esbjerg](denmark/byer/esbjerg/) | 5,952 kr | Port city |
+| 2 | [Randers](denmark/byer/randers/) | 6,200 kr | |
+| 3 | [Kolding](denmark/byer/kolding/) | 6,500 kr | |
+| 4 | [Herning](denmark/byer/herning/) | 6,800 kr | |
+| 5 | [Odense](denmark/byer/odense/) | 7,068 kr | 2nd city |
+| 6 | [Aarhus](denmark/byer/aarhus/) | 8,928 kr | University |
+| 7 | [Copenhagen](denmark/byer/copenhagen/) | 13,200 kr | Capital |
 
 ## 🔗 Useful Links
 
@@ -42,7 +42,6 @@ description: Complete cost of living guide for Denmark
 | Link | Description |
 |------|-------------|
 | [Jobindex](https://www.jobindex.dk) | 🔴 Biggest job site |
-| [Indeed Denmark](https://www.indeed.dk) | Job search |
 
 ### 🚌 Transport
 | Link | Description |
