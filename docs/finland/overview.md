@@ -1,5 +1,5 @@
 ---
-title: 🇫🇮 Finland
+title: 🇫🇮 Finland - Euro Lavish
 description: Komplett levekostnad-guide for Finland
 ---
 
@@ -7,15 +7,11 @@ description: Komplett levekostnad-guide for Finland
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C60.0%2C32.0%2C70.0&layer=mapnik"></iframe>
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C60.0%2C32.0%2C70.0&layer=mapnik"></iframe>
-
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C60.0%2C32.0%2C70.0&layer=mapnik"></iframe>
-
 ## 📊 Levekostnader
 
 | Kategori | Pris | 
 |----------|------|
-| Leie (sentrum) | 1,300€ | 
+| Leie (sentrum) | 1,300€ |
 | Måltid  | 15€ |
 | Øl (0.5L) | 8€ |
 | Cappuccino | 4€ |
@@ -26,16 +22,11 @@ description: Komplett levekostnad-guide for Finland
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | [Porvoo](byer/porvoo.md) | 750€ | |
-| 2 | [Kuopio](byer/kuopio.md) | 800€ | |
-| 3 | [Jyväskylä](byer/jyvaskyla.md) | 850€ | |
+| 1 | [Oulu](byer/oulu.md) | 950€ | Tech |
+| 2 | [Tampere](byer/tampere.md) | 950€ | |
+| 3 | [Turku](byer/turku.md) | 900€ | |
 | 4 | [Lahti](byer/lahti.md) | 880€ | |
-| 5 | [Oulu](byer/oulu.md) | 950€ | Tech |
-| 6 | [Tampere](byer/tampere.md) | 950€ | |
-| 7 | [Turku](byer/turku.md) | 900€ | |
-| 8 | [Vantaa](byer/vantaa.md) | 1,000€ | Nær Helsinki |
-| 9 | [Espoo](byer/espoo.md) | 1,100€ | Tech |
-| 10 | [Helsinki](byer/helsinki.md) | 1,300€ | Hovedstad |
+| 5 | [Helsinki](byer/helsinki.md) | 1,300€ | Hovedstad |
 
 ## 🔗 Nyttige Lenker
 
@@ -44,13 +35,6 @@ description: Komplett levekostnad-guide for Finland
 |-------|-------------|
 | [Oikotie](https://www.oikotie.fi) | 🔴 |
 | [Vuokraovi](https://www.vuokraovi.com) | Leie |
-| [Etuovi](https://www.etuovi.com) | Bolig |
-
-### 🛒 Kjøp & Salg (Brukt)
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Tor.fi](https://www.tori.fi) | 🟡 |
-| [Huuto](https://www.huuto.net) | Auksjon |
 
 ### 💼 Jobb & Karriere
 | Lenke | Beskrivelse |
@@ -70,10 +54,6 @@ description: Komplett levekostnad-guide for Finland
 | [Foreca](https://www.foreca.fi) | 🌤️ Vær |
 | [Visit Finland](https://www.visitfinland.com) | Turisme |
 
----
-
-*Data: Numbeo.com, Mars 2026*
-
 ## 🛸 Ruspolitikk
 
 | Stoff | Status | Straff |
@@ -85,3 +65,7 @@ description: Komplett levekostnad-guide for Finland
 - "Nordisk modell" - kriminalisering
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+---
+
+*Data: Numbeo.com, Mars 2026*
