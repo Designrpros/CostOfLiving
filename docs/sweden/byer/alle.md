@@ -1,0 +1,10 @@
+1. Stockholm - 16,150 kr
+2. Göteborg - 12,000 kr
+3. Malmö - 9,500 kr
+4. Uppsala - 10,000 kr
+5. Lund - 11,000 kr
+6. Linköping - 10,500 kr
+7. Örebro - 10,000 kr
+8. Västerås - 9,800 kr
+9. Helsingborg - 9,500 kr
+10. Norrköping - 9,200 kr

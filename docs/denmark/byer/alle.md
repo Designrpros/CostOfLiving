@@ -1,0 +1,10 @@
+1. København - 13,281 kr
+2. Roskilde - 10,000 kr
+3. Vejle - 8,500 kr
+4. Herning - 8,000 kr
+5. Horsens - 8,000 kr
+6. Kolding - 8,200 kr
+7. Randers - 7,800 kr
+8. Esbjerg - 8,500 kr
+9. Odense - 8,000 kr
+10. Aalborg - 7,500 kr

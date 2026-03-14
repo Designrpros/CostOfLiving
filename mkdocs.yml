@@ -1,0 +1,68 @@
+site_name: 🪙 Euro Lavish
+site_description: Cost of Living in Europe - 26 Countries, 260 Cities
+site_author: Alcatelz
+site_url: https://euro-lavish.net
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: cyan
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.instant
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - tables
+
+nav:
+  - 🏠 Home: index.md
+  - 🏔️ Nord-Europa:
+    - norway/overview.md
+    - sweden/overview.md
+    - denmark/overview.md
+    - finnland/overview.md
+    - estonia/overview.md
+    - iceland/overview.md
+  - 🏗️ Øst-Europa:
+    - poland/overview.md
+    - czech/overview.md
+    - hungary/overview.md
+    - romania/overview.md
+    - serbia/overview.md
+    - bulgaria/overview.md
+  - ☀️ Sør-Europa:
+    - spain/overview.md
+    - portugal/overview.md
+    - italy/overview.md
+    - greece/overview.md
+    - croatia/overview.md
+    - malta/overview.md
+  - 🔵 Sentral-Europa:
+    - germany/overview.md
+    - austria/overview.md
+    - switzerland/overview.md
+  - 🌊 Vest-Europa:
+    - uk/overview.md
+    - ireland/overview.md
+    - netherlands/overview.md
+    - belgium/overview.md
+    - france/overview.md
+
+copyright: "&copy; 2026 Euro Lavish | Data: Numbeo.com"
+
+use_directory_urls: false
+
+# GitHub Pages deploy
+remote_branch: gh-pages
+remote_name: origin
