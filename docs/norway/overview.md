@@ -22,16 +22,16 @@ description: Complete cost of living guide for Norway
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Kristiansund](norway/byer/kristiansund/) | 8,500 kr | Oil + fishing |
-| 2 | [Molde](norway/byer/molde/) | 9,000 kr | Jazz festival |
-| 3 | [Porsgrunn](norway/byer/porsgrunn/) | 9,000 kr | Industry |
-| 4 | [Moss](norway/byer/moss/) | 9,200 kr | Center |
-| 5 | [Fredrikstad](norway/byer/fredrikstad/) | 9,500 kr | Østfold |
-| 6 | [Drammen](norway/byer/drammen/) | 10,500 kr | Near Oslo |
-| 7 | [Stavanger](norway/byer/stavanger/) | 13,000 kr | Oil capital |
-| 8 | [Bergen](norway/byer/bergen/) | 12,000 kr | Fjords |
-| 9 | [Trondheim](norway/byer/trondheim/) | 11,000 kr | Tech hub |
-| 10 | [Oslo](norway/byer/oslo/) | 18,431 kr | Capital |
+| 1 | [Kristiansund](byer/kristiansund.md) | 8,500 kr | Oil + fishing |
+| 2 | [Molde](byer/molde.md) | 9,000 kr | Jazz festival |
+| 3 | [Porsgrunn](byer/porsgrunn.md) | 9,000 kr | Industry |
+| 4 | [Moss](byer/moss.md) | 9,200 kr | Center |
+| 5 | [Fredrikstad](byer/fredrikstad.md) | 9,500 kr | Østfold |
+| 6 | [Drammen](byer/drammen.md) | 10,500 kr | Near Oslo |
+| 7 | [Stavanger](byer/stavanger.md) | 13,000 kr | Oil capital |
+| 8 | [Bergen](byer/bergen.md) | 12,000 kr | Fjords |
+| 9 | [Trondheim](byer/trondheim.md) | 11,000 kr | Tech hub |
+| 10 | [Oslo](byer/oslo.md) | 18,431 kr | Capital |
 
 ## 🔗 Useful Links
 

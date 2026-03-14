@@ -22,11 +22,11 @@ description: Complete cost of living guide for Spain
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Sevilla](spain/byer/seville/) | 800€ | |
-| 2 | [Málaga](spain/byer/malaga/) | 850€ | |
-| 3 | [Valencia](spain/byer/valencia/) | 950€ | |
-| 4 | [Madrid](spain/byer/madrid/) | 1,350€ | Capital |
-| 5 | [Barcelona](spain/byer/barcelona/) | 1,400€ | 2nd city |
+| 1 | [Sevilla](byer/seville.md) | 800€ | |
+| 2 | [Málaga](byer/malaga.md) | 850€ | |
+| 3 | [Valencia](byer/valencia.md) | 950€ | |
+| 4 | [Madrid](byer/madrid.md) | 1,350€ | Capital |
+| 5 | [Barcelona](byer/barcelona.md) | 1,400€ | 2nd city |
 
 ## 🔗 Useful Links
 

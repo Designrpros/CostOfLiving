@@ -22,11 +22,11 @@ description: Complete cost of living guide for Bulgaria
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Veliko Tarnovo](bulgaria/byer/velikoturnovo/) | 380€ | |
-| 2 | [Burgas](bulgaria/byer/burgas/) | 400€ | |
-| 3 | [Plovdiv](bulgaria/byer/plovdiv/) | 450€ | |
-| 4 | [Varna](bulgaria/byer/varna/) | 500€ | |
-| 5 | [Sofia](bulgaria/byer/sofia/) | 669€ | Capital |
+| 1 | [Veliko Tarnovo](byer/velikoturnovo.md) | 380€ | |
+| 2 | [Burgas](byer/burgas.md) | 400€ | |
+| 3 | [Plovdiv](byer/plovdiv.md) | 450€ | |
+| 4 | [Varna](byer/varna.md) | 500€ | |
+| 5 | [Sofia](byer/sofia.md) | 669€ | Capital |
 
 ## 🔗 Useful Links
 

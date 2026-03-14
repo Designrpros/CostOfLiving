@@ -22,11 +22,11 @@ description: Complete cost of living guide for Malta
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Gozo](malta/byer/gozo/) | 700€ | Island |
-| 2 | [Qawra](malta/byer/qawra/) | 800€ | |
-| 3 | [Sliema](malta/byer/sliema/) | 1,000€ | |
-| 4 | [St. Julian's](malta/byer/stjulians/) | 950€ | |
-| 5 | [Valletta](malta/byer/valletta/) | 1,100€ | Capital |
+| 1 | [Gozo](byer/gozo.md) | 700€ | Island |
+| 2 | [Qawra](byer/qawra.md) | 800€ | |
+| 3 | [Sliema](byer/sliema.md) | 1,000€ | |
+| 4 | [St. Julian's](byer/stjulians.md) | 950€ | |
+| 5 | [Valletta](byer/valletta.md) | 1,100€ | Capital |
 
 ## 🔗 Useful Links
 

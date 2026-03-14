@@ -22,10 +22,10 @@ description: Complete cost of living guide for Portugal
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Faro](portugal/byer/faro/) | 800€ | |
-| 2 | [Coimbra](portugal/byer/coimbra/) | 850€ | University |
-| 3 | [Porto](portugal/byer/porto/) | 1,000€ | 2nd city |
-| 4 | [Lisbon](portugal/byer/lisbon/) | 1,400€ | Capital |
+| 1 | [Faro](byer/faro.md) | 800€ | |
+| 2 | [Coimbra](byer/coimbra.md) | 850€ | University |
+| 3 | [Porto](byer/porto.md) | 1,000€ | 2nd city |
+| 4 | [Lisbon](byer/lisbon.md) | 1,400€ | Capital |
 
 ## 🔗 Useful Links
 

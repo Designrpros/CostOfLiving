@@ -22,11 +22,11 @@ description: Complete cost of living guide for Finland
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Lahti](finnland/byer/lahti/) | 700€ | |
-| 2 | [Oulu](finnland/byer/oulu/) | 750€ | |
-| 3 | [Turku](finnland/byer/turku/) | 800€ | |
-| 4 | [Tampere](finnland/byer/tampere/) | 850€ | |
-| 5 | [Helsinki](finnland/byer/helsinki/) | 1,300€ | Capital |
+| 1 | [Lahti](byer/lahti.md) | 700€ | |
+| 2 | [Oulu](byer/oulu.md) | 750€ | |
+| 3 | [Turku](byer/turku.md) | 800€ | |
+| 4 | [Tampere](byer/tampere.md) | 850€ | |
+| 5 | [Helsinki](byer/helsinki.md) | 1,300€ | Capital |
 
 ## 🔗 Useful Links
 

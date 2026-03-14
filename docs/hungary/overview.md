@@ -22,10 +22,10 @@ description: Complete cost of living guide for Hungary
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Debrecen](hungary/byer/debrecen/) | 196,250 Ft | |
-| 2 | [Szeged](hungary/byer/szeged/) | 176,625 Ft | |
-| 3 | [Pécs](hungary/byer/pecs/) | 157,000 Ft | |
-| 4 | [Budapest](hungary/byer/budapest/) | 314,000 Ft | Capital |
+| 1 | [Debrecen](byer/debrecen.md) | 196,250 Ft | |
+| 2 | [Szeged](byer/szeged.md) | 176,625 Ft | |
+| 3 | [Pécs](byer/pecs.md) | 157,000 Ft | |
+| 4 | [Budapest](byer/budapest.md) | 314,000 Ft | Capital |
 
 ## 🔗 Useful Links
 

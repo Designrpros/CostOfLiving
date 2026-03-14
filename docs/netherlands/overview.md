@@ -22,12 +22,12 @@ description: Complete cost of living guide for Netherlands
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Groningen](netherlands/byer/groningen/) | 1,000€ | |
-| 2 | [Eindhoven](netherlands/byer/eindhoven/) | 1,200€ | |
-| 3 | [Utrecht](netherlands/byer/utrecht/) | 1,350€ | |
-| 4 | [Den Haag](netherlands/byer/denhaag/) | 1,400€ | |
-| 5 | [Rotterdam](netherlands/byer/rotterdam/) | 1,500€ | |
-| 6 | [Amsterdam](netherlands/byer/amsterdam/) | 2,260€ | Capital |
+| 1 | [Groningen](byer/groningen.md) | 1,000€ | |
+| 2 | [Eindhoven](byer/eindhoven.md) | 1,200€ | |
+| 3 | [Utrecht](byer/utrecht.md) | 1,350€ | |
+| 4 | [Den Haag](byer/denhaag.md) | 1,400€ | |
+| 5 | [Rotterdam](byer/rotterdam.md) | 1,500€ | |
+| 6 | [Amsterdam](byer/amsterdam.md) | 2,260€ | Capital |
 
 ## 🔗 Useful Links
 

@@ -22,9 +22,9 @@ description: Complete cost of living guide for Switzerland
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Bern](switzerland/byer/bern/) | 1,800 CHF | |
-| 2 | [Geneva](switzerland/byer/geneva/) | 2,500 CHF | |
-| 3 | [Zurich](switzerland/byer/zurich/) | 2,800 CHF | Capital |
+| 1 | [Bern](byer/bern.md) | 1,800 CHF | |
+| 2 | [Geneva](byer/geneva.md) | 2,500 CHF | |
+| 3 | [Zurich](byer/zurich.md) | 2,800 CHF | Capital |
 
 ## 🔗 Useful Links
 

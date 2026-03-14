@@ -22,11 +22,11 @@ description: Complete cost of living guide for Croatia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Osijek](croatia/byer/osijek/) | 400€ | |
-| 2 | [Split](croatia/byer/split/) | 650€ | Coast |
-| 3 | [Rijeka](croatia/byer/rijeka/) | 550€ | |
-| 4 | [Zagreb](croatia/byer/zagreb/) | 700€ | Capital |
-| 5 | [Dubrovnik](croatia/byer/dubrovnik/) | 800€ | Tourist |
+| 1 | [Osijek](byer/osijek.md) | 400€ | |
+| 2 | [Split](byer/split.md) | 650€ | Coast |
+| 3 | [Rijeka](byer/rijeka.md) | 550€ | |
+| 4 | [Zagreb](byer/zagreb.md) | 700€ | Capital |
+| 5 | [Dubrovnik](byer/dubrovnik.md) | 800€ | Tourist |
 
 ## 🔗 Useful Links
 

@@ -22,12 +22,12 @@ description: Complete cost of living guide for Italy
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Naples](italy/byer/naples/) | 750€ | |
-| 2 | [Turin](italy/byer/turin/) | 850€ | |
-| 3 | [Bologna](italy/byer/bologna/) | 950€ | |
-| 4 | [Florence](italy/byer/florence/) | 1,200€ | |
-| 5 | [Rome](italy/byer/rome/) | 1,500€ | Capital |
-| 6 | [Milan](italy/byer/milan/) | 1,600€ | Finance |
+| 1 | [Naples](byer/naples.md) | 750€ | |
+| 2 | [Turin](byer/turin.md) | 850€ | |
+| 3 | [Bologna](byer/bologna.md) | 950€ | |
+| 4 | [Florence](byer/florence.md) | 1,200€ | |
+| 5 | [Rome](byer/rome.md) | 1,500€ | Capital |
+| 6 | [Milan](byer/milan.md) | 1,600€ | Finance |
 
 ## 🔗 Useful Links
 

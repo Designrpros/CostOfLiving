@@ -22,13 +22,13 @@ description: Complete cost of living guide for UK
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Liverpool](uk/byer/liverpool/) | 750£ | |
-| 2 | [Leeds](uk/byer/leeds/) | 800£ | |
-| 3 | [Glasgow](uk/byer/glasgow/) | 825£ | |
-| 4 | [Birmingham](uk/byer/birmingham/) | 955£ | |
-| 5 | [Manchester](uk/byer/manchester/) | 1,215£ | |
-| 6 | [Edinburgh](uk/byer/edinburgh/) | 1,129£ | |
-| 7 | [London](uk/byer/london/) | 2,200£ | Capital |
+| 1 | [Liverpool](byer/liverpool.md) | 750£ | |
+| 2 | [Leeds](byer/leeds.md) | 800£ | |
+| 3 | [Glasgow](byer/glasgow.md) | 825£ | |
+| 4 | [Birmingham](byer/birmingham.md) | 955£ | |
+| 5 | [Manchester](byer/manchester.md) | 1,215£ | |
+| 6 | [Edinburgh](byer/edinburgh.md) | 1,129£ | |
+| 7 | [London](byer/london.md) | 2,200£ | Capital |
 
 ## 🔗 Useful Links
 

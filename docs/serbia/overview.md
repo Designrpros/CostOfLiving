@@ -22,11 +22,11 @@ description: Complete cost of living guide for Serbia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Niš](serbia/byer/nis/) | 29,250 RSD | |
-| 2 | [Kragujevac](serbia/byer/kragujevac/) | 31,590 RSD | |
-| 3 | [Subotica](serbia/byer/subotica/) | 32,760 RSD | |
-| 4 | [Novi Sad](serbia/byer/novisad/) | 40,950 RSD | |
-| 5 | [Belgrade](serbia/byer/belgrade/) | 58,500 RSD | Capital |
+| 1 | [Niš](byer/nis.md) | 29,250 RSD | |
+| 2 | [Kragujevac](byer/kragujevac.md) | 31,590 RSD | |
+| 3 | [Subotica](byer/subotica.md) | 32,760 RSD | |
+| 4 | [Novi Sad](byer/novisad.md) | 40,950 RSD | |
+| 5 | [Belgrade](byer/belgrade.md) | 58,500 RSD | Capital |
 
 ## 🔗 Useful Links
 

@@ -22,9 +22,9 @@ description: Complete cost of living guide for Belgium
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Ghent](belgium/byer/ghent/) | 900€ | |
-| 2 | [Antwerp](belgium/byer/antwerp/) | 1,000€ | |
-| 3 | [Brussels](belgium/byer/brussels/) | 1,200€ | Capital |
+| 1 | [Ghent](byer/ghent.md) | 900€ | |
+| 2 | [Antwerp](byer/antwerp.md) | 1,000€ | |
+| 3 | [Brussels](byer/brussels.md) | 1,200€ | Capital |
 
 ## 🔗 Useful Links
 

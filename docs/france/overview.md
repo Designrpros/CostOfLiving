@@ -22,12 +22,12 @@ description: Complete cost of living guide for France
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Nantes](france/byer/nantes/) | 750€ | |
-| 2 | [Toulouse](france/byer/toulouse/) | 800€ | |
-| 3 | [Marseille](france/byer/marseille/) | 850€ | |
-| 4 | [Lyon](france/byer/lyon/) | 950€ | 2nd city |
-| 5 | [Nice](france/byer/nice/) | 1,100€ | |
-| 6 | [Paris](france/byer/paris/) | 2,000€ | Capital |
+| 1 | [Nantes](byer/nantes.md) | 750€ | |
+| 2 | [Toulouse](byer/toulouse.md) | 800€ | |
+| 3 | [Marseille](byer/marseille.md) | 850€ | |
+| 4 | [Lyon](byer/lyon.md) | 950€ | 2nd city |
+| 5 | [Nice](byer/nice.md) | 1,100€ | |
+| 6 | [Paris](byer/paris.md) | 2,000€ | Capital |
 
 ## 🔗 Useful Links
 

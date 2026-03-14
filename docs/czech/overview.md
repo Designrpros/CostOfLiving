@@ -22,11 +22,11 @@ description: Complete cost of living guide for Czechia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Ostrava](czech/byer/ostrava/) | 14,700 Kč | |
-| 2 | [Olomouc](czech/byer/olomouc/) | 13,475 Kč | |
-| 3 | [Plzeň](czech/byer/plzen/) | 15,925 Kč | |
-| 4 | [Brno](czech/byer/brno/) | 18,375 Kč | 2nd city |
-| 5 | [Prague](czech/byer/prague/) | 29,400 Kč | Capital |
+| 1 | [Ostrava](byer/ostrava.md) | 14,700 Kč | |
+| 2 | [Olomouc](byer/olomouc.md) | 13,475 Kč | |
+| 3 | [Plzeň](byer/plzen.md) | 15,925 Kč | |
+| 4 | [Brno](byer/brno.md) | 18,375 Kč | 2nd city |
+| 5 | [Prague](byer/prague.md) | 29,400 Kč | Capital |
 
 ## 🔗 Useful Links
 

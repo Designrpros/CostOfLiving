@@ -22,11 +22,11 @@ description: Complete cost of living guide for Estonia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Narva](estonia/byer/narva/) | 350€ | |
-| 2 | [Kohtla-Järve](estonia/byer/kohtla-jarve/) | 320€ | |
-| 3 | [Pärnu](estonia/byer/parnu/) | 450€ | |
-| 4 | [Tartu](estonia/byer/tartu/) | 500€ | University |
-| 5 | [Tallinn](estonia/byer/tallinn/) | 698€ | Capital |
+| 1 | [Narva](byer/narva.md) | 350€ | |
+| 2 | [Kohtla-Järve](byer/kohtla-jarve.md) | 320€ | |
+| 3 | [Pärnu](byer/parnu.md) | 450€ | |
+| 4 | [Tartu](byer/tartu.md) | 500€ | University |
+| 5 | [Tallinn](byer/tallinn.md) | 698€ | Capital |
 
 ## 🔗 Useful Links
 

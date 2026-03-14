@@ -22,9 +22,9 @@ description: Complete cost of living guide for Austria
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Innsbruck](austria/byer/innsbruck/) | 900€ | |
-| 2 | [Salzburg](austria/byer/salzburg/) | 950€ | |
-| 3 | [Vienna](austria/byer/vienna/) | 1,100€ | Capital |
+| 1 | [Innsbruck](byer/innsbruck.md) | 900€ | |
+| 2 | [Salzburg](byer/salzburg.md) | 950€ | |
+| 3 | [Vienna](byer/vienna.md) | 1,100€ | Capital |
 
 ## 🔗 Useful Links
 
