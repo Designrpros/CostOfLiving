@@ -42,6 +42,21 @@ description: Complete cost of living guide for Germany
 | [WG-Gesucht](https://www.wg-gesucht.de) | Shared flat |
 
 ### 💼 Jobs
+### 🛒 Shopping (Used)
+| Link | Description |
+|-------|-------------|
+| [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de) | 🟡 Biggest in Germany |
+| [Facebook Marketplace](https://www.facebook.com/marketplace) | Facebook |
+| [Kleider](https://www.kleider.ch) | Used clothes |
+
+### 🚌 Transport
+| Link | Description |
+|-------|-------------|
+| [Deutsche Bahn](https://www.bahn.de) | 🔵 Trains |
+| [BVG](https://www.bvg.de) | Berlin transport |
+| [MVV](https://www.mvv-muenchen.de) | Munich transport |
+| [FlixBus](https://www.flixbus.de) | Bus |
+
 | Link | Description |
 |------|-------------|
 | [Indeed Germany](https://www.indeed.de) | Job search |

@@ -1,5 +1,5 @@
-site_name: 🪙
-site_description: Cost of Living in Europe - 26 Countries, Multiple Cities
+site_name: 🪙 Cost of Living
+site_description: Compare cost of living across 26 European countries and 120+ cities
 site_author: Alcatelz
 site_url: https://designrpros.github.io/euro-lavish/
 
@@ -22,37 +22,37 @@ plugins:
       prebuild_index: true
 
 nav:
-  - 🏔️ Nord-Europa:
+  - 🏔️ Northern Europe:
     - norway/overview.md
     - sweden/overview.md
     - denmark/overview.md
     - estonia/overview.md
     - iceland/overview.md
     - finnland/overview.md
-  - 🏗️ Øst-Europa:
+  - 🏗️ Eastern Europe:
     - poland/overview.md
     - czech/overview.md
     - hungary/overview.md
     - romania/overview.md
     - serbia/overview.md
     - bulgaria/overview.md
-  - ☀️ Sør-Europa:
+  - ☀️ Southern Europe:
     - spain/overview.md
     - portugal/overview.md
     - italy/overview.md
     - greece/overview.md
     - croatia/overview.md
     - malta/overview.md
-  - 🔵 Sentral-Europa:
+  - 🔵 Central Europe:
     - germany/overview.md
     - austria/overview.md
     - switzerland/overview.md
-  - 🌊 Vest-Europa:
+  - 🌊 Western Europe:
     - uk/overview.md
     - ireland/overview.md
     - netherlands/overview.md
     - belgium/overview.md
     - france/overview.md
   - 💰 Affiliate: affiliate.md
-  - 🛠️ Praktisk: praktisk/index.md
-  - 🌍 Lenker: europe-links.md
+  - 🛠️ Practical: praktisk/index.md
+  - 🌍 Links: europe-links.md
