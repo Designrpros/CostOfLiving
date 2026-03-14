@@ -3,7 +3,7 @@ title: 🪙 Cost of Living in Europe
 description: Compare cost of living across 26 European countries
 ---
 
-# 💰 Cost of Living in Europe
+# 🪙 Cost of Living in Europe
 
 *Your complete guide to cost of living in Europe*
 
