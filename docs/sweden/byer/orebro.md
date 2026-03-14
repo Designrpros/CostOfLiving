@@ -26,6 +26,6 @@ description: Cost of Living in Örebro
 | [Airbnb](https://www.airbnb.com/s/Orebro--Sweden) | Vacation Rentals |
 
 ## ← Back
-[Back to Sweden overview](../overview.md)
+[Back to Sweden overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

@@ -26,6 +26,6 @@ description: Cost of Living in Krakow
 | [Airbnb](https://www.airbnb.com/s/Krakow--Poland) | Vacation Rentals |
 
 ## ← Back
-[Back to Poland overview](../overview.md)
+[Back to Poland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

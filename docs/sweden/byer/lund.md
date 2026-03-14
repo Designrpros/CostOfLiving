@@ -24,6 +24,6 @@ description: Cost of Living in Lund
 | [Airbnb](https://www.airbnb.com/s/Lund--Sweden) | Vacation Rentals |
 
 ## ← Back
-[Back to Sweden overview](../overview.md)
+[Back to Sweden overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

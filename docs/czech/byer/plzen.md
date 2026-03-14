@@ -26,6 +26,6 @@ description: Cost of Living in Plzeň
 | [Airbnb](https://www.airbnb.com/s/Plzen--Czechia) | Vacation Rentals |
 
 ## ← Back
-[Back to Czechia overview](../overview.md)
+[Back to Czechia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

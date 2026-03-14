@@ -26,6 +26,6 @@ description: Cost of Living in Hafnarfjörður
 | [Airbnb](https://www.airbnb.com/s/Hafnarfjorour--Iceland) | Vacation Rentals |
 
 ## ← Back
-[Back to Iceland overview](../overview.md)
+[Back to Iceland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

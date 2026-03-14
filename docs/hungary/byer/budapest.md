@@ -26,6 +26,6 @@ description: Cost of Living in Budapest
 | [Airbnb](https://www.airbnb.com/s/Budapest--Hungary) | Vacation Rentals |
 
 ## ← Back
-[Back to Hungary overview](../overview.md)
+[Back to Hungary overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

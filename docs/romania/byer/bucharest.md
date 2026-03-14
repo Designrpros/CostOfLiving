@@ -26,6 +26,6 @@ description: Cost of Living in Bucharest
 | [Airbnb](https://www.airbnb.com/s/Bucharest--Romania) | Vacation Rentals |
 
 ## ← Back
-[Back to Romania overview](../overview.md)
+[Back to Romania overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

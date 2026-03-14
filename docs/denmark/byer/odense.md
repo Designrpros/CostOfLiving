@@ -26,6 +26,6 @@ description: Cost of Living in Odense
 | [Airbnb](https://www.airbnb.com/s/Odense--Denmark) | Vacation Rentals |
 
 ## ← Back
-[Back to Denmark overview](../overview.md)
+[Back to Denmark overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

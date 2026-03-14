@@ -26,6 +26,6 @@ description: Cost of Living in Narva
 | [Airbnb](https://www.airbnb.com/s/Narva--Estonia) | Vacation Rentals |
 
 ## ← Back
-[Back to Estonia overview](../overview.md)
+[Back to Estonia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

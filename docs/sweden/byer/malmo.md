@@ -26,6 +26,6 @@ description: Cost of Living in Malmö
 | [Airbnb](https://www.airbnb.com/s/Malmo--Sweden) | Vacation Rentals |
 
 ## ← Back
-[Back to Sweden overview](../overview.md)
+[Back to Sweden overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

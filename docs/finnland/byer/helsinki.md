@@ -26,6 +26,6 @@ description: Cost of Living in Helsinki
 | [Airbnb](https://www.airbnb.com/s/Helsinki--Finland) | Vacation Rentals |
 
 ## ← Back
-[Back to Finland overview](../overview.md)
+[Back to Finland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

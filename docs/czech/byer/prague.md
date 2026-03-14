@@ -26,6 +26,6 @@ description: Cost of Living in Prague
 | [Airbnb](https://www.airbnb.com/s/Prague--Czechia) | Vacation Rentals |
 
 ## ← Back
-[Back to Czechia overview](../overview.md)
+[Back to Czechia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*
