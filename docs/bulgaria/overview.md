@@ -47,3 +47,39 @@ description: Komplett levekostnad-guide for Bulgaria
 - Bulgaria: strenge lover
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Imot.bg](https://www.imot.bg) | 🔴 |
+| [Neo.bg](https://www.neo.bg) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [OLX](https://www.olx.bg) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jobs.bg](https://www.jobs.bg) | Jobbsøk |
+| [LinkedIn Bulgaria](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/bulgaria](https://www.reddit.com/r/bulgaria/) | 🇺 Reddit |
+| [Facebook: България](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Meteoalarm](https://www.meteoalarm.org) | 🌤️ Vær |
+| [Bulgaria Travel](https://www.bulgariatravel.org) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

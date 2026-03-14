@@ -47,3 +47,39 @@ description: Komplett levekostnad-guide for Estland
 - Estland: strenge lover
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [KV.EE](https://www.kv.ee) | 🔴 |
+| [City24](https://www.city24.ee) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Osta.ee](https://www.osta.ee) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [CV.EE](https://www.cv.ee) | Jobbsøk |
+| [LinkedIn Estonia](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/estonia](https://www.reddit.com/r/estonia/) | 🇺 Reddit |
+| [r/tallinn](https://www.reddit.com/r/tallinn/) | Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Ilmateenistus](https://www.ilmateenistus.ee) | 🌤️ Vær |
+| [Visit Estonia](https://www.visitestonia.com) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

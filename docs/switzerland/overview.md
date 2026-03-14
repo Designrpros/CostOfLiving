@@ -46,3 +46,40 @@ description: Komplett levekostnad-guide for Sveits
 - Medicinsk cannabis: ja
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [ImmoStreet](https://www.immostreet.ch) | 🔴 |
+| [Homegate](https://www.homegate.ch) | Bolig |
+| [Wüest Partner](https://www.wuestpartner.com) | Eiendom |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Ricardo](https://www.ricardo.ch) | 🟡 Største |
+| [Tutti](https://www.tutti.ch) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jobs.ch](https://www.jobs.ch) | Jobbsøk |
+| [LinkedIn Switzerland](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/switzerland](https://www.reddit.com/r/switzerland/) | 🇺 Reddit |
+| [r/zurich](https://www.reddit.com/r/zurich/) | Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [MeteoSwiss](https://www.meteoswiss.admin.ch) | 🌤️ Vær |
+| [Switzerland Tourism](https://www.stay.com) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

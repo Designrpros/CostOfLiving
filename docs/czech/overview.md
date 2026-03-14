@@ -50,3 +50,39 @@ description: Komplett levekostnad-guide for Tsjekkia
 - Medisinsk cannabis lenge tillatt
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Sreality](https://www.sreality.cz) | 🔴 Største |
+| [Reality.idnes](https://reality.idnes.cz) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Bazoš](https://www.bazos.cz) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jobs.cz](https://www.jobs.cz) | Jobbsøk |
+| [LinkedIn Czech](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/czech](https://www.reddit.com/r/czech/) | 🇺 Reddit |
+| [r/czechia](https://www.reddit.com/r/czechia/) | Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [CHMI](https://www.chmi.cz) | 🌤️ Vær |
+| [Czech Tourism](https://www.czechtourism.com) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

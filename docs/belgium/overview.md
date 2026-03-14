@@ -5,29 +5,40 @@ description: Komplett levekostnad-guide for Belgia
 
 # 🇧🇪 Belgia
 
-![Belgia](/assets/countries/belgium.svg
+![Belgia](/assets/countries/belgium.svg)
 
-## 📊 Levekostnader
+## 🔗 Nyttige Lenker
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,125€ | 
-| Måltid  | 20€ |
-| Øl (0.5L) | 5€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 12€ |
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Immoweb](https://www.immoweb.be) | 🔴 Største |
+| [Kamernet](https://www.kamernet.be) | Rom |
 
-## 🏙️ Byer (Billig → Dyr)
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [2dehands](https://www.2dehands.be) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Charleroi](byer/charleroi.md) | 700€ | |
-| 2 | [Liège](byer/liege.md) | 750€ | |
-| 3 | [Namur](byer/namur.md) | 800€ | |
-| 4 | [Gent](byer/gent.md) | 950€ | |
-| 5 | [Antwerpen](byer/antwerpen.md) | 1,000€ | |
-| 6 | [Brussel](byer/brussel.md) | 1,125€ | EU |
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [VDAB](https://www.vdab.be) | FlamSK |
+| [Forem](https://www.forem.be) | Wallonisk |
+| [LinkedIn Belgium](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/belgium](https://www.reddit.com/r/belgium/) | 🇺 Reddit |
+| [Facebook: België](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [IRM](https://www.meteo.be) | 🌤️ Vær |
+| [Belgium.be](https://www.belgium.be) | Offisiell |
 
 ---
 

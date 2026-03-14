@@ -48,3 +48,39 @@ description: Komplett levekostnad-guide for Island
 - Liten, restriktiv tilnærming
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Birting](https://www.birting.is) | 🔴 |
+| [Iceland Properties](https://www.icelandproperties.is) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Alfa.is](https://www.alfa.is) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Employment Iceland](https://www.employment.is) | Jobbsøk |
+| [LinkedIn Iceland](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/iceland](https://www.reddit.com/r/iceland/) | 🇺 Reddit |
+| [Facebook: Ísland](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Veður.is](https://www.vedur.is) | 🌤️ Vær |
+| [Iceland.is](https://www.iceland.is) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

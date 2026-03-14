@@ -48,3 +48,39 @@ description: Komplett levekostnad-guide for Serbia
 - Bruk: ofte kun bøter
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Nepremicnine.net](https://www.nepremicnine.net) | 🔴 |
+| [HaloOglasi](https://www.halooglasi.com) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [KupujemProdajem](https://www.kupujemprodajem.rs) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Poslovi.rs](https://www.poslovi.rs) | Jobbsøk |
+| [LinkedIn Serbia](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/serbia](https://www.reddit.com/r/serbia/) | 🇺 Reddit |
+| [Facebook: Srbija](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [RHMZ](https://www.hidmet.gov.rs) | 🌤️ Vær |
+| [Serbia Tourism](https://www.serbia.travel) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

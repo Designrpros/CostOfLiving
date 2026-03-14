@@ -33,6 +33,39 @@ description: Komplett levekostnad-guide for Danmark
 | 9 | [Roskilde](byer/roskilde.md) | 10,000 kr | Historie |
 | 10 | [København](byer/kobenhavn.md) | 13,281 kr | Hovedstad |
 
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [BoligPortal](https://www.boligportal.dk) | 🔴 |
+| [DDK](https://www.dkd.dk) | Eiendom |
+| [Lejebolig](https://www.lejebolig.nu) | Leie |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [dba.dk](https://www.dba.dk) | 🟡 Største |
+| [Den Blå Avis](https://www.dba.dk) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jobnet](https://www.jobnet.dk) | Offentlig |
+| [LinkedIn Denmark](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Denmark](https://www.reddit.com/r/denmark/) | 🇺 Reddit |
+| [Facebook: Danmark](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [DMI](https://www.dmi.dk) | 🌤️ Vær |
+| [Visit Denmark](https://www.visitdenmark.com) | Turisme |
+
 ---
 
 *Data: Numbeo.com, Mars 2026*

@@ -33,6 +33,42 @@ description: Komplett levekostnad-guide for Sverige
 | 9 | [Göteborg](byer/goteborg.md) | 12,000 kr | Storby |
 | 10 | [Stockholm](byer/stockholm.md) | 16,150 kr | Hovedstad |
 
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Booli](https://www.booli.se) | 🔴 Søk bolig |
+| [Hemnet](https://www.hemnet.se) | 🔴 Største |
+| [Studentbostad](https://www.studentbostad.se) | Studentbolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Blocket](https://www.blocket.se) | 🟡 Største markedsplass |
+| [Tradera](https://www.tradera.com) | Auksjon |
+| [Facebook Marknad](https://www.facebook.com) | Facebook |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Arbetsförmedlingen](https://www.arbetsformedlingen.se) | Offentlig |
+| [LinkedIn Sweden](https://www.linkedin.com) | Profesjonelt |
+| [Glassdoor](https://www.glassdoor.com) | Anmeldelser |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Sweden](https://www.reddit.com/r/sweden/) | 🇺 Reddit |
+| [r/Stockholm](https://www.reddit.com/r/stockholm/) | Reddit |
+| [Flashback](https://www.flashback.org) | Forum |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [SMHI](https://www.smhi.se) | 🌤️ Vær |
+| [Sweden.se](https://www.sweden.se) | Turisme |
+
 ---
 
 *Data: Numbeo.com, Mars 2026*
@@ -48,6 +84,6 @@ description: Komplett levekostnad-guide for Sverige
 - Sverige har **Europas strengeste** ruspolitikk
 - "Kriminalisering" - fokus på avskrekking
 - Små mengder = fengsel
-- Politiet prioriteter
+- Politiet prioriterer
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*

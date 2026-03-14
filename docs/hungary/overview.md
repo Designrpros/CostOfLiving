@@ -48,3 +48,39 @@ description: Komplett levekostnad-guide for Ungarn
 - Svært restriktivt
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Ingatlan.com](https://www.ingatlan.com) | 🔴 Største |
+| [Otthonter](https://www.otthonter.hu) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jofogas](https://www.jofogas.hu) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Profession.hu](https://www.profession.hu) | Jobbsøk |
+| [LinkedIn Hungary](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/hungary](https://www.reddit.com/r/hungary/) | 🇺 Reddit |
+| [r/budapest](https://www.reddit.com/r/budapest/) | Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [HungaroMet](https://www.met.hu) | 🌤️ Vær |
+| [Hungary.com](https://www.hungary.com) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

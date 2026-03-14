@@ -5,28 +5,41 @@ description: Komplett levekostnad-guide for Irland
 
 # 🇮🇪 Irland
 
-![Irland](/assets/countries/ireland.svg
+![Irland](/assets/countries/ireland.svg)
 
-## 📊 Levekostnader
+## 🔗 Nyttige Lenker
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 2,118€ | 
-| Måltid  | 20€ |
-| Øl (0.5L) | 7€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 12€ |
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Daft.ie](https://www.daft.ie) | 🔴 Største |
+| [MyHome](https://www.myhome.ie) | Bolig |
+| [Rent.ie](https://www.rent.ie) | Leie |
 
-## 🏙️ Byer (Billig → Dyr)
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Donedeal](https://www.donedeal.ie) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Waterford](byer/waterford.md) | 1,050€ | |
-| 2 | [Limerick](byer/limerick.md) | 1,100€ | |
-| 3 | [Galway](byer/galway.md) | 1,200€ | |
-| 4 | [Cork](byer/cork.md) | 1,300€ | |
-| 5 | [Dublin](byer/dublin.md) | 2,118€ | Tech |
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jobs.ie](https://www.jobs.ie) | Jobbsøk |
+| [LinkedIn Ireland](https://www.linkedin.com) | Profesjonelt |
+| [IrishJobs](https://www.irishjobs.ie) | Jobbsøk |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Ireland](https://www.reddit.com/r/Ireland/) | 🇺 Reddit |
+| [r/Dublin](https://www.reddit.com/r/Dublin/) | Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Met Éireann](https://www.met.ie) | 🌤️ Vær |
+| [Ireland.com](https://www.ireland.com) | Turisme |
 
 ---
 

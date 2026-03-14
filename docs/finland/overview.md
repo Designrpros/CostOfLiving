@@ -33,6 +33,39 @@ description: Komplett levekostnad-guide for Finland
 | 9 | [Espoo](byer/espoo.md) | 1,100€ | Tech |
 | 10 | [Helsinki](byer/helsinki.md) | 1,300€ | Hovedstad |
 
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Oikotie](https://www.oikotie.fi) | 🔴 |
+| [Vuokraovi](https://www.vuokraovi.com) | Leie |
+| [Etuovi](https://www.etuovi.com) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Tor.fi](https://www.tori.fi) | 🟡 |
+| [Huuto](https://www.huuto.net) | Auksjon |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [TE-palvelut](https://www.te-palvelut.fi) | Offentlig |
+| [LinkedIn Finland](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Finland](https://www.reddit.com/r/finland/) | 🇺 Reddit |
+| [Suomi24](https://www.suomi24.fi) | Forum |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Foreca](https://www.foreca.fi) | 🌤️ Vær |
+| [Visit Finland](https://www.visitfinland.com) | Turisme |
+
 ---
 
 *Data: Numbeo.com, Mars 2026*

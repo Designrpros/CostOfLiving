@@ -48,3 +48,39 @@ description: Komplett levekostnad-guide for Kroatia
 - Personlig bruk: mildt
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Njuškalo](https://www.njuskalo.hr) | 🔴 Største |
+| [Index.hr Nekretnine](https://www.index.hr/nekretnine/) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Njuškalo](https://www.njuskalo.hr) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Posao.hr](https://www.posao.hr) | Jobbsøk |
+| [LinkedIn Croatia](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/croatia](https://www.reddit.com/r/croatia/) | 🇺 Reddit |
+| [r/dubrovnik](https://www.reddit.com/r/dubrovnik/) | Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [DHMZ](https://www.dhmz.hr) | 🌤️ Vær |
+| [Croatia.hr](https://www.croatia.hr) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

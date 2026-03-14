@@ -5,30 +5,40 @@ description: Komplett levekostnad-guide for Nederland
 
 # 🇳🇱 Nederland
 
-![Nederland](/assets/countries/netherlands.svg
+![Nederland](/assets/countries/netherlands.svg)
 
-## 📊 Levekostnader
+## 🔗 Nyttige Lenker
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 2,260€ | 
-| Måltid  | 20€ |
-| Øl (0.5L) | 6€ |
-| Cappuccino | 4€ |
-| Transport | 4€ |
-| Kino | 13€ |
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Pararius](https://www.pararius.com) | 🔴 |
+| [Funda](https://www.funda.nl) | Bolig |
+| [Kamernet](https://www.kamernet.nl) | Rom |
 
-## 🏙️ Byer (Billig → Dyr)
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Marktplaats](https://www.marktplaats.nl) | 🟡 Største |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Groningen](byer/groningen.md) | 1,100€ | |
-| 2 | [Maastricht](byer/maastricht.md) | 1,200€ | |
-| 3 | [Eindhoven](byer/eindhoven.md) | 1,400€ | Tech |
-| 4 | [Den Haag](byer/den_haag.md) | 1,500€ | |
-| 5 | [Rotterdam](byer/rotterdam.md) | 1,500€ | |
-| 6 | [Utrecht](byer/utrecht.md) | 1,600€ | |
-| 7 | [Amsterdam](byer/amsterdam.md) | 2,260€ | Dyrest |
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Indeed NL](https://www.indeed.nl) | Jobbsøk |
+| [LinkedIn Netherlands](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Netherlands](https://www.reddit.com/r/Netherlands/) | 🇺 Reddit |
+| [r/Amsterdam](https://www.reddit.com/r/Amsterdam/) | Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [KNMI](https://www.knmi.nl) | 🌤️ Vær |
+| [Holland.com](https://www.holland.com) | Turisme |
 
 ---
 
@@ -38,20 +48,12 @@ description: Komplett levekostnad-guide for Nederland
 
 | Stoff | Status | Straff |
 |-------|--------|--------|
-| Cannabis | 🟢 Tolerert | Ingen strike |
-| Coffeeshops | 🟢 Legal | Regulert |
-| Kokain | 🔴 | Illegal |
+| Cannabis | 🟢 | Tolerert |
+| Coffeeshops | 🟢 | Legal |
 
 ### 📝 Merknader
 - Nederland er **tolerante** med cannabis
 - Coffeeshops: kjøp og bruk tillatt
 - Lite politisk fokus på brukere
-- "gedoogbeleid" - toleransepolitikk
-
-### 🔗 Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Jellinek](https://www.jellinek.nl) | Rusbehandling |
-| [Government.nl](https://www.government.nl) | Offisiell info |
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*

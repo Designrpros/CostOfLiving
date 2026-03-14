@@ -7,31 +7,39 @@ description: Komplett levekostnad-guide for Polen
 
 ![Polen](/assets/countries/poland.svg)
 
-## 📊 Levekostnader
+## 🔗 Nyttige Lenker
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,000€ | 
-| Måltid  | 10€ |
-| Øl (0.5L) | 4.30€ |
-| Cappuccino | 3.50€ |
-| Transport | 1€ |
-| Kino | 7€ |
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [OLX](https://www.olx.pl) | 🔴 Største |
+| [Otodom](https://www.otodom.pl) | Bolig |
+| [Morizon](https://www.morizon.pl) | Eiendom |
 
-## 🏙️ Byer (Billig → Dyr)
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Allegro](https://www.allegro.pl) | 🟡 Største |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Kielce](byer/kielce.md) | 480€ | |
-| 2 | [Łódź](byer/lodz.md) | 500€ | |
-| 3 | [Katowice](byer/katowice.md) | 550€ | |
-| 4 | [Lublin](byer/lublin.md) | 520€ | |
-| 5 | [Bydgoszcz](byer/bydgoszcz.md) | 540€ | |
-| 6 | [Poznań](byer/poznan.md) | 650€ | |
-| 7 | [Wrocław](byer/wroclaw.md) | 750€ | |
-| 8 | [Gdańsk](byer/gdansk.md) | 800€ | Kyst |
-| 9 | [Kraków](byer/krakow.md) | 850€ | Historie |
-| 10 | [Warszawa](byer/warszawa.md) | 1,000€ | Hovedstad |
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Pracuj.pl](https://www.pracuj.pl) | Jobbsøk |
+| [LinkedIn Poland](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/poland](https://www.reddit.com/r/poland/) | 🇺 Reddit |
+| [r/warsaw](https://www.reddit.com/r/warsaw/) | Reddit |
+| [Facebook: Polska](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [IMGW](https://www.imgw.pl) | 🌤️ Vær |
+| [Poland Tourism](https://www.poland.travel) | Turisme |
 
 ---
 

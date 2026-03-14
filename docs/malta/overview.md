@@ -48,3 +48,39 @@ description: Komplett levekostnad-guide for Malta
 - 2021: personlig bruk tillatt
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Property Malta](https://www.propertymalta.com.mt) | 🔴 |
+| [Kite](https://www.kite.com/en/real-estate/malta/) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Facebook Marketplace](https://www.facebook.com) | 🟡 Markedsplass |
+| [eBay Malta](https://www.ebay.com.mt) | |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Jobs in Malta](https://www.jobsinmalta.com) | Jobbsøk |
+| [LinkedIn Malta](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Malta](https://www.reddit.com/r/Malta/) | 🇺 Reddit |
+| [Facebook: Malta](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [MeteoMT](https://www.meteo.com.mt) | 🌤️ Vær |
+| [Visit Malta](https://www.visitmalta.com) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

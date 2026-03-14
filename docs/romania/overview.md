@@ -47,3 +47,39 @@ description: Komplett levekostnad-guide for Romania
 - Romania: strenge EU-standarder
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Imobiliare](https://www.imobiliare.ro) | 🔴 |
+| [Storia](https://www.storia.ro) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [OLX](https://www.olx.ro) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [BestJobs](https://www.bestjobs.eu) | Jobbsøk |
+| [LinkedIn Romania](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/romania](https://www.reddit.com/r/romania/) | 🇺 Reddit |
+| [Facebook: Romania](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [ANM](https://www.meteoromania.ro) | 🌤️ Vær |
+| [Romania Tourism](https://www.romania.travel) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

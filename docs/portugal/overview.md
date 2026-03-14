@@ -7,31 +7,38 @@ description: Komplett levekostnad-guide for Portugal
 
 ![Portugal](/assets/countries/portugal.svg)
 
-## 📊 Levekostnader
+## 🔗 Nyttige Lenker
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,100€ | 
-| Måltid  | 12€ |
-| Øl (0.5L) | 3€ |
-| Cappuccino | 2€ |
-| Transport | 2€ |
-| Kino | 8€ |
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Idealista](https://www.idealista.pt) | 🔴 |
+| [Imovirtual](https://www.imovirtual.com) | Bolig |
+| [Casa Sapo](https://www.casasapo.pt) | Eiendom |
 
-## 🏙️ Byer (Billig → Dyr)
+### 🛒 Køp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [OLX](https://www.olx.pt) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
 
-| # | By | Leie/mnd | Merknad |
-|---|-----|----------|---------|
-| 1 | [Braga](byer/braga.md) | 600€ | |
-| 2 | [Coimbra](byer/coimbra.md) | 650€ | Universitet |
-| 3 | [Faro](byer/faro.md) | 700€ | Strand |
-| 4 | [Setúbal](byer/setubal.md) | 700€ | |
-| 5 | [Évora](byer/evora.md) | 750€ | |
-| 6 | [Porto](byer/porto.md) | 850€ | Vin |
-| 7 | [Nazaré](byer/nazare.md) | 800€ | Surf |
-| 8 | [Albufeira](byer/albufeira.md) | 1,200€ | Strand |
-| 9 | [Cascais](byer/cascais.md) | 1,400€ | Luxus |
-| 10 | [Lisboa](byer/lisboa.md) | 1,336€ | Hovedstad |
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [LinkedIn Portugal](https://www.linkedin.com) | Profesjonelt |
+| [Glassdoor](https://www.glassdoor.com) | Anmeldelser |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Portugal](https://www.reddit.com/r/portugal/) | 🇺 Reddit |
+| [Facebook: Portugal](https://www.facebook.com/groups/) | Facebook |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [IPMA](https://www.ipma.pt) | 🌤️ Vær |
+| [Visit Portugal](https://www.visitportugal.com) | Turisme |
 
 ---
 
@@ -41,19 +48,12 @@ description: Komplett levekostnad-guide for Portugal
 
 | Stoff | Status | Straff |
 |-------|--------|--------|
-| Alle stoffer | 🟢 Decriminalisert | Ingen fengsel |
-| Cannabis | 🟢 Personlig bruk OK | Kun bøter |
-| Kokain | 🟡 Mildt | Bøter |
+| Alle stoffer | 🟢 | Decriminalisert |
+| Cannabis | 🟢 | Personlig bruk OK |
 
 ### 📝 Merknader
 - Portugal **avkriminaliserte** alle stoffer i 2001
 - Behandling heller enn straff
 - Injiseringsrom tilgjengelig
-
-### 🔗 Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [SICAD](https://www.sicad.pt) | Rusbehandling |
-| [Transform Europe](https://transform-drugs.org) | Policy info |
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*

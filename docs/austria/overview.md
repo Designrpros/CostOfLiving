@@ -43,3 +43,38 @@ description: Komplett levekostnad-guide for Østerrike
 - 2024: debatt om legalisering
 
 *⚠️ Vær oppmerksom: Reglene kan endres.*
+
+## 🔗 Nyttige Lenker
+
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Willhaben](https://www.willhaben.at) | 🔴 Største |
+| [Immobilien.net](https://www.immobilien.net) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Willhaben](https://www.willhaben.at) | 🟡 |
+| [Facebook Marketplace](https://www.facebook.com) | Markedsplass |
+
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [AMS](https://www.ams.at) | Arbeidsformidling |
+| [LinkedIn Austria](https://www.linkedin.com) | Profesjonelt |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/austria](https://www.reddit.com/r/austria/) | 🇺 Reddit |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [ZAMG](https://www.zamg.ac.at) | 🌤️ Vær |
+| [Austria.info](https://www.austria.info) | Turisme |
+
+---
+
+*Data: Numbeo.com, Mars 2026*
