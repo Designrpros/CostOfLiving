@@ -48,10 +48,11 @@ nav:
     - austria/overview.md
     - switzerland/overview.md
   - 🌊 Vest-Europa:
-    - praktisk/index.md
     - uk/overview.md
     - ireland/overview.md
     - netherlands/overview.md
     - belgium/overview.md
     - france/overview.md
+  - 💰 Affiliate: affiliate.md
+  - 🛠️ Praktisk: praktisk/index.md
   - 🌍 Lenker: europe-links.md
