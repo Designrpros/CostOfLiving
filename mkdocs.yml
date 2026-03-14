@@ -21,7 +21,8 @@ plugins:
       separator: '[\s\-\.]+'
 
 nav:
-  - 🏠 Home: index.md
+  - 🏠 EN: index-en.md
+  - 🏠 NO: index.md
   - 🏔️ Nord-Europa:
     - norway/overview.md
     - sweden/overview.md
