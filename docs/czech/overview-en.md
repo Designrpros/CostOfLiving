@@ -1,5 +1,5 @@
 ---
-title: 🇨🇿 Czechia - Euro Lavish
+title: 🇨🇿 Czechia
 description: Complete cost of living guide for Czechia
 ---
 

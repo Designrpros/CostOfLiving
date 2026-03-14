@@ -1,5 +1,5 @@
 ---
-title: 🇬🇧 United Kingdom - Euro Lavish
+title: 🇬🇧 United Kingdom
 description: Complete cost of living guide for United Kingdom
 ---
 

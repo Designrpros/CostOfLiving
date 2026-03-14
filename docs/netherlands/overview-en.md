@@ -1,5 +1,5 @@
 ---
-title: 🇳🇱 Netherlands - Euro Lavish
+title: 🇳🇱 Netherlands
 description: Complete cost of living guide for Netherlands
 ---
 

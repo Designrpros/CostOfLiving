@@ -1,5 +1,5 @@
 ---
-title: 🇪🇸 Spain - Euro Lavish
+title: 🇪🇸 Spain
 description: Complete cost of living guide for Spain
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 🇬🇷 Greece - Euro Lavish
+title: 🇬🇷 Greece
 description: Complete cost of living guide for Greece
 ---
 

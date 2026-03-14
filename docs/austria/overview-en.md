@@ -1,5 +1,5 @@
 ---
-title: 🇦🇹 Austria - Euro Lavish
+title: 🇦🇹 Austria
 description: Complete cost of living guide for Austria
 ---
 

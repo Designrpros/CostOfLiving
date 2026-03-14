@@ -1,5 +1,5 @@
 ---
-title: 🇮🇹 Italy - Euro Lavish
+title: 🇮🇹 Italy
 description: Complete cost of living guide for Italy
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 🇧🇪 Belgium - Euro Lavish
+title: 🇧🇪 Belgium
 description: Complete cost of living guide for Belgium
 ---
 

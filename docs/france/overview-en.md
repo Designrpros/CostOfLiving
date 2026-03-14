@@ -1,5 +1,5 @@
 ---
-title: 🇫🇷 France - Euro Lavish
+title: 🇫🇷 France
 description: Complete cost of living guide for France
 ---
 

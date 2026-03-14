@@ -1,5 +1,5 @@
 ---
-title: 🇨🇭 Switzerland - Euro Lavish
+title: 🇨🇭 Switzerland
 description: Complete cost of living guide for Switzerland
 ---
 

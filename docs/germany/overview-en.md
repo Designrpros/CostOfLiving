@@ -1,5 +1,5 @@
 ---
-title: 🇩🇪 Germany - Euro Lavish
+title: 🇩🇪 Germany
 description: Complete cost of living guide for Germany
 ---
 

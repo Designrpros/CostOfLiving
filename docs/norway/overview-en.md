@@ -1,5 +1,5 @@
 ---
-title: 🇳🇴 Norway - Euro Lavish
+title: 🇳🇴 Norway
 description: Complete cost of living guide for Norway
 ---
 

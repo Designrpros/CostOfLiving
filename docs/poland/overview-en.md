@@ -1,5 +1,5 @@
 ---
-title: 🇵🇱 Poland - Euro Lavish
+title: 🇵🇱 Poland
 description: Complete cost of living guide for Poland
 ---
 

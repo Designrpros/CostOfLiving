@@ -1,5 +1,5 @@
 ---
-title: 🇩🇰 Denmark - Euro Lavish
+title: 🇩🇰 Denmark
 description: Complete cost of living guide for Denmark
 ---
 

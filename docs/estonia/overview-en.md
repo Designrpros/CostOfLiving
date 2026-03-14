@@ -1,5 +1,5 @@
 ---
-title: 🇪🇪 Estonia - Euro Lavish
+title: 🇪🇪 Estonia
 description: Complete cost of living guide for Estonia
 ---
 

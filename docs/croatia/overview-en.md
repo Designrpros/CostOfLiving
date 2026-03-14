@@ -1,5 +1,5 @@
 ---
-title: 🇭🇷 Croatia - Euro Lavish
+title: 🇭🇷 Croatia
 description: Complete cost of living guide for Croatia
 ---
 

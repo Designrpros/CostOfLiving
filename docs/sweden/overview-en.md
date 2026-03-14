@@ -1,5 +1,5 @@
 ---
-title: 🇸🇪 Sweden - Euro Lavish
+title: 🇸🇪 Sweden
 description: Complete cost of living guide for Sweden
 ---
 

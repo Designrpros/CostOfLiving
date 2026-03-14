@@ -1,5 +1,5 @@
 ---
-title: 🇲🇹 Malta - Euro Lavish
+title: 🇲🇹 Malta
 description: Complete cost of living guide for Malta
 ---
 

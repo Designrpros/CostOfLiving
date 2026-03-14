@@ -1,5 +1,5 @@
 ---
-title: 🇫🇮 Finland - Euro Lavish
+title: 🇫🇮 Finland
 description: Complete cost of living guide for Finland
 ---
 

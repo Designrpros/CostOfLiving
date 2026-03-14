@@ -1,5 +1,5 @@
 ---
-title: 🇮🇸 Iceland - Euro Lavish
+title: 🇮🇸 Iceland
 description: Complete cost of living guide for Iceland
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 🇷🇸 Serbia - Euro Lavish
+title: 🇷🇸 Serbia
 description: Complete cost of living guide for Serbia
 ---
 

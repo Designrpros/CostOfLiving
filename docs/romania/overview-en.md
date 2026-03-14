@@ -1,5 +1,5 @@
 ---
-title: 🇷🇴 Romania - Euro Lavish
+title: 🇷🇴 Romania
 description: Complete cost of living guide for Romania
 ---
 

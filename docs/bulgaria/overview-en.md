@@ -1,5 +1,5 @@
 ---
-title: 🇧🇬 Bulgaria - Euro Lavish
+title: 🇧🇬 Bulgaria
 description: Complete cost of living guide for Bulgaria
 ---
 

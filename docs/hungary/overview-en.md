@@ -1,5 +1,5 @@
 ---
-title: 🇭🇺 Hungary - Euro Lavish
+title: 🇭🇺 Hungary
 description: Complete cost of living guide for Hungary
 ---
 
