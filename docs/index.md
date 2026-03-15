@@ -76,7 +76,7 @@ description: Compare cost of living across 26 European countries
 ## 📊 Statistics
 
 - 26 Countries
-- 123+ Cities
+- 159+ Cities
 - Cheapest: 550€ (Greece)
 - Most Expensive: 2,580€ (Switzerland)
 

@@ -40,6 +40,6 @@ description: Cost of Living in Kohtla-Järve
 - **Best time to visit**: May - September
 
 ## ← Back
-[Back to Estonia overview](../overview.md)
+[Back to Estonia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

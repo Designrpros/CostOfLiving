@@ -100,11 +100,11 @@ description: Essential packing list for backpacking Europe
 
 ## 🔗 Related Pages
 
-- [🇬🇧 UK](../uk/overview/) - London, Manchester
-- [🇫🇷 France](../france/overview/) - Paris, Lyon
-- [🇩🇪 Germany](../germany/overview/) - Berlin, Munich
-- [🇪🇸 Spain](../spain/overview/) - Barcelona, Madrid
-- [🇮🇹 Italy](../italy/overview/) - Rome, Milan
+- [🇬🇧 UK](../uk/) - London, Manchester
+- [🇫🇷 France](../france/) - Paris, Lyon
+- [🇩🇪 Germany](../germany/) - Berlin, Munich
+- [🇪🇸 Spain](../spain/) - Barcelona, Madrid
+- [🇮🇹 Italy](../italy/) - Rome, Milan
 
 *Happy Travels! ✈️*
 

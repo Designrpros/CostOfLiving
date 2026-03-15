@@ -1,122 +1,125 @@
 ---
-title: 🛠️ Praktisk
-description: Nyttige verktøy og ressurser for flytting og liv i Europa
+title: 🛠️ Practical
+description: Useful tools and resources for moving to and living in Europe
 ---
 
-# 🛠️ Praktisk
+# 🛠️ Practical
 
-## 💱 Valuta & Økonomi
+## 💱 Currency & Finance
 
-| Tjeneste | Beskrivelse |
+| Service | Description |
 |----------|-------------|
-| [Wise](https://wise.com) | 💰 Internasjonale overføringer, lav avgift |
-| [Revolut](https://revolut.com) | 💳 Digital bank, gratis utland |
-| [N26](https://n26.com) | 🏦 Tysk nettbank |
-| [CurrencyConverter](https://www.xe.com) | 💱 Valutaomregner |
+| [Wise](https://wise.com) | 💰 International transfers, low fees |
+| [Revolut](https://revolut.com) | 💳 Digital banking, free exchange abroad |
+| [N26](https://n26.com) | 🏦 German online bank |
+| [CurrencyConverter](https://www.xe.com) | 💱 Real-time currency exchange |
 
-## 🏥 Forsikring & helse
+## 🏥 Insurance & Health
 
-| Tjeneste | Beskrivelse |
+| Service | Description |
 |----------|-------------|
-| [Europeisk helsetrygdkort](https://www.helsenorge.no/europeisk-helsetrygdkort) | 🏥 Gratis helse i EU |
-| [IF Forsikring](https://www.if.no) | 🛡️ Reise- og flytteforsikring |
-| [Fremtind](https://www.fremtind.no) | 🛡️ Forsikring |
-
-## 🇳🇴 For Nordmenn i Utlandet
-
-Her er de viktigste ressursene for deg som flytter fra Norge til et annet europeisk land:
-
-### 🏥 Helse & Trygd
-| Tjeneste | Beskrivelse |
-|----------|-------------|
-| [Helsenorge: S1-skjema](https://www.helsenorge.no/medlemskap-i-folketrygden/s1-skjema-dokumentasjon-pa-rett-til-helsetjenester/) | **S1-skjema**: Dokumentasjon på rett til helsetjenester ved flytting. |
-| [NAV: Medlemskap i folketrygden](https://www.nav.no/medlemskap-i-folketrygden) | Regler for medlemskap når du bor i utlandet. |
-| [NAV: Arbeid i utlandet](https://www.nav.no/arbeid-i-utlandet) | Informasjon om trygderettigheter ved jobb i EU/EØS. |
-
-### 🚑 Helsetrygdkort vs. S1-skjema: Hva trenger du?
-
-| Type | Varighet | Hva dekkes? | Passer for |
-|------|----------|-------------|------------|
-| **Helsetrygdkort (EHIC)** | Inntil 3-6 mnd | Nødvendig helsehjelp (haster) | Turister og korte opphold. |
-| **S1-skjema** | Over 6 mnd | Full rett til helsetjenester (som lokal) | Uføretrygdede som bor fast/lenge ute. |
-
-*Tips: Skal du være borte i nøyaktig 6 måneder, bør du kontakte Helsenorge i god tid for å avklare om du trenger S1 eller om helsetrygdkortet holder.*
-
-### 🛂 Registrering
-- **Meld flytting**: Husk å [melde flytting til Folkeregisteret](https://www.skatteetaten.no/person/folkeregister/flytte/til-utlandet/) hvis du skal være borte over 6 måneder.
-- **D-nummer/ID**: Sjekk om du trenger å beholde norsk bankID og mobilnumre for tilgang til offentlige tjenester.
-
-## ⏳ Oppholdets lengde: Viktige grenser
-
-Når du planlegger å være i utlandet over lengre tid, er det tre viktige tidsfrister du må kjenne til:
-
-### 1. **90 dager (3 måneder)** — *Residens-grensen*
-*   **Regel:** Innefor EU/EØS kan du fritt oppholde deg i et annet land i inntil 90 dager.
-*   **Handling:** Skal du være lenger, må du som regel registrere deg hos lokalt politi eller utlendingsmyndighet (f.eks. NIE i Spania eller "Anmeldung" i Tyskland).
-
-### 2. **183 dager (6 måneder)** — *Skatte-grensen*
-*   **Regel:** Oppholder du deg i et land i mer enn 183 dager i løpet av et år, blir du vanligvis ansett som skattemessig bosatt der.
-*   **Konsekvens:** Du kan bli skattepliktig til vertslandet for din globale inntekt/trygd (sjekk skatteavtalen mellom Norge og landet).
-
-### 3. **6 måneder i året** — *Folketrygd-grensen*
-*   **Regel:** For å beholde medlemskapet i den norske folketrygden, må du som hovedregel ikke oppholde deg i utlandet i mer enn 6 måneder totalt i et kalenderår.
-*   **S1-skjema:** Hvis du flytter permanent (over 6 mnd) og mottar uføretrygd, kan S1-skjemaet sikre deg helserettigheter i det nye landet mens Norge fortsatt betaler.
+| [European Health Insurance Card](https://www.helsenorge.no/europeisk-helsetrygdkort) | 🏥 Free healthcare in the EU/EEA |
+| [IF Insurance](https://www.if.no) | 🛡️ Travel and expat insurance |
+| [Fremtind](https://www.fremtind.no) | 🛡️ Insurance options |
 
 ---
 
-## 📱 Telekom & SIM
+## 🇳🇴 For Norwegian Citizens Abroad
 
-| Tjeneste | Beskrivelse |
+These are the most important resources for you if you are moving from Norway to another European country:
+
+### 🏥 Health & Social Security
+| Service | Description |
 |----------|-------------|
-| [Airalo](https://www.airalo.com) | 📱 eSIM for reiser |
-| [Holafly](https://www.holafly.com) | 📱 Ubegrenset data |
-| [Orange](https://www.orange.fr) | 🇫🇷 Fransk telekom |
-| [Telia](https://www.telia.no) | 🇸🇪🇩🇪 Nordisk dekning |
+| [Helsenorge: S1 Form](https://www.helsenorge.no/medlemskap-i-folketrygden/s1-skjema-dokumentasjon-pa-rett-til-helsetjenester/) | **S1 Form**: Documentation of right to healthcare when moving. |
+| [NAV: Folketrygden Membership](https://www.nav.no/medlemskap-i-folketrygden) | Rules for membership when living abroad. |
+| [NAV: Working Abroad](https://www.nav.no/arbeid-i-utlandet) | Information on social security rights for workers in EU/EEA. |
+
+### 🚑 EHIC vs. S1 Form: What do you need?
+
+| Type | Duration | What's covered? | Best for |
+|------|----------|-----------------|----------|
+| **EHIC Card** | Up to 3-6 months | Necessary healthcare (emergencies) | Tourists and short stays. |
+| **S1 Form** | Over 6 months | Full right to healthcare (same as locals) | Disability pensioners living long-term/permanently abroad. |
+
+*Tip: If you plan to be away for exactly 6 months, contact Helsenorge in good time to clarify whether you need the S1 or if the EHIC card is sufficient.*
+
+### 🛂 Registration & Moving
+- **Report Moving**: Remember to [report your move to the National Registry (Folkeregisteret)](https://www.skatteetaten.no/person/folkeregister/flytte/til-utlandet/) if you will be away for more than 6 months.
+- **ID & Banking**: Check if you need to keep your Norwegian BankID and mobile numbers for access to public services.
+
+---
+
+## ⏳ Length of Stay: Important Thresholds
+
+When planning an extended stay abroad, there are three critical legal deadlines to know:
+
+### 1. **90 Days (3 Months)** — *The Residency Threshold*
+*   **Rule:** Within the EU/EEA, you can freely stay in another country for up to 90 days.
+*   **Action:** For longer stays, you generally must register with local police or immigration authorities (e.g., NIE in Spain or "Anmeldung" in Germany).
+
+### 2. **183 Days (6 Months)** — *The Tax Threshold*
+*   **Rule:** If you stay in a country for more than 183 days in a year, you are usually considered tax-resident there.
+*   **Consequence:** You may become liable for tax in the host country on your global income/pension (check the tax treaty between Norway and that country).
+
+### 3. **6 Months per Year** — *The Social Security Threshold*
+*   **Rule:** To maintain membership in the Norwegian National Insurance Scheme (Folketrygden), you generally must not be abroad for more than 6 months total in a calendar year.
+*   **S1 Form:** If moving permanently (over 6 months) while receiving uføretrygd, the S1 form can secure your health rights in the new country while Norway still pays.
+
+---
+
+## 📱 Telecom & SIM
+
+| Service | Description |
+|----------|-------------|
+| [Airalo](https://www.airalo.com) | 📱 eSIM for travel |
+| [Holafly](https://www.holafly.com) | 📱 Unlimited data plans |
+| [Orange](https://www.orange.fr) | 🇫🇷 French telecom (Orange Holiday) |
+| [Telia](https://www.telia.no) | 🇸🇪🇩🇪 Nordic & Baltic coverage |
 
 ## ✈️ Transport
 
-| Tjeneste | Beskrivelse |
+| Service | Description |
 |----------|-------------|
-| [Skyscanner](https://www.skyscanner.no) | ✈️ Flypriser |
-| [Rome2Rio](https://www.rome2rio.com) | 🚌 Transport-reiserute |
-| [FlixBus](https://www.flixbus.no) | 🚌 Billig buss |
-| [Rail Europe](https://www.raileurope.com) | 🚂 Tog i Europa |
-| [Entur](https://www.entur.no) | 🚃 Norsk kollektiv |
+| [Skyscanner](https://www.skyscanner.net) | ✈️ Flight price comparison |
+| [Rome2Rio](https://www.rome2rio.com) | 🚌 Transport route planner |
+| [FlixBus](https://www.flixbus.com) | 🚌 Budget bus travel |
+| [Rail Europe](https://www.raileurope.com) | 🚂 European train tickets |
 
-## 🏠 Bolig
+## 🏠 Housing
 
-| Tjeneste | Beskrivelse |
+| Service | Description |
 |----------|-------------|
-| [HousingAnywhere](https://www.housinganywhere.com) | 🏠 Internasjonal leie |
-| [Spotahome](https://www.spotahome.com) | 🏠 Leie med video-visning |
-| [Uniplaces](https://www.uniplaces.com) | 🏠 Studentbolig |
+| [HousingAnywhere](https://www.housinganywhere.com) | 🏠 International rentals |
+| [Spotahome](https://www.spotahome.com) | 🏠 Rentals with video tours |
+| [Uniplaces](https://www.uniplaces.com) | 🏠 Student housing |
 
-## 💼 Jobb
+## 💼 Jobs
 
-| Tjeneste | Beskrivelse |
+| Service | Description |
 |----------|-------------|
-| [Indeed Europe](https://www.indeed.com) | 💼 Jobbsøk EU |
-| [LinkedIn](https://www.linkedin.com) | 💼 Nettverk |
-| [EURES](https://eures.ec.europa.eu) | 💼 EU jobbportal |
-| [Glassdoor](https://www.glassdoor.com) | 💼 Lønn & anmeldelser |
+| [Indeed Europe](https://www.indeed.com) | 💼 Job search EU |
+| [LinkedIn](https://www.linkedin.com) | 💼 Professional network |
+| [EURES](https://eures.ec.europa.eu) | 💼 EU job portal |
+| [Glassdoor](https://www.glassdoor.com) | 💼 Salaries & reviews |
 
-## 🏥 Juridisk & Visa
+## ⚖️ Legal & Visa
 
-| Tjeneste | Beskrivelse |
+| Service | Description |
 |----------|-------------|
-| [UDI](https://www.udi.no) | 🇳🇴 Norsk utlendingsdirektorat |
-| [EU Immigration](https://immigration.gov.ie) | 🇮🇪 Irsk immigrasjon |
-| [GOV.UK](https://www.gov.uk) | 🇬🇧 UK visum |
+| [UDI](https://www.udi.no) | 🇳🇴 Norwegian Directorate of Immigration |
+| [EU Immigration](https://immigration.gov.ie) | 🇮🇪 Irish immigration portal |
+| [GOV.UK](https://www.gov.uk) | 🇬🇧 UK visa information |
 
-## 🌐 Annet
+## 🌐 Research & Stats
 
-| Tjeneste | Beskrivelse |
+| Service | Description |
 |---------|-------------|
-| [Numbeo](https://www.numbeo.com) | 📊 Levekostnader |
-| [Expatistan](https://www.expatistan.com) | 📊 Sammenlign levekostnad |
-| [TripAdvisor](https://www.tripadvisor.com) | 🎯 Anmeldelser |
-| [Wikivoyage](https://en.wikivoyage.org) | 📖 Reiseguider |
+| [Numbeo](https://www.numbeo.com) | 📊 Cost of living data |
+| [Expatistan](https://www.expatistan.com) | 📊 Compare cost of living |
+| [TripAdvisor](https://www.tripadvisor.com) | 🎯 Travel reviews |
+| [Wikivoyage](https://en.wikivoyage.org) | 📖 Free travel guides |
 
 ---
 
-*Samlet av Euro Lavish - Cost of Living in Europe*
+*Compiled by Euro Lavish - Cost of Living in Europe*

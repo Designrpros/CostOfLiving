@@ -1,89 +1,89 @@
 ---
-title: 🌍 Nyttige Lenker for Europa
-description: Generelle lenker for hele Europa
+title: 🌍 Useful Links for Europe
+description: General links for the whole of Europe
 ---
 
-# 🌍 Nyttige Lenker for Europa
+# 🌍 Useful Links for Europe
 
-## 🏠 Eiendom & Bolig
+## 🏠 Property & Housing
 
-| Lenke | Beskrivelse | Land |
+| Link | Description | Country |
 |-------|-------------|------|
-| [Finn.no](https://www.finn.no) | 🔴 Største i Norge | 🇳🇴 |
-| [Idealista](https://www.idealista.com) | Spania, Italia, Portugal | 🇪🇸🇵🇹🇮🇹 |
-| [ImmobilienScout24](https://www.immobilienscout24.de) | Tyskland | 🇩🇪 |
-| [Rightmove](https://www.rightmove.co.uk) | Storbritannia | 🇬🇧 |
-| [Pararius](https://www.pararius.com) | Nederland | 🇳🇱 |
-| [SeLoger](https://www.seloger.com) | Frankrike | 🇫🇷 |
-| [Spitogatos](https://www.spitogatos.gr) | Hellas | 🇬🇷 |
-| [OLX](https://www.olx.pl) | Polen | 🇵🇱 |
+| [Finn.no](https://www.finn.no) | 🔴 Largest in Norway | 🇳🇴 |
+| [Idealista](https://www.idealista.com) | Spain, Italy, Portugal | 🇪🇸🇵🇹🇮🇹 |
+| [ImmobilienScout24](https://www.immobilienscout24.de) | Germany | 🇩🇪 |
+| [Rightmove](https://www.rightmove.co.uk) | United Kingdom | 🇬🇧 |
+| [Pararius](https://www.pararius.com) | Netherlands | 🇳🇱 |
+| [SeLoger](https://www.seloger.com) | France | 🇫🇷 |
+| [Spitogatos](https://www.spitogatos.gr) | Greece | 🇬🇷 |
+| [OLX](https://www.olx.pl) | Poland | 🇵🇱 |
 
-## 🛒 Kjøp & Salg (Brukt)
+## 🛒 Buy & Sell (Second hand)
 
-| Lenke | Beskrivelse |
+| Link | Description |
 |-------|-------------|
-| [eBay](https://www.ebay.com) | 🟡 Internasjalt |
-| [Facebook Marketplace](https://www.facebook.com/marketplace) | Facebook |
-| [Vinted](https://www.vinted.com) | Klær |
-| [Tradera](https://www.tradera.com) | Svensk auction |
-| [Kleider](https://www.kleider.ch) | Sveitsisk |
+| [eBay](https://www.ebay.com) | 🟡 International |
+| [Facebook Marketplace](https://www.facebook.com/marketplace) | Personal sales |
+| [Vinted](https://www.vinted.com) | Clothing |
+| [Tradera](https://www.tradera.com) | Swedish auctions |
+| [Kleider](https://www.kleider.ch) | Swiss marketplace |
 
-## 💼 Jobb
+## 💼 Jobs
 
-| Lenke | Beskrivelse |
+| Link | Description |
 |-------|-------------|
-| [Indeed Europe](https://www.indeed.com) | Jobbsøk EU |
-| [LinkedIn](https://www.linkedin.com) | Profesjonelt nettverk |
-| [EURES](https://eures.ec.europa.eu) | EU jobbportal |
-| [Glassdoor](https://www.glassdoor.com) | Lønn & anmeldelser |
-| [XING](https://www.xing.com) | Tysk LinkedIn |
+| [Indeed Europe](https://www.indeed.com) | Job search EU |
+| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [EURES](https://eures.ec.europa.eu) | EU job portal |
+| [Glassdoor](https://www.glassdoor.com) | Salaries & reviews |
+| [XING](https://www.xing.com) | German professional network |
 
 ## 🚌 Transport
 
-| Lenke | Beskrivelse |
+| Link | Description |
 |-------|-------------|
-| [Rome2Rio](https://www.rome2rio.com) | Transport-planlegging |
-| [Rail Europe](https://www.raileurope.com) | Tog i Europa |
-| [FlixBus](https://www.flixbus.no) | Buss |
-| [Skyscanner](https://www.skyscanner.no) | Fly |
-| [Google Maps](https://maps.google.com) | Kart |
+| [Rome2Rio](https://www.rome2rio.com) | Transport route planning |
+| [Rail Europe](https://www.raileurope.com) | European trains |
+| [FlixBus](https://www.flixbus.com) | Budget bus travel |
+| [Skyscanner](https://www.skyscanner.net) | Flights |
+| [Google Maps](https://maps.google.com) | Navigation |
 
-## 🎮 Reddit Fellesskap
+## 🎮 Reddit Communities
 
-| Lenke | Beskrivelse |
+| Link | Description |
 |-------|-------------|
-| [r/expats](https://www.reddit.com/r/expats/) | Expats i Europa |
-| [r/digitalnomad](https://www.reddit.com/r/digitalnomad/) | Digital nomader |
-| [r/IWantOut](https://www.reddit.com/r/IWantOut/) | Flytte ut |
-| [r/Europe](https://www.reddit.com/r/Europe/) | Europa generelt |
+| [r/expats](https://www.reddit.com/r/expats/) | Expats in Europe |
+| [r/digitalnomad](https://www.reddit.com/r/digitalnomad/) | Digital Nomads |
+| [r/IWantOut](https://www.reddit.com/r/IWantOut/) | Relocation guide |
+| [r/Europe](https://www.reddit.com/r/Europe/) | General Europe |
 
-## 🌤️ Vær & Klima
+## 🌤️ Weather & Climate
 
-| Lenke | Beskrivelse |
+| Link | Description |
 |-------|-------------|
-| [Windy.com](https://www.windy.com) | Vær & vind |
-| [yr.no](https://www.yr.no) | Norsk vær |
-| [Magic Seaweed](https://www.magicseaweed.com) | Surf-vær |
-| [Snow-Forecast](https://www.snow-forecast.com) | Snø-vær |
+| [Windy.com](https://www.windy.com) | Weather & wind maps |
+| [yr.no](https://www.yr.no) | Norwegian weather service (Very accurate) |
+| [Magic Seaweed](https://www.magicseaweed.com) | Surf forecasts |
+| [Snow-Forecast](https://www.snow-forecast.com) | Snow & skiing |
 
-## 🌐 Turisme & Anmeldelser
+## 🌐 Tourism & Research
 
-| Lenke | Beskrivelse |
+| Link | Description |
 |-------|-------------|
-| [Lonely Planet](https://www.lonelyplanet.com) | Reiseguider |
-| [TripAdvisor](https://www.tripadvisor.com) | Anmeldelser |
-| [Wikivoyage](https://en.wikivoyage.org) | Gratis reiseguide |
-| [Eurostat](https://ec.europa.eu/eurostat) | EU statistikk |
+| [Lonely Planet](https://www.lonelyplanet.com) | Travel guides |
+| [TripAdvisor](https://www.tripadvisor.com) | Reviews |
+| [Wikivoyage](https://en.wikivoyage.org) | Free travel guides |
+| [Eurostat](https://ec.europa.eu/eurostat) | EU statistics |
 
-## 📱 Praktisk
+## 📱 Practical Tools
 
-| Lenke | Beskrivelse |
+| Link | Description |
 |-------|-------------|
-| [Wise](https://wise.com) | Valuta/overføringer |
-| [Google Translate](https://translate.google.com) | Oversettelse |
-| [Numbeo](https://www.numbeo.com) | Levekostnader |
-| [Expatistan](https://www.expatistan.com) | Levekostnader |
+| [Wise](https://wise.com) | Currency/transfers |
+| [Google Translate](https://translate.google.com) | Translation |
+| [Numbeo](https://www.numbeo.com) | Cost of living |
+| [Expatistan](https://www.expatistan.com) | Cost of living |
 
 ---
 
-*Samlet av Euro Lavish - Cost of Living in Europe*
+*Compiled by Euro Lavish - Cost of Living in Europe*

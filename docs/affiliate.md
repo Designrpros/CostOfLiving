@@ -1,94 +1,94 @@
 ---
 title: 💰 Affiliate
-description: Tjenester vi anbefaler - og tjener kommisjon på
+description: Services we recommend - and earn commission from
 ---
 
 # 💰 Affiliate
 
-*Vi anbefaler tjenester vi selv bruker og stoler på. Ved kjøp gjennom våre linker får vi en liten provisjon - uten ekstra kostnad for deg!*
+*We recommend services we use and trust. When you buy through our links, we earn a small commission - at no extra cost to you!*
 
 ---
 
-## 🏨 Hotell & Leie
+## 🏨 Hotels & Rentals
 
-| Tjeneste | Beskrivelse | Komisjon |
+| Service | Description | Commission |
 |----------|-------------|----------|
-| [Booking.com](https://www.booking.com/?aid=1903278) | 🔴 Verdens største hotell | ~3-5% |
-| [Hotels.com](https://www.hotels.com) | 🔵 Hotellsøk | ~3% |
-| [Airbnb](https://www.airbnb.com/c/alcatel5) | 🟡 Leie av privatbolig | ~3% |
-| [Vrbo](https://www.vrbo.com) | Ferieboliger | ~3% |
+| [Booking.com](https://www.booking.com/?aid=1903278) | 🔴 World's largest hotel site | ~3-5% |
+| [Hotels.com](https://www.hotels.com) | 🔵 Hotel search engine | ~3% |
+| [Airbnb](https://www.airbnb.com/c/alcatel5) | 🟡 Private home rentals | ~3% |
+| [Vrbo](https://www.vrbo.com) | Vacation rentals | ~3% |
 
 ---
 
-## ✈️ Reise & Transport
+## ✈️ Travel & Transport
 
-| Tjeneste | Beskrivelse | Komisjon |
+| Service | Description | Commission |
 |----------|-------------|----------|
-| [Skyscanner](https://www.skyscanner.net) | ✈️ Flypriser | ~2% |
-| [Rentalcars.com](https://www.rentalcars.com) | Bilutleie | ~5% |
-| [Discover Cars](https://www.discovercars.com) | Bilutleie | ~5% |
-| [FlixBus](https://www.flixbus.no) | 🚌 Billig buss | ~2% |
-| [Rail Europe](https://www.raileurope.com) | 🚂 Tog i Europa | ~3% |
+| [Skyscanner](https://www.skyscanner.net) | ✈️ Flight comparison | ~2% |
+| [Rentalcars.com](https://www.rentalcars.com) | Car rentals | ~5% |
+| [Discover Cars](https://www.discovercars.com) | Car rentals | ~5% |
+| [FlixBus](https://www.flixbus.com) | 🚌 Budget bus travel | ~2% |
+| [Rail Europe](https://www.raileurope.com) | 🚂 European trains | ~3% |
 
 ---
 
-## 💱 Valuta & Bank
+## 💱 Currency & Banking
 
-| Tjeneste | Beskrivelse | Komisjon |
+| Service | Description | Commission |
 |----------|-------------|----------|
-| [Wise](https://wise.com/pricing) | 💰 Internasjonale overføringer | ~€10 ved første overføring |
-| [Revolut](https://revolut.com/referral/?referral-code=alcatel) | 💳 Digital bank | ~€10-50 |
-| [N26](https://n26.com) | 🏦 Tysk nettbank | ~€10 |
+| [Wise](https://wise.com/pricing) | 💰 International transfers | ~€10 on first transfer |
+| [Revolut](https://revolut.com/referral/?referral-code=alcatel) | 💳 Digital banking | ~€10-50 |
+| [N26](https://n26.com) | 🏦 German online bank | ~€10 |
 
 ---
 
-## 🏠 Bolig & Eiendom
+## 🏠 Housing & Property
 
-| Tjeneste | Beskrivelse | Komisjon |
+| Service | Description | Commission |
 |----------|-------------|----------|
-| [HousingAnywhere](https://www.housinganywhere.com) | 🏠 Internasjonal leie | ~10% |
-| [Spotahome](https://www.spotahome.com) | Leie m/video | ~€20-40 |
-| [Uniplaces](https://www.uniplaces.com) | Studentbolig | ~€20-40 |
+| [HousingAnywhere](https://www.housinganywhere.com) | 🏠 International rentals | ~10% |
+| [Spotahome](https://www.spotahome.com) | Rentals with video tours | ~€20-40 |
+| [Uniplaces](https://www.uniplaces.com) | Student housing | ~€20-40 |
 
 ---
 
-## 📱 Telekom & eSIM
+## 📱 Telecom & eSIM
 
-| Tjeneste | Beskrivelse | Komisjon |
+| Service | Description | Commission |
 |----------|-------------|----------|
-| [Airalo](https://www.airalo.com) | 📱 eSIM globalt | ~5% |
-| [Holafly](https://www.holafly.com) | Ubegrenset data | ~5% |
-| [Nomad](https://nomad.com) | eSIM + telefon | ~$20 |
+| [Airalo](https://www.airalo.com) | 📱 Global eSIM | ~5% |
+| [Holafly](https://www.holafly.com) | Unlimited data | ~5% |
+| [Nomad](https://nomad.com) | eSIM + phone services | ~$20 |
 
 ---
 
-## 🛡️ Forsikring & Finance
+## 🛡️ Insurance & Finance
 
-| Tjeneste | Beskrivelse | Komisjon |
+| Service | Description | Commission |
 |----------|-------------|----------|
-| [SafetyWing](https://safetywing.com) | 🛡️ Digital nomad forsikring | ~10% |
-| [World Nomads](https://www.worldnomads.com) | Reiseforsikring | ~5% |
-| [Coverwallet](https://www.coverwallet.com) | Forsikring sammenligning | ~5% |
+| [SafetyWing](https://safetywing.com) | 🛡️ Digital nomad insurance | ~10% |
+| [World Nomads](https://www.worldnomads.com) | Travel insurance | ~5% |
+| [Coverwallet](https://www.coverwallet.com) | Insurance comparison | ~5% |
 
 ---
 
-## 💼 Jobb & Karriere
+## 💼 Jobs & Career
 
-| Tjeneste | Beskrivelse | Komisjon |
+| Service | Description | Commission |
 |----------|-------------|----------|
-| [LinkedIn Premium](https://www.linkedin.com/premium) | 💼 Jobbsøk | Varierer |
-| [Indeed](https://www.indeed.com) | Jobbsøk | ~$20 per ansettelse |
+| [LinkedIn Premium](https://www.linkedin.com/premium) | 💼 Job seeking | Varies |
+| [Indeed](https://www.indeed.com) | Job searching | ~$20 per hire |
 
 ---
 
-## 🔗 Slik fungerer det
+## 🔗 How it works
 
-1. **Klikk** på en link ovenfor
-2. **Registrer deg** eller **bestill** som vanlig
-3. **Vi tjener** en liten provisjon - uten at det koster deg noe ekstra!
+1. **Click** on a link above
+2. **Register** or **book** as usual
+3. **We earn** a small commission - at no extra cost to you!
 
-*Takk for din støtte! 💚*
+*Thank you for your support! 💚*
 
 ---
 
-*Oppdatert: Mars 2026*
+*Updated: March 2026*

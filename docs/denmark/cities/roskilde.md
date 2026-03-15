@@ -40,6 +40,6 @@ description: Cost of Living in Roskilde
 - **Best time to visit**: May - September
 
 ## ← Back
-[Back to Denmark overview](../overview.md)
+[Back to Denmark overview](../index.md)
 
 *Data: Numbeo.com, March 2026*
