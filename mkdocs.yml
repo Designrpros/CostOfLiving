@@ -6,7 +6,7 @@ site_url: https://costofliving.no/
 theme:
   name: material
   favicon: assets/favicon.svg
-  logo: false
+  logo: assets/favicon.svg
   palette:
     primary: teal
     accent: cyan
