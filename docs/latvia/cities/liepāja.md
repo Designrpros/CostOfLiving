@@ -27,3 +27,4 @@ description: Cost of Living in Liepāja
 | 💻 **Coworking** | [Find Coworking in Liepāja](https://www.google.com/maps/search/Coworking+Spaces+in+Liepāja) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Liepāja](https://www.google.com/maps/search/laptop+friendly+cafes+in+Liepāja) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Liepāja](https://www.google.com/maps/search/supermarket+in+Liepāja) |
+| 🥾 **Hiking Trails** | [Find Trails in Liepāja](https://www.google.com/maps/search/Hiking+Trails+in+Liepāja) |

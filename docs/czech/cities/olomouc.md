@@ -27,6 +27,7 @@ description: Cost of Living in Olomouc
 | 💻 **Coworking** | [Find Coworking in Olomouc](https://www.google.com/maps/search/Coworking+Spaces+in+Olomouc) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Olomouc](https://www.google.com/maps/search/laptop+friendly+cafes+in+Olomouc) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Olomouc](https://www.google.com/maps/search/supermarket+in+Olomouc) |
+| 🥾 **Hiking Trails** | [Find Trails in Olomouc](https://www.google.com/maps/search/Hiking+Trails+in+Olomouc) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -38,6 +38,7 @@ description: Complete cost of living guide for Iceland
 | 💻 **Coworking** | [Find Coworking in 🇮🇸 Iceland](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇸+Iceland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇸 Iceland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇸+Iceland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇸 Iceland](https://www.google.com/maps/search/supermarket+in+🇮🇸+Iceland) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇮🇸 Iceland](https://www.google.com/maps/search/Hiking+Trails+in+🇮🇸+Iceland) |
 
 ## 🇪🇺 European Resident Info
 

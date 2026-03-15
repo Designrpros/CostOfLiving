@@ -27,6 +27,7 @@ description: Cost of Living in Cluj-Napoca
 | 💻 **Coworking** | [Find Coworking in Cluj-Napoca](https://www.google.com/maps/search/Coworking+Spaces+in+Cluj-Napoca) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Cluj-Napoca](https://www.google.com/maps/search/laptop+friendly+cafes+in+Cluj-Napoca) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Cluj-Napoca](https://www.google.com/maps/search/supermarket+in+Cluj-Napoca) |
+| 🥾 **Hiking Trails** | [Find Trails in Cluj-Napoca](https://www.google.com/maps/search/Hiking+Trails+in+Cluj-Napoca) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Leuven
 | 💻 **Coworking** | [Find Coworking in Leuven](https://www.google.com/maps/search/Coworking+Spaces+in+Leuven) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Leuven](https://www.google.com/maps/search/laptop+friendly+cafes+in+Leuven) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Leuven](https://www.google.com/maps/search/supermarket+in+Leuven) |
+| 🥾 **Hiking Trails** | [Find Trails in Leuven](https://www.google.com/maps/search/Hiking+Trails+in+Leuven) |
 
 ## 🏨 Hotels & Airbnb
 

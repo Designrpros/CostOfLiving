@@ -33,6 +33,7 @@ description: Complete cost of living guide for Montenegro
 | 💻 **Coworking** | [Find Coworking in 🇲🇪 Montenegro](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇪+Montenegro) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇪 Montenegro](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇪+Montenegro) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇪 Montenegro](https://www.google.com/maps/search/supermarket+in+🇲🇪+Montenegro) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇲🇪 Montenegro](https://www.google.com/maps/search/Hiking+Trails+in+🇲🇪+Montenegro) |
 
 ## 🇪🇺 European Resident Info
 

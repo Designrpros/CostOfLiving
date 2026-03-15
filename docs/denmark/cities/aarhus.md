@@ -27,6 +27,7 @@ description: Cost of Living in Aarhus
 | 💻 **Coworking** | [Find Coworking in Aarhus](https://www.google.com/maps/search/Coworking+Spaces+in+Aarhus) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Aarhus](https://www.google.com/maps/search/laptop+friendly+cafes+in+Aarhus) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Aarhus](https://www.google.com/maps/search/supermarket+in+Aarhus) |
+| 🥾 **Hiking Trails** | [Find Trails in Aarhus](https://www.google.com/maps/search/Hiking+Trails+in+Aarhus) |
 
 ## 🏨 Hotels & Airbnb
 

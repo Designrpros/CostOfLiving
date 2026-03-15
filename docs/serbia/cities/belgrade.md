@@ -27,6 +27,7 @@ description: Cost of Living in Belgrade
 | 💻 **Coworking** | [Find Coworking in Belgrade](https://www.google.com/maps/search/Coworking+Spaces+in+Belgrade) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Belgrade](https://www.google.com/maps/search/laptop+friendly+cafes+in+Belgrade) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Belgrade](https://www.google.com/maps/search/supermarket+in+Belgrade) |
+| 🥾 **Hiking Trails** | [Find Trails in Belgrade](https://www.google.com/maps/search/Hiking+Trails+in+Belgrade) |
 
 ## 🏨 Hotels & Airbnb
 

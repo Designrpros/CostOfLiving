@@ -27,3 +27,4 @@ description: Cost of Living in Durrës
 | 💻 **Coworking** | [Find Coworking in Durrës](https://www.google.com/maps/search/Coworking+Spaces+in+Durrës) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Durrës](https://www.google.com/maps/search/laptop+friendly+cafes+in+Durrës) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Durrës](https://www.google.com/maps/search/supermarket+in+Durrës) |
+| 🥾 **Hiking Trails** | [Find Trails in Durrës](https://www.google.com/maps/search/Hiking+Trails+in+Durrës) |

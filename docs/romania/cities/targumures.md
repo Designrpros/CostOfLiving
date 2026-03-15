@@ -27,6 +27,7 @@ description: Cost of Living in Târgu Mureș
 | 💻 **Coworking** | [Find Coworking in Târgu Mureș](https://www.google.com/maps/search/Coworking+Spaces+in+Târgu+Mureș) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Târgu Mureș](https://www.google.com/maps/search/laptop+friendly+cafes+in+Târgu+Mureș) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Târgu Mureș](https://www.google.com/maps/search/supermarket+in+Târgu+Mureș) |
+| 🥾 **Hiking Trails** | [Find Trails in Târgu Mureș](https://www.google.com/maps/search/Hiking+Trails+in+Târgu+Mureș) |
 
 ## 🏨 Hotels & Airbnb
 

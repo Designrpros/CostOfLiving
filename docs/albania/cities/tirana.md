@@ -27,3 +27,4 @@ description: Cost of Living in Tirana
 | 💻 **Coworking** | [Find Coworking in Tirana](https://www.google.com/maps/search/Coworking+Spaces+in+Tirana) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Tirana](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tirana) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Tirana](https://www.google.com/maps/search/supermarket+in+Tirana) |
+| 🥾 **Hiking Trails** | [Find Trails in Tirana](https://www.google.com/maps/search/Hiking+Trails+in+Tirana) |

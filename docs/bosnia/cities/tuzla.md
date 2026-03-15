@@ -27,3 +27,4 @@ description: Cost of Living in Tuzla
 | 💻 **Coworking** | [Find Coworking in Tuzla](https://www.google.com/maps/search/Coworking+Spaces+in+Tuzla) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Tuzla](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tuzla) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Tuzla](https://www.google.com/maps/search/supermarket+in+Tuzla) |
+| 🥾 **Hiking Trails** | [Find Trails in Tuzla](https://www.google.com/maps/search/Hiking+Trails+in+Tuzla) |

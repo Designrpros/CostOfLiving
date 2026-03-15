@@ -38,6 +38,7 @@ description: Complete cost of living guide for Belgium
 | 💻 **Coworking** | [Find Coworking in 🇧🇪 Belgium](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇪+Belgium) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇪 Belgium](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇪+Belgium) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇪 Belgium](https://www.google.com/maps/search/supermarket+in+🇧🇪+Belgium) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇧🇪 Belgium](https://www.google.com/maps/search/Hiking+Trails+in+🇧🇪+Belgium) |
 
 ## 🇪🇺 European Resident Info
 

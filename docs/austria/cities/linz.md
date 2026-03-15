@@ -27,6 +27,7 @@ description: Cost of Living in Linz
 | 💻 **Coworking** | [Find Coworking in Linz](https://www.google.com/maps/search/Coworking+Spaces+in+Linz) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Linz](https://www.google.com/maps/search/laptop+friendly+cafes+in+Linz) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Linz](https://www.google.com/maps/search/supermarket+in+Linz) |
+| 🥾 **Hiking Trails** | [Find Trails in Linz](https://www.google.com/maps/search/Hiking+Trails+in+Linz) |
 
 ## 🏨 Hotels & Airbnb
 

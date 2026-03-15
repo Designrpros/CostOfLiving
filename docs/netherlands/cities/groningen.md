@@ -27,6 +27,7 @@ description: Cost of Living in Groningen
 | 💻 **Coworking** | [Find Coworking in Groningen](https://www.google.com/maps/search/Coworking+Spaces+in+Groningen) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Groningen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Groningen) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Groningen](https://www.google.com/maps/search/supermarket+in+Groningen) |
+| 🥾 **Hiking Trails** | [Find Trails in Groningen](https://www.google.com/maps/search/Hiking+Trails+in+Groningen) |
 
 ## 🏨 Hotels & Airbnb
 

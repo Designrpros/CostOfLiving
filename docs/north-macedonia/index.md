@@ -33,6 +33,7 @@ description: Complete cost of living guide for North Macedonia
 | 💻 **Coworking** | [Find Coworking in 🇲🇰 North Macedonia](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇰+North+Macedonia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇰 North Macedonia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇰+North+Macedonia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇰 North Macedonia](https://www.google.com/maps/search/supermarket+in+🇲🇰+North+Macedonia) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇲🇰 North Macedonia](https://www.google.com/maps/search/Hiking+Trails+in+🇲🇰+North+Macedonia) |
 
 ## 🇪🇺 European Resident Info
 

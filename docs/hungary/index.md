@@ -38,6 +38,7 @@ description: Complete cost of living guide for Hungary
 | 💻 **Coworking** | [Find Coworking in 🇭🇺 Hungary](https://www.google.com/maps/search/Coworking+Spaces+in+🇭🇺+Hungary) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇭🇺 Hungary](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇭🇺+Hungary) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇭🇺 Hungary](https://www.google.com/maps/search/supermarket+in+🇭🇺+Hungary) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇭🇺 Hungary](https://www.google.com/maps/search/Hiking+Trails+in+🇭🇺+Hungary) |
 
 ## 🇪🇺 European Resident Info
 

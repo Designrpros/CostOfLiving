@@ -27,6 +27,7 @@ description: Cost of Living in Lisbon
 | 💻 **Coworking** | [Find Coworking in Lisbon](https://www.google.com/maps/search/Coworking+Spaces+in+Lisbon) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Lisbon](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lisbon) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Lisbon](https://www.google.com/maps/search/supermarket+in+Lisbon) |
+| 🥾 **Hiking Trails** | [Find Trails in Lisbon](https://www.google.com/maps/search/Hiking+Trails+in+Lisbon) |
 
 ## 🏨 Hotels & Airbnb
 

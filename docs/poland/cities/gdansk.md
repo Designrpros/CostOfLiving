@@ -27,6 +27,7 @@ description: Cost of Living in Gdańsk
 | 💻 **Coworking** | [Find Coworking in Gdańsk](https://www.google.com/maps/search/Coworking+Spaces+in+Gdańsk) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Gdańsk](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gdańsk) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Gdańsk](https://www.google.com/maps/search/supermarket+in+Gdańsk) |
+| 🥾 **Hiking Trails** | [Find Trails in Gdańsk](https://www.google.com/maps/search/Hiking+Trails+in+Gdańsk) |
 
 ## 🏨 Hotels & Airbnb
 

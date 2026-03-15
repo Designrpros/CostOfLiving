@@ -27,6 +27,7 @@ description: Cost of Living in Birmingham
 | 💻 **Coworking** | [Find Coworking in Birmingham](https://www.google.com/maps/search/Coworking+Spaces+in+Birmingham) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Birmingham](https://www.google.com/maps/search/laptop+friendly+cafes+in+Birmingham) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Birmingham](https://www.google.com/maps/search/supermarket+in+Birmingham) |
+| 🥾 **Hiking Trails** | [Find Trails in Birmingham](https://www.google.com/maps/search/Hiking+Trails+in+Birmingham) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Zurich
 | 💻 **Coworking** | [Find Coworking in Zurich](https://www.google.com/maps/search/Coworking+Spaces+in+Zurich) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Zurich](https://www.google.com/maps/search/laptop+friendly+cafes+in+Zurich) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Zurich](https://www.google.com/maps/search/supermarket+in+Zurich) |
+| 🥾 **Hiking Trails** | [Find Trails in Zurich](https://www.google.com/maps/search/Hiking+Trails+in+Zurich) |
 
 ## 🏨 Hotels & Airbnb
 

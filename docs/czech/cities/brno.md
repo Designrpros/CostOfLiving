@@ -27,6 +27,7 @@ description: Cost of Living in Brno
 | 💻 **Coworking** | [Find Coworking in Brno](https://www.google.com/maps/search/Coworking+Spaces+in+Brno) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Brno](https://www.google.com/maps/search/laptop+friendly+cafes+in+Brno) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Brno](https://www.google.com/maps/search/supermarket+in+Brno) |
+| 🥾 **Hiking Trails** | [Find Trails in Brno](https://www.google.com/maps/search/Hiking+Trails+in+Brno) |
 
 ## 🏨 Hotels & Airbnb
 

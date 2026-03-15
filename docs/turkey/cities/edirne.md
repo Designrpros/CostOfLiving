@@ -27,3 +27,4 @@ description: Cost of Living in Edirne
 | 💻 **Coworking** | [Find Coworking in Edirne](https://www.google.com/maps/search/Coworking+Spaces+in+Edirne) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Edirne](https://www.google.com/maps/search/laptop+friendly+cafes+in+Edirne) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Edirne](https://www.google.com/maps/search/supermarket+in+Edirne) |
+| 🥾 **Hiking Trails** | [Find Trails in Edirne](https://www.google.com/maps/search/Hiking+Trails+in+Edirne) |

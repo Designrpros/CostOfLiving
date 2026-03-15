@@ -27,6 +27,7 @@ description: Cost of Living in Västerås
 | 💻 **Coworking** | [Find Coworking in Västerås](https://www.google.com/maps/search/Coworking+Spaces+in+Västerås) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Västerås](https://www.google.com/maps/search/laptop+friendly+cafes+in+Västerås) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Västerås](https://www.google.com/maps/search/supermarket+in+Västerås) |
+| 🥾 **Hiking Trails** | [Find Trails in Västerås](https://www.google.com/maps/search/Hiking+Trails+in+Västerås) |
 
 ## 🏨 Hotels & Airbnb
 

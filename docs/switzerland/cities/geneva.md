@@ -27,6 +27,7 @@ description: Cost of Living in Geneva
 | 💻 **Coworking** | [Find Coworking in Geneva](https://www.google.com/maps/search/Coworking+Spaces+in+Geneva) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Geneva](https://www.google.com/maps/search/laptop+friendly+cafes+in+Geneva) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Geneva](https://www.google.com/maps/search/supermarket+in+Geneva) |
+| 🥾 **Hiking Trails** | [Find Trails in Geneva](https://www.google.com/maps/search/Hiking+Trails+in+Geneva) |
 
 ## 🏨 Hotels & Airbnb
 

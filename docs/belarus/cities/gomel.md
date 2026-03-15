@@ -27,3 +27,4 @@ description: Cost of Living in Gomel
 | 💻 **Coworking** | [Find Coworking in Gomel](https://www.google.com/maps/search/Coworking+Spaces+in+Gomel) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Gomel](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gomel) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Gomel](https://www.google.com/maps/search/supermarket+in+Gomel) |
+| 🥾 **Hiking Trails** | [Find Trails in Gomel](https://www.google.com/maps/search/Hiking+Trails+in+Gomel) |

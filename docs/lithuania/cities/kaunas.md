@@ -27,3 +27,4 @@ description: Cost of Living in Kaunas
 | 💻 **Coworking** | [Find Coworking in Kaunas](https://www.google.com/maps/search/Coworking+Spaces+in+Kaunas) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kaunas](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kaunas) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kaunas](https://www.google.com/maps/search/supermarket+in+Kaunas) |
+| 🥾 **Hiking Trails** | [Find Trails in Kaunas](https://www.google.com/maps/search/Hiking+Trails+in+Kaunas) |

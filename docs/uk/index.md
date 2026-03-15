@@ -39,6 +39,7 @@ description: Complete cost of living guide for UK
 | 💻 **Coworking** | [Find Coworking in 🇬🇧 United Kingdom](https://www.google.com/maps/search/Coworking+Spaces+in+🇬🇧+United+Kingdom) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇬🇧 United Kingdom](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇬🇧+United+Kingdom) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇬🇧 United Kingdom](https://www.google.com/maps/search/supermarket+in+🇬🇧+United+Kingdom) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇬🇧 United Kingdom](https://www.google.com/maps/search/Hiking+Trails+in+🇬🇧+United+Kingdom) |
 
 ## 🇪🇺 European Resident Info
 

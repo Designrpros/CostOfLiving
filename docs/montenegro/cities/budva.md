@@ -27,3 +27,4 @@ description: Cost of Living in Budva
 | 💻 **Coworking** | [Find Coworking in Budva](https://www.google.com/maps/search/Coworking+Spaces+in+Budva) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Budva](https://www.google.com/maps/search/laptop+friendly+cafes+in+Budva) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Budva](https://www.google.com/maps/search/supermarket+in+Budva) |
+| 🥾 **Hiking Trails** | [Find Trails in Budva](https://www.google.com/maps/search/Hiking+Trails+in+Budva) |

@@ -27,6 +27,7 @@ description: Cost of Living in Limerick
 | 💻 **Coworking** | [Find Coworking in Limerick](https://www.google.com/maps/search/Coworking+Spaces+in+Limerick) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Limerick](https://www.google.com/maps/search/laptop+friendly+cafes+in+Limerick) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Limerick](https://www.google.com/maps/search/supermarket+in+Limerick) |
+| 🥾 **Hiking Trails** | [Find Trails in Limerick](https://www.google.com/maps/search/Hiking+Trails+in+Limerick) |
 
 ## 🏨 Hotels & Airbnb
 

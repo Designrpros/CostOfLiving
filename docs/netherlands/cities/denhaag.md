@@ -27,6 +27,7 @@ description: Cost of Living in The Hague
 | 💻 **Coworking** | [Find Coworking in The Hague](https://www.google.com/maps/search/Coworking+Spaces+in+The+Hague) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in The Hague](https://www.google.com/maps/search/laptop+friendly+cafes+in+The+Hague) |
 | 🛒 **Supermarkets** | [Find Supermarkets in The Hague](https://www.google.com/maps/search/supermarket+in+The+Hague) |
+| 🥾 **Hiking Trails** | [Find Trails in The Hague](https://www.google.com/maps/search/Hiking+Trails+in+The+Hague) |
 
 ## 🏨 Hotels & Airbnb
 

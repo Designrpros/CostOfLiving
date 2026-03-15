@@ -27,6 +27,7 @@ description: Cost of Living in Thessaloniki
 | 💻 **Coworking** | [Find Coworking in Thessaloniki](https://www.google.com/maps/search/Coworking+Spaces+in+Thessaloniki) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Thessaloniki](https://www.google.com/maps/search/laptop+friendly+cafes+in+Thessaloniki) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Thessaloniki](https://www.google.com/maps/search/supermarket+in+Thessaloniki) |
+| 🥾 **Hiking Trails** | [Find Trails in Thessaloniki](https://www.google.com/maps/search/Hiking+Trails+in+Thessaloniki) |
 
 ## 🏨 Hotels & Airbnb
 

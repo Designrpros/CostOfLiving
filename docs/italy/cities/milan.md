@@ -27,6 +27,7 @@ description: Cost of Living in Milan
 | 💻 **Coworking** | [Find Coworking in Milan](https://www.google.com/maps/search/Coworking+Spaces+in+Milan) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Milan](https://www.google.com/maps/search/laptop+friendly+cafes+in+Milan) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Milan](https://www.google.com/maps/search/supermarket+in+Milan) |
+| 🥾 **Hiking Trails** | [Find Trails in Milan](https://www.google.com/maps/search/Hiking+Trails+in+Milan) |
 
 ## 🏨 Hotels & Airbnb
 

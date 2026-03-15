@@ -27,6 +27,7 @@ description: Cost of Living in Hamburg
 | 💻 **Coworking** | [Find Coworking in Hamburg](https://www.google.com/maps/search/Coworking+Spaces+in+Hamburg) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Hamburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Hamburg) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Hamburg](https://www.google.com/maps/search/supermarket+in+Hamburg) |
+| 🥾 **Hiking Trails** | [Find Trails in Hamburg](https://www.google.com/maps/search/Hiking+Trails+in+Hamburg) |
 
 ## 🏨 Hotels & Airbnb
 

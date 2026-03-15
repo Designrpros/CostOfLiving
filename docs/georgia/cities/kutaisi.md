@@ -27,3 +27,4 @@ description: Cost of Living in Kutaisi
 | 💻 **Coworking** | [Find Coworking in Kutaisi](https://www.google.com/maps/search/Coworking+Spaces+in+Kutaisi) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kutaisi](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kutaisi) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kutaisi](https://www.google.com/maps/search/supermarket+in+Kutaisi) |
+| 🥾 **Hiking Trails** | [Find Trails in Kutaisi](https://www.google.com/maps/search/Hiking+Trails+in+Kutaisi) |

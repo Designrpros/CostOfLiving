@@ -33,6 +33,7 @@ description: Complete cost of living guide for Moldova
 | 💻 **Coworking** | [Find Coworking in 🇲🇩 Moldova](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇩+Moldova) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇩 Moldova](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇩+Moldova) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇩 Moldova](https://www.google.com/maps/search/supermarket+in+🇲🇩+Moldova) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇲🇩 Moldova](https://www.google.com/maps/search/Hiking+Trails+in+🇲🇩+Moldova) |
 
 ## 🇪🇺 European Resident Info
 

@@ -40,6 +40,7 @@ description: Complete cost of living guide for Greece
 | 💻 **Coworking** | [Find Coworking in 🇬🇷 Greece](https://www.google.com/maps/search/Coworking+Spaces+in+🇬🇷+Greece) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇬🇷 Greece](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇬🇷+Greece) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇬🇷 Greece](https://www.google.com/maps/search/supermarket+in+🇬🇷+Greece) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇬🇷 Greece](https://www.google.com/maps/search/Hiking+Trails+in+🇬🇷+Greece) |
 
 ## 🇪🇺 European Resident Info
 

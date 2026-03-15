@@ -27,3 +27,4 @@ description: Cost of Living in Kumanovo
 | 💻 **Coworking** | [Find Coworking in Kumanovo](https://www.google.com/maps/search/Coworking+Spaces+in+Kumanovo) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kumanovo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kumanovo) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kumanovo](https://www.google.com/maps/search/supermarket+in+Kumanovo) |
+| 🥾 **Hiking Trails** | [Find Trails in Kumanovo](https://www.google.com/maps/search/Hiking+Trails+in+Kumanovo) |

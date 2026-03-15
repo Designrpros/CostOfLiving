@@ -27,6 +27,7 @@ description: Cost of Living in Esbjerg
 | 💻 **Coworking** | [Find Coworking in Esbjerg](https://www.google.com/maps/search/Coworking+Spaces+in+Esbjerg) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Esbjerg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Esbjerg) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Esbjerg](https://www.google.com/maps/search/supermarket+in+Esbjerg) |
+| 🥾 **Hiking Trails** | [Find Trails in Esbjerg](https://www.google.com/maps/search/Hiking+Trails+in+Esbjerg) |
 
 ## 🏨 Hotels & Airbnb
 

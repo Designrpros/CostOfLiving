@@ -27,6 +27,7 @@ description: Cost of Living in Bruges
 | 💻 **Coworking** | [Find Coworking in Bruges](https://www.google.com/maps/search/Coworking+Spaces+in+Bruges) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bruges](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bruges) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bruges](https://www.google.com/maps/search/supermarket+in+Bruges) |
+| 🥾 **Hiking Trails** | [Find Trails in Bruges](https://www.google.com/maps/search/Hiking+Trails+in+Bruges) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,3 +27,4 @@ description: Cost of Living in Luxembourg City
 | 💻 **Coworking** | [Find Coworking in Luxembourg City](https://www.google.com/maps/search/Coworking+Spaces+in+Luxembourg+City) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Luxembourg City](https://www.google.com/maps/search/laptop+friendly+cafes+in+Luxembourg+City) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Luxembourg City](https://www.google.com/maps/search/supermarket+in+Luxembourg+City) |
+| 🥾 **Hiking Trails** | [Find Trails in Luxembourg City](https://www.google.com/maps/search/Hiking+Trails+in+Luxembourg+City) |

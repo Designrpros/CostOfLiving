@@ -27,6 +27,7 @@ description: Cost of Living in Tartu
 | 💻 **Coworking** | [Find Coworking in Tartu](https://www.google.com/maps/search/Coworking+Spaces+in+Tartu) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Tartu](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tartu) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Tartu](https://www.google.com/maps/search/supermarket+in+Tartu) |
+| 🥾 **Hiking Trails** | [Find Trails in Tartu](https://www.google.com/maps/search/Hiking+Trails+in+Tartu) |
 
 ## 🏨 Hotels & Airbnb
 

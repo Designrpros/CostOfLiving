@@ -27,3 +27,4 @@ description: Cost of Living in Bratislava
 | 💻 **Coworking** | [Find Coworking in Bratislava](https://www.google.com/maps/search/Coworking+Spaces+in+Bratislava) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bratislava](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bratislava) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bratislava](https://www.google.com/maps/search/supermarket+in+Bratislava) |
+| 🥾 **Hiking Trails** | [Find Trails in Bratislava](https://www.google.com/maps/search/Hiking+Trails+in+Bratislava) |

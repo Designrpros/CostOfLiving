@@ -27,6 +27,7 @@ description: Cost of Living in Kristiansund
 | 💻 **Coworking** | [Find Coworking in Kristiansund](https://www.google.com/maps/search/Coworking+Spaces+in+Kristiansund) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kristiansund](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kristiansund) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kristiansund](https://www.google.com/maps/search/supermarket+in+Kristiansund) |
+| 🥾 **Hiking Trails** | [Find Trails in Kristiansund](https://www.google.com/maps/search/Hiking+Trails+in+Kristiansund) |
 
 ## 🏨 Hotels & Airbnb
 

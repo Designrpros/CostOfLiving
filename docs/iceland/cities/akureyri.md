@@ -27,6 +27,7 @@ description: Cost of Living in Akureyri
 | 💻 **Coworking** | [Find Coworking in Akureyri](https://www.google.com/maps/search/Coworking+Spaces+in+Akureyri) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Akureyri](https://www.google.com/maps/search/laptop+friendly+cafes+in+Akureyri) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Akureyri](https://www.google.com/maps/search/supermarket+in+Akureyri) |
+| 🥾 **Hiking Trails** | [Find Trails in Akureyri](https://www.google.com/maps/search/Hiking+Trails+in+Akureyri) |
 
 ## 🏨 Hotels & Airbnb
 

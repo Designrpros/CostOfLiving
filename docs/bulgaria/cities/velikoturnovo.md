@@ -27,6 +27,7 @@ description: Cost of Living in Veliko Tarnovo
 | 💻 **Coworking** | [Find Coworking in Veliko Tarnovo](https://www.google.com/maps/search/Coworking+Spaces+in+Veliko+Tarnovo) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Veliko Tarnovo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Veliko+Tarnovo) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Veliko Tarnovo](https://www.google.com/maps/search/supermarket+in+Veliko+Tarnovo) |
+| 🥾 **Hiking Trails** | [Find Trails in Veliko Tarnovo](https://www.google.com/maps/search/Hiking+Trails+in+Veliko+Tarnovo) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Edinburgh
 | 💻 **Coworking** | [Find Coworking in Edinburgh](https://www.google.com/maps/search/Coworking+Spaces+in+Edinburgh) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Edinburgh](https://www.google.com/maps/search/laptop+friendly+cafes+in+Edinburgh) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Edinburgh](https://www.google.com/maps/search/supermarket+in+Edinburgh) |
+| 🥾 **Hiking Trails** | [Find Trails in Edinburgh](https://www.google.com/maps/search/Hiking+Trails+in+Edinburgh) |
 
 ## 🏨 Hotels & Airbnb
 

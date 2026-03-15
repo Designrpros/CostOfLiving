@@ -27,6 +27,7 @@ description: Cost of Living in Herning
 | 💻 **Coworking** | [Find Coworking in Herning](https://www.google.com/maps/search/Coworking+Spaces+in+Herning) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Herning](https://www.google.com/maps/search/laptop+friendly+cafes+in+Herning) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Herning](https://www.google.com/maps/search/supermarket+in+Herning) |
+| 🥾 **Hiking Trails** | [Find Trails in Herning](https://www.google.com/maps/search/Hiking+Trails+in+Herning) |
 
 ## 🏨 Hotels & Airbnb
 

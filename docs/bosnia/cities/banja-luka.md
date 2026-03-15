@@ -27,3 +27,4 @@ description: Cost of Living in Banja Luka
 | 💻 **Coworking** | [Find Coworking in Banja Luka](https://www.google.com/maps/search/Coworking+Spaces+in+Banja+Luka) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Banja Luka](https://www.google.com/maps/search/laptop+friendly+cafes+in+Banja+Luka) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Banja Luka](https://www.google.com/maps/search/supermarket+in+Banja+Luka) |
+| 🥾 **Hiking Trails** | [Find Trails in Banja Luka](https://www.google.com/maps/search/Hiking+Trails+in+Banja+Luka) |

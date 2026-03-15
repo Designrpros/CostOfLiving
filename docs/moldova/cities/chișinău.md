@@ -27,3 +27,4 @@ description: Cost of Living in Chișinău
 | 💻 **Coworking** | [Find Coworking in Chișinău](https://www.google.com/maps/search/Coworking+Spaces+in+Chișinău) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Chișinău](https://www.google.com/maps/search/laptop+friendly+cafes+in+Chișinău) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Chișinău](https://www.google.com/maps/search/supermarket+in+Chișinău) |
+| 🥾 **Hiking Trails** | [Find Trails in Chișinău](https://www.google.com/maps/search/Hiking+Trails+in+Chișinău) |

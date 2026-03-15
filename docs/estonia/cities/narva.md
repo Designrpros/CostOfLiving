@@ -27,6 +27,7 @@ description: Cost of Living in Narva
 | 💻 **Coworking** | [Find Coworking in Narva](https://www.google.com/maps/search/Coworking+Spaces+in+Narva) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Narva](https://www.google.com/maps/search/laptop+friendly+cafes+in+Narva) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Narva](https://www.google.com/maps/search/supermarket+in+Narva) |
+| 🥾 **Hiking Trails** | [Find Trails in Narva](https://www.google.com/maps/search/Hiking+Trails+in+Narva) |
 
 ## 🏨 Hotels & Airbnb
 

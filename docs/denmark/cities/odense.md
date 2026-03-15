@@ -27,6 +27,7 @@ description: Cost of Living in Odense
 | 💻 **Coworking** | [Find Coworking in Odense](https://www.google.com/maps/search/Coworking+Spaces+in+Odense) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Odense](https://www.google.com/maps/search/laptop+friendly+cafes+in+Odense) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Odense](https://www.google.com/maps/search/supermarket+in+Odense) |
+| 🥾 **Hiking Trails** | [Find Trails in Odense](https://www.google.com/maps/search/Hiking+Trails+in+Odense) |
 
 ## 🏨 Hotels & Airbnb
 

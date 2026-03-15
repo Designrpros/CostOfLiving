@@ -27,6 +27,7 @@ description: Cost of Living in Debrecen
 | 💻 **Coworking** | [Find Coworking in Debrecen](https://www.google.com/maps/search/Coworking+Spaces+in+Debrecen) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Debrecen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Debrecen) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Debrecen](https://www.google.com/maps/search/supermarket+in+Debrecen) |
+| 🥾 **Hiking Trails** | [Find Trails in Debrecen](https://www.google.com/maps/search/Hiking+Trails+in+Debrecen) |
 
 ## 🏨 Hotels & Airbnb
 

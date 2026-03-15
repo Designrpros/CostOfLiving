@@ -39,6 +39,7 @@ description: Complete cost of living guide for Germany
 | 💻 **Coworking** | [Find Coworking in 🇩🇪 Germany](https://www.google.com/maps/search/Coworking+Spaces+in+🇩🇪+Germany) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇩🇪 Germany](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇩🇪+Germany) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇩🇪 Germany](https://www.google.com/maps/search/supermarket+in+🇩🇪+Germany) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇩🇪 Germany](https://www.google.com/maps/search/Hiking+Trails+in+🇩🇪+Germany) |
 
 ## 🇪🇺 European Resident Info
 

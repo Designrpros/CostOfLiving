@@ -27,6 +27,7 @@ description: Cost of Living in Iași
 | 💻 **Coworking** | [Find Coworking in Iași](https://www.google.com/maps/search/Coworking+Spaces+in+Iași) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Iași](https://www.google.com/maps/search/laptop+friendly+cafes+in+Iași) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Iași](https://www.google.com/maps/search/supermarket+in+Iași) |
+| 🥾 **Hiking Trails** | [Find Trails in Iași](https://www.google.com/maps/search/Hiking+Trails+in+Iași) |
 
 ## 🏨 Hotels & Airbnb
 

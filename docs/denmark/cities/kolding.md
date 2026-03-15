@@ -27,6 +27,7 @@ description: Cost of Living in Kolding
 | 💻 **Coworking** | [Find Coworking in Kolding](https://www.google.com/maps/search/Coworking+Spaces+in+Kolding) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kolding](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kolding) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kolding](https://www.google.com/maps/search/supermarket+in+Kolding) |
+| 🥾 **Hiking Trails** | [Find Trails in Kolding](https://www.google.com/maps/search/Hiking+Trails+in+Kolding) |
 
 ## 🏨 Hotels & Airbnb
 

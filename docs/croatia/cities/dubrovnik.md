@@ -27,6 +27,7 @@ description: Cost of Living in Dubrovnik
 | 💻 **Coworking** | [Find Coworking in Dubrovnik](https://www.google.com/maps/search/Coworking+Spaces+in+Dubrovnik) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Dubrovnik](https://www.google.com/maps/search/laptop+friendly+cafes+in+Dubrovnik) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Dubrovnik](https://www.google.com/maps/search/supermarket+in+Dubrovnik) |
+| 🥾 **Hiking Trails** | [Find Trails in Dubrovnik](https://www.google.com/maps/search/Hiking+Trails+in+Dubrovnik) |
 
 ## 🏨 Hotels & Airbnb
 

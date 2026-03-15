@@ -27,6 +27,7 @@ description: Cost of Living in Molde
 | 💻 **Coworking** | [Find Coworking in Molde](https://www.google.com/maps/search/Coworking+Spaces+in+Molde) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Molde](https://www.google.com/maps/search/laptop+friendly+cafes+in+Molde) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Molde](https://www.google.com/maps/search/supermarket+in+Molde) |
+| 🥾 **Hiking Trails** | [Find Trails in Molde](https://www.google.com/maps/search/Hiking+Trails+in+Molde) |
 
 ## 🏨 Hotels & Airbnb
 

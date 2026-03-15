@@ -27,3 +27,4 @@ description: Cost of Living in Bălți
 | 💻 **Coworking** | [Find Coworking in Bălți](https://www.google.com/maps/search/Coworking+Spaces+in+Bălți) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bălți](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bălți) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bălți](https://www.google.com/maps/search/supermarket+in+Bălți) |
+| 🥾 **Hiking Trails** | [Find Trails in Bălți](https://www.google.com/maps/search/Hiking+Trails+in+Bălți) |

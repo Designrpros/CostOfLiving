@@ -27,6 +27,7 @@ description: Cost of Living in Drammen
 | 💻 **Coworking** | [Find Coworking in Drammen](https://www.google.com/maps/search/Coworking+Spaces+in+Drammen) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Drammen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Drammen) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Drammen](https://www.google.com/maps/search/supermarket+in+Drammen) |
+| 🥾 **Hiking Trails** | [Find Trails in Drammen](https://www.google.com/maps/search/Hiking+Trails+in+Drammen) |
 
 ## 🏨 Hotels & Airbnb
 

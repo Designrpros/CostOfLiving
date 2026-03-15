@@ -31,6 +31,7 @@ description: Complete cost of living guide for Luxembourg
 | 💻 **Coworking** | [Find Coworking in 🇱🇺 Luxembourg](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇺+Luxembourg) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇺 Luxembourg](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇺+Luxembourg) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇺 Luxembourg](https://www.google.com/maps/search/supermarket+in+🇱🇺+Luxembourg) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇱🇺 Luxembourg](https://www.google.com/maps/search/Hiking+Trails+in+🇱🇺+Luxembourg) |
 
 ## 🇪🇺 European Resident Info
 

@@ -16,6 +16,7 @@ description: Levekostnader i {BY}
 | 💻 **Coworking** | [Find Coworking in {BY}](https://www.google.com/maps/search/Coworking+Spaces+in+{BY}) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in {BY}](https://www.google.com/maps/search/laptop+friendly+cafes+in+{BY}) |
 | 🛒 **Supermarkets** | [Find Supermarkets in {BY}](https://www.google.com/maps/search/supermarket+in+{BY}) |
+| 🥾 **Hiking Trails** | [Find Trails in {BY}](https://www.google.com/maps/search/Hiking+Trails+in+{BY}) |
 
 ## 📊 Leiepriser
 

@@ -27,3 +27,4 @@ description: Cost of Living in Batumi
 | 💻 **Coworking** | [Find Coworking in Batumi](https://www.google.com/maps/search/Coworking+Spaces+in+Batumi) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Batumi](https://www.google.com/maps/search/laptop+friendly+cafes+in+Batumi) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Batumi](https://www.google.com/maps/search/supermarket+in+Batumi) |
+| 🥾 **Hiking Trails** | [Find Trails in Batumi](https://www.google.com/maps/search/Hiking+Trails+in+Batumi) |

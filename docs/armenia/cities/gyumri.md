@@ -27,3 +27,4 @@ description: Cost of Living in Gyumri
 | 💻 **Coworking** | [Find Coworking in Gyumri](https://www.google.com/maps/search/Coworking+Spaces+in+Gyumri) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Gyumri](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gyumri) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Gyumri](https://www.google.com/maps/search/supermarket+in+Gyumri) |
+| 🥾 **Hiking Trails** | [Find Trails in Gyumri](https://www.google.com/maps/search/Hiking+Trails+in+Gyumri) |

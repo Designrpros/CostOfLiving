@@ -27,6 +27,7 @@ description: Cost of Living in Niš
 | 💻 **Coworking** | [Find Coworking in Niš](https://www.google.com/maps/search/Coworking+Spaces+in+Niš) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Niš](https://www.google.com/maps/search/laptop+friendly+cafes+in+Niš) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Niš](https://www.google.com/maps/search/supermarket+in+Niš) |
+| 🥾 **Hiking Trails** | [Find Trails in Niš](https://www.google.com/maps/search/Hiking+Trails+in+Niš) |
 
 ## 🏨 Hotels & Airbnb
 

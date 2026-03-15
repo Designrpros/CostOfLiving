@@ -27,6 +27,7 @@ description: Cost of Living in Florence
 | 💻 **Coworking** | [Find Coworking in Florence](https://www.google.com/maps/search/Coworking+Spaces+in+Florence) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Florence](https://www.google.com/maps/search/laptop+friendly+cafes+in+Florence) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Florence](https://www.google.com/maps/search/supermarket+in+Florence) |
+| 🥾 **Hiking Trails** | [Find Trails in Florence](https://www.google.com/maps/search/Hiking+Trails+in+Florence) |
 
 ## 🏨 Hotels & Airbnb
 

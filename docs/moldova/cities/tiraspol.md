@@ -27,3 +27,4 @@ description: Cost of Living in Tiraspol
 | 💻 **Coworking** | [Find Coworking in Tiraspol](https://www.google.com/maps/search/Coworking+Spaces+in+Tiraspol) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Tiraspol](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tiraspol) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Tiraspol](https://www.google.com/maps/search/supermarket+in+Tiraspol) |
+| 🥾 **Hiking Trails** | [Find Trails in Tiraspol](https://www.google.com/maps/search/Hiking+Trails+in+Tiraspol) |

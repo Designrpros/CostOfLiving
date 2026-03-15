@@ -33,6 +33,7 @@ description: Complete cost of living guide for Bosnia and Herzegovina
 | 💻 **Coworking** | [Find Coworking in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇦+Bosnia+and+Herzegovina) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇦+Bosnia+and+Herzegovina) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/supermarket+in+🇧🇦+Bosnia+and+Herzegovina) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/Hiking+Trails+in+🇧🇦+Bosnia+and+Herzegovina) |
 
 ## 🇪🇺 European Resident Info
 

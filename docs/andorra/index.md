@@ -31,6 +31,7 @@ description: Complete cost of living guide for Andorra
 | 💻 **Coworking** | [Find Coworking in 🇦🇩 Andorra](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇩+Andorra) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇩 Andorra](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇩+Andorra) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇩 Andorra](https://www.google.com/maps/search/supermarket+in+🇦🇩+Andorra) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇦🇩 Andorra](https://www.google.com/maps/search/Hiking+Trails+in+🇦🇩+Andorra) |
 
 ## 🇪🇺 European Resident Info
 

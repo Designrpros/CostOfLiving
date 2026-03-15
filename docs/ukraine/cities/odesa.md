@@ -27,3 +27,4 @@ description: Cost of Living in Odesa
 | 💻 **Coworking** | [Find Coworking in Odesa](https://www.google.com/maps/search/Coworking+Spaces+in+Odesa) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Odesa](https://www.google.com/maps/search/laptop+friendly+cafes+in+Odesa) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Odesa](https://www.google.com/maps/search/supermarket+in+Odesa) |
+| 🥾 **Hiking Trails** | [Find Trails in Odesa](https://www.google.com/maps/search/Hiking+Trails+in+Odesa) |

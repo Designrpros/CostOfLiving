@@ -37,6 +37,7 @@ description: Complete cost of living guide for Malta
 | 💻 **Coworking** | [Find Coworking in 🇲🇹 Malta](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇹+Malta) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇹 Malta](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇹+Malta) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇹 Malta](https://www.google.com/maps/search/supermarket+in+🇲🇹+Malta) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇲🇹 Malta](https://www.google.com/maps/search/Hiking+Trails+in+🇲🇹+Malta) |
 
 ## 🇪🇺 European Resident Info
 

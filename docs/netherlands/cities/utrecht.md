@@ -27,6 +27,7 @@ description: Cost of Living in Utrecht
 | 💻 **Coworking** | [Find Coworking in Utrecht](https://www.google.com/maps/search/Coworking+Spaces+in+Utrecht) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Utrecht](https://www.google.com/maps/search/laptop+friendly+cafes+in+Utrecht) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Utrecht](https://www.google.com/maps/search/supermarket+in+Utrecht) |
+| 🥾 **Hiking Trails** | [Find Trails in Utrecht](https://www.google.com/maps/search/Hiking+Trails+in+Utrecht) |
 
 ## 🏨 Hotels & Airbnb
 

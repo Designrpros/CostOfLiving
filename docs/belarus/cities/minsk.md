@@ -27,3 +27,4 @@ description: Cost of Living in Minsk
 | 💻 **Coworking** | [Find Coworking in Minsk](https://www.google.com/maps/search/Coworking+Spaces+in+Minsk) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Minsk](https://www.google.com/maps/search/laptop+friendly+cafes+in+Minsk) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Minsk](https://www.google.com/maps/search/supermarket+in+Minsk) |
+| 🥾 **Hiking Trails** | [Find Trails in Minsk](https://www.google.com/maps/search/Hiking+Trails+in+Minsk) |

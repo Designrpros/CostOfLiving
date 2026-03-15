@@ -27,6 +27,7 @@ description: Cost of Living in Lund
 | 💻 **Coworking** | [Find Coworking in Lund](https://www.google.com/maps/search/Coworking+Spaces+in+Lund) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Lund](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lund) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Lund](https://www.google.com/maps/search/supermarket+in+Lund) |
+| 🥾 **Hiking Trails** | [Find Trails in Lund](https://www.google.com/maps/search/Hiking+Trails+in+Lund) |
 
 ## 🏨 Hotels & Airbnb
 

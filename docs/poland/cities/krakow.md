@@ -27,6 +27,7 @@ description: Cost of Living in Krakow
 | 💻 **Coworking** | [Find Coworking in Krakow](https://www.google.com/maps/search/Coworking+Spaces+in+Krakow) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Krakow](https://www.google.com/maps/search/laptop+friendly+cafes+in+Krakow) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Krakow](https://www.google.com/maps/search/supermarket+in+Krakow) |
+| 🥾 **Hiking Trails** | [Find Trails in Krakow](https://www.google.com/maps/search/Hiking+Trails+in+Krakow) |
 
 ## 🏨 Hotels & Airbnb
 

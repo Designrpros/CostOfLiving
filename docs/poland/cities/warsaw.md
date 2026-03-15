@@ -27,6 +27,7 @@ description: Cost of Living in Warsaw
 | 💻 **Coworking** | [Find Coworking in Warsaw](https://www.google.com/maps/search/Coworking+Spaces+in+Warsaw) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Warsaw](https://www.google.com/maps/search/laptop+friendly+cafes+in+Warsaw) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Warsaw](https://www.google.com/maps/search/supermarket+in+Warsaw) |
+| 🥾 **Hiking Trails** | [Find Trails in Warsaw](https://www.google.com/maps/search/Hiking+Trails+in+Warsaw) |
 
 ## 🏨 Hotels & Airbnb
 

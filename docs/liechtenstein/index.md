@@ -31,6 +31,7 @@ description: Complete cost of living guide for Liechtenstein
 | 💻 **Coworking** | [Find Coworking in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇮+Liechtenstein) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇮+Liechtenstein) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/supermarket+in+🇱🇮+Liechtenstein) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/Hiking+Trails+in+🇱🇮+Liechtenstein) |
 
 ## 🇪🇺 European Resident Info
 

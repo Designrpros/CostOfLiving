@@ -27,3 +27,4 @@ description: Cost of Living in Riga
 | 💻 **Coworking** | [Find Coworking in Riga](https://www.google.com/maps/search/Coworking+Spaces+in+Riga) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Riga](https://www.google.com/maps/search/laptop+friendly+cafes+in+Riga) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Riga](https://www.google.com/maps/search/supermarket+in+Riga) |
+| 🥾 **Hiking Trails** | [Find Trails in Riga](https://www.google.com/maps/search/Hiking+Trails+in+Riga) |

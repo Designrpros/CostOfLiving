@@ -27,3 +27,4 @@ description: Cost of Living in Sumqayit
 | 💻 **Coworking** | [Find Coworking in Sumqayit](https://www.google.com/maps/search/Coworking+Spaces+in+Sumqayit) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Sumqayit](https://www.google.com/maps/search/laptop+friendly+cafes+in+Sumqayit) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Sumqayit](https://www.google.com/maps/search/supermarket+in+Sumqayit) |
+| 🥾 **Hiking Trails** | [Find Trails in Sumqayit](https://www.google.com/maps/search/Hiking+Trails+in+Sumqayit) |

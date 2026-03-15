@@ -27,6 +27,7 @@ description: Cost of Living in Coimbra
 | 💻 **Coworking** | [Find Coworking in Coimbra](https://www.google.com/maps/search/Coworking+Spaces+in+Coimbra) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Coimbra](https://www.google.com/maps/search/laptop+friendly+cafes+in+Coimbra) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Coimbra](https://www.google.com/maps/search/supermarket+in+Coimbra) |
+| 🥾 **Hiking Trails** | [Find Trails in Coimbra](https://www.google.com/maps/search/Hiking+Trails+in+Coimbra) |
 
 ## 🏨 Hotels & Airbnb
 

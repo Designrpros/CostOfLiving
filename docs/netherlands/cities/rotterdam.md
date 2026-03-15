@@ -27,6 +27,7 @@ description: Cost of Living in Rotterdam
 | 💻 **Coworking** | [Find Coworking in Rotterdam](https://www.google.com/maps/search/Coworking+Spaces+in+Rotterdam) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Rotterdam](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rotterdam) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Rotterdam](https://www.google.com/maps/search/supermarket+in+Rotterdam) |
+| 🥾 **Hiking Trails** | [Find Trails in Rotterdam](https://www.google.com/maps/search/Hiking+Trails+in+Rotterdam) |
 
 ## 🏨 Hotels & Airbnb
 

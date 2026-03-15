@@ -27,3 +27,4 @@ description: Cost of Living in Maribor
 | 💻 **Coworking** | [Find Coworking in Maribor](https://www.google.com/maps/search/Coworking+Spaces+in+Maribor) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Maribor](https://www.google.com/maps/search/laptop+friendly+cafes+in+Maribor) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Maribor](https://www.google.com/maps/search/supermarket+in+Maribor) |
+| 🥾 **Hiking Trails** | [Find Trails in Maribor](https://www.google.com/maps/search/Hiking+Trails+in+Maribor) |

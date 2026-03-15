@@ -27,6 +27,7 @@ description: Cost of Living in Pécs
 | 💻 **Coworking** | [Find Coworking in Pécs](https://www.google.com/maps/search/Coworking+Spaces+in+Pécs) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Pécs](https://www.google.com/maps/search/laptop+friendly+cafes+in+Pécs) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Pécs](https://www.google.com/maps/search/supermarket+in+Pécs) |
+| 🥾 **Hiking Trails** | [Find Trails in Pécs](https://www.google.com/maps/search/Hiking+Trails+in+Pécs) |
 
 ## 🏨 Hotels & Airbnb
 

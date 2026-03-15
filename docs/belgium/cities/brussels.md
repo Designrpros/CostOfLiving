@@ -27,6 +27,7 @@ description: Cost of Living in Brussels
 | 💻 **Coworking** | [Find Coworking in Brussels](https://www.google.com/maps/search/Coworking+Spaces+in+Brussels) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Brussels](https://www.google.com/maps/search/laptop+friendly+cafes+in+Brussels) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Brussels](https://www.google.com/maps/search/supermarket+in+Brussels) |
+| 🥾 **Hiking Trails** | [Find Trails in Brussels](https://www.google.com/maps/search/Hiking+Trails+in+Brussels) |
 
 ## 🏨 Hotels & Airbnb
 

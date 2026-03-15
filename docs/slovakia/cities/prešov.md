@@ -27,3 +27,4 @@ description: Cost of Living in Prešov
 | 💻 **Coworking** | [Find Coworking in Prešov](https://www.google.com/maps/search/Coworking+Spaces+in+Prešov) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Prešov](https://www.google.com/maps/search/laptop+friendly+cafes+in+Prešov) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Prešov](https://www.google.com/maps/search/supermarket+in+Prešov) |
+| 🥾 **Hiking Trails** | [Find Trails in Prešov](https://www.google.com/maps/search/Hiking+Trails+in+Prešov) |

@@ -27,6 +27,7 @@ description: Cost of Living in Sliema
 | 💻 **Coworking** | [Find Coworking in Sliema](https://www.google.com/maps/search/Coworking+Spaces+in+Sliema) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Sliema](https://www.google.com/maps/search/laptop+friendly+cafes+in+Sliema) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Sliema](https://www.google.com/maps/search/supermarket+in+Sliema) |
+| 🥾 **Hiking Trails** | [Find Trails in Sliema](https://www.google.com/maps/search/Hiking+Trails+in+Sliema) |
 
 ## 🏨 Hotels & Airbnb
 

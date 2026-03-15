@@ -27,6 +27,7 @@ description: Cost of Living in Split
 | 💻 **Coworking** | [Find Coworking in Split](https://www.google.com/maps/search/Coworking+Spaces+in+Split) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Split](https://www.google.com/maps/search/laptop+friendly+cafes+in+Split) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Split](https://www.google.com/maps/search/supermarket+in+Split) |
+| 🥾 **Hiking Trails** | [Find Trails in Split](https://www.google.com/maps/search/Hiking+Trails+in+Split) |
 
 ## 🏨 Hotels & Airbnb
 

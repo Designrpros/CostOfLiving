@@ -27,3 +27,4 @@ description: Cost of Living in Podgorica
 | 💻 **Coworking** | [Find Coworking in Podgorica](https://www.google.com/maps/search/Coworking+Spaces+in+Podgorica) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Podgorica](https://www.google.com/maps/search/laptop+friendly+cafes+in+Podgorica) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Podgorica](https://www.google.com/maps/search/supermarket+in+Podgorica) |
+| 🥾 **Hiking Trails** | [Find Trails in Podgorica](https://www.google.com/maps/search/Hiking+Trails+in+Podgorica) |

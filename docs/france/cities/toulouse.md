@@ -27,6 +27,7 @@ description: Cost of Living in Toulouse
 | 💻 **Coworking** | [Find Coworking in Toulouse](https://www.google.com/maps/search/Coworking+Spaces+in+Toulouse) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Toulouse](https://www.google.com/maps/search/laptop+friendly+cafes+in+Toulouse) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Toulouse](https://www.google.com/maps/search/supermarket+in+Toulouse) |
+| 🥾 **Hiking Trails** | [Find Trails in Toulouse](https://www.google.com/maps/search/Hiking+Trails+in+Toulouse) |
 
 ## 🏨 Hotels & Airbnb
 

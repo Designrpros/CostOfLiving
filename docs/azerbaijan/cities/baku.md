@@ -27,3 +27,4 @@ description: Cost of Living in Baku
 | 💻 **Coworking** | [Find Coworking in Baku](https://www.google.com/maps/search/Coworking+Spaces+in+Baku) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Baku](https://www.google.com/maps/search/laptop+friendly+cafes+in+Baku) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Baku](https://www.google.com/maps/search/supermarket+in+Baku) |
+| 🥾 **Hiking Trails** | [Find Trails in Baku](https://www.google.com/maps/search/Hiking+Trails+in+Baku) |

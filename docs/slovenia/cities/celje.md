@@ -27,3 +27,4 @@ description: Cost of Living in Celje
 | 💻 **Coworking** | [Find Coworking in Celje](https://www.google.com/maps/search/Coworking+Spaces+in+Celje) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Celje](https://www.google.com/maps/search/laptop+friendly+cafes+in+Celje) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Celje](https://www.google.com/maps/search/supermarket+in+Celje) |
+| 🥾 **Hiking Trails** | [Find Trails in Celje](https://www.google.com/maps/search/Hiking+Trails+in+Celje) |

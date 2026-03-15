@@ -27,6 +27,7 @@ description: Cost of Living in Salzburg
 | 💻 **Coworking** | [Find Coworking in Salzburg](https://www.google.com/maps/search/Coworking+Spaces+in+Salzburg) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Salzburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Salzburg) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Salzburg](https://www.google.com/maps/search/supermarket+in+Salzburg) |
+| 🥾 **Hiking Trails** | [Find Trails in Salzburg](https://www.google.com/maps/search/Hiking+Trails+in+Salzburg) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Cologne
 | 💻 **Coworking** | [Find Coworking in Cologne](https://www.google.com/maps/search/Coworking+Spaces+in+Cologne) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Cologne](https://www.google.com/maps/search/laptop+friendly+cafes+in+Cologne) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Cologne](https://www.google.com/maps/search/supermarket+in+Cologne) |
+| 🥾 **Hiking Trails** | [Find Trails in Cologne](https://www.google.com/maps/search/Hiking+Trails+in+Cologne) |
 
 ## 🏨 Hotels & Airbnb
 

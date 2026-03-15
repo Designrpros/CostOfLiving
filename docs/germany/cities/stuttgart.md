@@ -27,6 +27,7 @@ description: Cost of Living in Stuttgart
 | 💻 **Coworking** | [Find Coworking in Stuttgart](https://www.google.com/maps/search/Coworking+Spaces+in+Stuttgart) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Stuttgart](https://www.google.com/maps/search/laptop+friendly+cafes+in+Stuttgart) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Stuttgart](https://www.google.com/maps/search/supermarket+in+Stuttgart) |
+| 🥾 **Hiking Trails** | [Find Trails in Stuttgart](https://www.google.com/maps/search/Hiking+Trails+in+Stuttgart) |
 
 ## 🏨 Hotels & Airbnb
 

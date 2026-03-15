@@ -31,6 +31,7 @@ description: Complete cost of living guide for San Marino
 | 💻 **Coworking** | [Find Coworking in 🇸🇲 San Marino](https://www.google.com/maps/search/Coworking+Spaces+in+🇸🇲+San+Marino) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇸🇲 San Marino](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇸🇲+San+Marino) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇸🇲 San Marino](https://www.google.com/maps/search/supermarket+in+🇸🇲+San+Marino) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇸🇲 San Marino](https://www.google.com/maps/search/Hiking+Trails+in+🇸🇲+San+Marino) |
 
 ## 🇪🇺 European Resident Info
 

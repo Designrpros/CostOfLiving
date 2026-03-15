@@ -27,3 +27,4 @@ description: Cost of Living in Nikšić
 | 💻 **Coworking** | [Find Coworking in Nikšić](https://www.google.com/maps/search/Coworking+Spaces+in+Nikšić) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Nikšić](https://www.google.com/maps/search/laptop+friendly+cafes+in+Nikšić) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Nikšić](https://www.google.com/maps/search/supermarket+in+Nikšić) |
+| 🥾 **Hiking Trails** | [Find Trails in Nikšić](https://www.google.com/maps/search/Hiking+Trails+in+Nikšić) |

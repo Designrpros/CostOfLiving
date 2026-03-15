@@ -27,3 +27,4 @@ description: Cost of Living in Nicosia
 | 💻 **Coworking** | [Find Coworking in Nicosia](https://www.google.com/maps/search/Coworking+Spaces+in+Nicosia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Nicosia](https://www.google.com/maps/search/laptop+friendly+cafes+in+Nicosia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Nicosia](https://www.google.com/maps/search/supermarket+in+Nicosia) |
+| 🥾 **Hiking Trails** | [Find Trails in Nicosia](https://www.google.com/maps/search/Hiking+Trails+in+Nicosia) |

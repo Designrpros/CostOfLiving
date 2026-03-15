@@ -27,6 +27,7 @@ description: Cost of Living in Madrid
 | 💻 **Coworking** | [Find Coworking in Madrid](https://www.google.com/maps/search/Coworking+Spaces+in+Madrid) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Madrid](https://www.google.com/maps/search/laptop+friendly+cafes+in+Madrid) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Madrid](https://www.google.com/maps/search/supermarket+in+Madrid) |
+| 🥾 **Hiking Trails** | [Find Trails in Madrid](https://www.google.com/maps/search/Hiking+Trails+in+Madrid) |
 
 ## 🏨 Hotels & Airbnb
 

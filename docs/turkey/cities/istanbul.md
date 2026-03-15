@@ -27,3 +27,4 @@ description: Cost of Living in Istanbul
 | 💻 **Coworking** | [Find Coworking in Istanbul](https://www.google.com/maps/search/Coworking+Spaces+in+Istanbul) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Istanbul](https://www.google.com/maps/search/laptop+friendly+cafes+in+Istanbul) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Istanbul](https://www.google.com/maps/search/supermarket+in+Istanbul) |
+| 🥾 **Hiking Trails** | [Find Trails in Istanbul](https://www.google.com/maps/search/Hiking+Trails+in+Istanbul) |

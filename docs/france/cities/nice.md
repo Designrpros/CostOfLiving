@@ -27,6 +27,7 @@ description: Cost of Living in Nice
 | 💻 **Coworking** | [Find Coworking in Nice](https://www.google.com/maps/search/Coworking+Spaces+in+Nice) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Nice](https://www.google.com/maps/search/laptop+friendly+cafes+in+Nice) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Nice](https://www.google.com/maps/search/supermarket+in+Nice) |
+| 🥾 **Hiking Trails** | [Find Trails in Nice](https://www.google.com/maps/search/Hiking+Trails+in+Nice) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Tampere
 | 💻 **Coworking** | [Find Coworking in Tampere](https://www.google.com/maps/search/Coworking+Spaces+in+Tampere) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Tampere](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tampere) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Tampere](https://www.google.com/maps/search/supermarket+in+Tampere) |
+| 🥾 **Hiking Trails** | [Find Trails in Tampere](https://www.google.com/maps/search/Hiking+Trails+in+Tampere) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,3 +27,4 @@ description: Cost of Living in Larnaca
 | 💻 **Coworking** | [Find Coworking in Larnaca](https://www.google.com/maps/search/Coworking+Spaces+in+Larnaca) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Larnaca](https://www.google.com/maps/search/laptop+friendly+cafes+in+Larnaca) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Larnaca](https://www.google.com/maps/search/supermarket+in+Larnaca) |
+| 🥾 **Hiking Trails** | [Find Trails in Larnaca](https://www.google.com/maps/search/Hiking+Trails+in+Larnaca) |

@@ -27,6 +27,7 @@ description: Cost of Living in Braga
 | 💻 **Coworking** | [Find Coworking in Braga](https://www.google.com/maps/search/Coworking+Spaces+in+Braga) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Braga](https://www.google.com/maps/search/laptop+friendly+cafes+in+Braga) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Braga](https://www.google.com/maps/search/supermarket+in+Braga) |
+| 🥾 **Hiking Trails** | [Find Trails in Braga](https://www.google.com/maps/search/Hiking+Trails+in+Braga) |
 
 ## 🏨 Hotels & Airbnb
 

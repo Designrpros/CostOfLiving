@@ -27,6 +27,7 @@ description: Cost of Living in Helsinki
 | 💻 **Coworking** | [Find Coworking in Helsinki](https://www.google.com/maps/search/Coworking+Spaces+in+Helsinki) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Helsinki](https://www.google.com/maps/search/laptop+friendly+cafes+in+Helsinki) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Helsinki](https://www.google.com/maps/search/supermarket+in+Helsinki) |
+| 🥾 **Hiking Trails** | [Find Trails in Helsinki](https://www.google.com/maps/search/Hiking+Trails+in+Helsinki) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Gothenburg
 | 💻 **Coworking** | [Find Coworking in Gothenburg](https://www.google.com/maps/search/Coworking+Spaces+in+Gothenburg) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Gothenburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gothenburg) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Gothenburg](https://www.google.com/maps/search/supermarket+in+Gothenburg) |
+| 🥾 **Hiking Trails** | [Find Trails in Gothenburg](https://www.google.com/maps/search/Hiking+Trails+in+Gothenburg) |
 
 ## 🏨 Hotels & Airbnb
 

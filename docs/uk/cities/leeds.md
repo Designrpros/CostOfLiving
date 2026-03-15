@@ -27,6 +27,7 @@ description: Cost of Living in Leeds
 | 💻 **Coworking** | [Find Coworking in Leeds](https://www.google.com/maps/search/Coworking+Spaces+in+Leeds) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Leeds](https://www.google.com/maps/search/laptop+friendly+cafes+in+Leeds) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Leeds](https://www.google.com/maps/search/supermarket+in+Leeds) |
+| 🥾 **Hiking Trails** | [Find Trails in Leeds](https://www.google.com/maps/search/Hiking+Trails+in+Leeds) |
 
 ## 🏨 Hotels & Airbnb
 

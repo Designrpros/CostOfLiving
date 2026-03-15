@@ -27,6 +27,7 @@ description: Cost of Living in Glasgow
 | 💻 **Coworking** | [Find Coworking in Glasgow](https://www.google.com/maps/search/Coworking+Spaces+in+Glasgow) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Glasgow](https://www.google.com/maps/search/laptop+friendly+cafes+in+Glasgow) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Glasgow](https://www.google.com/maps/search/supermarket+in+Glasgow) |
+| 🥾 **Hiking Trails** | [Find Trails in Glasgow](https://www.google.com/maps/search/Hiking+Trails+in+Glasgow) |
 
 ## 🏨 Hotels & Airbnb
 

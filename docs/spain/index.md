@@ -37,6 +37,7 @@ description: Complete cost of living guide for Spain
 | 💻 **Coworking** | [Find Coworking in 🇪🇸 Spain](https://www.google.com/maps/search/Coworking+Spaces+in+🇪🇸+Spain) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇪🇸 Spain](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇪🇸+Spain) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇪🇸 Spain](https://www.google.com/maps/search/supermarket+in+🇪🇸+Spain) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇪🇸 Spain](https://www.google.com/maps/search/Hiking+Trails+in+🇪🇸+Spain) |
 
 ## 🇪🇺 European Resident Info
 

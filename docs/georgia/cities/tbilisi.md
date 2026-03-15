@@ -27,3 +27,4 @@ description: Cost of Living in Tbilisi
 | 💻 **Coworking** | [Find Coworking in Tbilisi](https://www.google.com/maps/search/Coworking+Spaces+in+Tbilisi) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Tbilisi](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tbilisi) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Tbilisi](https://www.google.com/maps/search/supermarket+in+Tbilisi) |
+| 🥾 **Hiking Trails** | [Find Trails in Tbilisi](https://www.google.com/maps/search/Hiking+Trails+in+Tbilisi) |

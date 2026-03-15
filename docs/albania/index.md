@@ -33,6 +33,7 @@ description: Complete cost of living guide for Albania
 | 💻 **Coworking** | [Find Coworking in 🇦🇱 Albania](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇱+Albania) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇱 Albania](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇱+Albania) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇱 Albania](https://www.google.com/maps/search/supermarket+in+🇦🇱+Albania) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇦🇱 Albania](https://www.google.com/maps/search/Hiking+Trails+in+🇦🇱+Albania) |
 
 ## 🇪🇺 European Resident Info
 

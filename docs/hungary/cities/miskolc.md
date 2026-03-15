@@ -27,6 +27,7 @@ description: Cost of Living in Miskolc
 | 💻 **Coworking** | [Find Coworking in Miskolc](https://www.google.com/maps/search/Coworking+Spaces+in+Miskolc) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Miskolc](https://www.google.com/maps/search/laptop+friendly+cafes+in+Miskolc) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Miskolc](https://www.google.com/maps/search/supermarket+in+Miskolc) |
+| 🥾 **Hiking Trails** | [Find Trails in Miskolc](https://www.google.com/maps/search/Hiking+Trails+in+Miskolc) |
 
 ## 🏨 Hotels & Airbnb
 

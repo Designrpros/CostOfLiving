@@ -27,6 +27,7 @@ description: Cost of Living in Timișoara
 | 💻 **Coworking** | [Find Coworking in Timișoara](https://www.google.com/maps/search/Coworking+Spaces+in+Timișoara) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Timișoara](https://www.google.com/maps/search/laptop+friendly+cafes+in+Timișoara) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Timișoara](https://www.google.com/maps/search/supermarket+in+Timișoara) |
+| 🥾 **Hiking Trails** | [Find Trails in Timișoara](https://www.google.com/maps/search/Hiking+Trails+in+Timișoara) |
 
 ## 🏨 Hotels & Airbnb
 

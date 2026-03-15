@@ -27,6 +27,7 @@ description: Cost of Living in Uppsala
 | 💻 **Coworking** | [Find Coworking in Uppsala](https://www.google.com/maps/search/Coworking+Spaces+in+Uppsala) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Uppsala](https://www.google.com/maps/search/laptop+friendly+cafes+in+Uppsala) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Uppsala](https://www.google.com/maps/search/supermarket+in+Uppsala) |
+| 🥾 **Hiking Trails** | [Find Trails in Uppsala](https://www.google.com/maps/search/Hiking+Trails+in+Uppsala) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Lausanne
 | 💻 **Coworking** | [Find Coworking in Lausanne](https://www.google.com/maps/search/Coworking+Spaces+in+Lausanne) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Lausanne](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lausanne) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Lausanne](https://www.google.com/maps/search/supermarket+in+Lausanne) |
+| 🥾 **Hiking Trails** | [Find Trails in Lausanne](https://www.google.com/maps/search/Hiking+Trails+in+Lausanne) |
 
 ## 🏨 Hotels & Airbnb
 

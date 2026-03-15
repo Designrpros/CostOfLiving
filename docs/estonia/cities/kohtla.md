@@ -27,6 +27,7 @@ description: Cost of Living in Kohtla-Järve
 | 💻 **Coworking** | [Find Coworking in Kohtla-Järve](https://www.google.com/maps/search/Coworking+Spaces+in+Kohtla-Järve) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kohtla-Järve](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kohtla-Järve) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kohtla-Järve](https://www.google.com/maps/search/supermarket+in+Kohtla-Järve) |
+| 🥾 **Hiking Trails** | [Find Trails in Kohtla-Järve](https://www.google.com/maps/search/Hiking+Trails+in+Kohtla-Järve) |
 
 ## 🏨 Hotels & Airbnb
 

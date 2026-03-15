@@ -27,6 +27,7 @@ description: Cost of Living in Rijeka
 | 💻 **Coworking** | [Find Coworking in Rijeka](https://www.google.com/maps/search/Coworking+Spaces+in+Rijeka) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Rijeka](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rijeka) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Rijeka](https://www.google.com/maps/search/supermarket+in+Rijeka) |
+| 🥾 **Hiking Trails** | [Find Trails in Rijeka](https://www.google.com/maps/search/Hiking+Trails+in+Rijeka) |
 
 ## 🏨 Hotels & Airbnb
 

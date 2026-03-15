@@ -33,6 +33,7 @@ description: Complete cost of living guide for Azerbaijan
 | 💻 **Coworking** | [Find Coworking in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇿+Azerbaijan) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇿+Azerbaijan) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/supermarket+in+🇦🇿+Azerbaijan) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/Hiking+Trails+in+🇦🇿+Azerbaijan) |
 
 ## 🇪🇺 European Resident Info
 

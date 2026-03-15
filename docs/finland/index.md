@@ -38,6 +38,7 @@ description: Complete cost of living guide for Finland
 | 💻 **Coworking** | [Find Coworking in 🇫🇮 Finland](https://www.google.com/maps/search/Coworking+Spaces+in+🇫🇮+Finland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇫🇮 Finland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇫🇮+Finland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇫🇮 Finland](https://www.google.com/maps/search/supermarket+in+🇫🇮+Finland) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇫🇮 Finland](https://www.google.com/maps/search/Hiking+Trails+in+🇫🇮+Finland) |
 
 ## 🇪🇺 European Resident Info
 

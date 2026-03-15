@@ -27,6 +27,7 @@ description: Cost of Living in Porsgrunn
 | 💻 **Coworking** | [Find Coworking in Porsgrunn](https://www.google.com/maps/search/Coworking+Spaces+in+Porsgrunn) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Porsgrunn](https://www.google.com/maps/search/laptop+friendly+cafes+in+Porsgrunn) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Porsgrunn](https://www.google.com/maps/search/supermarket+in+Porsgrunn) |
+| 🥾 **Hiking Trails** | [Find Trails in Porsgrunn](https://www.google.com/maps/search/Hiking+Trails+in+Porsgrunn) |
 
 ## 🏨 Hotels & Airbnb
 

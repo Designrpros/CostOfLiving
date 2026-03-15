@@ -27,6 +27,7 @@ description: Cost of Living in Tallinn
 | 💻 **Coworking** | [Find Coworking in Tallinn](https://www.google.com/maps/search/Coworking+Spaces+in+Tallinn) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Tallinn](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tallinn) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Tallinn](https://www.google.com/maps/search/supermarket+in+Tallinn) |
+| 🥾 **Hiking Trails** | [Find Trails in Tallinn](https://www.google.com/maps/search/Hiking+Trails+in+Tallinn) |
 
 ## 🏨 Hotels & Airbnb
 

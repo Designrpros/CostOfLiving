@@ -27,3 +27,4 @@ description: Cost of Living in Ljubljana
 | 💻 **Coworking** | [Find Coworking in Ljubljana](https://www.google.com/maps/search/Coworking+Spaces+in+Ljubljana) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Ljubljana](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ljubljana) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Ljubljana](https://www.google.com/maps/search/supermarket+in+Ljubljana) |
+| 🥾 **Hiking Trails** | [Find Trails in Ljubljana](https://www.google.com/maps/search/Hiking+Trails+in+Ljubljana) |

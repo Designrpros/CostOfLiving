@@ -27,3 +27,4 @@ description: Cost of Living in Lviv
 | 💻 **Coworking** | [Find Coworking in Lviv](https://www.google.com/maps/search/Coworking+Spaces+in+Lviv) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Lviv](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lviv) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Lviv](https://www.google.com/maps/search/supermarket+in+Lviv) |
+| 🥾 **Hiking Trails** | [Find Trails in Lviv](https://www.google.com/maps/search/Hiking+Trails+in+Lviv) |

@@ -27,6 +27,7 @@ description: Cost of Living in Bergen
 | 💻 **Coworking** | [Find Coworking in Bergen](https://www.google.com/maps/search/Coworking+Spaces+in+Bergen) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bergen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bergen) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bergen](https://www.google.com/maps/search/supermarket+in+Bergen) |
+| 🥾 **Hiking Trails** | [Find Trails in Bergen](https://www.google.com/maps/search/Hiking+Trails+in+Bergen) |
 
 ## 🏨 Hotels & Airbnb
 

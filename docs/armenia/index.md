@@ -33,6 +33,7 @@ description: Complete cost of living guide for Armenia
 | 💻 **Coworking** | [Find Coworking in 🇦🇲 Armenia](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇲+Armenia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇲 Armenia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇲+Armenia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇲 Armenia](https://www.google.com/maps/search/supermarket+in+🇦🇲+Armenia) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇦🇲 Armenia](https://www.google.com/maps/search/Hiking+Trails+in+🇦🇲+Armenia) |
 
 ## 🇪🇺 European Resident Info
 

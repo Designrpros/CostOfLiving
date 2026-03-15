@@ -38,6 +38,7 @@ description: Complete cost of living guide for Italy
 | 💻 **Coworking** | [Find Coworking in 🇮🇹 Italy](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇹+Italy) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇹 Italy](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇹+Italy) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇹 Italy](https://www.google.com/maps/search/supermarket+in+🇮🇹+Italy) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇮🇹 Italy](https://www.google.com/maps/search/Hiking+Trails+in+🇮🇹+Italy) |
 
 ## 🇪🇺 European Resident Info
 

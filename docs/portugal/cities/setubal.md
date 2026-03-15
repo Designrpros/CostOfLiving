@@ -27,6 +27,7 @@ description: Cost of Living in Setubal
 | 💻 **Coworking** | [Find Coworking in Setubal](https://www.google.com/maps/search/Coworking+Spaces+in+Setubal) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Setubal](https://www.google.com/maps/search/laptop+friendly+cafes+in+Setubal) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Setubal](https://www.google.com/maps/search/supermarket+in+Setubal) |
+| 🥾 **Hiking Trails** | [Find Trails in Setubal](https://www.google.com/maps/search/Hiking+Trails+in+Setubal) |
 
 ## 🏨 Hotels & Airbnb
 

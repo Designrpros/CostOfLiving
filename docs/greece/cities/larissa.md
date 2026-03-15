@@ -27,6 +27,7 @@ description: Cost of Living in Larissa
 | 💻 **Coworking** | [Find Coworking in Larissa](https://www.google.com/maps/search/Coworking+Spaces+in+Larissa) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Larissa](https://www.google.com/maps/search/laptop+friendly+cafes+in+Larissa) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Larissa](https://www.google.com/maps/search/supermarket+in+Larissa) |
+| 🥾 **Hiking Trails** | [Find Trails in Larissa](https://www.google.com/maps/search/Hiking+Trails+in+Larissa) |
 
 ## 🏨 Hotels & Airbnb
 

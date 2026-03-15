@@ -27,3 +27,4 @@ description: Cost of Living in Vlorë
 | 💻 **Coworking** | [Find Coworking in Vlorë](https://www.google.com/maps/search/Coworking+Spaces+in+Vlorë) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Vlorë](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vlorë) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Vlorë](https://www.google.com/maps/search/supermarket+in+Vlorë) |
+| 🥾 **Hiking Trails** | [Find Trails in Vlorë](https://www.google.com/maps/search/Hiking+Trails+in+Vlorë) |

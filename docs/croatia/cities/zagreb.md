@@ -27,6 +27,7 @@ description: Cost of Living in Zagreb
 | 💻 **Coworking** | [Find Coworking in Zagreb](https://www.google.com/maps/search/Coworking+Spaces+in+Zagreb) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Zagreb](https://www.google.com/maps/search/laptop+friendly+cafes+in+Zagreb) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Zagreb](https://www.google.com/maps/search/supermarket+in+Zagreb) |
+| 🥾 **Hiking Trails** | [Find Trails in Zagreb](https://www.google.com/maps/search/Hiking+Trails+in+Zagreb) |
 
 ## 🏨 Hotels & Airbnb
 

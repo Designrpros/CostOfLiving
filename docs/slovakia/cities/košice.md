@@ -27,3 +27,4 @@ description: Cost of Living in Košice
 | 💻 **Coworking** | [Find Coworking in Košice](https://www.google.com/maps/search/Coworking+Spaces+in+Košice) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Košice](https://www.google.com/maps/search/laptop+friendly+cafes+in+Košice) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Košice](https://www.google.com/maps/search/supermarket+in+Košice) |
+| 🥾 **Hiking Trails** | [Find Trails in Košice](https://www.google.com/maps/search/Hiking+Trails+in+Košice) |

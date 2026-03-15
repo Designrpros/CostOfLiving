@@ -27,3 +27,4 @@ description: Cost of Living in Saint Petersburg
 | 💻 **Coworking** | [Find Coworking in Saint Petersburg](https://www.google.com/maps/search/Coworking+Spaces+in+Saint+Petersburg) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Saint Petersburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Saint+Petersburg) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Saint Petersburg](https://www.google.com/maps/search/supermarket+in+Saint+Petersburg) |
+| 🥾 **Hiking Trails** | [Find Trails in Saint Petersburg](https://www.google.com/maps/search/Hiking+Trails+in+Saint+Petersburg) |

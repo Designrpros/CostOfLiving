@@ -37,6 +37,7 @@ description: Complete cost of living guide for Romania
 | 💻 **Coworking** | [Find Coworking in 🇷🇴 Romania](https://www.google.com/maps/search/Coworking+Spaces+in+🇷🇴+Romania) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇷🇴 Romania](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇷🇴+Romania) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇷🇴 Romania](https://www.google.com/maps/search/supermarket+in+🇷🇴+Romania) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇷🇴 Romania](https://www.google.com/maps/search/Hiking+Trails+in+🇷🇴+Romania) |
 
 ## 🇪🇺 European Resident Info
 

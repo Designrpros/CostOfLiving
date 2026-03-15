@@ -27,6 +27,7 @@ description: Cost of Living in Novi Sad
 | 💻 **Coworking** | [Find Coworking in Novi Sad](https://www.google.com/maps/search/Coworking+Spaces+in+Novi+Sad) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Novi Sad](https://www.google.com/maps/search/laptop+friendly+cafes+in+Novi+Sad) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Novi Sad](https://www.google.com/maps/search/supermarket+in+Novi+Sad) |
+| 🥾 **Hiking Trails** | [Find Trails in Novi Sad](https://www.google.com/maps/search/Hiking+Trails+in+Novi+Sad) |
 
 ## 🏨 Hotels & Airbnb
 

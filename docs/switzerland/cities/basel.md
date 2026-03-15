@@ -27,6 +27,7 @@ description: Cost of Living in Basel
 | 💻 **Coworking** | [Find Coworking in Basel](https://www.google.com/maps/search/Coworking+Spaces+in+Basel) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Basel](https://www.google.com/maps/search/laptop+friendly+cafes+in+Basel) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Basel](https://www.google.com/maps/search/supermarket+in+Basel) |
+| 🥾 **Hiking Trails** | [Find Trails in Basel](https://www.google.com/maps/search/Hiking+Trails+in+Basel) |
 
 ## 🏨 Hotels & Airbnb
 

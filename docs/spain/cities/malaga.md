@@ -27,6 +27,7 @@ description: Cost of Living in Málaga
 | 💻 **Coworking** | [Find Coworking in Málaga](https://www.google.com/maps/search/Coworking+Spaces+in+Málaga) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Málaga](https://www.google.com/maps/search/laptop+friendly+cafes+in+Málaga) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Málaga](https://www.google.com/maps/search/supermarket+in+Málaga) |
+| 🥾 **Hiking Trails** | [Find Trails in Málaga](https://www.google.com/maps/search/Hiking+Trails+in+Málaga) |
 
 ## 🏨 Hotels & Airbnb
 

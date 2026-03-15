@@ -27,6 +27,7 @@ description: Cost of Living in St. Julian's
 | 💻 **Coworking** | [Find Coworking in St. Julian's](https://www.google.com/maps/search/Coworking+Spaces+in+St.+Julian's) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in St. Julian's](https://www.google.com/maps/search/laptop+friendly+cafes+in+St.+Julian's) |
 | 🛒 **Supermarkets** | [Find Supermarkets in St. Julian's](https://www.google.com/maps/search/supermarket+in+St.+Julian's) |
+| 🥾 **Hiking Trails** | [Find Trails in St. Julian's](https://www.google.com/maps/search/Hiking+Trails+in+St.+Julian's) |
 
 ## 🏨 Hotels & Airbnb
 

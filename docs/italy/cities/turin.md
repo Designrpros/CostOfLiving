@@ -27,6 +27,7 @@ description: Cost of Living in Turin
 | 💻 **Coworking** | [Find Coworking in Turin](https://www.google.com/maps/search/Coworking+Spaces+in+Turin) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Turin](https://www.google.com/maps/search/laptop+friendly+cafes+in+Turin) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Turin](https://www.google.com/maps/search/supermarket+in+Turin) |
+| 🥾 **Hiking Trails** | [Find Trails in Turin](https://www.google.com/maps/search/Hiking+Trails+in+Turin) |
 
 ## 🏨 Hotels & Airbnb
 

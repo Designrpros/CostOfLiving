@@ -27,3 +27,4 @@ description: Cost of Living in Mogilev
 | 💻 **Coworking** | [Find Coworking in Mogilev](https://www.google.com/maps/search/Coworking+Spaces+in+Mogilev) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Mogilev](https://www.google.com/maps/search/laptop+friendly+cafes+in+Mogilev) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Mogilev](https://www.google.com/maps/search/supermarket+in+Mogilev) |
+| 🥾 **Hiking Trails** | [Find Trails in Mogilev](https://www.google.com/maps/search/Hiking+Trails+in+Mogilev) |

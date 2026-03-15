@@ -27,6 +27,7 @@ description: Cost of Living in Galway
 | 💻 **Coworking** | [Find Coworking in Galway](https://www.google.com/maps/search/Coworking+Spaces+in+Galway) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Galway](https://www.google.com/maps/search/laptop+friendly+cafes+in+Galway) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Galway](https://www.google.com/maps/search/supermarket+in+Galway) |
+| 🥾 **Hiking Trails** | [Find Trails in Galway](https://www.google.com/maps/search/Hiking+Trails+in+Galway) |
 
 ## 🏨 Hotels & Airbnb
 

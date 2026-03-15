@@ -33,6 +33,7 @@ description: Complete cost of living guide for Russia (European)
 | 💻 **Coworking** | [Find Coworking in 🇷🇺 Russia (European)](https://www.google.com/maps/search/Coworking+Spaces+in+🇷🇺+Russia+(European)) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇷🇺 Russia (European)](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇷🇺+Russia+(European)) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇷🇺 Russia (European)](https://www.google.com/maps/search/supermarket+in+🇷🇺+Russia+(European)) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇷🇺 Russia (European)](https://www.google.com/maps/search/Hiking+Trails+in+🇷🇺+Russia+(European)) |
 
 ## 🇪🇺 European Resident Info
 

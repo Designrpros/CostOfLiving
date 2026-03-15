@@ -27,3 +27,4 @@ description: Cost of Living in Oral
 | 💻 **Coworking** | [Find Coworking in Oral](https://www.google.com/maps/search/Coworking+Spaces+in+Oral) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Oral](https://www.google.com/maps/search/laptop+friendly+cafes+in+Oral) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Oral](https://www.google.com/maps/search/supermarket+in+Oral) |
+| 🥾 **Hiking Trails** | [Find Trails in Oral](https://www.google.com/maps/search/Hiking+Trails+in+Oral) |

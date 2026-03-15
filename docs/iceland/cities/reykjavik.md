@@ -27,6 +27,7 @@ description: Cost of Living in Reykjavik
 | 💻 **Coworking** | [Find Coworking in Reykjavik](https://www.google.com/maps/search/Coworking+Spaces+in+Reykjavik) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Reykjavik](https://www.google.com/maps/search/laptop+friendly+cafes+in+Reykjavik) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Reykjavik](https://www.google.com/maps/search/supermarket+in+Reykjavik) |
+| 🥾 **Hiking Trails** | [Find Trails in Reykjavik](https://www.google.com/maps/search/Hiking+Trails+in+Reykjavik) |
 
 ## 🏨 Hotels & Airbnb
 

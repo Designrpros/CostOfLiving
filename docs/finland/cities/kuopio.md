@@ -27,6 +27,7 @@ description: Cost of Living in Kuopio
 | 💻 **Coworking** | [Find Coworking in Kuopio](https://www.google.com/maps/search/Coworking+Spaces+in+Kuopio) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kuopio](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kuopio) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kuopio](https://www.google.com/maps/search/supermarket+in+Kuopio) |
+| 🥾 **Hiking Trails** | [Find Trails in Kuopio](https://www.google.com/maps/search/Hiking+Trails+in+Kuopio) |
 
 ## 🏨 Hotels & Airbnb
 

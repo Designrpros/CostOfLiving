@@ -27,6 +27,7 @@ description: Cost of Living in Oslo
 | 💻 **Coworking** | [Find Coworking in Oslo](https://www.google.com/maps/search/Coworking+Spaces+in+Oslo) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Oslo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Oslo) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Oslo](https://www.google.com/maps/search/supermarket+in+Oslo) |
+| 🥾 **Hiking Trails** | [Find Trails in Oslo](https://www.google.com/maps/search/Hiking+Trails+in+Oslo) |
 
 ## 🏨 Hotels & Airbnb
 

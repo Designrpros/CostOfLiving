@@ -27,6 +27,7 @@ description: Cost of Living in Marseille
 | 💻 **Coworking** | [Find Coworking in Marseille](https://www.google.com/maps/search/Coworking+Spaces+in+Marseille) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Marseille](https://www.google.com/maps/search/laptop+friendly+cafes+in+Marseille) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Marseille](https://www.google.com/maps/search/supermarket+in+Marseille) |
+| 🥾 **Hiking Trails** | [Find Trails in Marseille](https://www.google.com/maps/search/Hiking+Trails+in+Marseille) |
 
 ## 🏨 Hotels & Airbnb
 

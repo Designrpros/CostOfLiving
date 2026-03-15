@@ -38,6 +38,7 @@ description: Complete cost of living guide for Estonia
 | 💻 **Coworking** | [Find Coworking in 🇪🇪 Estonia](https://www.google.com/maps/search/Coworking+Spaces+in+🇪🇪+Estonia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇪🇪 Estonia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇪🇪+Estonia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇪🇪 Estonia](https://www.google.com/maps/search/supermarket+in+🇪🇪+Estonia) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇪🇪 Estonia](https://www.google.com/maps/search/Hiking+Trails+in+🇪🇪+Estonia) |
 
 ## 🇪🇺 European Resident Info
 

@@ -27,3 +27,4 @@ description: Cost of Living in Limassol
 | 💻 **Coworking** | [Find Coworking in Limassol](https://www.google.com/maps/search/Coworking+Spaces+in+Limassol) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Limassol](https://www.google.com/maps/search/laptop+friendly+cafes+in+Limassol) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Limassol](https://www.google.com/maps/search/supermarket+in+Limassol) |
+| 🥾 **Hiking Trails** | [Find Trails in Limassol](https://www.google.com/maps/search/Hiking+Trails+in+Limassol) |

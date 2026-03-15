@@ -27,6 +27,7 @@ description: Cost of Living in Ostrava
 | 💻 **Coworking** | [Find Coworking in Ostrava](https://www.google.com/maps/search/Coworking+Spaces+in+Ostrava) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Ostrava](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ostrava) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Ostrava](https://www.google.com/maps/search/supermarket+in+Ostrava) |
+| 🥾 **Hiking Trails** | [Find Trails in Ostrava](https://www.google.com/maps/search/Hiking+Trails+in+Ostrava) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -32,6 +32,7 @@ description: Complete cost of living guide for Turkey (European)
 | 💻 **Coworking** | [Find Coworking in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/Coworking+Spaces+in+🇹🇷+Turkey+(European)) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇹🇷+Turkey+(European)) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/supermarket+in+🇹🇷+Turkey+(European)) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/Hiking+Trails+in+🇹🇷+Turkey+(European)) |
 
 ## 🇪🇺 European Resident Info
 

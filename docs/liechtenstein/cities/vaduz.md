@@ -27,3 +27,4 @@ description: Cost of Living in Vaduz
 | 💻 **Coworking** | [Find Coworking in Vaduz](https://www.google.com/maps/search/Coworking+Spaces+in+Vaduz) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Vaduz](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vaduz) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Vaduz](https://www.google.com/maps/search/supermarket+in+Vaduz) |
+| 🥾 **Hiking Trails** | [Find Trails in Vaduz](https://www.google.com/maps/search/Hiking+Trails+in+Vaduz) |

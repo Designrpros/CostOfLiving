@@ -27,6 +27,7 @@ description: Cost of Living in Pärnu
 | 💻 **Coworking** | [Find Coworking in Pärnu](https://www.google.com/maps/search/Coworking+Spaces+in+Pärnu) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Pärnu](https://www.google.com/maps/search/laptop+friendly+cafes+in+Pärnu) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Pärnu](https://www.google.com/maps/search/supermarket+in+Pärnu) |
+| 🥾 **Hiking Trails** | [Find Trails in Pärnu](https://www.google.com/maps/search/Hiking+Trails+in+Pärnu) |
 
 ## 🏨 Hotels & Airbnb
 

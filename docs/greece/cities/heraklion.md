@@ -27,6 +27,7 @@ description: Cost of Living in Heraklion
 | 💻 **Coworking** | [Find Coworking in Heraklion](https://www.google.com/maps/search/Coworking+Spaces+in+Heraklion) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Heraklion](https://www.google.com/maps/search/laptop+friendly+cafes+in+Heraklion) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Heraklion](https://www.google.com/maps/search/supermarket+in+Heraklion) |
+| 🥾 **Hiking Trails** | [Find Trails in Heraklion](https://www.google.com/maps/search/Hiking+Trails+in+Heraklion) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Prague
 | 💻 **Coworking** | [Find Coworking in Prague](https://www.google.com/maps/search/Coworking+Spaces+in+Prague) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Prague](https://www.google.com/maps/search/laptop+friendly+cafes+in+Prague) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Prague](https://www.google.com/maps/search/supermarket+in+Prague) |
+| 🥾 **Hiking Trails** | [Find Trails in Prague](https://www.google.com/maps/search/Hiking+Trails+in+Prague) |
 
 ## 🏨 Hotels & Airbnb
 

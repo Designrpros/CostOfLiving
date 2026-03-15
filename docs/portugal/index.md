@@ -38,6 +38,7 @@ description: Complete cost of living guide for Portugal
 | 💻 **Coworking** | [Find Coworking in 🇵🇹 Portugal](https://www.google.com/maps/search/Coworking+Spaces+in+🇵🇹+Portugal) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇵🇹 Portugal](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇵🇹+Portugal) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇵🇹 Portugal](https://www.google.com/maps/search/supermarket+in+🇵🇹+Portugal) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇵🇹 Portugal](https://www.google.com/maps/search/Hiking+Trails+in+🇵🇹+Portugal) |
 
 ## 🇪🇺 European Resident Info
 

@@ -27,6 +27,7 @@ description: Cost of Living in Frankfurt
 | 💻 **Coworking** | [Find Coworking in Frankfurt](https://www.google.com/maps/search/Coworking+Spaces+in+Frankfurt) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Frankfurt](https://www.google.com/maps/search/laptop+friendly+cafes+in+Frankfurt) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Frankfurt](https://www.google.com/maps/search/supermarket+in+Frankfurt) |
+| 🥾 **Hiking Trails** | [Find Trails in Frankfurt](https://www.google.com/maps/search/Hiking+Trails+in+Frankfurt) |
 
 ## 🏨 Hotels & Airbnb
 

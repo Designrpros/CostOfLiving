@@ -33,6 +33,7 @@ description: Complete cost of living guide for Latvia
 | 💻 **Coworking** | [Find Coworking in 🇱🇻 Latvia](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇻+Latvia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇻 Latvia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇻+Latvia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇻 Latvia](https://www.google.com/maps/search/supermarket+in+🇱🇻+Latvia) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇱🇻 Latvia](https://www.google.com/maps/search/Hiking+Trails+in+🇱🇻+Latvia) |
 
 ## 🇪🇺 European Resident Info
 

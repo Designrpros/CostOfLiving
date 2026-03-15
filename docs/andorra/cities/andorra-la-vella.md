@@ -27,3 +27,4 @@ description: Cost of Living in Andorra la Vella
 | 💻 **Coworking** | [Find Coworking in Andorra la Vella](https://www.google.com/maps/search/Coworking+Spaces+in+Andorra+la+Vella) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Andorra la Vella](https://www.google.com/maps/search/laptop+friendly+cafes+in+Andorra+la+Vella) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Andorra la Vella](https://www.google.com/maps/search/supermarket+in+Andorra+la+Vella) |
+| 🥾 **Hiking Trails** | [Find Trails in Andorra la Vella](https://www.google.com/maps/search/Hiking+Trails+in+Andorra+la+Vella) |

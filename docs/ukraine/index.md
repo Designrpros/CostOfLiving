@@ -33,6 +33,7 @@ description: Complete cost of living guide for Ukraine
 | 💻 **Coworking** | [Find Coworking in 🇺🇦 Ukraine](https://www.google.com/maps/search/Coworking+Spaces+in+🇺🇦+Ukraine) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇺🇦 Ukraine](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇺🇦+Ukraine) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇺🇦 Ukraine](https://www.google.com/maps/search/supermarket+in+🇺🇦+Ukraine) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇺🇦 Ukraine](https://www.google.com/maps/search/Hiking+Trails+in+🇺🇦+Ukraine) |
 
 ## 🇪🇺 European Resident Info
 

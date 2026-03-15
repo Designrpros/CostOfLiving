@@ -33,6 +33,7 @@ description: Complete cost of living guide for Belarus
 | 💻 **Coworking** | [Find Coworking in 🇧🇾 Belarus](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇾+Belarus) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇾 Belarus](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇾+Belarus) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇾 Belarus](https://www.google.com/maps/search/supermarket+in+🇧🇾+Belarus) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇧🇾 Belarus](https://www.google.com/maps/search/Hiking+Trails+in+🇧🇾+Belarus) |
 
 ## 🇪🇺 European Resident Info
 

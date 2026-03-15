@@ -27,6 +27,7 @@ description: Cost of Living in Sofia
 | 💻 **Coworking** | [Find Coworking in Sofia](https://www.google.com/maps/search/Coworking+Spaces+in+Sofia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Sofia](https://www.google.com/maps/search/laptop+friendly+cafes+in+Sofia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Sofia](https://www.google.com/maps/search/supermarket+in+Sofia) |
+| 🥾 **Hiking Trails** | [Find Trails in Sofia](https://www.google.com/maps/search/Hiking+Trails+in+Sofia) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Trondheim
 | 💻 **Coworking** | [Find Coworking in Trondheim](https://www.google.com/maps/search/Coworking+Spaces+in+Trondheim) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Trondheim](https://www.google.com/maps/search/laptop+friendly+cafes+in+Trondheim) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Trondheim](https://www.google.com/maps/search/supermarket+in+Trondheim) |
+| 🥾 **Hiking Trails** | [Find Trails in Trondheim](https://www.google.com/maps/search/Hiking+Trails+in+Trondheim) |
 
 ## 🏨 Hotels & Airbnb
 

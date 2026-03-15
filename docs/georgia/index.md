@@ -33,6 +33,7 @@ description: Complete cost of living guide for Georgia
 | 💻 **Coworking** | [Find Coworking in 🇬🇪 Georgia](https://www.google.com/maps/search/Coworking+Spaces+in+🇬🇪+Georgia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇬🇪 Georgia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇬🇪+Georgia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇬🇪 Georgia](https://www.google.com/maps/search/supermarket+in+🇬🇪+Georgia) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇬🇪 Georgia](https://www.google.com/maps/search/Hiking+Trails+in+🇬🇪+Georgia) |
 
 ## 🇪🇺 European Resident Info
 

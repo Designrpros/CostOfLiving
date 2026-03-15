@@ -27,6 +27,7 @@ description: Cost of Living in Moss
 | 💻 **Coworking** | [Find Coworking in Moss](https://www.google.com/maps/search/Coworking+Spaces+in+Moss) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Moss](https://www.google.com/maps/search/laptop+friendly+cafes+in+Moss) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Moss](https://www.google.com/maps/search/supermarket+in+Moss) |
+| 🥾 **Hiking Trails** | [Find Trails in Moss](https://www.google.com/maps/search/Hiking+Trails+in+Moss) |
 
 ## 🏨 Hotels & Airbnb
 

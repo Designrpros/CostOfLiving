@@ -27,6 +27,7 @@ description: Cost of Living in Dublin
 | 💻 **Coworking** | [Find Coworking in Dublin](https://www.google.com/maps/search/Coworking+Spaces+in+Dublin) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Dublin](https://www.google.com/maps/search/laptop+friendly+cafes+in+Dublin) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Dublin](https://www.google.com/maps/search/supermarket+in+Dublin) |
+| 🥾 **Hiking Trails** | [Find Trails in Dublin](https://www.google.com/maps/search/Hiking+Trails+in+Dublin) |
 
 ## 🏨 Hotels & Airbnb
 

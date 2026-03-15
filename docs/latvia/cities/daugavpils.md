@@ -27,3 +27,4 @@ description: Cost of Living in Daugavpils
 | 💻 **Coworking** | [Find Coworking in Daugavpils](https://www.google.com/maps/search/Coworking+Spaces+in+Daugavpils) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Daugavpils](https://www.google.com/maps/search/laptop+friendly+cafes+in+Daugavpils) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Daugavpils](https://www.google.com/maps/search/supermarket+in+Daugavpils) |
+| 🥾 **Hiking Trails** | [Find Trails in Daugavpils](https://www.google.com/maps/search/Hiking+Trails+in+Daugavpils) |

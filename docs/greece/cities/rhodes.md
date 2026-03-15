@@ -27,6 +27,7 @@ description: Cost of Living in Rhodes
 | 💻 **Coworking** | [Find Coworking in Rhodes](https://www.google.com/maps/search/Coworking+Spaces+in+Rhodes) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Rhodes](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rhodes) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Rhodes](https://www.google.com/maps/search/supermarket+in+Rhodes) |
+| 🥾 **Hiking Trails** | [Find Trails in Rhodes](https://www.google.com/maps/search/Hiking+Trails+in+Rhodes) |
 
 ## 🏨 Hotels & Airbnb
 

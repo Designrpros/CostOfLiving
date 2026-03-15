@@ -27,6 +27,7 @@ description: Cost of Living in Graz
 | 💻 **Coworking** | [Find Coworking in Graz](https://www.google.com/maps/search/Coworking+Spaces+in+Graz) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Graz](https://www.google.com/maps/search/laptop+friendly+cafes+in+Graz) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Graz](https://www.google.com/maps/search/supermarket+in+Graz) |
+| 🥾 **Hiking Trails** | [Find Trails in Graz](https://www.google.com/maps/search/Hiking+Trails+in+Graz) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Jönköping
 | 💻 **Coworking** | [Find Coworking in Jönköping](https://www.google.com/maps/search/Coworking+Spaces+in+Jönköping) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Jönköping](https://www.google.com/maps/search/laptop+friendly+cafes+in+Jönköping) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Jönköping](https://www.google.com/maps/search/supermarket+in+Jönköping) |
+| 🥾 **Hiking Trails** | [Find Trails in Jönköping](https://www.google.com/maps/search/Hiking+Trails+in+Jönköping) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Gyor
 | 💻 **Coworking** | [Find Coworking in Gyor](https://www.google.com/maps/search/Coworking+Spaces+in+Gyor) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Gyor](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gyor) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Gyor](https://www.google.com/maps/search/supermarket+in+Gyor) |
+| 🥾 **Hiking Trails** | [Find Trails in Gyor](https://www.google.com/maps/search/Hiking+Trails+in+Gyor) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,6 +27,7 @@ description: Cost of Living in Roskilde
 | 💻 **Coworking** | [Find Coworking in Roskilde](https://www.google.com/maps/search/Coworking+Spaces+in+Roskilde) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Roskilde](https://www.google.com/maps/search/laptop+friendly+cafes+in+Roskilde) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Roskilde](https://www.google.com/maps/search/supermarket+in+Roskilde) |
+| 🥾 **Hiking Trails** | [Find Trails in Roskilde](https://www.google.com/maps/search/Hiking+Trails+in+Roskilde) |
 
 ## 🏨 Hotels & Airbnb
 

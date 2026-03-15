@@ -37,6 +37,7 @@ description: Complete cost of living guide for Ireland
 | 💻 **Coworking** | [Find Coworking in 🇮🇪 Ireland](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇪+Ireland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇪 Ireland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇪+Ireland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇪 Ireland](https://www.google.com/maps/search/supermarket+in+🇮🇪+Ireland) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇮🇪 Ireland](https://www.google.com/maps/search/Hiking+Trails+in+🇮🇪+Ireland) |
 
 ## 🇪🇺 European Resident Info
 

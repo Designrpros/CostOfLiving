@@ -27,3 +27,4 @@ description: Cost of Living in Monaco
 | 💻 **Coworking** | [Find Coworking in Monaco](https://www.google.com/maps/search/Coworking+Spaces+in+Monaco) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Monaco](https://www.google.com/maps/search/laptop+friendly+cafes+in+Monaco) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Monaco](https://www.google.com/maps/search/supermarket+in+Monaco) |
+| 🥾 **Hiking Trails** | [Find Trails in Monaco](https://www.google.com/maps/search/Hiking+Trails+in+Monaco) |

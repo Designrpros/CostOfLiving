@@ -27,6 +27,7 @@ description: Cost of Living in Randers
 | 💻 **Coworking** | [Find Coworking in Randers](https://www.google.com/maps/search/Coworking+Spaces+in+Randers) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Randers](https://www.google.com/maps/search/laptop+friendly+cafes+in+Randers) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Randers](https://www.google.com/maps/search/supermarket+in+Randers) |
+| 🥾 **Hiking Trails** | [Find Trails in Randers](https://www.google.com/maps/search/Hiking+Trails+in+Randers) |
 
 ## 🏨 Hotels & Airbnb
 

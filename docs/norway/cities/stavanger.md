@@ -27,6 +27,7 @@ description: Cost of Living in Stavanger
 | 💻 **Coworking** | [Find Coworking in Stavanger](https://www.google.com/maps/search/Coworking+Spaces+in+Stavanger) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Stavanger](https://www.google.com/maps/search/laptop+friendly+cafes+in+Stavanger) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Stavanger](https://www.google.com/maps/search/supermarket+in+Stavanger) |
+| 🥾 **Hiking Trails** | [Find Trails in Stavanger](https://www.google.com/maps/search/Hiking+Trails+in+Stavanger) |
 
 ## 🏨 Hotels & Airbnb
 

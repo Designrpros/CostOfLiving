@@ -27,3 +27,4 @@ description: Cost of Living in Sarajevo
 | 💻 **Coworking** | [Find Coworking in Sarajevo](https://www.google.com/maps/search/Coworking+Spaces+in+Sarajevo) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Sarajevo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Sarajevo) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Sarajevo](https://www.google.com/maps/search/supermarket+in+Sarajevo) |
+| 🥾 **Hiking Trails** | [Find Trails in Sarajevo](https://www.google.com/maps/search/Hiking+Trails+in+Sarajevo) |

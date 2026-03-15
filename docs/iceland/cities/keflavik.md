@@ -27,6 +27,7 @@ description: Cost of Living in Keflavik
 | 💻 **Coworking** | [Find Coworking in Keflavik](https://www.google.com/maps/search/Coworking+Spaces+in+Keflavik) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Keflavik](https://www.google.com/maps/search/laptop+friendly+cafes+in+Keflavik) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Keflavik](https://www.google.com/maps/search/supermarket+in+Keflavik) |
+| 🥾 **Hiking Trails** | [Find Trails in Keflavik](https://www.google.com/maps/search/Hiking+Trails+in+Keflavik) |
 
 ## 🏨 Hotels & Airbnb
 

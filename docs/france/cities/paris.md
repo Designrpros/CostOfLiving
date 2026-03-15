@@ -27,6 +27,7 @@ description: Cost of Living in Paris
 | 💻 **Coworking** | [Find Coworking in Paris](https://www.google.com/maps/search/Coworking+Spaces+in+Paris) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Paris](https://www.google.com/maps/search/laptop+friendly+cafes+in+Paris) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Paris](https://www.google.com/maps/search/supermarket+in+Paris) |
+| 🥾 **Hiking Trails** | [Find Trails in Paris](https://www.google.com/maps/search/Hiking+Trails+in+Paris) |
 
 ## 🏨 Hotels & Airbnb
 

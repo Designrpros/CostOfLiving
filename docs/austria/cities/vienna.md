@@ -27,6 +27,7 @@ description: Cost of Living in Vienna
 | 💻 **Coworking** | [Find Coworking in Vienna](https://www.google.com/maps/search/Coworking+Spaces+in+Vienna) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Vienna](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vienna) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Vienna](https://www.google.com/maps/search/supermarket+in+Vienna) |
+| 🥾 **Hiking Trails** | [Find Trails in Vienna](https://www.google.com/maps/search/Hiking+Trails+in+Vienna) |
 
 ## 🏨 Hotels & Airbnb
 

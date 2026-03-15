@@ -27,6 +27,7 @@ description: Cost of Living in Copenhagen
 | 💻 **Coworking** | [Find Coworking in Copenhagen](https://www.google.com/maps/search/Coworking+Spaces+in+Copenhagen) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Copenhagen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Copenhagen) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Copenhagen](https://www.google.com/maps/search/supermarket+in+Copenhagen) |
+| 🥾 **Hiking Trails** | [Find Trails in Copenhagen](https://www.google.com/maps/search/Hiking+Trails+in+Copenhagen) |
 
 ## 🏨 Hotels & Airbnb
 

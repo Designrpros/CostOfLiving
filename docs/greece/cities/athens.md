@@ -27,6 +27,7 @@ description: Cost of Living in Athens
 | 💻 **Coworking** | [Find Coworking in Athens](https://www.google.com/maps/search/Coworking+Spaces+in+Athens) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Athens](https://www.google.com/maps/search/laptop+friendly+cafes+in+Athens) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Athens](https://www.google.com/maps/search/supermarket+in+Athens) |
+| 🥾 **Hiking Trails** | [Find Trails in Athens](https://www.google.com/maps/search/Hiking+Trails+in+Athens) |
 
 ## 🏨 Hotels & Airbnb
 

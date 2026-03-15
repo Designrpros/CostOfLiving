@@ -33,6 +33,7 @@ description: Complete cost of living guide for Slovakia
 | 💻 **Coworking** | [Find Coworking in 🇸🇰 Slovakia](https://www.google.com/maps/search/Coworking+Spaces+in+🇸🇰+Slovakia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇸🇰 Slovakia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇸🇰+Slovakia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇸🇰 Slovakia](https://www.google.com/maps/search/supermarket+in+🇸🇰+Slovakia) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇸🇰 Slovakia](https://www.google.com/maps/search/Hiking+Trails+in+🇸🇰+Slovakia) |
 
 ## 🇪🇺 European Resident Info
 

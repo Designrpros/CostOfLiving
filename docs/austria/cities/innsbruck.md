@@ -27,6 +27,7 @@ description: Cost of Living in Innsbruck
 | 💻 **Coworking** | [Find Coworking in Innsbruck](https://www.google.com/maps/search/Coworking+Spaces+in+Innsbruck) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Innsbruck](https://www.google.com/maps/search/laptop+friendly+cafes+in+Innsbruck) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Innsbruck](https://www.google.com/maps/search/supermarket+in+Innsbruck) |
+| 🥾 **Hiking Trails** | [Find Trails in Innsbruck](https://www.google.com/maps/search/Hiking+Trails+in+Innsbruck) |
 
 ## 🏨 Hotels & Airbnb
 

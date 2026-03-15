@@ -37,6 +37,7 @@ description: Complete cost of living guide for Poland
 | 💻 **Coworking** | [Find Coworking in 🇵🇱 Poland](https://www.google.com/maps/search/Coworking+Spaces+in+🇵🇱+Poland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇵🇱 Poland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇵🇱+Poland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇵🇱 Poland](https://www.google.com/maps/search/supermarket+in+🇵🇱+Poland) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇵🇱 Poland](https://www.google.com/maps/search/Hiking+Trails+in+🇵🇱+Poland) |
 
 ## 🇪🇺 European Resident Info
 

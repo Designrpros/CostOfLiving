@@ -37,6 +37,7 @@ description: Complete cost of living guide for Austria
 | 💻 **Coworking** | [Find Coworking in 🇦🇹 Austria](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇹+Austria) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇹 Austria](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇹+Austria) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇹 Austria](https://www.google.com/maps/search/supermarket+in+🇦🇹+Austria) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇦🇹 Austria](https://www.google.com/maps/search/Hiking+Trails+in+🇦🇹+Austria) |
 
 ## 🇪🇺 European Resident Info
 

@@ -27,6 +27,7 @@ description: Cost of Living in Szeged
 | 💻 **Coworking** | [Find Coworking in Szeged](https://www.google.com/maps/search/Coworking+Spaces+in+Szeged) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Szeged](https://www.google.com/maps/search/laptop+friendly+cafes+in+Szeged) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Szeged](https://www.google.com/maps/search/supermarket+in+Szeged) |
+| 🥾 **Hiking Trails** | [Find Trails in Szeged](https://www.google.com/maps/search/Hiking+Trails+in+Szeged) |
 
 ## 🏨 Hotels & Airbnb
 

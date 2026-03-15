@@ -27,3 +27,4 @@ description: Cost of Living in Kyiv
 | 💻 **Coworking** | [Find Coworking in Kyiv](https://www.google.com/maps/search/Coworking+Spaces+in+Kyiv) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kyiv](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kyiv) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kyiv](https://www.google.com/maps/search/supermarket+in+Kyiv) |
+| 🥾 **Hiking Trails** | [Find Trails in Kyiv](https://www.google.com/maps/search/Hiking+Trails+in+Kyiv) |

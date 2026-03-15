@@ -41,6 +41,7 @@ description: Complete cost of living guide for Denmark
 | 💻 **Coworking** | [Find Coworking in 🇩🇰 Denmark](https://www.google.com/maps/search/Coworking+Spaces+in+🇩🇰+Denmark) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇩🇰 Denmark](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇩🇰+Denmark) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇩🇰 Denmark](https://www.google.com/maps/search/supermarket+in+🇩🇰+Denmark) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇩🇰 Denmark](https://www.google.com/maps/search/Hiking+Trails+in+🇩🇰+Denmark) |
 
 ## 🇪🇺 European Resident Info
 

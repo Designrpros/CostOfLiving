@@ -27,6 +27,7 @@ description: Cost of Living in Linköping
 | 💻 **Coworking** | [Find Coworking in Linköping](https://www.google.com/maps/search/Coworking+Spaces+in+Linköping) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Linköping](https://www.google.com/maps/search/laptop+friendly+cafes+in+Linköping) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Linköping](https://www.google.com/maps/search/supermarket+in+Linköping) |
+| 🥾 **Hiking Trails** | [Find Trails in Linköping](https://www.google.com/maps/search/Hiking+Trails+in+Linköping) |
 
 ## 🏨 Hotels & Airbnb
 

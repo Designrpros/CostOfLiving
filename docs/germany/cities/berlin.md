@@ -27,6 +27,7 @@ description: Cost of Living in Berlin
 | 💻 **Coworking** | [Find Coworking in Berlin](https://www.google.com/maps/search/Coworking+Spaces+in+Berlin) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Berlin](https://www.google.com/maps/search/laptop+friendly+cafes+in+Berlin) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Berlin](https://www.google.com/maps/search/supermarket+in+Berlin) |
+| 🥾 **Hiking Trails** | [Find Trails in Berlin](https://www.google.com/maps/search/Hiking+Trails+in+Berlin) |
 
 ## 🏨 Hotels & Airbnb
 

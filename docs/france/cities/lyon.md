@@ -27,6 +27,7 @@ description: Cost of Living in Lyon
 | 💻 **Coworking** | [Find Coworking in Lyon](https://www.google.com/maps/search/Coworking+Spaces+in+Lyon) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Lyon](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lyon) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Lyon](https://www.google.com/maps/search/supermarket+in+Lyon) |
+| 🥾 **Hiking Trails** | [Find Trails in Lyon](https://www.google.com/maps/search/Hiking+Trails+in+Lyon) |
 
 ## 🏨 Hotels & Airbnb
 

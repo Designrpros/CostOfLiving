@@ -27,6 +27,7 @@ description: Cost of Living in Bern
 | 💻 **Coworking** | [Find Coworking in Bern](https://www.google.com/maps/search/Coworking+Spaces+in+Bern) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bern](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bern) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bern](https://www.google.com/maps/search/supermarket+in+Bern) |
+| 🥾 **Hiking Trails** | [Find Trails in Bern](https://www.google.com/maps/search/Hiking+Trails+in+Bern) |
 
 ## 🏨 Hotels & Airbnb
 

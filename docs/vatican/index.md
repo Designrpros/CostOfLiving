@@ -31,6 +31,7 @@ description: Complete cost of living guide for Vatican City
 | 💻 **Coworking** | [Find Coworking in 🇻🇦 Vatican City](https://www.google.com/maps/search/Coworking+Spaces+in+🇻🇦+Vatican+City) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇻🇦 Vatican City](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇻🇦+Vatican+City) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇻🇦 Vatican City](https://www.google.com/maps/search/supermarket+in+🇻🇦+Vatican+City) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇻🇦 Vatican City](https://www.google.com/maps/search/Hiking+Trails+in+🇻🇦+Vatican+City) |
 
 ## 🇪🇺 European Resident Info
 

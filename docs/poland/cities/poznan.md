@@ -27,6 +27,7 @@ description: Cost of Living in Poznań
 | 💻 **Coworking** | [Find Coworking in Poznań](https://www.google.com/maps/search/Coworking+Spaces+in+Poznań) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Poznań](https://www.google.com/maps/search/laptop+friendly+cafes+in+Poznań) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Poznań](https://www.google.com/maps/search/supermarket+in+Poznań) |
+| 🥾 **Hiking Trails** | [Find Trails in Poznań](https://www.google.com/maps/search/Hiking+Trails+in+Poznań) |
 
 ## 🏨 Hotels & Airbnb
 

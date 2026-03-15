@@ -27,3 +27,4 @@ description: Cost of Living in Ganja
 | 💻 **Coworking** | [Find Coworking in Ganja](https://www.google.com/maps/search/Coworking+Spaces+in+Ganja) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Ganja](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ganja) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Ganja](https://www.google.com/maps/search/supermarket+in+Ganja) |
+| 🥾 **Hiking Trails** | [Find Trails in Ganja](https://www.google.com/maps/search/Hiking+Trails+in+Ganja) |

@@ -27,3 +27,4 @@ description: Cost of Living in Klaipėda
 | 💻 **Coworking** | [Find Coworking in Klaipėda](https://www.google.com/maps/search/Coworking+Spaces+in+Klaipėda) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Klaipėda](https://www.google.com/maps/search/laptop+friendly+cafes+in+Klaipėda) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Klaipėda](https://www.google.com/maps/search/supermarket+in+Klaipėda) |
+| 🥾 **Hiking Trails** | [Find Trails in Klaipėda](https://www.google.com/maps/search/Hiking+Trails+in+Klaipėda) |

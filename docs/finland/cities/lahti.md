@@ -27,6 +27,7 @@ description: Cost of Living in Lahti
 | 💻 **Coworking** | [Find Coworking in Lahti](https://www.google.com/maps/search/Coworking+Spaces+in+Lahti) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Lahti](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lahti) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Lahti](https://www.google.com/maps/search/supermarket+in+Lahti) |
+| 🥾 **Hiking Trails** | [Find Trails in Lahti](https://www.google.com/maps/search/Hiking+Trails+in+Lahti) |
 
 ## 🏨 Hotels & Airbnb
 

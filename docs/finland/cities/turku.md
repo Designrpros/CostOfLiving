@@ -27,6 +27,7 @@ description: Cost of Living in Turku
 | 💻 **Coworking** | [Find Coworking in Turku](https://www.google.com/maps/search/Coworking+Spaces+in+Turku) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Turku](https://www.google.com/maps/search/laptop+friendly+cafes+in+Turku) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Turku](https://www.google.com/maps/search/supermarket+in+Turku) |
+| 🥾 **Hiking Trails** | [Find Trails in Turku](https://www.google.com/maps/search/Hiking+Trails+in+Turku) |
 
 ## 🏨 Hotels & Airbnb
 

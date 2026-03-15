@@ -27,6 +27,7 @@ description: Cost of Living in Plovdiv
 | 💻 **Coworking** | [Find Coworking in Plovdiv](https://www.google.com/maps/search/Coworking+Spaces+in+Plovdiv) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Plovdiv](https://www.google.com/maps/search/laptop+friendly+cafes+in+Plovdiv) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Plovdiv](https://www.google.com/maps/search/supermarket+in+Plovdiv) |
+| 🥾 **Hiking Trails** | [Find Trails in Plovdiv](https://www.google.com/maps/search/Hiking+Trails+in+Plovdiv) |
 
 ## 🏨 Hotels & Airbnb
 

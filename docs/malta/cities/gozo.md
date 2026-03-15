@@ -27,6 +27,7 @@ description: Cost of Living in Gozo
 | 💻 **Coworking** | [Find Coworking in Gozo](https://www.google.com/maps/search/Coworking+Spaces+in+Gozo) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Gozo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gozo) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Gozo](https://www.google.com/maps/search/supermarket+in+Gozo) |
+| 🥾 **Hiking Trails** | [Find Trails in Gozo](https://www.google.com/maps/search/Hiking+Trails+in+Gozo) |
 
 ## 🏨 Hotels & Airbnb
 

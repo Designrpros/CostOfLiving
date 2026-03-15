@@ -38,6 +38,7 @@ description: Complete cost of living guide for Netherlands
 | 💻 **Coworking** | [Find Coworking in 🇳🇱 Netherlands](https://www.google.com/maps/search/Coworking+Spaces+in+🇳🇱+Netherlands) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇳🇱 Netherlands](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇳🇱+Netherlands) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇳🇱 Netherlands](https://www.google.com/maps/search/supermarket+in+🇳🇱+Netherlands) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇳🇱 Netherlands](https://www.google.com/maps/search/Hiking+Trails+in+🇳🇱+Netherlands) |
 
 ## 🇪🇺 European Resident Info
 

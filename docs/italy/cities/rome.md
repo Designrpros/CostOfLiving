@@ -27,6 +27,7 @@ description: Cost of Living in Rome
 | 💻 **Coworking** | [Find Coworking in Rome](https://www.google.com/maps/search/Coworking+Spaces+in+Rome) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Rome](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rome) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Rome](https://www.google.com/maps/search/supermarket+in+Rome) |
+| 🥾 **Hiking Trails** | [Find Trails in Rome](https://www.google.com/maps/search/Hiking+Trails+in+Rome) |
 
 ## 🏨 Hotels & Airbnb
 

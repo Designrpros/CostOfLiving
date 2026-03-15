@@ -27,3 +27,4 @@ description: Cost of Living in Kazan
 | 💻 **Coworking** | [Find Coworking in Kazan](https://www.google.com/maps/search/Coworking+Spaces+in+Kazan) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kazan](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kazan) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kazan](https://www.google.com/maps/search/supermarket+in+Kazan) |
+| 🥾 **Hiking Trails** | [Find Trails in Kazan](https://www.google.com/maps/search/Hiking+Trails+in+Kazan) |

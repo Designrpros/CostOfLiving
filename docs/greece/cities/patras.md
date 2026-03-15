@@ -27,6 +27,7 @@ description: Cost of Living in Patras
 | 💻 **Coworking** | [Find Coworking in Patras](https://www.google.com/maps/search/Coworking+Spaces+in+Patras) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Patras](https://www.google.com/maps/search/laptop+friendly+cafes+in+Patras) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Patras](https://www.google.com/maps/search/supermarket+in+Patras) |
+| 🥾 **Hiking Trails** | [Find Trails in Patras](https://www.google.com/maps/search/Hiking+Trails+in+Patras) |
 
 ## 🏨 Hotels & Airbnb
 

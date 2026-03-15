@@ -27,6 +27,7 @@ description: Cost of Living in Plzeň
 | 💻 **Coworking** | [Find Coworking in Plzeň](https://www.google.com/maps/search/Coworking+Spaces+in+Plzeň) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Plzeň](https://www.google.com/maps/search/laptop+friendly+cafes+in+Plzeň) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Plzeň](https://www.google.com/maps/search/supermarket+in+Plzeň) |
+| 🥾 **Hiking Trails** | [Find Trails in Plzeň](https://www.google.com/maps/search/Hiking+Trails+in+Plzeň) |
 
 ## 🏨 Hotels & Airbnb
 

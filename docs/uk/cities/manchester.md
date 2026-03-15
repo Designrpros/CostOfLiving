@@ -27,6 +27,7 @@ description: Cost of Living in Manchester
 | 💻 **Coworking** | [Find Coworking in Manchester](https://www.google.com/maps/search/Coworking+Spaces+in+Manchester) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Manchester](https://www.google.com/maps/search/laptop+friendly+cafes+in+Manchester) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Manchester](https://www.google.com/maps/search/supermarket+in+Manchester) |
+| 🥾 **Hiking Trails** | [Find Trails in Manchester](https://www.google.com/maps/search/Hiking+Trails+in+Manchester) |
 
 ## 🏨 Hotels & Airbnb
 

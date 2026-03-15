@@ -37,6 +37,7 @@ description: Complete cost of living guide for Switzerland
 | 💻 **Coworking** | [Find Coworking in 🇨🇭 Switzerland](https://www.google.com/maps/search/Coworking+Spaces+in+🇨🇭+Switzerland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇨🇭 Switzerland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇨🇭+Switzerland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇨🇭 Switzerland](https://www.google.com/maps/search/supermarket+in+🇨🇭+Switzerland) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇨🇭 Switzerland](https://www.google.com/maps/search/Hiking+Trails+in+🇨🇭+Switzerland) |
 
 ## 🇪🇺 European Resident Info
 

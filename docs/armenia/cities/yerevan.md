@@ -27,3 +27,4 @@ description: Cost of Living in Yerevan
 | 💻 **Coworking** | [Find Coworking in Yerevan](https://www.google.com/maps/search/Coworking+Spaces+in+Yerevan) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Yerevan](https://www.google.com/maps/search/laptop+friendly+cafes+in+Yerevan) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Yerevan](https://www.google.com/maps/search/supermarket+in+Yerevan) |
+| 🥾 **Hiking Trails** | [Find Trails in Yerevan](https://www.google.com/maps/search/Hiking+Trails+in+Yerevan) |

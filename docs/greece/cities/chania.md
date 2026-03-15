@@ -27,6 +27,7 @@ description: Cost of Living in Chania
 | 💻 **Coworking** | [Find Coworking in Chania](https://www.google.com/maps/search/Coworking+Spaces+in+Chania) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Chania](https://www.google.com/maps/search/laptop+friendly+cafes+in+Chania) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Chania](https://www.google.com/maps/search/supermarket+in+Chania) |
+| 🥾 **Hiking Trails** | [Find Trails in Chania](https://www.google.com/maps/search/Hiking+Trails+in+Chania) |
 
 ## 🏨 Hotels & Airbnb
 

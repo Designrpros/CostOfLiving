@@ -32,6 +32,7 @@ description: Complete cost of living guide for Kazakhstan (European)
 | 💻 **Coworking** | [Find Coworking in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/Coworking+Spaces+in+🇰🇿+Kazakhstan+(European)) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇰🇿+Kazakhstan+(European)) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/supermarket+in+🇰🇿+Kazakhstan+(European)) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/Hiking+Trails+in+🇰🇿+Kazakhstan+(European)) |
 
 ## 🇪🇺 European Resident Info
 

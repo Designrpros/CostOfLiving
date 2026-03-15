@@ -27,6 +27,7 @@ description: Cost of Living in Waterford
 | 💻 **Coworking** | [Find Coworking in Waterford](https://www.google.com/maps/search/Coworking+Spaces+in+Waterford) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Waterford](https://www.google.com/maps/search/laptop+friendly+cafes+in+Waterford) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Waterford](https://www.google.com/maps/search/supermarket+in+Waterford) |
+| 🥾 **Hiking Trails** | [Find Trails in Waterford](https://www.google.com/maps/search/Hiking+Trails+in+Waterford) |
 
 ## 🏨 Hotels & Airbnb
 

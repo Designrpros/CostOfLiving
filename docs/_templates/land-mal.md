@@ -16,6 +16,7 @@ description: Komplett levekostnad-guide for {LAND}
 | 💻 **Coworking** | [Find Coworking in {FLAGG} {LAND}](https://www.google.com/maps/search/Coworking+Spaces+in+{FLAGG}+{LAND}) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in {FLAGG} {LAND}](https://www.google.com/maps/search/laptop+friendly+cafes+in+{FLAGG}+{LAND}) |
 | 🛒 **Supermarkets** | [Find Supermarkets in {FLAGG} {LAND}](https://www.google.com/maps/search/supermarket+in+{FLAGG}+{LAND}) |
+| 🥾 **Hiking Trails** | [Find Trails in {FLAGG} {LAND}](https://www.google.com/maps/search/Hiking+Trails+in+{FLAGG}+{LAND}) |
 
 ## 📊 Levekostnader
 

@@ -27,6 +27,7 @@ description: Cost of Living in Nantes
 | 💻 **Coworking** | [Find Coworking in Nantes](https://www.google.com/maps/search/Coworking+Spaces+in+Nantes) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Nantes](https://www.google.com/maps/search/laptop+friendly+cafes+in+Nantes) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Nantes](https://www.google.com/maps/search/supermarket+in+Nantes) |
+| 🥾 **Hiking Trails** | [Find Trails in Nantes](https://www.google.com/maps/search/Hiking+Trails+in+Nantes) |
 
 ## 🏨 Hotels & Airbnb
 

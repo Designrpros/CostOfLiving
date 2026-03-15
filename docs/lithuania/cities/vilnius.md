@@ -27,3 +27,4 @@ description: Cost of Living in Vilnius
 | 💻 **Coworking** | [Find Coworking in Vilnius](https://www.google.com/maps/search/Coworking+Spaces+in+Vilnius) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Vilnius](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vilnius) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Vilnius](https://www.google.com/maps/search/supermarket+in+Vilnius) |
+| 🥾 **Hiking Trails** | [Find Trails in Vilnius](https://www.google.com/maps/search/Hiking+Trails+in+Vilnius) |

@@ -27,3 +27,4 @@ description: Cost of Living in Atyrau
 | 💻 **Coworking** | [Find Coworking in Atyrau](https://www.google.com/maps/search/Coworking+Spaces+in+Atyrau) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Atyrau](https://www.google.com/maps/search/laptop+friendly+cafes+in+Atyrau) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Atyrau](https://www.google.com/maps/search/supermarket+in+Atyrau) |
+| 🥾 **Hiking Trails** | [Find Trails in Atyrau](https://www.google.com/maps/search/Hiking+Trails+in+Atyrau) |

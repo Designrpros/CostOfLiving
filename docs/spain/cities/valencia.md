@@ -27,6 +27,7 @@ description: Cost of Living in Valencia
 | 💻 **Coworking** | [Find Coworking in Valencia](https://www.google.com/maps/search/Coworking+Spaces+in+Valencia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Valencia](https://www.google.com/maps/search/laptop+friendly+cafes+in+Valencia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Valencia](https://www.google.com/maps/search/supermarket+in+Valencia) |
+| 🥾 **Hiking Trails** | [Find Trails in Valencia](https://www.google.com/maps/search/Hiking+Trails+in+Valencia) |
 
 ## 🏨 Hotels & Airbnb
 

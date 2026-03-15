@@ -27,6 +27,7 @@ description: Cost of Living in Malmö
 | 💻 **Coworking** | [Find Coworking in Malmö](https://www.google.com/maps/search/Coworking+Spaces+in+Malmö) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Malmö](https://www.google.com/maps/search/laptop+friendly+cafes+in+Malmö) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Malmö](https://www.google.com/maps/search/supermarket+in+Malmö) |
+| 🥾 **Hiking Trails** | [Find Trails in Malmö](https://www.google.com/maps/search/Hiking+Trails+in+Malmö) |
 
 ## 🏨 Hotels & Airbnb
 

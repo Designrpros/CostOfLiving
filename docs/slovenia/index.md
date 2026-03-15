@@ -33,6 +33,7 @@ description: Complete cost of living guide for Slovenia
 | 💻 **Coworking** | [Find Coworking in 🇸🇮 Slovenia](https://www.google.com/maps/search/Coworking+Spaces+in+🇸🇮+Slovenia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇸🇮 Slovenia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇸🇮+Slovenia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇸🇮 Slovenia](https://www.google.com/maps/search/supermarket+in+🇸🇮+Slovenia) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇸🇮 Slovenia](https://www.google.com/maps/search/Hiking+Trails+in+🇸🇮+Slovenia) |
 
 ## 🇪🇺 European Resident Info
 

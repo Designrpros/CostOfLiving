@@ -33,6 +33,7 @@ description: Complete cost of living guide for Cyprus
 | 💻 **Coworking** | [Find Coworking in 🇨🇾 Cyprus](https://www.google.com/maps/search/Coworking+Spaces+in+🇨🇾+Cyprus) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇨🇾 Cyprus](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇨🇾+Cyprus) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇨🇾 Cyprus](https://www.google.com/maps/search/supermarket+in+🇨🇾+Cyprus) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇨🇾 Cyprus](https://www.google.com/maps/search/Hiking+Trails+in+🇨🇾+Cyprus) |
 
 ## 🇪🇺 European Resident Info
 

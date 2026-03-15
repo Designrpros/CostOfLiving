@@ -27,6 +27,7 @@ description: Cost of Living in Volos
 | 💻 **Coworking** | [Find Coworking in Volos](https://www.google.com/maps/search/Coworking+Spaces+in+Volos) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Volos](https://www.google.com/maps/search/laptop+friendly+cafes+in+Volos) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Volos](https://www.google.com/maps/search/supermarket+in+Volos) |
+| 🥾 **Hiking Trails** | [Find Trails in Volos](https://www.google.com/maps/search/Hiking+Trails+in+Volos) |
 
 ## 🏨 Hotels & Airbnb
 

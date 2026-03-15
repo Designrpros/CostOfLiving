@@ -27,3 +27,4 @@ description: Cost of Living in Moscow
 | 💻 **Coworking** | [Find Coworking in Moscow](https://www.google.com/maps/search/Coworking+Spaces+in+Moscow) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Moscow](https://www.google.com/maps/search/laptop+friendly+cafes+in+Moscow) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Moscow](https://www.google.com/maps/search/supermarket+in+Moscow) |
+| 🥾 **Hiking Trails** | [Find Trails in Moscow](https://www.google.com/maps/search/Hiking+Trails+in+Moscow) |

@@ -27,6 +27,7 @@ description: Cost of Living in Ghent
 | 💻 **Coworking** | [Find Coworking in Ghent](https://www.google.com/maps/search/Coworking+Spaces+in+Ghent) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Ghent](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ghent) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Ghent](https://www.google.com/maps/search/supermarket+in+Ghent) |
+| 🥾 **Hiking Trails** | [Find Trails in Ghent](https://www.google.com/maps/search/Hiking+Trails+in+Ghent) |
 
 ## 🏨 Hotels & Airbnb
 

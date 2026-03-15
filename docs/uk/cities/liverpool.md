@@ -27,6 +27,7 @@ description: Cost of Living in Liverpool
 | 💻 **Coworking** | [Find Coworking in Liverpool](https://www.google.com/maps/search/Coworking+Spaces+in+Liverpool) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Liverpool](https://www.google.com/maps/search/laptop+friendly+cafes+in+Liverpool) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Liverpool](https://www.google.com/maps/search/supermarket+in+Liverpool) |
+| 🥾 **Hiking Trails** | [Find Trails in Liverpool](https://www.google.com/maps/search/Hiking+Trails+in+Liverpool) |
 
 ## 🏨 Hotels & Airbnb
 

@@ -27,3 +27,4 @@ description: Cost of Living in Vanadzor
 | 💻 **Coworking** | [Find Coworking in Vanadzor](https://www.google.com/maps/search/Coworking+Spaces+in+Vanadzor) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Vanadzor](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vanadzor) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Vanadzor](https://www.google.com/maps/search/supermarket+in+Vanadzor) |
+| 🥾 **Hiking Trails** | [Find Trails in Vanadzor](https://www.google.com/maps/search/Hiking+Trails+in+Vanadzor) |

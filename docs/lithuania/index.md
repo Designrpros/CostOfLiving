@@ -33,6 +33,7 @@ description: Complete cost of living guide for Lithuania
 | 💻 **Coworking** | [Find Coworking in 🇱🇹 Lithuania](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇹+Lithuania) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇹 Lithuania](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇹+Lithuania) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇹 Lithuania](https://www.google.com/maps/search/supermarket+in+🇱🇹+Lithuania) |
+| 🥾 **Hiking Trails** | [Find Trails in 🇱🇹 Lithuania](https://www.google.com/maps/search/Hiking+Trails+in+🇱🇹+Lithuania) |
 
 ## 🇪🇺 European Resident Info
 
