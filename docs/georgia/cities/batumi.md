@@ -16,8 +16,6 @@ description: Cost of Living in Batumi
 | Beer | 2€ |
 | Coffee | 2€ |
 
-[Back to Georgia](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Batumi
 | ☕ **Work-friendly Cafes** | [Find Cafes in Batumi](https://www.google.com/maps/search/laptop+friendly+cafes+in+Batumi) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Batumi](https://www.google.com/maps/search/supermarket+in+Batumi) |
 | 🥾 **Hiking Trails** | [Find Trails in Batumi](https://www.google.com/maps/search/Hiking+Trails+in+Batumi) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBatumi) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBatumi) |
+| [Airbnb](https://www.airbnb.com/s/Batumi--Georgia) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Batumi](https://www.reddit.com/r/Batumi/) |
+| 📍 **TripAdvisor** | [Things to do in Batumi](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBatumi) |
+| 📖 **Lonely Planet** | [Batumi Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBatumi) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Georgia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Batumi+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Georgia overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

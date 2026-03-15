@@ -16,8 +16,6 @@ description: Cost of Living in Sarajevo
 | Beer | 1.50€ |
 | Coffee | 1.20€ |
 
-[Back to Bosnia and Herzegovina](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Sarajevo
 | ☕ **Work-friendly Cafes** | [Find Cafes in Sarajevo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Sarajevo) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Sarajevo](https://www.google.com/maps/search/supermarket+in+Sarajevo) |
 | 🥾 **Hiking Trails** | [Find Trails in Sarajevo](https://www.google.com/maps/search/Hiking+Trails+in+Sarajevo) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSarajevo) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSarajevo) |
+| [Airbnb](https://www.airbnb.com/s/Sarajevo--Bosnia and Herzegovina) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Sarajevo](https://www.reddit.com/r/Sarajevo/) |
+| 📍 **TripAdvisor** | [Things to do in Sarajevo](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSarajevo) |
+| 📖 **Lonely Planet** | [Sarajevo Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSarajevo) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Bosnia and Herzegovina)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Sarajevo+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Bosnia and Herzegovina overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

@@ -16,8 +16,6 @@ description: Cost of Living in Kaunas
 | Beer | 4€ |
 | Coffee | 3€ |
 
-[Back to Lithuania](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Kaunas
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kaunas](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kaunas) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kaunas](https://www.google.com/maps/search/supermarket+in+Kaunas) |
 | 🥾 **Hiking Trails** | [Find Trails in Kaunas](https://www.google.com/maps/search/Hiking+Trails+in+Kaunas) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaunas) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaunas) |
+| [Airbnb](https://www.airbnb.com/s/Kaunas--Lithuania) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Kaunas](https://www.reddit.com/r/Kaunas/) |
+| 📍 **TripAdvisor** | [Things to do in Kaunas](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKaunas) |
+| 📖 **Lonely Planet** | [Kaunas Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKaunas) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Lithuania)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Kaunas+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Lithuania overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

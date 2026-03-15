@@ -16,8 +16,6 @@ description: Cost of Living in Luxembourg City
 | Beer | 6€ |
 | Coffee | 4€ |
 
-[Back to Luxembourg](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Luxembourg City
 | ☕ **Work-friendly Cafes** | [Find Cafes in Luxembourg City](https://www.google.com/maps/search/laptop+friendly+cafes+in+Luxembourg+City) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Luxembourg City](https://www.google.com/maps/search/supermarket+in+Luxembourg+City) |
 | 🥾 **Hiking Trails** | [Find Trails in Luxembourg City](https://www.google.com/maps/search/Hiking+Trails+in+Luxembourg+City) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLuxembourg) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLuxembourg) |
+| [Airbnb](https://www.airbnb.com/s/Luxembourg--Luxembourg) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Luxembourg](https://www.reddit.com/r/Luxembourg/) |
+| 📍 **TripAdvisor** | [Things to do in Luxembourg](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLuxembourg) |
+| 📖 **Lonely Planet** | [Luxembourg Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLuxembourg) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Luxembourg)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Luxembourg+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Luxembourg overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

@@ -16,8 +16,6 @@ description: Cost of Living in Vatican City
 | Beer | 5€ |
 | Coffee | 2€ |
 
-[Back to Vatican City](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Vatican City
 | ☕ **Work-friendly Cafes** | [Find Cafes in Vatican City](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vatican+City) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Vatican City](https://www.google.com/maps/search/supermarket+in+Vatican+City) |
 | 🥾 **Hiking Trails** | [Find Trails in Vatican City](https://www.google.com/maps/search/Hiking+Trails+in+Vatican+City) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVatican) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVatican) |
+| [Airbnb](https://www.airbnb.com/s/Vatican--Vatican City) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Vatican](https://www.reddit.com/r/Vatican/) |
+| 📍 **TripAdvisor** | [Things to do in Vatican](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVatican) |
+| 📖 **Lonely Planet** | [Vatican Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVatican) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Vatican City)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Vatican+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Vatican City overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

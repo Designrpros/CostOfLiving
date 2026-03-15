@@ -16,8 +16,6 @@ description: Cost of Living in Ljubljana
 | Beer | 3.50€ |
 | Coffee | 2.50€ |
 
-[Back to Slovenia](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Ljubljana
 | ☕ **Work-friendly Cafes** | [Find Cafes in Ljubljana](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ljubljana) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Ljubljana](https://www.google.com/maps/search/supermarket+in+Ljubljana) |
 | 🥾 **Hiking Trails** | [Find Trails in Ljubljana](https://www.google.com/maps/search/Hiking+Trails+in+Ljubljana) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLjubljana) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLjubljana) |
+| [Airbnb](https://www.airbnb.com/s/Ljubljana--Slovenia) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Ljubljana](https://www.reddit.com/r/Ljubljana/) |
+| 📍 **TripAdvisor** | [Things to do in Ljubljana](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLjubljana) |
+| 📖 **Lonely Planet** | [Ljubljana Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLjubljana) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Slovenia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Ljubljana+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Slovenia overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

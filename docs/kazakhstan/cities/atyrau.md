@@ -16,8 +16,6 @@ description: Cost of Living in Atyrau
 | Beer | 1.20€ |
 | Coffee | 1.50€ |
 
-[Back to Kazakhstan (European)](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Atyrau
 | ☕ **Work-friendly Cafes** | [Find Cafes in Atyrau](https://www.google.com/maps/search/laptop+friendly+cafes+in+Atyrau) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Atyrau](https://www.google.com/maps/search/supermarket+in+Atyrau) |
 | 🥾 **Hiking Trails** | [Find Trails in Atyrau](https://www.google.com/maps/search/Hiking+Trails+in+Atyrau) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAtyrau) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAtyrau) |
+| [Airbnb](https://www.airbnb.com/s/Atyrau--Kazakhstan (European)) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Atyrau](https://www.reddit.com/r/Atyrau/) |
+| 📍 **TripAdvisor** | [Things to do in Atyrau](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAtyrau) |
+| 📖 **Lonely Planet** | [Atyrau Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAtyrau) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Kazakhstan (European))
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Atyrau+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Kazakhstan (European) overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

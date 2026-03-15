@@ -16,8 +16,6 @@ description: Cost of Living in Bălți
 | Beer | 1.50€ |
 | Coffee | 1.80€ |
 
-[Back to Moldova](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Bălți
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bălți](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bălți) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bălți](https://www.google.com/maps/search/supermarket+in+Bălți) |
 | 🥾 **Hiking Trails** | [Find Trails in Bălți](https://www.google.com/maps/search/Hiking+Trails+in+Bălți) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBălți) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBălți) |
+| [Airbnb](https://www.airbnb.com/s/Bălți--Moldova) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Bălți](https://www.reddit.com/r/Bălți/) |
+| 📍 **TripAdvisor** | [Things to do in Bălți](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBălți) |
+| 📖 **Lonely Planet** | [Bălți Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBălți) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Moldova)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Bălți+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Moldova overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

@@ -16,8 +16,6 @@ description: Cost of Living in Vilnius
 | Beer | 4€ |
 | Coffee | 3€ |
 
-[Back to Lithuania](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Vilnius
 | ☕ **Work-friendly Cafes** | [Find Cafes in Vilnius](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vilnius) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Vilnius](https://www.google.com/maps/search/supermarket+in+Vilnius) |
 | 🥾 **Hiking Trails** | [Find Trails in Vilnius](https://www.google.com/maps/search/Hiking+Trails+in+Vilnius) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilnius) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilnius) |
+| [Airbnb](https://www.airbnb.com/s/Vilnius--Lithuania) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Vilnius](https://www.reddit.com/r/Vilnius/) |
+| 📍 **TripAdvisor** | [Things to do in Vilnius](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVilnius) |
+| 📖 **Lonely Planet** | [Vilnius Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVilnius) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Lithuania)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Vilnius+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Lithuania overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

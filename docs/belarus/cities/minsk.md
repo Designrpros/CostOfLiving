@@ -16,8 +16,6 @@ description: Cost of Living in Minsk
 | Beer | 1.20€ |
 | Coffee | 1.50€ |
 
-[Back to Belarus](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Minsk
 | ☕ **Work-friendly Cafes** | [Find Cafes in Minsk](https://www.google.com/maps/search/laptop+friendly+cafes+in+Minsk) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Minsk](https://www.google.com/maps/search/supermarket+in+Minsk) |
 | 🥾 **Hiking Trails** | [Find Trails in Minsk](https://www.google.com/maps/search/Hiking+Trails+in+Minsk) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMinsk) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMinsk) |
+| [Airbnb](https://www.airbnb.com/s/Minsk--Belarus) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Minsk](https://www.reddit.com/r/Minsk/) |
+| 📍 **TripAdvisor** | [Things to do in Minsk](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMinsk) |
+| 📖 **Lonely Planet** | [Minsk Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMinsk) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Belarus)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Minsk+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Belarus overview](../index.md)
+
+*Data: Numbeo.com, March 2026*

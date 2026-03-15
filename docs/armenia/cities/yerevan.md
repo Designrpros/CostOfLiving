@@ -16,8 +16,6 @@ description: Cost of Living in Yerevan
 | Beer | 2€ |
 | Coffee | 2.50€ |
 
-[Back to Armenia](../index.md)
-
 ## 📍 Google Maps Search Hub
 
 | Category | Search Link |
@@ -28,3 +26,30 @@ description: Cost of Living in Yerevan
 | ☕ **Work-friendly Cafes** | [Find Cafes in Yerevan](https://www.google.com/maps/search/laptop+friendly+cafes+in+Yerevan) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Yerevan](https://www.google.com/maps/search/supermarket+in+Yerevan) |
 | 🥾 **Hiking Trails** | [Find Trails in Yerevan](https://www.google.com/maps/search/Hiking+Trails+in+Yerevan) |
+
+## 🏨 Hotels & Airbnb
+
+| Service | Link |
+|---------|------|
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYerevan) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYerevan) |
+| [Airbnb](https://www.airbnb.com/s/Yerevan--Armenia) | Vacation Rentals |
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Yerevan](https://www.reddit.com/r/Yerevan/) |
+| 📍 **TripAdvisor** | [Things to do in Yerevan](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DYerevan) |
+| 📖 **Lonely Planet** | [Yerevan Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DYerevan) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Armenia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Yerevan+Coworking/)
+- **Best time to visit**: May - September
+
+## ← Back
+[Back to Armenia overview](../index.md)
+
+*Data: Numbeo.com, March 2026*
