@@ -36,19 +36,19 @@ description: Cost of Living in Frankfurt
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFrankfurt) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFrankfurt) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFrankfurt) |
 | [Airbnb](https://www.airbnb.com/s/Frankfurt--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Römerberg](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DR%C3%B6merberg%20Frankfurt) — Frankfurt's historic heart with timber-framed houses.
 - **Social**: [Find Frankfurt on Reddit](https://www.reddit.com/r/Frankfurt/)
-- **Guide**: [Lonely Planet Frankfurt](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFrankfurt)
+- **Guide**: [Lonely Planet Frankfurt](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFrankfurt)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Frankfurt](https://www.reddit.com/r/Frankfurt/) |
-| 📍 **TripAdvisor** | [Things to do in Frankfurt](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFrankfurt) |
-| 📖 **Lonely Planet** | [Frankfurt Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFrankfurt) |
+| 📍 **TripAdvisor** | [Things to do in Frankfurt](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFrankfurt) |
+| 📖 **Lonely Planet** | [Frankfurt Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFrankfurt) |
 
 ## 🚀 Digital Nomad Hub
 

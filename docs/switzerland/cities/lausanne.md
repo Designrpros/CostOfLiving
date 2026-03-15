@@ -33,7 +33,7 @@ description: Cost of Living in Lausanne
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLausanne) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLausanne) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLausanne) |
 | [Airbnb](https://www.airbnb.com/s/Lausanne--Switzerland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Lausanne
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lausanne](https://www.reddit.com/r/Lausanne/) |
-| 📍 **TripAdvisor** | [Things to do in Lausanne](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLausanne) |
-| 📖 **Lonely Planet** | [Lausanne Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLausanne) |
+| 📍 **TripAdvisor** | [Things to do in Lausanne](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLausanne) |
+| 📖 **Lonely Planet** | [Lausanne Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLausanne) |
 
 ## 🚀 Digital Nomad Hub
 

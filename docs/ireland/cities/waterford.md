@@ -33,7 +33,7 @@ description: Cost of Living in Waterford
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWaterford) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWaterford) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWaterford) |
 | [Airbnb](https://www.airbnb.com/s/Waterford--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Waterford
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Waterford](https://www.reddit.com/r/Waterford/) |
-| 📍 **TripAdvisor** | [Things to do in Waterford](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWaterford) |
-| 📖 **Lonely Planet** | [Waterford Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWaterford) |
+| 📍 **TripAdvisor** | [Things to do in Waterford](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWaterford) |
+| 📖 **Lonely Planet** | [Waterford Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWaterford) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -33,7 +33,7 @@ description: Cost of Living in Copenhagen
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCopenhagen) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCopenhagen) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCopenhagen) |
 | [Airbnb](https://www.airbnb.com/s/Copenhagen--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Copenhagen
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Copenhagen](https://www.reddit.com/r/Copenhagen/) |
-| 📍 **TripAdvisor** | [Things to do in Copenhagen](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCopenhagen) |
-| 📖 **Lonely Planet** | [Copenhagen Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCopenhagen) |
+| 📍 **TripAdvisor** | [Things to do in Copenhagen](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCopenhagen) |
+| 📖 **Lonely Planet** | [Copenhagen Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCopenhagen) |
 
 ## 🚀 Digital Nomad Hub
 

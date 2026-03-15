@@ -33,7 +33,7 @@ description: Cost of Living in Randers
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRanders) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRanders) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRanders) |
 | [Airbnb](https://www.airbnb.com/s/Randers--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Randers
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Randers](https://www.reddit.com/r/Randers/) |
-| 📍 **TripAdvisor** | [Things to do in Randers](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRanders) |
-| 📖 **Lonely Planet** | [Randers Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRanders) |
+| 📍 **TripAdvisor** | [Things to do in Randers](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRanders) |
+| 📖 **Lonely Planet** | [Randers Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRanders) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -36,19 +36,19 @@ description: Cost of Living in Tampere
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTampere) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTampere) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTampere) |
 | [Airbnb](https://www.airbnb.com/s/Tampere--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Pyynikki Observation Tower](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPyynikki%20Observation%20Tower%20Tampere) — Eat the world-famous donuts with incredible lake views.
 - **Social**: [Find Tampere on Reddit](https://www.reddit.com/r/Tampere/)
-- **Guide**: [Lonely Planet Tampere](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTampere)
+- **Guide**: [Lonely Planet Tampere](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTampere)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Tampere](https://www.reddit.com/r/Tampere/) |
-| 📍 **TripAdvisor** | [Things to do in Tampere](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTampere) |
-| 📖 **Lonely Planet** | [Tampere Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTampere) |
+| 📍 **TripAdvisor** | [Things to do in Tampere](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTampere) |
+| 📖 **Lonely Planet** | [Tampere Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTampere) |
 
 ## 🚀 Digital Nomad Hub
 

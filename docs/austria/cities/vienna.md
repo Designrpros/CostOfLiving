@@ -36,19 +36,19 @@ description: Cost of Living in Vienna
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVienna) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVienna) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVienna) |
 | [Airbnb](https://www.airbnb.com/s/Vienna--Austria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Schönbrunn Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSch%C3%B6nbrunn%20Palace%20Vienna) — The magnificent former imperial summer residence.
 - **Social**: [Find Vienna on Reddit](https://www.reddit.com/r/Vienna/)
-- **Guide**: [Lonely Planet Vienna](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVienna)
+- **Guide**: [Lonely Planet Vienna](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVienna)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Vienna](https://www.reddit.com/r/Vienna/) |
-| 📍 **TripAdvisor** | [Things to do in Vienna](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVienna) |
-| 📖 **Lonely Planet** | [Vienna Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVienna) |
+| 📍 **TripAdvisor** | [Things to do in Vienna](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVienna) |
+| 📖 **Lonely Planet** | [Vienna Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVienna) |
 
 ## 🚀 Digital Nomad Hub
 

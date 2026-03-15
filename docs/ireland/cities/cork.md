@@ -36,19 +36,19 @@ description: Cost of Living in Cork
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCork) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCork) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCork) |
 | [Airbnb](https://www.airbnb.com/s/Cork--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [English Market](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEnglish%20Market%20Cork) — Historic food market with incredible local produce.
 - **Social**: [Find Cork on Reddit](https://www.reddit.com/r/Cork/)
-- **Guide**: [Lonely Planet Cork](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCork)
+- **Guide**: [Lonely Planet Cork](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCork)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Cork](https://www.reddit.com/r/Cork/) |
-| 📍 **TripAdvisor** | [Things to do in Cork](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCork) |
-| 📖 **Lonely Planet** | [Cork Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCork) |
+| 📍 **TripAdvisor** | [Things to do in Cork](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCork) |
+| 📖 **Lonely Planet** | [Cork Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCork) |
 
 ## 🚀 Digital Nomad Hub
 

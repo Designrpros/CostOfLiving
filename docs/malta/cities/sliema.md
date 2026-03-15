@@ -36,19 +36,19 @@ description: Cost of Living in Sliema
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSliema) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSliema) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSliema) |
 | [Airbnb](https://www.airbnb.com/s/Sliema--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Sliema Promenade](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSliema%20Promenade%20Sliema) — Join the locals for a seaside walk with city views.
 - **Social**: [Find Sliema on Reddit](https://www.reddit.com/r/Sliema/)
-- **Guide**: [Lonely Planet Sliema](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSliema)
+- **Guide**: [Lonely Planet Sliema](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSliema)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Sliema](https://www.reddit.com/r/Sliema/) |
-| 📍 **TripAdvisor** | [Things to do in Sliema](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSliema) |
-| 📖 **Lonely Planet** | [Sliema Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSliema) |
+| 📍 **TripAdvisor** | [Things to do in Sliema](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSliema) |
+| 📖 **Lonely Planet** | [Sliema Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSliema) |
 
 ## 🚀 Digital Nomad Hub
 

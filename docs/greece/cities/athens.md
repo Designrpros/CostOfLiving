@@ -36,19 +36,19 @@ description: Cost of Living in Athens
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAthens) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAthens) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAthens) |
 | [Airbnb](https://www.airbnb.com/s/Athens--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [The Parthenon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Parthenon%20Athens) — The ultimate ancient Greek sanctuary ruins.
 - **Social**: [Find Athens on Reddit](https://www.reddit.com/r/Athens/)
-- **Guide**: [Lonely Planet Athens](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAthens)
+- **Guide**: [Lonely Planet Athens](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAthens)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Athens](https://www.reddit.com/r/Athens/) |
-| 📍 **TripAdvisor** | [Things to do in Athens](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAthens) |
-| 📖 **Lonely Planet** | [Athens Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAthens) |
+| 📍 **TripAdvisor** | [Things to do in Athens](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAthens) |
+| 📖 **Lonely Planet** | [Athens Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAthens) |
 
 ## 🚀 Digital Nomad Hub
 

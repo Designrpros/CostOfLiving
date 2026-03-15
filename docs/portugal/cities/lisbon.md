@@ -36,19 +36,19 @@ description: Cost of Living in Lisbon
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLisbon) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLisbon) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLisbon) |
 | [Airbnb](https://www.airbnb.com/s/Lisbon--Portugal) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Belém Tower](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBel%C3%A9m%20Tower%20Lisbon) — Historic fortress on the Tagus riverfront.
 - **Social**: [Find Lisbon on Reddit](https://www.reddit.com/r/Lisbon/)
-- **Guide**: [Lonely Planet Lisbon](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLisbon)
+- **Guide**: [Lonely Planet Lisbon](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLisbon)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lisbon](https://www.reddit.com/r/Lisbon/) |
-| 📍 **TripAdvisor** | [Things to do in Lisbon](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLisbon) |
-| 📖 **Lonely Planet** | [Lisbon Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLisbon) |
+| 📍 **TripAdvisor** | [Things to do in Lisbon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLisbon) |
+| 📖 **Lonely Planet** | [Lisbon Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLisbon) |
 
 ## 🚀 Digital Nomad Hub
 

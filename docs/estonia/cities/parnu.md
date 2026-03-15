@@ -33,7 +33,7 @@ description: Cost of Living in Pärnu
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP%C3%A4rnu) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP%C3%A4rnu) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP%C3%A4rnu) |
 | [Airbnb](https://www.airbnb.com/s/Parnu--Estonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Pärnu
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Pärnu](https://www.reddit.com/r/Pärnu/) |
-| 📍 **TripAdvisor** | [Things to do in Pärnu](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPärnu) |
-| 📖 **Lonely Planet** | [Pärnu Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPärnu) |
+| 📍 **TripAdvisor** | [Things to do in Pärnu](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPärnu) |
+| 📖 **Lonely Planet** | [Pärnu Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPärnu) |
 
 ## 🚀 Digital Nomad Hub
 

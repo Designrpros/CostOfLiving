@@ -36,19 +36,19 @@ description: Cost of Living in Malmö
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMalm%C3%B6) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMalm%C3%B6) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMalm%C3%B6) |
 | [Airbnb](https://www.airbnb.com/s/Malmo--Sweden) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Turning Torso](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurning%20Torso%20Malmo) — Visit Scandinavia's tallest and most twisted skyscraper.
 - **Social**: [Find Malmo on Reddit](https://www.reddit.com/r/Malmo/)
-- **Guide**: [Lonely Planet Malmo](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMalmo)
+- **Guide**: [Lonely Planet Malmo](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMalmo)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Malmö](https://www.reddit.com/r/Malmö/) |
-| 📍 **TripAdvisor** | [Things to do in Malmö](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMalmö) |
-| 📖 **Lonely Planet** | [Malmö Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMalmö) |
+| 📍 **TripAdvisor** | [Things to do in Malmö](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMalmö) |
+| 📖 **Lonely Planet** | [Malmö Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMalmö) |
 
 ## 🚀 Digital Nomad Hub
 

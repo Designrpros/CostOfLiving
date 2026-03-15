@@ -36,19 +36,19 @@ description: Cost of Living in Glasgow
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGlasgow) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGlasgow) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGlasgow) |
 | [Airbnb](https://www.airbnb.com/s/Glasgow--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Kelvingrove Art Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKelvingrove%20Art%20Gallery%20Glasgow) — One of Scotland's most popular free attractions.
 - **Social**: [Find Glasgow on Reddit](https://www.reddit.com/r/Glasgow/)
-- **Guide**: [Lonely Planet Glasgow](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGlasgow)
+- **Guide**: [Lonely Planet Glasgow](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGlasgow)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Glasgow](https://www.reddit.com/r/Glasgow/) |
-| 📍 **TripAdvisor** | [Things to do in Glasgow](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGlasgow) |
-| 📖 **Lonely Planet** | [Glasgow Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGlasgow) |
+| 📍 **TripAdvisor** | [Things to do in Glasgow](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGlasgow) |
+| 📖 **Lonely Planet** | [Glasgow Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGlasgow) |
 
 ## 🚀 Digital Nomad Hub
 

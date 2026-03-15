@@ -36,19 +36,19 @@ description: Cost of Living in Edinburgh
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEdinburgh) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEdinburgh) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEdinburgh) |
 | [Airbnb](https://www.airbnb.com/s/Edinburgh--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Edinburgh Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh%20Castle%20Edinburgh) — The historic fortress and crown jewels of Scotland.
 - **Social**: [Find Edinburgh on Reddit](https://www.reddit.com/r/Edinburgh/)
-- **Guide**: [Lonely Planet Edinburgh](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEdinburgh)
+- **Guide**: [Lonely Planet Edinburgh](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEdinburgh)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Edinburgh](https://www.reddit.com/r/Edinburgh/) |
-| 📍 **TripAdvisor** | [Things to do in Edinburgh](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh) |
-| 📖 **Lonely Planet** | [Edinburgh Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEdinburgh) |
+| 📍 **TripAdvisor** | [Things to do in Edinburgh](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh) |
+| 📖 **Lonely Planet** | [Edinburgh Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEdinburgh) |
 
 ## 🚀 Digital Nomad Hub
 

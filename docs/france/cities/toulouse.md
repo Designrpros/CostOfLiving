@@ -36,19 +36,19 @@ description: Cost of Living in Toulouse
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DToulouse) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DToulouse) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DToulouse) |
 | [Airbnb](https://www.airbnb.com/s/Toulouse--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Place du Capitole](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPlace%20du%20Capitole%20Toulouse) — The grand pink-brick heart of the 'Ville Rose'.
 - **Social**: [Find Toulouse on Reddit](https://www.reddit.com/r/Toulouse/)
-- **Guide**: [Lonely Planet Toulouse](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DToulouse)
+- **Guide**: [Lonely Planet Toulouse](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DToulouse)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Toulouse](https://www.reddit.com/r/Toulouse/) |
-| 📍 **TripAdvisor** | [Things to do in Toulouse](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DToulouse) |
-| 📖 **Lonely Planet** | [Toulouse Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DToulouse) |
+| 📍 **TripAdvisor** | [Things to do in Toulouse](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DToulouse) |
+| 📖 **Lonely Planet** | [Toulouse Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DToulouse) |
 
 ## 🚀 Digital Nomad Hub
 

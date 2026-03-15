@@ -36,19 +36,19 @@ description: Cost of Living in Florence
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFlorence) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFlorence) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFlorence) |
 | [Airbnb](https://www.airbnb.com/s/Florence--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Uffizi Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUffizi%20Gallery%20Florence) — The world's greatest collection of Italian art.
 - **Social**: [Find Florence on Reddit](https://www.reddit.com/r/Florence/)
-- **Guide**: [Lonely Planet Florence](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFlorence)
+- **Guide**: [Lonely Planet Florence](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFlorence)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Florence](https://www.reddit.com/r/Florence/) |
-| 📍 **TripAdvisor** | [Things to do in Florence](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFlorence) |
-| 📖 **Lonely Planet** | [Florence Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFlorence) |
+| 📍 **TripAdvisor** | [Things to do in Florence](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFlorence) |
+| 📖 **Lonely Planet** | [Florence Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFlorence) |
 
 ## 🚀 Digital Nomad Hub
 

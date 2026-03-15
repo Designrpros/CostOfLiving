@@ -33,7 +33,7 @@ description: Cost of Living in Gozo
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGozo) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGozo) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGozo) |
 | [Airbnb](https://www.airbnb.com/s/Gozo--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Gozo
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Gozo](https://www.reddit.com/r/Gozo/) |
-| 📍 **TripAdvisor** | [Things to do in Gozo](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGozo) |
-| 📖 **Lonely Planet** | [Gozo Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGozo) |
+| 📍 **TripAdvisor** | [Things to do in Gozo](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGozo) |
+| 📖 **Lonely Planet** | [Gozo Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGozo) |
 
 ## 🚀 Digital Nomad Hub
 

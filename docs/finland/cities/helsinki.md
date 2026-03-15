@@ -36,19 +36,19 @@ description: Cost of Living in Helsinki
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHelsinki) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHelsinki) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHelsinki) |
 | [Airbnb](https://www.airbnb.com/s/Helsinki--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Suomenlinna Fortress](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSuomenlinna%20Fortress%20Helsinki) — UNESCO island sea fortress and nature.
 - **Social**: [Find Helsinki on Reddit](https://www.reddit.com/r/Helsinki/)
-- **Guide**: [Lonely Planet Helsinki](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHelsinki)
+- **Guide**: [Lonely Planet Helsinki](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHelsinki)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Helsinki](https://www.reddit.com/r/Helsinki/) |
-| 📍 **TripAdvisor** | [Things to do in Helsinki](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHelsinki) |
-| 📖 **Lonely Planet** | [Helsinki Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHelsinki) |
+| 📍 **TripAdvisor** | [Things to do in Helsinki](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHelsinki) |
+| 📖 **Lonely Planet** | [Helsinki Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHelsinki) |
 
 ## 🚀 Digital Nomad Hub
 

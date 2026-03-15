@@ -36,19 +36,19 @@ description: Cost of Living in Valletta
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DValletta) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DValletta) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DValletta) |
 | [Airbnb](https://www.airbnb.com/s/Valletta--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [St. John's Co-Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSt.%20John%27s%20Co-Cathedral%20Valletta) — Breathtaking baroque interior and Caravaggio masterpieces.
 - **Social**: [Find Valletta on Reddit](https://www.reddit.com/r/Valletta/)
-- **Guide**: [Lonely Planet Valletta](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DValletta)
+- **Guide**: [Lonely Planet Valletta](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DValletta)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Valletta](https://www.reddit.com/r/Valletta/) |
-| 📍 **TripAdvisor** | [Things to do in Valletta](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DValletta) |
-| 📖 **Lonely Planet** | [Valletta Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DValletta) |
+| 📍 **TripAdvisor** | [Things to do in Valletta](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DValletta) |
+| 📖 **Lonely Planet** | [Valletta Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DValletta) |
 
 ## 🚀 Digital Nomad Hub
 

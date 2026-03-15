@@ -36,19 +36,19 @@ description: Cost of Living in Manchester
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DManchester) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DManchester) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DManchester) |
 | [Airbnb](https://www.airbnb.com/s/Manchester--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Old Trafford Tour](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Trafford%20Tour%20Manchester) — Walking through the history of the world-famous stadium.
 - **Social**: [Find Manchester on Reddit](https://www.reddit.com/r/Manchester/)
-- **Guide**: [Lonely Planet Manchester](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DManchester)
+- **Guide**: [Lonely Planet Manchester](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DManchester)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Manchester](https://www.reddit.com/r/Manchester/) |
-| 📍 **TripAdvisor** | [Things to do in Manchester](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DManchester) |
-| 📖 **Lonely Planet** | [Manchester Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DManchester) |
+| 📍 **TripAdvisor** | [Things to do in Manchester](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DManchester) |
+| 📖 **Lonely Planet** | [Manchester Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DManchester) |
 
 ## 🚀 Digital Nomad Hub
 

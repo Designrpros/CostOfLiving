@@ -36,19 +36,19 @@ description: Cost of Living in London
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLondon) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLondon) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLondon) |
 | [Airbnb](https://www.airbnb.com/s/London--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Tower of London](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTower%20of%20London%20London) — Historic castle, fortress, and home to Crown Jewels.
 - **Social**: [Find London on Reddit](https://www.reddit.com/r/London/)
-- **Guide**: [Lonely Planet London](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLondon)
+- **Guide**: [Lonely Planet London](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLondon)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/London](https://www.reddit.com/r/London/) |
-| 📍 **TripAdvisor** | [Things to do in London](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLondon) |
-| 📖 **Lonely Planet** | [London Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLondon) |
+| 📍 **TripAdvisor** | [Things to do in London](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLondon) |
+| 📖 **Lonely Planet** | [London Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLondon) |
 
 ## 🚀 Digital Nomad Hub
 

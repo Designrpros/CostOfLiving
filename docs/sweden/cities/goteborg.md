@@ -33,7 +33,7 @@ description: Cost of Living in Gothenburg
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGothenburg) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGothenburg) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGothenburg) |
 | [Airbnb](https://www.airbnb.com/s/Gothenburg--Sweden) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Gothenburg
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Gothenburg](https://www.reddit.com/r/Gothenburg/) |
-| 📍 **TripAdvisor** | [Things to do in Gothenburg](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGothenburg) |
-| 📖 **Lonely Planet** | [Gothenburg Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGothenburg) |
+| 📍 **TripAdvisor** | [Things to do in Gothenburg](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGothenburg) |
+| 📖 **Lonely Planet** | [Gothenburg Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGothenburg) |
 
 ## 🚀 Digital Nomad Hub
 

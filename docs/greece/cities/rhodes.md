@@ -36,19 +36,19 @@ description: Cost of Living in Rhodes
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRhodes) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRhodes) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRhodes) |
 | [Airbnb](https://www.airbnb.com/s/Rhodes--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Old Town Rhodes](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Town%20Rhodes%20Rhodes) — Europe's oldest inhabited medieval city.
 - **Social**: [Find Rhodes on Reddit](https://www.reddit.com/r/Rhodes/)
-- **Guide**: [Lonely Planet Rhodes](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRhodes)
+- **Guide**: [Lonely Planet Rhodes](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRhodes)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Rhodes](https://www.reddit.com/r/Rhodes/) |
-| 📍 **TripAdvisor** | [Things to do in Rhodes](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRhodes) |
-| 📖 **Lonely Planet** | [Rhodes Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRhodes) |
+| 📍 **TripAdvisor** | [Things to do in Rhodes](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRhodes) |
+| 📖 **Lonely Planet** | [Rhodes Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRhodes) |
 
 ## 🚀 Digital Nomad Hub
 

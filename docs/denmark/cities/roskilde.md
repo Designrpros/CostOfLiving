@@ -33,7 +33,7 @@ description: Cost of Living in Roskilde
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoskilde) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoskilde) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoskilde) |
 | [Airbnb](https://www.airbnb.com/s/Roskilde--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Roskilde
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Roskilde](https://www.reddit.com/r/Roskilde/) |
-| 📍 **TripAdvisor** | [Things to do in Roskilde](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoskilde) |
-| 📖 **Lonely Planet** | [Roskilde Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRoskilde) |
+| 📍 **TripAdvisor** | [Things to do in Roskilde](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoskilde) |
+| 📖 **Lonely Planet** | [Roskilde Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRoskilde) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -36,19 +36,19 @@ description: Cost of Living in Belgrade
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBelgrade) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBelgrade) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBelgrade) |
 | [Airbnb](https://www.airbnb.com/s/Belgrade--Serbia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Kalemegdan Fortress](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKalemegdan%20Fortress%20Belgrade) — Historic fortress where the Sava and Danube rivers meet.
 - **Social**: [Find Belgrade on Reddit](https://www.reddit.com/r/Belgrade/)
-- **Guide**: [Lonely Planet Belgrade](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBelgrade)
+- **Guide**: [Lonely Planet Belgrade](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBelgrade)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Belgrade](https://www.reddit.com/r/Belgrade/) |
-| 📍 **TripAdvisor** | [Things to do in Belgrade](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBelgrade) |
-| 📖 **Lonely Planet** | [Belgrade Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBelgrade) |
+| 📍 **TripAdvisor** | [Things to do in Belgrade](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBelgrade) |
+| 📖 **Lonely Planet** | [Belgrade Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBelgrade) |
 
 ## 🚀 Digital Nomad Hub
 

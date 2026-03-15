@@ -33,7 +33,7 @@ description: Cost of Living in Narva
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNarva) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNarva) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNarva) |
 | [Airbnb](https://www.airbnb.com/s/Narva--Estonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Narva
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Narva](https://www.reddit.com/r/Narva/) |
-| 📍 **TripAdvisor** | [Things to do in Narva](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNarva) |
-| 📖 **Lonely Planet** | [Narva Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNarva) |
+| 📍 **TripAdvisor** | [Things to do in Narva](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNarva) |
+| 📖 **Lonely Planet** | [Narva Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNarva) |
 
 ## 🚀 Digital Nomad Hub
 

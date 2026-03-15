@@ -33,7 +33,7 @@ description: Cost of Living in Plzeň
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPlze%C5%88) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPlze%C5%88) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPlze%C5%88) |
 | [Airbnb](https://www.airbnb.com/s/Plzen--Czechia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Plzeň
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Plzeň](https://www.reddit.com/r/Plzeň/) |
-| 📍 **TripAdvisor** | [Things to do in Plzeň](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPlzeň) |
-| 📖 **Lonely Planet** | [Plzeň Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPlzeň) |
+| 📍 **TripAdvisor** | [Things to do in Plzeň](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPlzeň) |
+| 📖 **Lonely Planet** | [Plzeň Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPlzeň) |
 
 ## 🚀 Digital Nomad Hub
 

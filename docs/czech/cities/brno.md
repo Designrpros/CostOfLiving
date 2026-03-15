@@ -36,19 +36,19 @@ description: Cost of Living in Brno
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrno) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrno) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrno) |
 | [Airbnb](https://www.airbnb.com/s/Brno--Czechia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Spilberk Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSpilberk%20Castle%20Brno) — Former fortress and prison with panoramic views.
 - **Social**: [Find Brno on Reddit](https://www.reddit.com/r/Brno/)
-- **Guide**: [Lonely Planet Brno](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrno)
+- **Guide**: [Lonely Planet Brno](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrno)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Brno](https://www.reddit.com/r/Brno/) |
-| 📍 **TripAdvisor** | [Things to do in Brno](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrno) |
-| 📖 **Lonely Planet** | [Brno Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrno) |
+| 📍 **TripAdvisor** | [Things to do in Brno](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrno) |
+| 📖 **Lonely Planet** | [Brno Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrno) |
 
 ## 🚀 Digital Nomad Hub
 

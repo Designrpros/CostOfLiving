@@ -33,7 +33,7 @@ description: Cost of Living in Uppsala
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUppsala) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUppsala) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUppsala) |
 | [Airbnb](https://www.airbnb.com/s/Uppsala--Sweden) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Uppsala
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Uppsala](https://www.reddit.com/r/Uppsala/) |
-| 📍 **TripAdvisor** | [Things to do in Uppsala](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUppsala) |
-| 📖 **Lonely Planet** | [Uppsala Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DUppsala) |
+| 📍 **TripAdvisor** | [Things to do in Uppsala](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUppsala) |
+| 📖 **Lonely Planet** | [Uppsala Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DUppsala) |
 
 ## 🚀 Digital Nomad Hub
 

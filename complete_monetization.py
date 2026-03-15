@@ -9,7 +9,7 @@ def wrap_link(url, p_id):
     if 'tp.media' in url or MARKER in url:
         return url
     encoded_url = url.replace(':', '%3A').replace('/', '%2F').replace('?', '%3F').replace('=', '%3D').replace('&', '%26')
-    return f"https://tp.media.r?marker={MARKER}&p={p_id}&u={encoded_url}"
+    return f"https://tp.media/r?marker={MARKER}&p={p_id}&u={encoded_url}"
 
 def process_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:

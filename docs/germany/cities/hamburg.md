@@ -36,19 +36,19 @@ description: Cost of Living in Hamburg
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHamburg) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHamburg) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHamburg) |
 | [Airbnb](https://www.airbnb.com/s/Hamburg--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Elbphilharmonie](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DElbphilharmonie%20Hamburg) — Modern architectural masterpiece overlooking the harbor.
 - **Social**: [Find Hamburg on Reddit](https://www.reddit.com/r/Hamburg/)
-- **Guide**: [Lonely Planet Hamburg](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHamburg)
+- **Guide**: [Lonely Planet Hamburg](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHamburg)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Hamburg](https://www.reddit.com/r/Hamburg/) |
-| 📍 **TripAdvisor** | [Things to do in Hamburg](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHamburg) |
-| 📖 **Lonely Planet** | [Hamburg Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHamburg) |
+| 📍 **TripAdvisor** | [Things to do in Hamburg](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHamburg) |
+| 📖 **Lonely Planet** | [Hamburg Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHamburg) |
 
 ## 🚀 Digital Nomad Hub
 

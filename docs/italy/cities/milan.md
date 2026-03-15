@@ -36,19 +36,19 @@ description: Cost of Living in Milan
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMilan) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMilan) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMilan) |
 | [Airbnb](https://www.airbnb.com/s/Milan--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Duomo di Milano](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDuomo%20di%20Milano%20Milan) — Take the lift to the roof for stunning gothic spires.
 - **Social**: [Find Milan on Reddit](https://www.reddit.com/r/Milan/)
-- **Guide**: [Lonely Planet Milan](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMilan)
+- **Guide**: [Lonely Planet Milan](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMilan)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Milan](https://www.reddit.com/r/Milan/) |
-| 📍 **TripAdvisor** | [Things to do in Milan](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMilan) |
-| 📖 **Lonely Planet** | [Milan Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMilan) |
+| 📍 **TripAdvisor** | [Things to do in Milan](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMilan) |
+| 📖 **Lonely Planet** | [Milan Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMilan) |
 
 ## 🚀 Digital Nomad Hub
 

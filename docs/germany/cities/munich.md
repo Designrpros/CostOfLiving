@@ -36,19 +36,19 @@ description: Cost of Living in Munich
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMunich) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMunich) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMunich) |
 | [Airbnb](https://www.airbnb.com/s/Munich--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Marienplatz](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMarienplatz%20Munich) — The heart of Munich with the famous Glockenspiel.
 - **Social**: [Find Munich on Reddit](https://www.reddit.com/r/Munich/)
-- **Guide**: [Lonely Planet Munich](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMunich)
+- **Guide**: [Lonely Planet Munich](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMunich)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Munich](https://www.reddit.com/r/Munich/) |
-| 📍 **TripAdvisor** | [Things to do in Munich](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMunich) |
-| 📖 **Lonely Planet** | [Munich Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMunich) |
+| 📍 **TripAdvisor** | [Things to do in Munich](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMunich) |
+| 📖 **Lonely Planet** | [Munich Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMunich) |
 
 ## 🚀 Digital Nomad Hub
 

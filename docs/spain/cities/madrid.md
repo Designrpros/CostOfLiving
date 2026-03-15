@@ -36,19 +36,19 @@ description: Cost of Living in Madrid
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMadrid) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMadrid) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMadrid) |
 | [Airbnb](https://www.airbnb.com/s/Madrid--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Prado Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrado%20Museum%20Madrid) — One of the finest art collections in the world.
 - **Social**: [Find Madrid on Reddit](https://www.reddit.com/r/Madrid/)
-- **Guide**: [Lonely Planet Madrid](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMadrid)
+- **Guide**: [Lonely Planet Madrid](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMadrid)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Madrid](https://www.reddit.com/r/Madrid/) |
-| 📍 **TripAdvisor** | [Things to do in Madrid](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMadrid) |
-| 📖 **Lonely Planet** | [Madrid Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMadrid) |
+| 📍 **TripAdvisor** | [Things to do in Madrid](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMadrid) |
+| 📖 **Lonely Planet** | [Madrid Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMadrid) |
 
 ## 🚀 Digital Nomad Hub
 

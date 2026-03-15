@@ -36,19 +36,19 @@ description: Cost of Living in Nice
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNice) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNice) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNice) |
 | [Airbnb](https://www.airbnb.com/s/Nice--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Promenade des Anglais](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPromenade%20des%20Anglais%20Nice) — The iconic seaside walkway of the Côte d'Azur.
 - **Social**: [Find Nice on Reddit](https://www.reddit.com/r/Nice/)
-- **Guide**: [Lonely Planet Nice](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNice)
+- **Guide**: [Lonely Planet Nice](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNice)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Nice](https://www.reddit.com/r/Nice/) |
-| 📍 **TripAdvisor** | [Things to do in Nice](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNice) |
-| 📖 **Lonely Planet** | [Nice Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNice) |
+| 📍 **TripAdvisor** | [Things to do in Nice](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNice) |
+| 📖 **Lonely Planet** | [Nice Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNice) |
 
 ## 🚀 Digital Nomad Hub
 

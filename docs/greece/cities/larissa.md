@@ -33,7 +33,7 @@ description: Cost of Living in Larissa
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLarissa) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLarissa) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLarissa) |
 | [Airbnb](https://www.airbnb.com/s/Larissa--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Larissa
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Larissa](https://www.reddit.com/r/Larissa/) |
-| 📍 **TripAdvisor** | [Things to do in Larissa](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLarissa) |
-| 📖 **Lonely Planet** | [Larissa Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLarissa) |
+| 📍 **TripAdvisor** | [Things to do in Larissa](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLarissa) |
+| 📖 **Lonely Planet** | [Larissa Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLarissa) |
 
 ## 🚀 Digital Nomad Hub
 

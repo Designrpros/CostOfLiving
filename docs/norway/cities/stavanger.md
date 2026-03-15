@@ -36,19 +36,19 @@ description: Cost of Living in Stavanger
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger) |
 | [Airbnb](https://www.airbnb.com/s/Stavanger--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Preikestolen Day Trip](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPreikestolen%20Day%20Trip%20Stavanger) — Hike to the world-famous Pulpit Rock viewpoint.
 - **Social**: [Find Stavanger on Reddit](https://www.reddit.com/r/Stavanger/)
-- **Guide**: [Lonely Planet Stavanger](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStavanger)
+- **Guide**: [Lonely Planet Stavanger](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStavanger)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Stavanger](https://www.reddit.com/r/Stavanger/) |
-| 📍 **TripAdvisor** | [Things to do in Stavanger](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DStavanger) |
-| 📖 **Lonely Planet** | [Stavanger Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStavanger) |
+| 📍 **TripAdvisor** | [Things to do in Stavanger](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DStavanger) |
+| 📖 **Lonely Planet** | [Stavanger Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStavanger) |
 
 ## 🚀 Digital Nomad Hub
 

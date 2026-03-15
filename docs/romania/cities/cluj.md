@@ -33,7 +33,7 @@ description: Cost of Living in Cluj-Napoca
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCluj-Napoca) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCluj-Napoca) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCluj-Napoca) |
 | [Airbnb](https://www.airbnb.com/s/Cluj-Napoca--Romania) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Cluj-Napoca
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Cluj-Napoca](https://www.reddit.com/r/Cluj-Napoca/) |
-| 📍 **TripAdvisor** | [Things to do in Cluj-Napoca](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCluj-Napoca) |
-| 📖 **Lonely Planet** | [Cluj-Napoca Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCluj-Napoca) |
+| 📍 **TripAdvisor** | [Things to do in Cluj-Napoca](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCluj-Napoca) |
+| 📖 **Lonely Planet** | [Cluj-Napoca Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCluj-Napoca) |
 
 ## 🚀 Digital Nomad Hub
 

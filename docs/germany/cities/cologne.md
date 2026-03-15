@@ -36,19 +36,19 @@ description: Cost of Living in Cologne
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCologne) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCologne) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCologne) |
 | [Airbnb](https://www.airbnb.com/s/Cologne--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Cologne Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCologne%20Cathedral%20Cologne) — The tallest twin-spired church in the world.
 - **Social**: [Find Cologne on Reddit](https://www.reddit.com/r/Cologne/)
-- **Guide**: [Lonely Planet Cologne](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCologne)
+- **Guide**: [Lonely Planet Cologne](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCologne)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Cologne](https://www.reddit.com/r/Cologne/) |
-| 📍 **TripAdvisor** | [Things to do in Cologne](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCologne) |
-| 📖 **Lonely Planet** | [Cologne Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCologne) |
+| 📍 **TripAdvisor** | [Things to do in Cologne](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCologne) |
+| 📖 **Lonely Planet** | [Cologne Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCologne) |
 
 ## 🚀 Digital Nomad Hub
 

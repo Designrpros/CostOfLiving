@@ -33,7 +33,7 @@ description: Cost of Living in Kolding
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKolding) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKolding) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKolding) |
 | [Airbnb](https://www.airbnb.com/s/Kolding--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Kolding
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Kolding](https://www.reddit.com/r/Kolding/) |
-| 📍 **TripAdvisor** | [Things to do in Kolding](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKolding) |
-| 📖 **Lonely Planet** | [Kolding Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKolding) |
+| 📍 **TripAdvisor** | [Things to do in Kolding](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKolding) |
+| 📖 **Lonely Planet** | [Kolding Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKolding) |
 
 ## 🚀 Digital Nomad Hub
 

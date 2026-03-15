@@ -33,7 +33,7 @@ description: Cost of Living in Liege
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLiege) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLiege) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLiege) |
 | [Airbnb](https://www.airbnb.com/s/Liege--Belgium) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Liege
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Liege](https://www.reddit.com/r/Liege/) |
-| 📍 **TripAdvisor** | [Things to do in Liege](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLiege) |
-| 📖 **Lonely Planet** | [Liege Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLiege) |
+| 📍 **TripAdvisor** | [Things to do in Liege](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLiege) |
+| 📖 **Lonely Planet** | [Liege Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLiege) |
 
 ## 🚀 Digital Nomad Hub
 

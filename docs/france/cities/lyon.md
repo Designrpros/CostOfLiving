@@ -36,19 +36,19 @@ description: Cost of Living in Lyon
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLyon) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLyon) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLyon) |
 | [Airbnb](https://www.airbnb.com/s/Lyon--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Vieux Lyon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVieux%20Lyon%20Lyon) — Explore the secret 'traboules' of the historic old town.
 - **Social**: [Find Lyon on Reddit](https://www.reddit.com/r/Lyon/)
-- **Guide**: [Lonely Planet Lyon](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLyon)
+- **Guide**: [Lonely Planet Lyon](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLyon)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lyon](https://www.reddit.com/r/Lyon/) |
-| 📍 **TripAdvisor** | [Things to do in Lyon](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLyon) |
-| 📖 **Lonely Planet** | [Lyon Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLyon) |
+| 📍 **TripAdvisor** | [Things to do in Lyon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLyon) |
+| 📖 **Lonely Planet** | [Lyon Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLyon) |
 
 ## 🚀 Digital Nomad Hub
 

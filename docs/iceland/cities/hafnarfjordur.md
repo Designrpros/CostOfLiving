@@ -33,7 +33,7 @@ description: Cost of Living in Hafnarfjordur
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHafnarfjordur) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHafnarfjordur) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHafnarfjordur) |
 | [Airbnb](https://www.airbnb.com/s/Hafnarfjordur--Iceland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Hafnarfjordur
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Hafnarfjordur](https://www.reddit.com/r/Hafnarfjordur/) |
-| 📍 **TripAdvisor** | [Things to do in Hafnarfjordur](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHafnarfjordur) |
-| 📖 **Lonely Planet** | [Hafnarfjordur Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHafnarfjordur) |
+| 📍 **TripAdvisor** | [Things to do in Hafnarfjordur](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHafnarfjordur) |
+| 📖 **Lonely Planet** | [Hafnarfjordur Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHafnarfjordur) |
 
 ## 🚀 Digital Nomad Hub
 

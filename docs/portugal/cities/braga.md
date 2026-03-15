@@ -33,7 +33,7 @@ description: Cost of Living in Braga
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBraga) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBraga) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBraga) |
 | [Airbnb](https://www.airbnb.com/s/Braga--Portugal) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Braga
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Braga](https://www.reddit.com/r/Braga/) |
-| 📍 **TripAdvisor** | [Things to do in Braga](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBraga) |
-| 📖 **Lonely Planet** | [Braga Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBraga) |
+| 📍 **TripAdvisor** | [Things to do in Braga](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBraga) |
+| 📖 **Lonely Planet** | [Braga Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBraga) |
 
 ## 🚀 Digital Nomad Hub
 

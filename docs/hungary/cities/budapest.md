@@ -36,19 +36,19 @@ description: Cost of Living in Budapest
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBudapest) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBudapest) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBudapest) |
 | [Airbnb](https://www.airbnb.com/s/Budapest--Hungary) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Parliament Building](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DParliament%20Building%20Budapest) — Stunning neo-gothic icon of the Hungarian capital.
 - **Social**: [Find Budapest on Reddit](https://www.reddit.com/r/Budapest/)
-- **Guide**: [Lonely Planet Budapest](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBudapest)
+- **Guide**: [Lonely Planet Budapest](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBudapest)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Budapest](https://www.reddit.com/r/Budapest/) |
-| 📍 **TripAdvisor** | [Things to do in Budapest](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBudapest) |
-| 📖 **Lonely Planet** | [Budapest Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBudapest) |
+| 📍 **TripAdvisor** | [Things to do in Budapest](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBudapest) |
+| 📖 **Lonely Planet** | [Budapest Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBudapest) |
 
 ## 🚀 Digital Nomad Hub
 

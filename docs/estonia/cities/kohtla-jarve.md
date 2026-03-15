@@ -33,7 +33,7 @@ description: Cost of Living in Kohtla-Järve
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKohtla-J%C3%A4rve) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKohtla-J%C3%A4rve) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKohtla-J%C3%A4rve) |
 | [Airbnb](https://www.airbnb.com/s/Kohtla-Jarve--Estonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Kohtla-Järve
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Kohtla-Järve](https://www.reddit.com/r/Kohtla-Järve/) |
-| 📍 **TripAdvisor** | [Things to do in Kohtla-Järve](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKohtla-Järve) |
-| 📖 **Lonely Planet** | [Kohtla-Järve Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKohtla-Järve) |
+| 📍 **TripAdvisor** | [Things to do in Kohtla-Järve](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKohtla-Järve) |
+| 📖 **Lonely Planet** | [Kohtla-Järve Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKohtla-Järve) |
 
 ## 🚀 Digital Nomad Hub
 

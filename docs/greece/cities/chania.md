@@ -33,7 +33,7 @@ description: Cost of Living in Chania
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChania) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChania) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChania) |
 | [Airbnb](https://www.airbnb.com/s/Chania--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Chania
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Chania](https://www.reddit.com/r/Chania/) |
-| 📍 **TripAdvisor** | [Things to do in Chania](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DChania) |
-| 📖 **Lonely Planet** | [Chania Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DChania) |
+| 📍 **TripAdvisor** | [Things to do in Chania](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DChania) |
+| 📖 **Lonely Planet** | [Chania Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DChania) |
 
 ## 🚀 Digital Nomad Hub
 

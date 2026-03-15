@@ -36,19 +36,19 @@ description: Cost of Living in Heraklion
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHeraklion) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHeraklion) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHeraklion) |
 | [Airbnb](https://www.airbnb.com/s/Heraklion--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Knossos Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKnossos%20Palace%20Heraklion) — Explore the mythical heart of Minoan civilization.
 - **Social**: [Find Heraklion on Reddit](https://www.reddit.com/r/Heraklion/)
-- **Guide**: [Lonely Planet Heraklion](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHeraklion)
+- **Guide**: [Lonely Planet Heraklion](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHeraklion)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Heraklion](https://www.reddit.com/r/Heraklion/) |
-| 📍 **TripAdvisor** | [Things to do in Heraklion](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHeraklion) |
-| 📖 **Lonely Planet** | [Heraklion Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHeraklion) |
+| 📍 **TripAdvisor** | [Things to do in Heraklion](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHeraklion) |
+| 📖 **Lonely Planet** | [Heraklion Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHeraklion) |
 
 ## 🚀 Digital Nomad Hub
 

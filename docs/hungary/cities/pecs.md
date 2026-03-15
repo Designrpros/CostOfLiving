@@ -33,7 +33,7 @@ description: Cost of Living in Pécs
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP%C3%A9cs) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP%C3%A9cs) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP%C3%A9cs) |
 | [Airbnb](https://www.airbnb.com/s/Pecs--Hungary) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Pécs
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Pécs](https://www.reddit.com/r/Pécs/) |
-| 📍 **TripAdvisor** | [Things to do in Pécs](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPécs) |
-| 📖 **Lonely Planet** | [Pécs Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPécs) |
+| 📍 **TripAdvisor** | [Things to do in Pécs](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPécs) |
+| 📖 **Lonely Planet** | [Pécs Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPécs) |
 
 ## 🚀 Digital Nomad Hub
 

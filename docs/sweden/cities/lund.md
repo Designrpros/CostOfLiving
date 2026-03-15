@@ -33,7 +33,7 @@ description: Cost of Living in Lund
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLund) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLund) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLund) |
 | [Airbnb](https://www.airbnb.com/s/Lund--Sweden) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Lund
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lund](https://www.reddit.com/r/Lund/) |
-| 📍 **TripAdvisor** | [Things to do in Lund](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLund) |
-| 📖 **Lonely Planet** | [Lund Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLund) |
+| 📍 **TripAdvisor** | [Things to do in Lund](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLund) |
+| 📖 **Lonely Planet** | [Lund Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLund) |
 
 ## 🚀 Digital Nomad Hub
 

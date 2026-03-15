@@ -43,9 +43,9 @@ description: General links for the whole of Europe
 | Link | Description |
 |-------|-------------|
 | [Rome2Rio](https://www.rome2rio.com) | Transport route planning |
-| [Rail Europe](https://tp.media.r?marker=710853&p=276&u=https%3A%2F%2Fwww.raileurope.com) | European trains |
-| [FlixBus](https://tp.media.r?marker=710853&p=323&u=https%3A%2F%2Fwww.flixbus.com) | Budget bus travel |
-| [Skyscanner](https://tp.media.r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | Flights |
+| [Rail Europe](https://tp.media/r?marker=710853&p=276&u=https%3A%2F%2Fwww.raileurope.com) | European trains |
+| [FlixBus](https://tp.media/r?marker=710853&p=323&u=https%3A%2F%2Fwww.flixbus.com) | Budget bus travel |
+| [Skyscanner](https://tp.media/r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | Flights |
 | [Google Maps](https://maps.google.com) | Navigation |
 
 ## 🎮 Reddit Communities
@@ -70,8 +70,8 @@ description: General links for the whole of Europe
 
 | Link | Description |
 |-------|-------------|
-| [Lonely Planet](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com) | Travel guides |
-| [TripAdvisor](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com) | Reviews |
+| [Lonely Planet](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com) | Travel guides |
+| [TripAdvisor](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com) | Reviews |
 | [Wikivoyage](https://en.wikivoyage.org) | Free travel guides |
 | [Eurostat](https://ec.europa.eu/eurostat) | EU statistics |
 

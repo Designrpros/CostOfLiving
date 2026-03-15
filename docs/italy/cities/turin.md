@@ -33,7 +33,7 @@ description: Cost of Living in Turin
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTurin) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTurin) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTurin) |
 | [Airbnb](https://www.airbnb.com/s/Turin--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Turin
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Turin](https://www.reddit.com/r/Turin/) |
-| 📍 **TripAdvisor** | [Things to do in Turin](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurin) |
-| 📖 **Lonely Planet** | [Turin Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTurin) |
+| 📍 **TripAdvisor** | [Things to do in Turin](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurin) |
+| 📖 **Lonely Planet** | [Turin Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTurin) |
 
 ## 🚀 Digital Nomad Hub
 

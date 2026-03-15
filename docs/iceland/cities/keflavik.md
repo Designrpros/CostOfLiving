@@ -33,7 +33,7 @@ description: Cost of Living in Keflavik
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKeflavik) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKeflavik) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKeflavik) |
 | [Airbnb](https://www.airbnb.com/s/Keflavik--Iceland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Keflavik
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Keflavik](https://www.reddit.com/r/Keflavik/) |
-| 📍 **TripAdvisor** | [Things to do in Keflavik](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKeflavik) |
-| 📖 **Lonely Planet** | [Keflavik Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKeflavik) |
+| 📍 **TripAdvisor** | [Things to do in Keflavik](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKeflavik) |
+| 📖 **Lonely Planet** | [Keflavik Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKeflavik) |
 
 ## 🚀 Digital Nomad Hub
 

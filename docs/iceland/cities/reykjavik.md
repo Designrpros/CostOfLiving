@@ -36,19 +36,19 @@ description: Cost of Living in Reykjavik
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DReykjavik) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DReykjavik) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DReykjavik) |
 | [Airbnb](https://www.airbnb.com/s/Reykjavik--Iceland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Hallgrímskirkja](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHallgr%C3%ADmskirkja%20Reykjavik) — Iceland's largest church and best city viewpoint.
 - **Social**: [Find Reykjavik on Reddit](https://www.reddit.com/r/Reykjavik/)
-- **Guide**: [Lonely Planet Reykjavik](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DReykjavik)
+- **Guide**: [Lonely Planet Reykjavik](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DReykjavik)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Reykjavik](https://www.reddit.com/r/Reykjavik/) |
-| 📍 **TripAdvisor** | [Things to do in Reykjavik](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DReykjavik) |
-| 📖 **Lonely Planet** | [Reykjavik Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DReykjavik) |
+| 📍 **TripAdvisor** | [Things to do in Reykjavik](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DReykjavik) |
+| 📖 **Lonely Planet** | [Reykjavik Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DReykjavik) |
 
 ## 🚀 Digital Nomad Hub
 

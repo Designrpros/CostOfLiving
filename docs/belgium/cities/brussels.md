@@ -36,19 +36,19 @@ description: Cost of Living in Brussels
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrussels) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrussels) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrussels) |
 | [Airbnb](https://www.airbnb.com/s/Brussels--Belgium) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Grand Place](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGrand%20Place%20Brussels) — One of the most beautiful town squares in the world.
 - **Social**: [Find Brussels on Reddit](https://www.reddit.com/r/Brussels/)
-- **Guide**: [Lonely Planet Brussels](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrussels)
+- **Guide**: [Lonely Planet Brussels](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrussels)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Brussels](https://www.reddit.com/r/Brussels/) |
-| 📍 **TripAdvisor** | [Things to do in Brussels](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrussels) |
-| 📖 **Lonely Planet** | [Brussels Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrussels) |
+| 📍 **TripAdvisor** | [Things to do in Brussels](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrussels) |
+| 📖 **Lonely Planet** | [Brussels Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrussels) |
 
 ## 🚀 Digital Nomad Hub
 

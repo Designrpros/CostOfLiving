@@ -36,19 +36,19 @@ description: Cost of Living in Warsaw
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWarsaw) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWarsaw) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWarsaw) |
 | [Airbnb](https://www.airbnb.com/s/Warsaw--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [Royal Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoyal%20Castle%20Warsaw) — Meticulously rebuilt symbol of Polish history.
 - **Social**: [Find Warsaw on Reddit](https://www.reddit.com/r/Warsaw/)
-- **Guide**: [Lonely Planet Warsaw](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWarsaw)
+- **Guide**: [Lonely Planet Warsaw](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWarsaw)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Warsaw](https://www.reddit.com/r/Warsaw/) |
-| 📍 **TripAdvisor** | [Things to do in Warsaw](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWarsaw) |
-| 📖 **Lonely Planet** | [Warsaw Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWarsaw) |
+| 📍 **TripAdvisor** | [Things to do in Warsaw](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWarsaw) |
+| 📖 **Lonely Planet** | [Warsaw Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWarsaw) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -33,7 +33,7 @@ description: Cost of Living in Lahti
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLahti) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLahti) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLahti) |
 | [Airbnb](https://www.airbnb.com/s/Lahti--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Lahti
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lahti](https://www.reddit.com/r/Lahti/) |
-| 📍 **TripAdvisor** | [Things to do in Lahti](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLahti) |
-| 📖 **Lonely Planet** | [Lahti Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLahti) |
+| 📍 **TripAdvisor** | [Things to do in Lahti](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLahti) |
+| 📖 **Lonely Planet** | [Lahti Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLahti) |
 
 ## 🚀 Digital Nomad Hub
 

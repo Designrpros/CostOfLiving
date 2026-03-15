@@ -36,19 +36,19 @@ description: Cost of Living in Paris
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DParis) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DParis) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DParis) |
 | [Airbnb](https://www.airbnb.com/s/Paris--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
 - **Top Activity**: [The Louvre](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Louvre%20Paris) — The world's largest and most visited art museum.
 - **Social**: [Find Paris on Reddit](https://www.reddit.com/r/Paris/)
-- **Guide**: [Lonely Planet Paris](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DParis)
+- **Guide**: [Lonely Planet Paris](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DParis)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Paris](https://www.reddit.com/r/Paris/) |
-| 📍 **TripAdvisor** | [Things to do in Paris](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DParis) |
-| 📖 **Lonely Planet** | [Paris Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DParis) |
+| 📍 **TripAdvisor** | [Things to do in Paris](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DParis) |
+| 📖 **Lonely Planet** | [Paris Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DParis) |
 
 ## 🚀 Digital Nomad Hub
 

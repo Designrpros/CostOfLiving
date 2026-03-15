@@ -33,7 +33,7 @@ description: Cost of Living in Burgas
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBurgas) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBurgas) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBurgas) |
 | [Airbnb](https://www.airbnb.com/s/Burgas--Bulgaria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Burgas
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Burgas](https://www.reddit.com/r/Burgas/) |
-| 📍 **TripAdvisor** | [Things to do in Burgas](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBurgas) |
-| 📖 **Lonely Planet** | [Burgas Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBurgas) |
+| 📍 **TripAdvisor** | [Things to do in Burgas](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBurgas) |
+| 📖 **Lonely Planet** | [Burgas Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBurgas) |
 
 ## 🚀 Digital Nomad Hub
 

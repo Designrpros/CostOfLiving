@@ -33,7 +33,7 @@ description: Cost of Living in Akureyri
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAkureyri) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAkureyri) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAkureyri) |
 | [Airbnb](https://www.airbnb.com/s/Akureyri--Iceland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Akureyri
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Akureyri](https://www.reddit.com/r/Akureyri/) |
-| 📍 **TripAdvisor** | [Things to do in Akureyri](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAkureyri) |
-| 📖 **Lonely Planet** | [Akureyri Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAkureyri) |
+| 📍 **TripAdvisor** | [Things to do in Akureyri](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAkureyri) |
+| 📖 **Lonely Planet** | [Akureyri Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAkureyri) |
 
 ## 🚀 Digital Nomad Hub
 

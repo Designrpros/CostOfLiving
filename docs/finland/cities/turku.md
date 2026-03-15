@@ -33,7 +33,7 @@ description: Cost of Living in Turku
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTurku) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTurku) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTurku) |
 | [Airbnb](https://www.airbnb.com/s/Turku--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Turku
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Turku](https://www.reddit.com/r/Turku/) |
-| 📍 **TripAdvisor** | [Things to do in Turku](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurku) |
-| 📖 **Lonely Planet** | [Turku Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTurku) |
+| 📍 **TripAdvisor** | [Things to do in Turku](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurku) |
+| 📖 **Lonely Planet** | [Turku Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTurku) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -33,7 +33,7 @@ description: Cost of Living in Setubal
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSetubal) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSetubal) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSetubal) |
 | [Airbnb](https://www.airbnb.com/s/Setubal--Portugal) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Setubal
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Setubal](https://www.reddit.com/r/Setubal/) |
-| 📍 **TripAdvisor** | [Things to do in Setubal](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSetubal) |
-| 📖 **Lonely Planet** | [Setubal Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSetubal) |
+| 📍 **TripAdvisor** | [Things to do in Setubal](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSetubal) |
+| 📖 **Lonely Planet** | [Setubal Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSetubal) |
 
 ## 🚀 Digital Nomad Hub
 
