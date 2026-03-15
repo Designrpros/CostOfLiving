@@ -122,4 +122,4 @@ When planning an extended stay abroad, there are three critical legal deadlines 
 
 ---
 
-*Compiled by Euro Lavish - Cost of Living in Europe*
+*Compiled by Cost of Living in Europe*

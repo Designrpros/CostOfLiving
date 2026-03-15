@@ -1,9 +1,9 @@
 #!/bin/bash
-# Euro Lavish - Quick Start Script
+# Cost of Living - Quick Start Script
 # Requires: MkDocs Material
 # pip install mkdocs-material
 
-echo "🪙 Euro Lavish - Starting..."
+echo "🪙 Cost of Living - Starting..."
 
 # Check if mkdocs is installed
 if command -v mkdocs &> /dev/null; then

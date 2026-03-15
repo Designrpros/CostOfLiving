@@ -1,4 +1,4 @@
-# 🪙 Euro Lavish - Europe Cost of Living Guide
+# 🪙 Cost of Living - Europe Guide
 
 A comprehensive cost of living guide for 27 European countries with 10 cities each.
 

@@ -86,4 +86,4 @@ description: General links for the whole of Europe
 
 ---
 
-*Compiled by Euro Lavish - Cost of Living in Europe*
+*Compiled by Cost of Living in Europe*
