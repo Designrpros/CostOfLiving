@@ -41,8 +41,8 @@ description: Cost of Living in Kristiansund
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Kristiansund](https://www.reddit.com/r/Kristiansund/) |
-| 📍 **TripAdvisor** | [Things to do in Kristiansund](https://www.tripadvisor.com/Search?q=Kristiansund) |
-| 📖 **Lonely Planet** | [Kristiansund Guide](https://www.lonelyplanet.com/search?q=Kristiansund) |
+| 📍 **TripAdvisor** | [Things to do in Kristiansund](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKristiansund) |
+| 📖 **Lonely Planet** | [Kristiansund Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKristiansund) |
 
 ## 🚀 Digital Nomad Hub
 

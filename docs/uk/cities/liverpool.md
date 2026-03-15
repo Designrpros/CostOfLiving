@@ -42,13 +42,13 @@ description: Cost of Living in Liverpool
 ## 🧭 Explore & Community
 - **Top Activity**: [The Beatles Story](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Beatles%20Story%20Liverpool) — Follow the journey of the world's most famous band.
 - **Social**: [Find Liverpool on Reddit](https://www.reddit.com/r/Liverpool/)
-- **Guide**: [Lonely Planet Liverpool](https://www.lonelyplanet.com/search?q=Liverpool)
+- **Guide**: [Lonely Planet Liverpool](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLiverpool)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Liverpool](https://www.reddit.com/r/Liverpool/) |
-| 📍 **TripAdvisor** | [Things to do in Liverpool](https://www.tripadvisor.com/Search?q=Liverpool) |
-| 📖 **Lonely Planet** | [Liverpool Guide](https://www.lonelyplanet.com/search?q=Liverpool) |
+| 📍 **TripAdvisor** | [Things to do in Liverpool](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLiverpool) |
+| 📖 **Lonely Planet** | [Liverpool Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLiverpool) |
 
 ## 🚀 Digital Nomad Hub
 

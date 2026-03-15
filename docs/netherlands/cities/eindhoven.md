@@ -41,8 +41,8 @@ description: Cost of Living in Eindhoven
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Eindhoven](https://www.reddit.com/r/Eindhoven/) |
-| 📍 **TripAdvisor** | [Things to do in Eindhoven](https://www.tripadvisor.com/Search?q=Eindhoven) |
-| 📖 **Lonely Planet** | [Eindhoven Guide](https://www.lonelyplanet.com/search?q=Eindhoven) |
+| 📍 **TripAdvisor** | [Things to do in Eindhoven](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEindhoven) |
+| 📖 **Lonely Planet** | [Eindhoven Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEindhoven) |
 
 ## 🚀 Digital Nomad Hub
 

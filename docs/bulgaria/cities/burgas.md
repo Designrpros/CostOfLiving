@@ -41,8 +41,8 @@ description: Cost of Living in Burgas
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Burgas](https://www.reddit.com/r/Burgas/) |
-| 📍 **TripAdvisor** | [Things to do in Burgas](https://www.tripadvisor.com/Search?q=Burgas) |
-| 📖 **Lonely Planet** | [Burgas Guide](https://www.lonelyplanet.com/search?q=Burgas) |
+| 📍 **TripAdvisor** | [Things to do in Burgas](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBurgas) |
+| 📖 **Lonely Planet** | [Burgas Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBurgas) |
 
 ## 🚀 Digital Nomad Hub
 

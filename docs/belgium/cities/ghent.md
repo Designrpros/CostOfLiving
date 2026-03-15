@@ -41,8 +41,8 @@ description: Cost of Living in Ghent
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Ghent](https://www.reddit.com/r/Ghent/) |
-| 📍 **TripAdvisor** | [Things to do in Ghent](https://www.tripadvisor.com/Search?q=Ghent) |
-| 📖 **Lonely Planet** | [Ghent Guide](https://www.lonelyplanet.com/search?q=Ghent) |
+| 📍 **TripAdvisor** | [Things to do in Ghent](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGhent) |
+| 📖 **Lonely Planet** | [Ghent Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGhent) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Västerås
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Västerås](https://www.reddit.com/r/Västerås/) |
-| 📍 **TripAdvisor** | [Things to do in Västerås](https://www.tripadvisor.com/Search?q=Västerås) |
-| 📖 **Lonely Planet** | [Västerås Guide](https://www.lonelyplanet.com/search?q=Västerås) |
+| 📍 **TripAdvisor** | [Things to do in Västerås](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVästerås) |
+| 📖 **Lonely Planet** | [Västerås Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVästerås) |
 
 ## 🚀 Digital Nomad Hub
 

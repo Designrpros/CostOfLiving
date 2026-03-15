@@ -42,13 +42,13 @@ description: Cost of Living in Birmingham
 ## 🧭 Explore & Community
 - **Top Activity**: [Cadbury World](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCadbury%20World%20Birmingham) — Discover the delicious history of chocolate.
 - **Social**: [Find Birmingham on Reddit](https://www.reddit.com/r/Birmingham/)
-- **Guide**: [Lonely Planet Birmingham](https://www.lonelyplanet.com/search?q=Birmingham)
+- **Guide**: [Lonely Planet Birmingham](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBirmingham)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Birmingham](https://www.reddit.com/r/Birmingham/) |
-| 📍 **TripAdvisor** | [Things to do in Birmingham](https://www.tripadvisor.com/Search?q=Birmingham) |
-| 📖 **Lonely Planet** | [Birmingham Guide](https://www.lonelyplanet.com/search?q=Birmingham) |
+| 📍 **TripAdvisor** | [Things to do in Birmingham](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBirmingham) |
+| 📖 **Lonely Planet** | [Birmingham Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBirmingham) |
 
 ## 🚀 Digital Nomad Hub
 

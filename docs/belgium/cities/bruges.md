@@ -41,8 +41,8 @@ description: Cost of Living in Bruges
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bruges](https://www.reddit.com/r/Bruges/) |
-| 📍 **TripAdvisor** | [Things to do in Bruges](https://www.tripadvisor.com/Search?q=Bruges) |
-| 📖 **Lonely Planet** | [Bruges Guide](https://www.lonelyplanet.com/search?q=Bruges) |
+| 📍 **TripAdvisor** | [Things to do in Bruges](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBruges) |
+| 📖 **Lonely Planet** | [Bruges Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBruges) |
 
 ## 🚀 Digital Nomad Hub
 

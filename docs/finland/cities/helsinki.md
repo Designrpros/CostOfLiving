@@ -42,13 +42,13 @@ description: Cost of Living in Helsinki
 ## 🧭 Explore & Community
 - **Top Activity**: [Suomenlinna Fortress](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSuomenlinna%20Fortress%20Helsinki) — UNESCO island sea fortress and nature.
 - **Social**: [Find Helsinki on Reddit](https://www.reddit.com/r/Helsinki/)
-- **Guide**: [Lonely Planet Helsinki](https://www.lonelyplanet.com/search?q=Helsinki)
+- **Guide**: [Lonely Planet Helsinki](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHelsinki)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Helsinki](https://www.reddit.com/r/Helsinki/) |
-| 📍 **TripAdvisor** | [Things to do in Helsinki](https://www.tripadvisor.com/Search?q=Helsinki) |
-| 📖 **Lonely Planet** | [Helsinki Guide](https://www.lonelyplanet.com/search?q=Helsinki) |
+| 📍 **TripAdvisor** | [Things to do in Helsinki](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHelsinki) |
+| 📖 **Lonely Planet** | [Helsinki Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHelsinki) |
 
 ## 🚀 Digital Nomad Hub
 

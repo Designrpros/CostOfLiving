@@ -41,8 +41,8 @@ description: Cost of Living in Graz
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Graz](https://www.reddit.com/r/Graz/) |
-| 📍 **TripAdvisor** | [Things to do in Graz](https://www.tripadvisor.com/Search?q=Graz) |
-| 📖 **Lonely Planet** | [Graz Guide](https://www.lonelyplanet.com/search?q=Graz) |
+| 📍 **TripAdvisor** | [Things to do in Graz](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGraz) |
+| 📖 **Lonely Planet** | [Graz Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGraz) |
 
 ## 🚀 Digital Nomad Hub
 

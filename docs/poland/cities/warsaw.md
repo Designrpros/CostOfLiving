@@ -42,13 +42,13 @@ description: Cost of Living in Warsaw
 ## 🧭 Explore & Community
 - **Top Activity**: [Royal Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoyal%20Castle%20Warsaw) — Meticulously rebuilt symbol of Polish history.
 - **Social**: [Find Warsaw on Reddit](https://www.reddit.com/r/Warsaw/)
-- **Guide**: [Lonely Planet Warsaw](https://www.lonelyplanet.com/search?q=Warsaw)
+- **Guide**: [Lonely Planet Warsaw](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWarsaw)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Warsaw](https://www.reddit.com/r/Warsaw/) |
-| 📍 **TripAdvisor** | [Things to do in Warsaw](https://www.tripadvisor.com/Search?q=Warsaw) |
-| 📖 **Lonely Planet** | [Warsaw Guide](https://www.lonelyplanet.com/search?q=Warsaw) |
+| 📍 **TripAdvisor** | [Things to do in Warsaw](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWarsaw) |
+| 📖 **Lonely Planet** | [Warsaw Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWarsaw) |
 
 ## 🚀 Digital Nomad Hub
 

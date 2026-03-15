@@ -41,8 +41,8 @@ description: Cost of Living in Kópavogur
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Kópavogur](https://www.reddit.com/r/Kópavogur/) |
-| 📍 **TripAdvisor** | [Things to do in Kópavogur](https://www.tripadvisor.com/Search?q=Kópavogur) |
-| 📖 **Lonely Planet** | [Kópavogur Guide](https://www.lonelyplanet.com/search?q=Kópavogur) |
+| 📍 **TripAdvisor** | [Things to do in Kópavogur](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKópavogur) |
+| 📖 **Lonely Planet** | [Kópavogur Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKópavogur) |
 
 ## 🚀 Digital Nomad Hub
 

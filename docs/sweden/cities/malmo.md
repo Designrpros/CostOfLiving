@@ -42,13 +42,13 @@ description: Cost of Living in Malmö
 ## 🧭 Explore & Community
 - **Top Activity**: [Turning Torso](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurning%20Torso%20Malmo) — Visit Scandinavia's tallest and most twisted skyscraper.
 - **Social**: [Find Malmo on Reddit](https://www.reddit.com/r/Malmo/)
-- **Guide**: [Lonely Planet Malmo](https://www.lonelyplanet.com/search?q=Malmo)
+- **Guide**: [Lonely Planet Malmo](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMalmo)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Malmö](https://www.reddit.com/r/Malmö/) |
-| 📍 **TripAdvisor** | [Things to do in Malmö](https://www.tripadvisor.com/Search?q=Malmö) |
-| 📖 **Lonely Planet** | [Malmö Guide](https://www.lonelyplanet.com/search?q=Malmö) |
+| 📍 **TripAdvisor** | [Things to do in Malmö](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMalmö) |
+| 📖 **Lonely Planet** | [Malmö Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMalmö) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Iași
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Iași](https://www.reddit.com/r/Iași/) |
-| 📍 **TripAdvisor** | [Things to do in Iași](https://www.tripadvisor.com/Search?q=Iași) |
-| 📖 **Lonely Planet** | [Iași Guide](https://www.lonelyplanet.com/search?q=Iași) |
+| 📍 **TripAdvisor** | [Things to do in Iași](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DIași) |
+| 📖 **Lonely Planet** | [Iași Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DIași) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -42,13 +42,13 @@ description: Cost of Living in Krakow
 ## 🧭 Explore & Community
 - **Top Activity**: [Main Market Square](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMain%20Market%20Square%20Krakow) — One of the largest and most beautiful medieval squares in Europe.
 - **Social**: [Find Krakow on Reddit](https://www.reddit.com/r/Krakow/)
-- **Guide**: [Lonely Planet Krakow](https://www.lonelyplanet.com/search?q=Krakow)
+- **Guide**: [Lonely Planet Krakow](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKrakow)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Krakow](https://www.reddit.com/r/Krakow/) |
-| 📍 **TripAdvisor** | [Things to do in Krakow](https://www.tripadvisor.com/Search?q=Krakow) |
-| 📖 **Lonely Planet** | [Krakow Guide](https://www.lonelyplanet.com/search?q=Krakow) |
+| 📍 **TripAdvisor** | [Things to do in Krakow](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKrakow) |
+| 📖 **Lonely Planet** | [Krakow Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKrakow) |
 
 ## 🚀 Digital Nomad Hub
 

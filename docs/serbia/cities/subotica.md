@@ -41,8 +41,8 @@ description: Cost of Living in Subotica
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Subotica](https://www.reddit.com/r/Subotica/) |
-| 📍 **TripAdvisor** | [Things to do in Subotica](https://www.tripadvisor.com/Search?q=Subotica) |
-| 📖 **Lonely Planet** | [Subotica Guide](https://www.lonelyplanet.com/search?q=Subotica) |
+| 📍 **TripAdvisor** | [Things to do in Subotica](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSubotica) |
+| 📖 **Lonely Planet** | [Subotica Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSubotica) |
 
 ## 🚀 Digital Nomad Hub
 

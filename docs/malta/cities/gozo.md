@@ -41,8 +41,8 @@ description: Cost of Living in Gozo
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Gozo](https://www.reddit.com/r/Gozo/) |
-| 📍 **TripAdvisor** | [Things to do in Gozo](https://www.tripadvisor.com/Search?q=Gozo) |
-| 📖 **Lonely Planet** | [Gozo Guide](https://www.lonelyplanet.com/search?q=Gozo) |
+| 📍 **TripAdvisor** | [Things to do in Gozo](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGozo) |
+| 📖 **Lonely Planet** | [Gozo Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGozo) |
 
 ## 🚀 Digital Nomad Hub
 

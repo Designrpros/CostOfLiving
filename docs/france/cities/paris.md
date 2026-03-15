@@ -42,13 +42,13 @@ description: Cost of Living in Paris
 ## 🧭 Explore & Community
 - **Top Activity**: [The Louvre](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Louvre%20Paris) — The world's largest and most visited art museum.
 - **Social**: [Find Paris on Reddit](https://www.reddit.com/r/Paris/)
-- **Guide**: [Lonely Planet Paris](https://www.lonelyplanet.com/search?q=Paris)
+- **Guide**: [Lonely Planet Paris](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DParis)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Paris](https://www.reddit.com/r/Paris/) |
-| 📍 **TripAdvisor** | [Things to do in Paris](https://www.tripadvisor.com/Search?q=Paris) |
-| 📖 **Lonely Planet** | [Paris Guide](https://www.lonelyplanet.com/search?q=Paris) |
+| 📍 **TripAdvisor** | [Things to do in Paris](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DParis) |
+| 📖 **Lonely Planet** | [Paris Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DParis) |
 
 ## 🚀 Digital Nomad Hub
 

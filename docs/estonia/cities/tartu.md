@@ -41,8 +41,8 @@ description: Cost of Living in Tartu
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Tartu](https://www.reddit.com/r/Tartu/) |
-| 📍 **TripAdvisor** | [Things to do in Tartu](https://www.tripadvisor.com/Search?q=Tartu) |
-| 📖 **Lonely Planet** | [Tartu Guide](https://www.lonelyplanet.com/search?q=Tartu) |
+| 📍 **TripAdvisor** | [Things to do in Tartu](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTartu) |
+| 📖 **Lonely Planet** | [Tartu Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTartu) |
 
 ## 🚀 Digital Nomad Hub
 

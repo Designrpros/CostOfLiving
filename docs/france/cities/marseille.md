@@ -42,13 +42,13 @@ description: Cost of Living in Marseille
 ## 🧭 Explore & Community
 - **Top Activity**: [Basilique Notre-Dame](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBasilique%20Notre-Dame%20Marseille) — The golden-topped symbol of Marseille with 360 views.
 - **Social**: [Find Marseille on Reddit](https://www.reddit.com/r/Marseille/)
-- **Guide**: [Lonely Planet Marseille](https://www.lonelyplanet.com/search?q=Marseille)
+- **Guide**: [Lonely Planet Marseille](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMarseille)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Marseille](https://www.reddit.com/r/Marseille/) |
-| 📍 **TripAdvisor** | [Things to do in Marseille](https://www.tripadvisor.com/Search?q=Marseille) |
-| 📖 **Lonely Planet** | [Marseille Guide](https://www.lonelyplanet.com/search?q=Marseille) |
+| 📍 **TripAdvisor** | [Things to do in Marseille](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMarseille) |
+| 📖 **Lonely Planet** | [Marseille Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMarseille) |
 
 ## 🚀 Digital Nomad Hub
 

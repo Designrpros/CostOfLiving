@@ -41,8 +41,8 @@ description: Cost of Living in Turin
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Turin](https://www.reddit.com/r/Turin/) |
-| 📍 **TripAdvisor** | [Things to do in Turin](https://www.tripadvisor.com/Search?q=Turin) |
-| 📖 **Lonely Planet** | [Turin Guide](https://www.lonelyplanet.com/search?q=Turin) |
+| 📍 **TripAdvisor** | [Things to do in Turin](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurin) |
+| 📖 **Lonely Planet** | [Turin Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTurin) |
 
 ## 🚀 Digital Nomad Hub
 

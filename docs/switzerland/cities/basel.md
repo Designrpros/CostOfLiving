@@ -41,8 +41,8 @@ description: Cost of Living in Basel
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Basel](https://www.reddit.com/r/Basel/) |
-| 📍 **TripAdvisor** | [Things to do in Basel](https://www.tripadvisor.com/Search?q=Basel) |
-| 📖 **Lonely Planet** | [Basel Guide](https://www.lonelyplanet.com/search?q=Basel) |
+| 📍 **TripAdvisor** | [Things to do in Basel](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBasel) |
+| 📖 **Lonely Planet** | [Basel Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBasel) |
 
 ## 🚀 Digital Nomad Hub
 

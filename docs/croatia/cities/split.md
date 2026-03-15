@@ -42,13 +42,13 @@ description: Cost of Living in Split
 ## 🧭 Explore & Community
 - **Top Activity**: [Diocletian's Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDiocletian%27s%20Palace%20Split) — Living history inside a Roman Emperor's home.
 - **Social**: [Find Split on Reddit](https://www.reddit.com/r/Split/)
-- **Guide**: [Lonely Planet Split](https://www.lonelyplanet.com/search?q=Split)
+- **Guide**: [Lonely Planet Split](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSplit)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Split](https://www.reddit.com/r/Split/) |
-| 📍 **TripAdvisor** | [Things to do in Split](https://www.tripadvisor.com/Search?q=Split) |
-| 📖 **Lonely Planet** | [Split Guide](https://www.lonelyplanet.com/search?q=Split) |
+| 📍 **TripAdvisor** | [Things to do in Split](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSplit) |
+| 📖 **Lonely Planet** | [Split Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSplit) |
 
 ## 🚀 Digital Nomad Hub
 

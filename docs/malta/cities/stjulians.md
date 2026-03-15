@@ -41,8 +41,8 @@ description: Cost of Living in St. Julian's
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/St. Julian's](https://www.reddit.com/r/St. Julian's/) |
-| 📍 **TripAdvisor** | [Things to do in St. Julian's](https://www.tripadvisor.com/Search?q=St. Julian's) |
-| 📖 **Lonely Planet** | [St. Julian's Guide](https://www.lonelyplanet.com/search?q=St. Julian's) |
+| 📍 **TripAdvisor** | [Things to do in St. Julian's](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSt. Julian's) |
+| 📖 **Lonely Planet** | [St. Julian's Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSt. Julian's) |
 
 ## 🚀 Digital Nomad Hub
 

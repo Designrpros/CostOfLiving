@@ -42,13 +42,13 @@ description: Cost of Living in Munich
 ## 🧭 Explore & Community
 - **Top Activity**: [Marienplatz](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMarienplatz%20Munich) — The heart of Munich with the famous Glockenspiel.
 - **Social**: [Find Munich on Reddit](https://www.reddit.com/r/Munich/)
-- **Guide**: [Lonely Planet Munich](https://www.lonelyplanet.com/search?q=Munich)
+- **Guide**: [Lonely Planet Munich](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMunich)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Munich](https://www.reddit.com/r/Munich/) |
-| 📍 **TripAdvisor** | [Things to do in Munich](https://www.tripadvisor.com/Search?q=Munich) |
-| 📖 **Lonely Planet** | [Munich Guide](https://www.lonelyplanet.com/search?q=Munich) |
+| 📍 **TripAdvisor** | [Things to do in Munich](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMunich) |
+| 📖 **Lonely Planet** | [Munich Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMunich) |
 
 ## 🚀 Digital Nomad Hub
 

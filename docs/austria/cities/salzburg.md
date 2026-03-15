@@ -41,8 +41,8 @@ description: Cost of Living in Salzburg
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Salzburg](https://www.reddit.com/r/Salzburg/) |
-| 📍 **TripAdvisor** | [Things to do in Salzburg](https://www.tripadvisor.com/Search?q=Salzburg) |
-| 📖 **Lonely Planet** | [Salzburg Guide](https://www.lonelyplanet.com/search?q=Salzburg) |
+| 📍 **TripAdvisor** | [Things to do in Salzburg](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSalzburg) |
+| 📖 **Lonely Planet** | [Salzburg Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSalzburg) |
 
 ## 🚀 Digital Nomad Hub
 

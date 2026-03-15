@@ -42,13 +42,13 @@ description: Cost of Living in Bucharest
 ## 🧭 Explore & Community
 - **Top Activity**: [Palace of the Parliament](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPalace%20of%20the%20Parliament%20Bucharest) — The heaviest building in the world and a communist relic.
 - **Social**: [Find Bucharest on Reddit](https://www.reddit.com/r/Bucharest/)
-- **Guide**: [Lonely Planet Bucharest](https://www.lonelyplanet.com/search?q=Bucharest)
+- **Guide**: [Lonely Planet Bucharest](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBucharest)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bucharest](https://www.reddit.com/r/Bucharest/) |
-| 📍 **TripAdvisor** | [Things to do in Bucharest](https://www.tripadvisor.com/Search?q=Bucharest) |
-| 📖 **Lonely Planet** | [Bucharest Guide](https://www.lonelyplanet.com/search?q=Bucharest) |
+| 📍 **TripAdvisor** | [Things to do in Bucharest](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBucharest) |
+| 📖 **Lonely Planet** | [Bucharest Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBucharest) |
 
 ## 🚀 Digital Nomad Hub
 

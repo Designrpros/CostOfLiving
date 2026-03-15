@@ -42,13 +42,13 @@ description: Cost of Living in Sofia
 ## 🧭 Explore & Community
 - **Top Activity**: [Alexander Nevsky Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAlexander%20Nevsky%20Cathedral%20Sofia) — One of the world's largest Orthodox cathedrals.
 - **Social**: [Find Sofia on Reddit](https://www.reddit.com/r/Sofia/)
-- **Guide**: [Lonely Planet Sofia](https://www.lonelyplanet.com/search?q=Sofia)
+- **Guide**: [Lonely Planet Sofia](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSofia)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Sofia](https://www.reddit.com/r/Sofia/) |
-| 📍 **TripAdvisor** | [Things to do in Sofia](https://www.tripadvisor.com/Search?q=Sofia) |
-| 📖 **Lonely Planet** | [Sofia Guide](https://www.lonelyplanet.com/search?q=Sofia) |
+| 📍 **TripAdvisor** | [Things to do in Sofia](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSofia) |
+| 📖 **Lonely Planet** | [Sofia Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSofia) |
 
 ## 🚀 Digital Nomad Hub
 

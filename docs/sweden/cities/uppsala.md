@@ -41,8 +41,8 @@ description: Cost of Living in Uppsala
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Uppsala](https://www.reddit.com/r/Uppsala/) |
-| 📍 **TripAdvisor** | [Things to do in Uppsala](https://www.tripadvisor.com/Search?q=Uppsala) |
-| 📖 **Lonely Planet** | [Uppsala Guide](https://www.lonelyplanet.com/search?q=Uppsala) |
+| 📍 **TripAdvisor** | [Things to do in Uppsala](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUppsala) |
+| 📖 **Lonely Planet** | [Uppsala Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DUppsala) |
 
 ## 🚀 Digital Nomad Hub
 

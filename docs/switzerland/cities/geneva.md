@@ -41,8 +41,8 @@ description: Cost of Living in Geneva
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Geneva](https://www.reddit.com/r/Geneva/) |
-| 📍 **TripAdvisor** | [Things to do in Geneva](https://www.tripadvisor.com/Search?q=Geneva) |
-| 📖 **Lonely Planet** | [Geneva Guide](https://www.lonelyplanet.com/search?q=Geneva) |
+| 📍 **TripAdvisor** | [Things to do in Geneva](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGeneva) |
+| 📖 **Lonely Planet** | [Geneva Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGeneva) |
 
 ## 🚀 Digital Nomad Hub
 

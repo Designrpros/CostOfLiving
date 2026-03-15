@@ -41,8 +41,8 @@ description: Cost of Living in Porsgrunn
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Porsgrunn](https://www.reddit.com/r/Porsgrunn/) |
-| 📍 **TripAdvisor** | [Things to do in Porsgrunn](https://www.tripadvisor.com/Search?q=Porsgrunn) |
-| 📖 **Lonely Planet** | [Porsgrunn Guide](https://www.lonelyplanet.com/search?q=Porsgrunn) |
+| 📍 **TripAdvisor** | [Things to do in Porsgrunn](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPorsgrunn) |
+| 📖 **Lonely Planet** | [Porsgrunn Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPorsgrunn) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Rotterdam
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Rotterdam](https://www.reddit.com/r/Rotterdam/) |
-| 📍 **TripAdvisor** | [Things to do in Rotterdam](https://www.tripadvisor.com/Search?q=Rotterdam) |
-| 📖 **Lonely Planet** | [Rotterdam Guide](https://www.lonelyplanet.com/search?q=Rotterdam) |
+| 📍 **TripAdvisor** | [Things to do in Rotterdam](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRotterdam) |
+| 📖 **Lonely Planet** | [Rotterdam Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRotterdam) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -42,13 +42,13 @@ description: Cost of Living in Manchester
 ## 🧭 Explore & Community
 - **Top Activity**: [Old Trafford Tour](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Trafford%20Tour%20Manchester) — Walking through the history of the world-famous stadium.
 - **Social**: [Find Manchester on Reddit](https://www.reddit.com/r/Manchester/)
-- **Guide**: [Lonely Planet Manchester](https://www.lonelyplanet.com/search?q=Manchester)
+- **Guide**: [Lonely Planet Manchester](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DManchester)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Manchester](https://www.reddit.com/r/Manchester/) |
-| 📍 **TripAdvisor** | [Things to do in Manchester](https://www.tripadvisor.com/Search?q=Manchester) |
-| 📖 **Lonely Planet** | [Manchester Guide](https://www.lonelyplanet.com/search?q=Manchester) |
+| 📍 **TripAdvisor** | [Things to do in Manchester](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DManchester) |
+| 📖 **Lonely Planet** | [Manchester Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DManchester) |
 
 ## 🚀 Digital Nomad Hub
 

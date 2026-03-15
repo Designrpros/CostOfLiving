@@ -41,8 +41,8 @@ description: Cost of Living in Roskilde
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Roskilde](https://www.reddit.com/r/Roskilde/) |
-| 📍 **TripAdvisor** | [Things to do in Roskilde](https://www.tripadvisor.com/Search?q=Roskilde) |
-| 📖 **Lonely Planet** | [Roskilde Guide](https://www.lonelyplanet.com/search?q=Roskilde) |
+| 📍 **TripAdvisor** | [Things to do in Roskilde](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoskilde) |
+| 📖 **Lonely Planet** | [Roskilde Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRoskilde) |
 
 ## 🚀 Digital Nomad Hub
 

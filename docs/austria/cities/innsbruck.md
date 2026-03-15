@@ -41,8 +41,8 @@ description: Cost of Living in Innsbruck
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Innsbruck](https://www.reddit.com/r/Innsbruck/) |
-| 📍 **TripAdvisor** | [Things to do in Innsbruck](https://www.tripadvisor.com/Search?q=Innsbruck) |
-| 📖 **Lonely Planet** | [Innsbruck Guide](https://www.lonelyplanet.com/search?q=Innsbruck) |
+| 📍 **TripAdvisor** | [Things to do in Innsbruck](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DInnsbruck) |
+| 📖 **Lonely Planet** | [Innsbruck Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DInnsbruck) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -42,13 +42,13 @@ description: Cost of Living in Dubrovnik
 ## 🧭 Explore & Community
 - **Top Activity**: [Walk the City Walls](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWalk%20the%20City%20Walls%20Dubrovnik) — The best way to see the 'Pearl of the Adriatic'.
 - **Social**: [Find Dubrovnik on Reddit](https://www.reddit.com/r/Dubrovnik/)
-- **Guide**: [Lonely Planet Dubrovnik](https://www.lonelyplanet.com/search?q=Dubrovnik)
+- **Guide**: [Lonely Planet Dubrovnik](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDubrovnik)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Dubrovnik](https://www.reddit.com/r/Dubrovnik/) |
-| 📍 **TripAdvisor** | [Things to do in Dubrovnik](https://www.tripadvisor.com/Search?q=Dubrovnik) |
-| 📖 **Lonely Planet** | [Dubrovnik Guide](https://www.lonelyplanet.com/search?q=Dubrovnik) |
+| 📍 **TripAdvisor** | [Things to do in Dubrovnik](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDubrovnik) |
+| 📖 **Lonely Planet** | [Dubrovnik Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDubrovnik) |
 
 ## 🚀 Digital Nomad Hub
 

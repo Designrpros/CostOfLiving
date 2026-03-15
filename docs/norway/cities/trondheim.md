@@ -42,13 +42,13 @@ description: Cost of Living in Trondheim
 ## 🧭 Explore & Community
 - **Top Activity**: [Nidaros Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNidaros%20Cathedral%20Trondheim) — The world's northernmost medieval cathedral.
 - **Social**: [Find Trondheim on Reddit](https://www.reddit.com/r/Trondheim/)
-- **Guide**: [Lonely Planet Trondheim](https://www.lonelyplanet.com/search?q=Trondheim)
+- **Guide**: [Lonely Planet Trondheim](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTrondheim)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Trondheim](https://www.reddit.com/r/Trondheim/) |
-| 📍 **TripAdvisor** | [Things to do in Trondheim](https://www.tripadvisor.com/Search?q=Trondheim) |
-| 📖 **Lonely Planet** | [Trondheim Guide](https://www.lonelyplanet.com/search?q=Trondheim) |
+| 📍 **TripAdvisor** | [Things to do in Trondheim](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTrondheim) |
+| 📖 **Lonely Planet** | [Trondheim Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTrondheim) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Randers
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Randers](https://www.reddit.com/r/Randers/) |
-| 📍 **TripAdvisor** | [Things to do in Randers](https://www.tripadvisor.com/Search?q=Randers) |
-| 📖 **Lonely Planet** | [Randers Guide](https://www.lonelyplanet.com/search?q=Randers) |
+| 📍 **TripAdvisor** | [Things to do in Randers](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRanders) |
+| 📖 **Lonely Planet** | [Randers Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRanders) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Linköping
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Linköping](https://www.reddit.com/r/Linköping/) |
-| 📍 **TripAdvisor** | [Things to do in Linköping](https://www.tripadvisor.com/Search?q=Linköping) |
-| 📖 **Lonely Planet** | [Linköping Guide](https://www.lonelyplanet.com/search?q=Linköping) |
+| 📍 **TripAdvisor** | [Things to do in Linköping](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLinköping) |
+| 📖 **Lonely Planet** | [Linköping Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLinköping) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Kragujevac
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Kragujevac](https://www.reddit.com/r/Kragujevac/) |
-| 📍 **TripAdvisor** | [Things to do in Kragujevac](https://www.tripadvisor.com/Search?q=Kragujevac) |
-| 📖 **Lonely Planet** | [Kragujevac Guide](https://www.lonelyplanet.com/search?q=Kragujevac) |
+| 📍 **TripAdvisor** | [Things to do in Kragujevac](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKragujevac) |
+| 📖 **Lonely Planet** | [Kragujevac Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKragujevac) |
 
 ## 🚀 Digital Nomad Hub
 

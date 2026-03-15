@@ -42,13 +42,13 @@ description: Cost of Living in Rome
 ## 🧭 Explore & Community
 - **Top Activity**: [The Colosseum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Colosseum%20Rome) — The iconic symbol of Ancient Roman power.
 - **Social**: [Find Rome on Reddit](https://www.reddit.com/r/Rome/)
-- **Guide**: [Lonely Planet Rome](https://www.lonelyplanet.com/search?q=Rome)
+- **Guide**: [Lonely Planet Rome](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRome)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Rome](https://www.reddit.com/r/Rome/) |
-| 📍 **TripAdvisor** | [Things to do in Rome](https://www.tripadvisor.com/Search?q=Rome) |
-| 📖 **Lonely Planet** | [Rome Guide](https://www.lonelyplanet.com/search?q=Rome) |
+| 📍 **TripAdvisor** | [Things to do in Rome](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRome) |
+| 📖 **Lonely Planet** | [Rome Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRome) |
 
 ## 🚀 Digital Nomad Hub
 

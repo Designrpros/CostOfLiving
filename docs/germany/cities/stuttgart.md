@@ -42,13 +42,13 @@ description: Cost of Living in Stuttgart
 ## 🧭 Explore & Community
 - **Top Activity**: [Mercedes-Benz Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMercedes-Benz%20Museum%20Stuttgart) — A futuristic journey through automotive history.
 - **Social**: [Find Stuttgart on Reddit](https://www.reddit.com/r/Stuttgart/)
-- **Guide**: [Lonely Planet Stuttgart](https://www.lonelyplanet.com/search?q=Stuttgart)
+- **Guide**: [Lonely Planet Stuttgart](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStuttgart)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Stuttgart](https://www.reddit.com/r/Stuttgart/) |
-| 📍 **TripAdvisor** | [Things to do in Stuttgart](https://www.tripadvisor.com/Search?q=Stuttgart) |
-| 📖 **Lonely Planet** | [Stuttgart Guide](https://www.lonelyplanet.com/search?q=Stuttgart) |
+| 📍 **TripAdvisor** | [Things to do in Stuttgart](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DStuttgart) |
+| 📖 **Lonely Planet** | [Stuttgart Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStuttgart) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -42,13 +42,13 @@ description: Cost of Living in Naples
 ## 🧭 Explore & Community
 - **Top Activity**: [Pompeii Day Trip](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPompeii%20Day%20Trip%20Naples) — Explore the perfectly preserved Roman city.
 - **Social**: [Find Naples on Reddit](https://www.reddit.com/r/Naples/)
-- **Guide**: [Lonely Planet Naples](https://www.lonelyplanet.com/search?q=Naples)
+- **Guide**: [Lonely Planet Naples](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNaples)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Naples](https://www.reddit.com/r/Naples/) |
-| 📍 **TripAdvisor** | [Things to do in Naples](https://www.tripadvisor.com/Search?q=Naples) |
-| 📖 **Lonely Planet** | [Naples Guide](https://www.lonelyplanet.com/search?q=Naples) |
+| 📍 **TripAdvisor** | [Things to do in Naples](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNaples) |
+| 📖 **Lonely Planet** | [Naples Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNaples) |
 
 ## 🚀 Digital Nomad Hub
 

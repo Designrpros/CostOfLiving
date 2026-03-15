@@ -42,13 +42,13 @@ description: Cost of Living in Edinburgh
 ## 🧭 Explore & Community
 - **Top Activity**: [Edinburgh Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh%20Castle%20Edinburgh) — The historic fortress and crown jewels of Scotland.
 - **Social**: [Find Edinburgh on Reddit](https://www.reddit.com/r/Edinburgh/)
-- **Guide**: [Lonely Planet Edinburgh](https://www.lonelyplanet.com/search?q=Edinburgh)
+- **Guide**: [Lonely Planet Edinburgh](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEdinburgh)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Edinburgh](https://www.reddit.com/r/Edinburgh/) |
-| 📍 **TripAdvisor** | [Things to do in Edinburgh](https://www.tripadvisor.com/Search?q=Edinburgh) |
-| 📖 **Lonely Planet** | [Edinburgh Guide](https://www.lonelyplanet.com/search?q=Edinburgh) |
+| 📍 **TripAdvisor** | [Things to do in Edinburgh](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh) |
+| 📖 **Lonely Planet** | [Edinburgh Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEdinburgh) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Hafnarfjörður
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Hafnarfjörður](https://www.reddit.com/r/Hafnarfjörður/) |
-| 📍 **TripAdvisor** | [Things to do in Hafnarfjörður](https://www.tripadvisor.com/Search?q=Hafnarfjörður) |
-| 📖 **Lonely Planet** | [Hafnarfjörður Guide](https://www.lonelyplanet.com/search?q=Hafnarfjörður) |
+| 📍 **TripAdvisor** | [Things to do in Hafnarfjörður](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHafnarfjörður) |
+| 📖 **Lonely Planet** | [Hafnarfjörður Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHafnarfjörður) |
 
 ## 🚀 Digital Nomad Hub
 

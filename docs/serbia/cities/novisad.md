@@ -41,8 +41,8 @@ description: Cost of Living in Novi Sad
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Novi Sad](https://www.reddit.com/r/Novi Sad/) |
-| 📍 **TripAdvisor** | [Things to do in Novi Sad](https://www.tripadvisor.com/Search?q=Novi Sad) |
-| 📖 **Lonely Planet** | [Novi Sad Guide](https://www.lonelyplanet.com/search?q=Novi Sad) |
+| 📍 **TripAdvisor** | [Things to do in Novi Sad](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNovi Sad) |
+| 📖 **Lonely Planet** | [Novi Sad Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNovi Sad) |
 
 ## 🚀 Digital Nomad Hub
 

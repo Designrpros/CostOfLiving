@@ -41,8 +41,8 @@ description: Cost of Living in Braga
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Braga](https://www.reddit.com/r/Braga/) |
-| 📍 **TripAdvisor** | [Things to do in Braga](https://www.tripadvisor.com/Search?q=Braga) |
-| 📖 **Lonely Planet** | [Braga Guide](https://www.lonelyplanet.com/search?q=Braga) |
+| 📍 **TripAdvisor** | [Things to do in Braga](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBraga) |
+| 📖 **Lonely Planet** | [Braga Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBraga) |
 
 ## 🚀 Digital Nomad Hub
 

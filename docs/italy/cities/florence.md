@@ -42,13 +42,13 @@ description: Cost of Living in Florence
 ## 🧭 Explore & Community
 - **Top Activity**: [Uffizi Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUffizi%20Gallery%20Florence) — The world's greatest collection of Italian art.
 - **Social**: [Find Florence on Reddit](https://www.reddit.com/r/Florence/)
-- **Guide**: [Lonely Planet Florence](https://www.lonelyplanet.com/search?q=Florence)
+- **Guide**: [Lonely Planet Florence](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFlorence)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Florence](https://www.reddit.com/r/Florence/) |
-| 📍 **TripAdvisor** | [Things to do in Florence](https://www.tripadvisor.com/Search?q=Florence) |
-| 📖 **Lonely Planet** | [Florence Guide](https://www.lonelyplanet.com/search?q=Florence) |
+| 📍 **TripAdvisor** | [Things to do in Florence](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFlorence) |
+| 📖 **Lonely Planet** | [Florence Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFlorence) |
 
 ## 🚀 Digital Nomad Hub
 

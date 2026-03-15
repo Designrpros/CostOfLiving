@@ -41,8 +41,8 @@ description: Cost of Living in Oulu
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Oulu](https://www.reddit.com/r/Oulu/) |
-| 📍 **TripAdvisor** | [Things to do in Oulu](https://www.tripadvisor.com/Search?q=Oulu) |
-| 📖 **Lonely Planet** | [Oulu Guide](https://www.lonelyplanet.com/search?q=Oulu) |
+| 📍 **TripAdvisor** | [Things to do in Oulu](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOulu) |
+| 📖 **Lonely Planet** | [Oulu Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DOulu) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Leeds
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Leeds](https://www.reddit.com/r/Leeds/) |
-| 📍 **TripAdvisor** | [Things to do in Leeds](https://www.tripadvisor.com/Search?q=Leeds) |
-| 📖 **Lonely Planet** | [Leeds Guide](https://www.lonelyplanet.com/search?q=Leeds) |
+| 📍 **TripAdvisor** | [Things to do in Leeds](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLeeds) |
+| 📖 **Lonely Planet** | [Leeds Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLeeds) |
 
 ## 🚀 Digital Nomad Hub
 

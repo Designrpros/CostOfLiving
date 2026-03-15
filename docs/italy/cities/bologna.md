@@ -42,13 +42,13 @@ description: Cost of Living in Bologna
 ## 🧭 Explore & Community
 - **Top Activity**: [Piazza Maggiore](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPiazza%20Maggiore%20Bologna) — The grand soul of Italy's culinary capital.
 - **Social**: [Find Bologna on Reddit](https://www.reddit.com/r/Bologna/)
-- **Guide**: [Lonely Planet Bologna](https://www.lonelyplanet.com/search?q=Bologna)
+- **Guide**: [Lonely Planet Bologna](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBologna)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bologna](https://www.reddit.com/r/Bologna/) |
-| 📍 **TripAdvisor** | [Things to do in Bologna](https://www.tripadvisor.com/Search?q=Bologna) |
-| 📖 **Lonely Planet** | [Bologna Guide](https://www.lonelyplanet.com/search?q=Bologna) |
+| 📍 **TripAdvisor** | [Things to do in Bologna](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBologna) |
+| 📖 **Lonely Planet** | [Bologna Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBologna) |
 
 ## 🚀 Digital Nomad Hub
 

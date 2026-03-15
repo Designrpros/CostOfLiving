@@ -42,13 +42,13 @@ description: Cost of Living in Heraklion
 ## 🧭 Explore & Community
 - **Top Activity**: [Knossos Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKnossos%20Palace%20Heraklion) — Explore the mythical heart of Minoan civilization.
 - **Social**: [Find Heraklion on Reddit](https://www.reddit.com/r/Heraklion/)
-- **Guide**: [Lonely Planet Heraklion](https://www.lonelyplanet.com/search?q=Heraklion)
+- **Guide**: [Lonely Planet Heraklion](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHeraklion)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Heraklion](https://www.reddit.com/r/Heraklion/) |
-| 📍 **TripAdvisor** | [Things to do in Heraklion](https://www.tripadvisor.com/Search?q=Heraklion) |
-| 📖 **Lonely Planet** | [Heraklion Guide](https://www.lonelyplanet.com/search?q=Heraklion) |
+| 📍 **TripAdvisor** | [Things to do in Heraklion](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHeraklion) |
+| 📖 **Lonely Planet** | [Heraklion Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHeraklion) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Pärnu
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Pärnu](https://www.reddit.com/r/Pärnu/) |
-| 📍 **TripAdvisor** | [Things to do in Pärnu](https://www.tripadvisor.com/Search?q=Pärnu) |
-| 📖 **Lonely Planet** | [Pärnu Guide](https://www.lonelyplanet.com/search?q=Pärnu) |
+| 📍 **TripAdvisor** | [Things to do in Pärnu](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPärnu) |
+| 📖 **Lonely Planet** | [Pärnu Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPärnu) |
 
 ## 🚀 Digital Nomad Hub
 

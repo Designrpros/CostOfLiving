@@ -42,13 +42,13 @@ description: Cost of Living in London
 ## 🧭 Explore & Community
 - **Top Activity**: [Tower of London](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTower%20of%20London%20London) — Historic castle, fortress, and home to Crown Jewels.
 - **Social**: [Find London on Reddit](https://www.reddit.com/r/London/)
-- **Guide**: [Lonely Planet London](https://www.lonelyplanet.com/search?q=London)
+- **Guide**: [Lonely Planet London](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLondon)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/London](https://www.reddit.com/r/London/) |
-| 📍 **TripAdvisor** | [Things to do in London](https://www.tripadvisor.com/Search?q=London) |
-| 📖 **Lonely Planet** | [London Guide](https://www.lonelyplanet.com/search?q=London) |
+| 📍 **TripAdvisor** | [Things to do in London](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLondon) |
+| 📖 **Lonely Planet** | [London Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLondon) |
 
 ## 🚀 Digital Nomad Hub
 

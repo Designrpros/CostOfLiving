@@ -41,8 +41,8 @@ description: Cost of Living in Debrecen
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Debrecen](https://www.reddit.com/r/Debrecen/) |
-| 📍 **TripAdvisor** | [Things to do in Debrecen](https://www.tripadvisor.com/Search?q=Debrecen) |
-| 📖 **Lonely Planet** | [Debrecen Guide](https://www.lonelyplanet.com/search?q=Debrecen) |
+| 📍 **TripAdvisor** | [Things to do in Debrecen](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDebrecen) |
+| 📖 **Lonely Planet** | [Debrecen Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDebrecen) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -41,8 +41,8 @@ description: Cost of Living in Linz
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Linz](https://www.reddit.com/r/Linz/) |
-| 📍 **TripAdvisor** | [Things to do in Linz](https://www.tripadvisor.com/Search?q=Linz) |
-| 📖 **Lonely Planet** | [Linz Guide](https://www.lonelyplanet.com/search?q=Linz) |
+| 📍 **TripAdvisor** | [Things to do in Linz](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLinz) |
+| 📖 **Lonely Planet** | [Linz Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLinz) |
 
 ## 🚀 Digital Nomad Hub
 

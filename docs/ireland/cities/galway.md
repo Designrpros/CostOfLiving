@@ -42,13 +42,13 @@ description: Cost of Living in Galway
 ## 🧭 Explore & Community
 - **Top Activity**: [Eyre Square](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEyre%20Square%20Galway) — The vibrant heart and meeting place of Galway.
 - **Social**: [Find Galway on Reddit](https://www.reddit.com/r/Galway/)
-- **Guide**: [Lonely Planet Galway](https://www.lonelyplanet.com/search?q=Galway)
+- **Guide**: [Lonely Planet Galway](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGalway)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Galway](https://www.reddit.com/r/Galway/) |
-| 📍 **TripAdvisor** | [Things to do in Galway](https://www.tripadvisor.com/Search?q=Galway) |
-| 📖 **Lonely Planet** | [Galway Guide](https://www.lonelyplanet.com/search?q=Galway) |
+| 📍 **TripAdvisor** | [Things to do in Galway](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGalway) |
+| 📖 **Lonely Planet** | [Galway Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGalway) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -42,13 +42,13 @@ description: Cost of Living in Hamburg
 ## 🧭 Explore & Community
 - **Top Activity**: [Elbphilharmonie](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DElbphilharmonie%20Hamburg) — Modern architectural masterpiece overlooking the harbor.
 - **Social**: [Find Hamburg on Reddit](https://www.reddit.com/r/Hamburg/)
-- **Guide**: [Lonely Planet Hamburg](https://www.lonelyplanet.com/search?q=Hamburg)
+- **Guide**: [Lonely Planet Hamburg](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHamburg)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Hamburg](https://www.reddit.com/r/Hamburg/) |
-| 📍 **TripAdvisor** | [Things to do in Hamburg](https://www.tripadvisor.com/Search?q=Hamburg) |
-| 📖 **Lonely Planet** | [Hamburg Guide](https://www.lonelyplanet.com/search?q=Hamburg) |
+| 📍 **TripAdvisor** | [Things to do in Hamburg](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHamburg) |
+| 📖 **Lonely Planet** | [Hamburg Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHamburg) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -42,13 +42,13 @@ description: Cost of Living in Cologne
 ## 🧭 Explore & Community
 - **Top Activity**: [Cologne Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCologne%20Cathedral%20Cologne) — The tallest twin-spired church in the world.
 - **Social**: [Find Cologne on Reddit](https://www.reddit.com/r/Cologne/)
-- **Guide**: [Lonely Planet Cologne](https://www.lonelyplanet.com/search?q=Cologne)
+- **Guide**: [Lonely Planet Cologne](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCologne)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Cologne](https://www.reddit.com/r/Cologne/) |
-| 📍 **TripAdvisor** | [Things to do in Cologne](https://www.tripadvisor.com/Search?q=Cologne) |
-| 📖 **Lonely Planet** | [Cologne Guide](https://www.lonelyplanet.com/search?q=Cologne) |
+| 📍 **TripAdvisor** | [Things to do in Cologne](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCologne) |
+| 📖 **Lonely Planet** | [Cologne Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCologne) |
 
 ## 🚀 Digital Nomad Hub
 

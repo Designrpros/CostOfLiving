@@ -41,8 +41,8 @@ description: Cost of Living in Gyor
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Gyor](https://www.reddit.com/r/Gyor/) |
-| 📍 **TripAdvisor** | [Things to do in Gyor](https://www.tripadvisor.com/Search?q=Gyor) |
-| 📖 **Lonely Planet** | [Gyor Guide](https://www.lonelyplanet.com/search?q=Gyor) |
+| 📍 **TripAdvisor** | [Things to do in Gyor](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGyor) |
+| 📖 **Lonely Planet** | [Gyor Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGyor) |
 
 ## 🚀 Digital Nomad Hub
 

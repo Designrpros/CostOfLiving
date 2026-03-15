@@ -42,13 +42,13 @@ description: Cost of Living in Stavanger
 ## 🧭 Explore & Community
 - **Top Activity**: [Preikestolen Day Trip](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPreikestolen%20Day%20Trip%20Stavanger) — Hike to the world-famous Pulpit Rock viewpoint.
 - **Social**: [Find Stavanger on Reddit](https://www.reddit.com/r/Stavanger/)
-- **Guide**: [Lonely Planet Stavanger](https://www.lonelyplanet.com/search?q=Stavanger)
+- **Guide**: [Lonely Planet Stavanger](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStavanger)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Stavanger](https://www.reddit.com/r/Stavanger/) |
-| 📍 **TripAdvisor** | [Things to do in Stavanger](https://www.tripadvisor.com/Search?q=Stavanger) |
-| 📖 **Lonely Planet** | [Stavanger Guide](https://www.lonelyplanet.com/search?q=Stavanger) |
+| 📍 **TripAdvisor** | [Things to do in Stavanger](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DStavanger) |
+| 📖 **Lonely Planet** | [Stavanger Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStavanger) |
 
 ## 🚀 Digital Nomad Hub
 

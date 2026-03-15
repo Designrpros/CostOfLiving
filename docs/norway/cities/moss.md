@@ -41,8 +41,8 @@ description: Cost of Living in Moss
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Moss](https://www.reddit.com/r/Moss/) |
-| 📍 **TripAdvisor** | [Things to do in Moss](https://www.tripadvisor.com/Search?q=Moss) |
-| 📖 **Lonely Planet** | [Moss Guide](https://www.lonelyplanet.com/search?q=Moss) |
+| 📍 **TripAdvisor** | [Things to do in Moss](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMoss) |
+| 📖 **Lonely Planet** | [Moss Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMoss) |
 
 ## 🚀 Digital Nomad Hub
 

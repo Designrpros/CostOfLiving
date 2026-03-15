@@ -41,8 +41,8 @@ description: Cost of Living in Nantes
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Nantes](https://www.reddit.com/r/Nantes/) |
-| 📍 **TripAdvisor** | [Things to do in Nantes](https://www.tripadvisor.com/Search?q=Nantes) |
-| 📖 **Lonely Planet** | [Nantes Guide](https://www.lonelyplanet.com/search?q=Nantes) |
+| 📍 **TripAdvisor** | [Things to do in Nantes](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNantes) |
+| 📖 **Lonely Planet** | [Nantes Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNantes) |
 
 ## 🚀 Digital Nomad Hub
 

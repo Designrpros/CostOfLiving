@@ -41,8 +41,8 @@ description: Cost of Living in Lausanne
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lausanne](https://www.reddit.com/r/Lausanne/) |
-| 📍 **TripAdvisor** | [Things to do in Lausanne](https://www.tripadvisor.com/Search?q=Lausanne) |
-| 📖 **Lonely Planet** | [Lausanne Guide](https://www.lonelyplanet.com/search?q=Lausanne) |
+| 📍 **TripAdvisor** | [Things to do in Lausanne](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLausanne) |
+| 📖 **Lonely Planet** | [Lausanne Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLausanne) |
 
 ## 🚀 Digital Nomad Hub
 

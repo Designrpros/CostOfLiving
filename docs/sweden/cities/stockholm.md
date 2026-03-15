@@ -37,7 +37,7 @@ description: Cost of Living in Stockholm
 ## 🧭 Explore & Community
 - **Top Activity**: [Vasa Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVasa%20Museum%20Stockholm) — A perfectly preserved 17th-century warship.
 - **Social**: [Find Stockholm on Reddit](https://www.reddit.com/r/Stockholm/)
-- **Guide**: [Lonely Planet Stockholm](https://www.lonelyplanet.com/search?q=Stockholm)
+- **Guide**: [Lonely Planet Stockholm](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStockholm)
 
 ## 🚀 Digital Nomad Hub
 

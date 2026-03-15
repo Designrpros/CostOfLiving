@@ -42,13 +42,13 @@ description: Cost of Living in Aarhus
 ## 🧭 Explore & Community
 - **Top Activity**: [ARoS Art Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DARoS%20Art%20Museum%20Aarhus) — Walk through the iconic rainbow panorama on the roof.
 - **Social**: [Find Aarhus on Reddit](https://www.reddit.com/r/Aarhus/)
-- **Guide**: [Lonely Planet Aarhus](https://www.lonelyplanet.com/search?q=Aarhus)
+- **Guide**: [Lonely Planet Aarhus](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAarhus)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Aarhus](https://www.reddit.com/r/Aarhus/) |
-| 📍 **TripAdvisor** | [Things to do in Aarhus](https://www.tripadvisor.com/Search?q=Aarhus) |
-| 📖 **Lonely Planet** | [Aarhus Guide](https://www.lonelyplanet.com/search?q=Aarhus) |
+| 📍 **TripAdvisor** | [Things to do in Aarhus](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAarhus) |
+| 📖 **Lonely Planet** | [Aarhus Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAarhus) |
 
 ## 🚀 Digital Nomad Hub
 

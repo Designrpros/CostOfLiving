@@ -41,8 +41,8 @@ description: Cost of Living in Valencia
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Valencia](https://www.reddit.com/r/Valencia/) |
-| 📍 **TripAdvisor** | [Things to do in Valencia](https://www.tripadvisor.com/Search?q=Valencia) |
-| 📖 **Lonely Planet** | [Valencia Guide](https://www.lonelyplanet.com/search?q=Valencia) |
+| 📍 **TripAdvisor** | [Things to do in Valencia](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DValencia) |
+| 📖 **Lonely Planet** | [Valencia Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DValencia) |
 
 ## 🚀 Digital Nomad Hub
 

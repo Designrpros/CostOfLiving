@@ -41,8 +41,8 @@ description: Cost of Living in Lahti
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lahti](https://www.reddit.com/r/Lahti/) |
-| 📍 **TripAdvisor** | [Things to do in Lahti](https://www.tripadvisor.com/Search?q=Lahti) |
-| 📖 **Lonely Planet** | [Lahti Guide](https://www.lonelyplanet.com/search?q=Lahti) |
+| 📍 **TripAdvisor** | [Things to do in Lahti](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLahti) |
+| 📖 **Lonely Planet** | [Lahti Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLahti) |
 
 ## 🚀 Digital Nomad Hub
 

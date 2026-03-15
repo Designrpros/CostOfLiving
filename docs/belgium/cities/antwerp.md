@@ -41,8 +41,8 @@ description: Cost of Living in Antwerp
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Antwerp](https://www.reddit.com/r/Antwerp/) |
-| 📍 **TripAdvisor** | [Things to do in Antwerp](https://www.tripadvisor.com/Search?q=Antwerp) |
-| 📖 **Lonely Planet** | [Antwerp Guide](https://www.lonelyplanet.com/search?q=Antwerp) |
+| 📍 **TripAdvisor** | [Things to do in Antwerp](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAntwerp) |
+| 📖 **Lonely Planet** | [Antwerp Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAntwerp) |
 
 ## 🚀 Digital Nomad Hub
 

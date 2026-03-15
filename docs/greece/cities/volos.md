@@ -41,8 +41,8 @@ description: Cost of Living in Volos
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Volos](https://www.reddit.com/r/Volos/) |
-| 📍 **TripAdvisor** | [Things to do in Volos](https://www.tripadvisor.com/Search?q=Volos) |
-| 📖 **Lonely Planet** | [Volos Guide](https://www.lonelyplanet.com/search?q=Volos) |
+| 📍 **TripAdvisor** | [Things to do in Volos](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVolos) |
+| 📖 **Lonely Planet** | [Volos Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVolos) |
 
 ## 🚀 Digital Nomad Hub
 

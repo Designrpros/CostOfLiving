@@ -41,8 +41,8 @@ description: Cost of Living in Waterford
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Waterford](https://www.reddit.com/r/Waterford/) |
-| 📍 **TripAdvisor** | [Things to do in Waterford](https://www.tripadvisor.com/Search?q=Waterford) |
-| 📖 **Lonely Planet** | [Waterford Guide](https://www.lonelyplanet.com/search?q=Waterford) |
+| 📍 **TripAdvisor** | [Things to do in Waterford](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWaterford) |
+| 📖 **Lonely Planet** | [Waterford Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWaterford) |
 
 ## 🚀 Digital Nomad Hub
 

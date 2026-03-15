@@ -41,8 +41,8 @@ description: Cost of Living in Târgu Mureș
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Târgu Mureș](https://www.reddit.com/r/Târgu Mureș/) |
-| 📍 **TripAdvisor** | [Things to do in Târgu Mureș](https://www.tripadvisor.com/Search?q=Târgu Mureș) |
-| 📖 **Lonely Planet** | [Târgu Mureș Guide](https://www.lonelyplanet.com/search?q=Târgu Mureș) |
+| 📍 **TripAdvisor** | [Things to do in Târgu Mureș](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTârgu Mureș) |
+| 📖 **Lonely Planet** | [Târgu Mureș Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTârgu Mureș) |
 
 ## 🚀 Digital Nomad Hub
 

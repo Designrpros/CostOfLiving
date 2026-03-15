@@ -41,8 +41,8 @@ description: Cost of Living in Molde
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Molde](https://www.reddit.com/r/Molde/) |
-| 📍 **TripAdvisor** | [Things to do in Molde](https://www.tripadvisor.com/Search?q=Molde) |
-| 📖 **Lonely Planet** | [Molde Guide](https://www.lonelyplanet.com/search?q=Molde) |
+| 📍 **TripAdvisor** | [Things to do in Molde](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMolde) |
+| 📖 **Lonely Planet** | [Molde Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMolde) |
 
 ## 🚀 Digital Nomad Hub
 

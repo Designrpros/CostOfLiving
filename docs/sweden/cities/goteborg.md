@@ -41,8 +41,8 @@ description: Cost of Living in Gothenburg
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Gothenburg](https://www.reddit.com/r/Gothenburg/) |
-| 📍 **TripAdvisor** | [Things to do in Gothenburg](https://www.tripadvisor.com/Search?q=Gothenburg) |
-| 📖 **Lonely Planet** | [Gothenburg Guide](https://www.lonelyplanet.com/search?q=Gothenburg) |
+| 📍 **TripAdvisor** | [Things to do in Gothenburg](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGothenburg) |
+| 📖 **Lonely Planet** | [Gothenburg Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGothenburg) |
 
 ## 🚀 Digital Nomad Hub
 

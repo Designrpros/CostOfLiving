@@ -41,8 +41,8 @@ description: Cost of Living in Liege
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Liege](https://www.reddit.com/r/Liege/) |
-| 📍 **TripAdvisor** | [Things to do in Liege](https://www.tripadvisor.com/Search?q=Liege) |
-| 📖 **Lonely Planet** | [Liege Guide](https://www.lonelyplanet.com/search?q=Liege) |
+| 📍 **TripAdvisor** | [Things to do in Liege](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLiege) |
+| 📖 **Lonely Planet** | [Liege Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLiege) |
 
 ## 🚀 Digital Nomad Hub
 

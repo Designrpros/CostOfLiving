@@ -42,13 +42,13 @@ description: Cost of Living in Zagreb
 ## 🧭 Explore & Community
 - **Top Activity**: [Museum of Broken Relationships](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMuseum%20of%20Broken%20Relationships%20Zagreb) — A unique and emotionally touching experience.
 - **Social**: [Find Zagreb on Reddit](https://www.reddit.com/r/Zagreb/)
-- **Guide**: [Lonely Planet Zagreb](https://www.lonelyplanet.com/search?q=Zagreb)
+- **Guide**: [Lonely Planet Zagreb](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DZagreb)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Zagreb](https://www.reddit.com/r/Zagreb/) |
-| 📍 **TripAdvisor** | [Things to do in Zagreb](https://www.tripadvisor.com/Search?q=Zagreb) |
-| 📖 **Lonely Planet** | [Zagreb Guide](https://www.lonelyplanet.com/search?q=Zagreb) |
+| 📍 **TripAdvisor** | [Things to do in Zagreb](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DZagreb) |
+| 📖 **Lonely Planet** | [Zagreb Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DZagreb) |
 
 ## 🚀 Digital Nomad Hub
 

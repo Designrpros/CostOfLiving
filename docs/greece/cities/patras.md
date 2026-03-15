@@ -41,8 +41,8 @@ description: Cost of Living in Patras
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Patras](https://www.reddit.com/r/Patras/) |
-| 📍 **TripAdvisor** | [Things to do in Patras](https://www.tripadvisor.com/Search?q=Patras) |
-| 📖 **Lonely Planet** | [Patras Guide](https://www.lonelyplanet.com/search?q=Patras) |
+| 📍 **TripAdvisor** | [Things to do in Patras](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPatras) |
+| 📖 **Lonely Planet** | [Patras Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPatras) |
 
 ## 🚀 Digital Nomad Hub
 

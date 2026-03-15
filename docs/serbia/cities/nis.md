@@ -41,8 +41,8 @@ description: Cost of Living in Niš
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Niš](https://www.reddit.com/r/Niš/) |
-| 📍 **TripAdvisor** | [Things to do in Niš](https://www.tripadvisor.com/Search?q=Niš) |
-| 📖 **Lonely Planet** | [Niš Guide](https://www.lonelyplanet.com/search?q=Niš) |
+| 📍 **TripAdvisor** | [Things to do in Niš](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNiš) |
+| 📖 **Lonely Planet** | [Niš Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNiš) |
 
 ## 🚀 Digital Nomad Hub
 

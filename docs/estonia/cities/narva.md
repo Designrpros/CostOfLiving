@@ -41,8 +41,8 @@ description: Cost of Living in Narva
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Narva](https://www.reddit.com/r/Narva/) |
-| 📍 **TripAdvisor** | [Things to do in Narva](https://www.tripadvisor.com/Search?q=Narva) |
-| 📖 **Lonely Planet** | [Narva Guide](https://www.lonelyplanet.com/search?q=Narva) |
+| 📍 **TripAdvisor** | [Things to do in Narva](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNarva) |
+| 📖 **Lonely Planet** | [Narva Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNarva) |
 
 ## 🚀 Digital Nomad Hub
 

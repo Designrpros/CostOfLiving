@@ -41,8 +41,8 @@ description: Cost of Living in Timișoara
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Timișoara](https://www.reddit.com/r/Timișoara/) |
-| 📍 **TripAdvisor** | [Things to do in Timișoara](https://www.tripadvisor.com/Search?q=Timișoara) |
-| 📖 **Lonely Planet** | [Timișoara Guide](https://www.lonelyplanet.com/search?q=Timișoara) |
+| 📍 **TripAdvisor** | [Things to do in Timișoara](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTimișoara) |
+| 📖 **Lonely Planet** | [Timișoara Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTimișoara) |
 
 ## 🚀 Digital Nomad Hub
 

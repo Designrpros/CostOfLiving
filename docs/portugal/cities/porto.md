@@ -42,13 +42,13 @@ description: Cost of Living in Porto
 ## 🧭 Explore & Community
 - **Top Activity**: [Douro River Cruise](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDouro%20River%20Cruise%20Porto) — See the city's six bridges from the water.
 - **Social**: [Find Porto on Reddit](https://www.reddit.com/r/Porto/)
-- **Guide**: [Lonely Planet Porto](https://www.lonelyplanet.com/search?q=Porto)
+- **Guide**: [Lonely Planet Porto](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPorto)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Porto](https://www.reddit.com/r/Porto/) |
-| 📍 **TripAdvisor** | [Things to do in Porto](https://www.tripadvisor.com/Search?q=Porto) |
-| 📖 **Lonely Planet** | [Porto Guide](https://www.lonelyplanet.com/search?q=Porto) |
+| 📍 **TripAdvisor** | [Things to do in Porto](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPorto) |
+| 📖 **Lonely Planet** | [Porto Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPorto) |
 
 ## 🚀 Digital Nomad Hub
 

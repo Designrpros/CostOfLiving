@@ -42,13 +42,13 @@ description: Cost of Living in Copenhagen
 ## 🧭 Explore & Community
 - **Top Activity**: [Tivoli Gardens](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTivoli%20Gardens%20Copenhagen) — The world's second-oldest amusement park.
 - **Social**: [Find Copenhagen on Reddit](https://www.reddit.com/r/Copenhagen/)
-- **Guide**: [Lonely Planet Copenhagen](https://www.lonelyplanet.com/search?q=Copenhagen)
+- **Guide**: [Lonely Planet Copenhagen](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCopenhagen)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Copenhagen](https://www.reddit.com/r/Copenhagen/) |
-| 📍 **TripAdvisor** | [Things to do in Copenhagen](https://www.tripadvisor.com/Search?q=Copenhagen) |
-| 📖 **Lonely Planet** | [Copenhagen Guide](https://www.lonelyplanet.com/search?q=Copenhagen) |
+| 📍 **TripAdvisor** | [Things to do in Copenhagen](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCopenhagen) |
+| 📖 **Lonely Planet** | [Copenhagen Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCopenhagen) |
 
 ## 🚀 Digital Nomad Hub
 

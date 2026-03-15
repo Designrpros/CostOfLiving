@@ -41,8 +41,8 @@ description: Cost of Living in Drammen
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Drammen](https://www.reddit.com/r/Drammen/) |
-| 📍 **TripAdvisor** | [Things to do in Drammen](https://www.tripadvisor.com/Search?q=Drammen) |
-| 📖 **Lonely Planet** | [Drammen Guide](https://www.lonelyplanet.com/search?q=Drammen) |
+| 📍 **TripAdvisor** | [Things to do in Drammen](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDrammen) |
+| 📖 **Lonely Planet** | [Drammen Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDrammen) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -42,13 +42,13 @@ description: Cost of Living in Gdańsk
 ## 🧭 Explore & Community
 - **Top Activity**: [The Crane](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Crane%20Gdansk) — The iconic medieval port crane and landmark.
 - **Social**: [Find Gdansk on Reddit](https://www.reddit.com/r/Gdansk/)
-- **Guide**: [Lonely Planet Gdansk](https://www.lonelyplanet.com/search?q=Gdansk)
+- **Guide**: [Lonely Planet Gdansk](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGdansk)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Gdańsk](https://www.reddit.com/r/Gdańsk/) |
-| 📍 **TripAdvisor** | [Things to do in Gdańsk](https://www.tripadvisor.com/Search?q=Gdańsk) |
-| 📖 **Lonely Planet** | [Gdańsk Guide](https://www.lonelyplanet.com/search?q=Gdańsk) |
+| 📍 **TripAdvisor** | [Things to do in Gdańsk](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGdańsk) |
+| 📖 **Lonely Planet** | [Gdańsk Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGdańsk) |
 
 ## 🚀 Digital Nomad Hub
 

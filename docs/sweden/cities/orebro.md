@@ -41,8 +41,8 @@ description: Cost of Living in Örebro
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Örebro](https://www.reddit.com/r/Örebro/) |
-| 📍 **TripAdvisor** | [Things to do in Örebro](https://www.tripadvisor.com/Search?q=Örebro) |
-| 📖 **Lonely Planet** | [Örebro Guide](https://www.lonelyplanet.com/search?q=Örebro) |
+| 📍 **TripAdvisor** | [Things to do in Örebro](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DÖrebro) |
+| 📖 **Lonely Planet** | [Örebro Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DÖrebro) |
 
 ## 🚀 Digital Nomad Hub
 

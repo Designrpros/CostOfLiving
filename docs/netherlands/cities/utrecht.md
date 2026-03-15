@@ -41,8 +41,8 @@ description: Cost of Living in Utrecht
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Utrecht](https://www.reddit.com/r/Utrecht/) |
-| 📍 **TripAdvisor** | [Things to do in Utrecht](https://www.tripadvisor.com/Search?q=Utrecht) |
-| 📖 **Lonely Planet** | [Utrecht Guide](https://www.lonelyplanet.com/search?q=Utrecht) |
+| 📍 **TripAdvisor** | [Things to do in Utrecht](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUtrecht) |
+| 📖 **Lonely Planet** | [Utrecht Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DUtrecht) |
 
 ## 🚀 Digital Nomad Hub
 

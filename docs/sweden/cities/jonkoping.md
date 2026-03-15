@@ -41,8 +41,8 @@ description: Cost of Living in Jönköping
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Jönköping](https://www.reddit.com/r/Jönköping/) |
-| 📍 **TripAdvisor** | [Things to do in Jönköping](https://www.tripadvisor.com/Search?q=Jönköping) |
-| 📖 **Lonely Planet** | [Jönköping Guide](https://www.lonelyplanet.com/search?q=Jönköping) |
+| 📍 **TripAdvisor** | [Things to do in Jönköping](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DJönköping) |
+| 📖 **Lonely Planet** | [Jönköping Guide](https://tp.media.r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DJönköping) |
 
 ## 🚀 Digital Nomad Hub
 
