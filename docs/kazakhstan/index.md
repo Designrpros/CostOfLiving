@@ -5,7 +5,7 @@ description: Complete cost of living guide for Kazakhstan (European)
 
 # 🇰🇿 Kazakhstan (European)
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=50.0%2C45.0%2C55.0%2C50.0&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

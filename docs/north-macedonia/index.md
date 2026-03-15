@@ -5,7 +5,7 @@ description: Complete cost of living guide for North Macedonia
 
 # 🇲🇰 North Macedonia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.4%2C40.8%2C23.1%2C42.4&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

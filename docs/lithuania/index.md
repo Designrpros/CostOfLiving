@@ -5,7 +5,7 @@ description: Complete cost of living guide for Lithuania
 
 # 🇱🇹 Lithuania
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.9%2C53.8%2C26.9%2C56.5&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

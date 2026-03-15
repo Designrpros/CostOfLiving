@@ -5,7 +5,7 @@ description: Complete cost of living guide for Bosnia and Herzegovina
 
 # 🇧🇦 Bosnia and Herzegovina
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=15.7%2C42.5%2C19.7%2C45.3&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

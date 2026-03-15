@@ -5,7 +5,7 @@ description: Complete cost of living guide for Russia (European)
 
 # 🇷🇺 Russia (European)
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=30.0%2C50.0%2C60.0%2C70.0&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

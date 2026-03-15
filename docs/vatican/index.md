@@ -5,7 +5,7 @@ description: Complete cost of living guide for Vatican City
 
 # 🇻🇦 Vatican City
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.45%2C41.90%2C12.46%2C41.91&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

@@ -5,7 +5,7 @@ description: Complete cost of living guide for Armenia
 
 # 🇦🇲 Armenia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=43.4%2C38.8%2C46.6%2C41.3&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 
