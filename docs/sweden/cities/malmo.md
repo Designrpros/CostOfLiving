@@ -15,7 +15,7 @@ description: Cost of Living in Malmö
 | Meal | 12€ | ~132 kr |
 | Beer (0.5L) | 6€ | ~66 kr |
 | Cappuccino | 3.50€ | ~39 kr |
-| Transport | 3.20€ | ~35 kr |
+| Transport | 2.94€ | ~35 kr |
 | Cinema | 11€ | ~121 kr |
 
 ## 📍 Google Maps Search Hub

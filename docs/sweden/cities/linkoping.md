@@ -15,7 +15,7 @@ description: Cost of Living in Linköping
 | Meal | 11€ | ~121 kr |
 | Beer (0.5L) | 5.50€ | ~61 kr |
 | Cappuccino | 3.50€ | ~39 kr |
-| Transport | 3€ | ~33 kr |
+| Transport | 3.04€ | ~33 kr |
 | Cinema | 10€ | ~110 kr |
 
 ## 📍 Google Maps Search Hub

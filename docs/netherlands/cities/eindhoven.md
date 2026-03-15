@@ -15,7 +15,7 @@ description: Cost of Living in Eindhoven
 | Meal | 13€ | ~13€ |
 | Beer (0.5L) | 4€ | ~4€ |
 | Cappuccino | 3€ | ~3€ |
-| Transport | 3€ | ~3€ |
+| Transport | 3.50€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
 ## 📍 Google Maps Search Hub

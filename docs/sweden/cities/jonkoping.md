@@ -15,7 +15,7 @@ description: Cost of Living in Jönköping
 | Meal | 11€ | ~121 kr |
 | Beer (0.5L) | 5€ | ~55 kr |
 | Cappuccino | 3€ | ~33 kr |
-| Transport | 3€ | ~33 kr |
+| Transport | 3.68€ | ~33 kr |
 | Cinema | 10€ | ~110 kr |
 
 ## 📍 Google Maps Search Hub

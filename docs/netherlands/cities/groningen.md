@@ -15,7 +15,7 @@ description: Cost of Living in Groningen
 | Meal | 13€ | ~13€ |
 | Beer (0.5L) | 3.50€ | ~3.50€ |
 | Cappuccino | 3€ | ~3€ |
-| Transport | 3€ | ~3€ |
+| Transport | 3.75€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
 ## 📍 Google Maps Search Hub

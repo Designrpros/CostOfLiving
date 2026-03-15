@@ -15,7 +15,7 @@ description: Cost of Living in Osijek
 | Meal | 8€ | ~8€ |
 | Beer (0.5L) | 3€ | ~3€ |
 | Cappuccino | 2€ | ~2€ |
-| Transport | 1.20€ | ~1.20€ |
+| Transport | 1.46€ | ~1.20€ |
 | Cinema | 5€ | ~5€ |
 
 ## 📍 Google Maps Search Hub

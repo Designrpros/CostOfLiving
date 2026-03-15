@@ -15,7 +15,7 @@ description: Cost of Living in Utrecht
 | Meal | 14€ | ~14€ |
 | Beer (0.5L) | 4€ | ~4€ |
 | Cappuccino | 3.50€ | ~3.50€ |
-| Transport | 3€ | ~3€ |
+| Transport | 3.20€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
 ## 📍 Google Maps Search Hub

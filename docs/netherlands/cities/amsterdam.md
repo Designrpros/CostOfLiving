@@ -15,7 +15,7 @@ description: Cost of Living in Amsterdam
 | Meal | 18€ | ~18€ |
 | Beer (0.5L) | 5€ | ~5€ |
 | Cappuccino | 4€ | ~4€ |
-| Transport | 3.50€ | ~3.50€ |
+| Transport | 3.40€ | ~3.50€ |
 | Cinema | 12€ | ~12€ |
 
 ## 📍 Google Maps Search Hub

@@ -15,7 +15,7 @@ description: Cost of Living in Dubrovnik
 | Meal | 14€ | ~14€ |
 | Beer (0.5L) | 4.50€ | ~4.50€ |
 | Cappuccino | 3€ | ~3€ |
-| Transport | 1.50€ | ~1.50€ |
+| Transport | 2.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
 
 ## 📍 Google Maps Search Hub

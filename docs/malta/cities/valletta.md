@@ -15,7 +15,7 @@ description: Cost of Living in Valletta
 | Meal | 15€ | ~15€ |
 | Beer (0.5L) | 4€ | ~4€ |
 | Cappuccino | 3€ | ~3€ |
-| Transport | 1.50€ | ~1.50€ |
+| Transport | 2.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
 ## 📍 Google Maps Search Hub

@@ -15,7 +15,7 @@ description: Cost of Living in Stockholm
 | Meal | 15€ | ~165 kr |
 | Beer (0.5L) | 7€ | ~77 kr |
 | Cappuccino | 4.50€ | ~50 kr |
-| Transport | 4€ | ~44 kr |
+| Transport | 3.96€ | ~44 kr |
 | Cinema | 14€ | ~154 kr |
 
 ## 📍 Google Maps Search Hub

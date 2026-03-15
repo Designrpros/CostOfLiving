@@ -15,7 +15,7 @@ description: Cost of Living in Trondheim
 | Meal | 17€ | ~195 kr |
 | Beer (0.5L) | 8.50€ | ~98 kr |
 | Cappuccino | 4€ | ~46 kr |
-| Transport | 3.80€ | ~44 kr |
+| Transport | 4.03€ | ~44 kr |
 | Cinema | 12€ | ~138 kr |
 
 ## 📍 Google Maps Search Hub

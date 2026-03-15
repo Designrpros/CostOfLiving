@@ -15,7 +15,7 @@ description: Cost of Living in Rotterdam
 | Meal | 15€ | ~15€ |
 | Beer (0.5L) | 4.50€ | ~4.50€ |
 | Cappuccino | 3.50€ | ~3.50€ |
-| Transport | 3€ | ~3€ |
+| Transport | 4.00€ | ~3€ |
 | Cinema | 11€ | ~11€ |
 
 ## 📍 Google Maps Search Hub

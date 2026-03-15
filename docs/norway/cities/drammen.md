@@ -15,7 +15,7 @@ description: Cost of Living in Drammen
 | Meal | 15€ | ~172 kr |
 | Beer (0.5L) | 8€ | ~92 kr |
 | Cappuccino | 3.50€ | ~40 kr |
-| Transport | 3.80€ | ~44 kr |
+| Transport | 2.77€ | ~44 kr |
 | Cinema | 11€ | ~126 kr |
 
 ## 📍 Google Maps Search Hub

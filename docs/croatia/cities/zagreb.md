@@ -15,7 +15,7 @@ description: Cost of Living in Zagreb
 | Meal | 12€ | ~12€ |
 | Beer (0.5L) | 4€ | ~4€ |
 | Cappuccino | 2.50€ | ~2.50€ |
-| Transport | 1.50€ | ~1.50€ |
+| Transport | 0.53€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
 ## 📍 Google Maps Search Hub

@@ -15,7 +15,7 @@ description: Cost of Living in Berlin
 | Meal | 12€ | ~12€ |
 | Beer (0.5L) | 3.50€ | ~3.50€ |
 | Cappuccino | 3.50€ | ~3.50€ |
-| Transport | 2.90€ | ~2.90€ |
+| Transport | 3.80€ | ~2.90€ |
 | Cinema | 10€ | ~10€ |
 
 ## 📍 Google Maps Search Hub

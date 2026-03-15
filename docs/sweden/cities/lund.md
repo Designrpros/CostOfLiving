@@ -15,7 +15,7 @@ description: Cost of Living in Lund
 | Meal | 12€ | ~132 kr |
 | Beer (0.5L) | 5.50€ | ~61 kr |
 | Cappuccino | 3.50€ | ~39 kr |
-| Transport | 3€ | ~33 kr |
+| Transport | 2.94€ | ~33 kr |
 | Cinema | 11€ | ~121 kr |
 
 ## 📍 Google Maps Search Hub

@@ -15,7 +15,7 @@ description: Cost of Living in Rijeka
 | Meal | 10€ | ~10€ |
 | Beer (0.5L) | 3.50€ | ~3.50€ |
 | Cappuccino | 2.20€ | ~2.20€ |
-| Transport | 1.30€ | ~1.30€ |
+| Transport | 2.00€ | ~1.30€ |
 | Cinema | 6€ | ~6€ |
 
 ## 📍 Google Maps Search Hub

@@ -15,7 +15,7 @@ description: Cost of Living in Cologne
 | Meal | 12€ | ~12€ |
 | Beer (0.5L) | 3€ | ~3€ |
 | Cappuccino | 3.50€ | ~3.50€ |
-| Transport | 2.80€ | ~2.80€ |
+| Transport | 3.39€ | ~2.80€ |
 | Cinema | 10€ | ~10€ |
 
 ## 📍 Google Maps Search Hub

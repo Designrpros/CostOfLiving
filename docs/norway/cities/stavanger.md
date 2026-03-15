@@ -15,7 +15,7 @@ description: Cost of Living in Stavanger
 | Meal | 20€ | ~230 kr |
 | Beer (0.5L) | 10€ | ~115 kr |
 | Cappuccino | 4.50€ | ~52 kr |
-| Transport | 4€ | ~46 kr |
+| Transport | 4.03€ | ~46 kr |
 | Cinema | 13€ | ~149 kr |
 
 ## 📍 Google Maps Search Hub

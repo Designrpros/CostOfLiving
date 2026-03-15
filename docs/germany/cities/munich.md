@@ -15,7 +15,7 @@ description: Cost of Living in Munich
 | Meal | 15€ | ~15€ |
 | Beer (0.5L) | 4€ | ~4€ |
 | Cappuccino | 4€ | ~4€ |
-| Transport | 3€ | ~3€ |
+| Transport | 4.10€ | ~3€ |
 | Cinema | 12€ | ~12€ |
 
 ## 📍 Google Maps Search Hub

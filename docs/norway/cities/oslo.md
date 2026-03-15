@@ -15,7 +15,7 @@ description: Cost of Living in Oslo
 | Meal | 22€ | ~253 kr |
 | Beer (0.5L) | 10€ | ~115 kr |
 | Cappuccino | 4.60€ | ~53 kr |
-| Transport | 3.80€ | ~44 kr |
+| Transport | 3.94€ | ~44 kr |
 | Cinema | 14€ | ~161 kr |
 
 ## 📍 Google Maps Search Hub

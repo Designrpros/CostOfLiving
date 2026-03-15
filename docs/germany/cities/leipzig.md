@@ -15,7 +15,7 @@ description: Cost of Living in Leipzig
 | Meal | 10€ | ~10€ |
 | Beer (0.5L) | 3€ | ~3€ |
 | Cappuccino | 3€ | ~3€ |
-| Transport | 2.50€ | ~2.50€ |
+| Transport | 3.50€ | ~2.50€ |
 | Cinema | 9€ | ~9€ |
 
 ## 📍 Google Maps Search Hub

@@ -14,7 +14,7 @@ description: Cost of Living in Sliema
 | Rent (center) | 1,000€ | ~1,000€ |
 | Meal | 12€ | ~12€ |
 | Beer (0.5L) | 3.50€ | ~3.50€ |
-| Cappuccino | 2.80€ | ~2| Transport | .80€ |
+| Cappuccino | 2.80€ | ~2| Transport | 2.00€ |
 1.50€ | ~1.50€ |
 | Cinema | 9€ | ~9€ |
 

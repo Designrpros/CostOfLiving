@@ -15,7 +15,7 @@ description: Cost of Living in Hamburg
 | Meal | 13€ | ~13€ |
 | Beer (0.5L) | 4€ | ~4€ |
 | Cappuccino | 3.80€ | ~3.80€ |
-| Transport | 3€ | ~3€ |
+| Transport | 3.81€ | ~3€ |
 | Cinema | 11€ | ~11€ |
 
 ## 📍 Google Maps Search Hub

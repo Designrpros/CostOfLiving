@@ -15,7 +15,7 @@ description: Cost of Living in Frankfurt
 | Meal | 14€ | ~14€ |
 | Beer (0.5L) | 3.50€ | ~3.50€ |
 | Cappuccino | 3.80€ | ~3.80€ |
-| Transport | 3€ | ~3€ |
+| Transport | 3.80€ | ~3€ |
 | Cinema | 11€ | ~11€ |
 
 ## 📍 Google Maps Search Hub
