@@ -1,0 +1,59 @@
+---
+title: 🇷🇺 Russia (European)
+description: Complete cost of living guide for Russia (European)
+---
+
+# 🇷🇺 Russia (European)
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+
+## 📊 Cost of Living
+
+| Category | Price | RUB |
+|----------|-------|-----|
+| Rent (city center) | 600€ | ~600 RUB |
+| Meal | 8€ | ~8 RUB |
+| Beer (0.5L) | 2€ | ~2 RUB |
+| Cappuccino | 2.50€ | ~2.50 RUB |
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | Eastern Europe |
+| **Stay Rules** | 90-day visa-free for most EEA citizens. |
+| **Healthcare** | Travel Insurance recommended. |
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Privet |
+| **Thank you** | Spasibo |
+| **Yes/No** | Da / Net |
+| **How are you?** | Kak dela? |
+| **Excuse me** | Izvinite |
+| **Check, please!** | Schot, pozhaluysta! |
+| **Do you speak English?** | Vy govorite po-angliyski? |
+
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Moscow](cities/moscow.md) | 600€ |
+| [Saint Petersburg](cities/saint-petersburg.md) | 600€ |
+| [Kazan](cities/kazan.md) | 600€ |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Numbeo](https://www.numbeo.com) | Global cost data |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [LinkedIn](https://www.linkedin.com) | Professional network |
+
+*Data: March 2026*

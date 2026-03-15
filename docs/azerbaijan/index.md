@@ -1,0 +1,59 @@
+---
+title: 🇦🇿 Azerbaijan
+description: Complete cost of living guide for Azerbaijan
+---
+
+# 🇦🇿 Azerbaijan
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0%2C0%2C0%2C0&layer=mapnik"></iframe>
+
+## 📊 Cost of Living
+
+| Category | Price | AZN |
+|----------|-------|-----|
+| Rent (city center) | 450€ | ~450 AZN |
+| Meal | 6€ | ~6 AZN |
+| Beer (0.5L) | 1.50€ | ~1.50 AZN |
+| Cappuccino | 2€ | ~2 AZN |
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | Caucasus |
+| **Stay Rules** | 90-day visa-free for most EEA citizens. |
+| **Healthcare** | Travel Insurance recommended. |
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Salam |
+| **Thank you** | Sağ olun |
+| **Yes/No** | Bəli / Xeyr |
+| **How are you?** | Necəsiniz? |
+| **Excuse me** | Bağışlayın |
+| **Check, please!** | Hesabı, zəhmət olmasa! |
+| **Do you speak English?** | İngiliscə danışırsınız? |
+
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Baku](cities/baku.md) | 450€ |
+| [Ganja](cities/ganja.md) | 450€ |
+| [Sumqayit](cities/sumqayit.md) | 450€ |
+
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Numbeo](https://www.numbeo.com) | Global cost data |
+
+### 💼 Jobs
+| Link | Description |
+|------|-------------|
+| [LinkedIn](https://www.linkedin.com) | Professional network |
+
+*Data: March 2026*

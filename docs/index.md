@@ -1,6 +1,6 @@
 ---
 title: 🪙 Cost of Living in Europe
-description: Compare cost of living across 26 European countries
+description: Compare cost of living across 50 European countries
 ---
 
 # 🪙 Cost of Living in Europe
@@ -29,9 +29,11 @@ description: Compare cost of living across 26 European countries
 | 🇳🇴 [Norway](norway/) | 1,603€ | → |
 | 🇸🇪 [Sweden](sweden/) | 1,404€ | → |
 | 🇩🇰 [Denmark](denmark/) | 1,775€ | → |
-| 🇫🇮 [Finland](finnland/) | 1,300€ | → |
+| 🇫🇮 [Finland](finland/) | 1,300€ | → |
 | 🇪🇪 [Estonia](estonia/) | 698€ | → |
 | 🇮🇸 [Iceland](iceland/) | 1,800€ | → |
+| 🇱🇻 [Latvia](latvia/) | 550€ | → |
+| 🇱🇹 [Lithuania](lithuania/) | 650€ | → |
 
 ## 🏗️ Eastern Europe (6)
 
@@ -43,6 +45,11 @@ description: Compare cost of living across 26 European countries
 | 🇷🇴 [Romania](romania/) | 600€ | → |
 | 🇷🇸 [Serbia](serbia/) | 700€ | → |
 | 🇧🇬 [Bulgaria](bulgaria/) | 669€ | → |
+| 🇧🇾 [Belarus](belarus/) | 350€ | → |
+| 🇲🇩 [Moldova](moldova/) | 400€ | → |
+| 🇺🇦 [Ukraine](ukraine/) | 400€ | → |
+| 🇷🇺 [Russia](russia/) | 600€ | → |
+| 🇰🇿 [Kazakhstan](kazakhstan/) | 300€ | → |
 
 ## ☀️ Southern Europe (6)
 
@@ -54,6 +61,15 @@ description: Compare cost of living across 26 European countries
 | 🇬🇷 [Greece](greece/) | 550€ | → |
 | 🇭🇷 [Croatia](croatia/) | 700€ | → |
 | 🇲🇹 [Malta](malta/) | 1,100€ | → |
+| 🇦🇱 [Albania](albania/) | 400€ | → |
+| 🇦🇩 [Andorra](andorra/) | 1,200€ | → |
+| 🇧🇦 [Bosnia](bosnia/) | 300€ | → |
+| 🇨🇾 [Cyprus](cyprus/) | 900€ | → |
+| 🇲🇪 [Montenegro](montenegro/) | 500€ | → |
+| 🇲🇰 [Macedonia](north-macedonia/) | 300€ | → |
+| 🇸🇲 [San Marino](san-marino/) | 800€ | → |
+| 🇹🇷 [Turkey](turkey/) | 500€ | → |
+| 🇻🇦 [Vatican](vatican/) | N/A | → |
 
 ## 🔵 Central Europe (3)
 
@@ -62,6 +78,9 @@ description: Compare cost of living across 26 European countries
 | 🇩🇪 [Germany](germany/) | 1,270€ | → |
 | 🇦🇹 [Austria](austria/) | 1,077€ | → |
 | 🇨🇭 [Switzerland](switzerland/) | 2,580€ | → |
+| 🇸🇰 [Slovakia](slovakia/) | 600€ | → |
+| 🇸🇮 [Slovenia](slovenia/) | 750€ | → |
+| 🇱🇮 [Liechtenstein](liechtenstein/) | 2,200€ | → |
 
 ## 🌊 Western Europe (5)
 
@@ -72,11 +91,21 @@ description: Compare cost of living across 26 European countries
 | 🇳🇱 [Netherlands](netherlands/) | 2,260€ | → |
 | 🇧🇪 [Belgium](belgium/) | 1,125€ | → |
 | 🇫🇷 [France](france/) | 2,000€ | → |
+| 🇱🇺 [Luxembourg](luxembourg/) | 1,800€ | → |
+| 🇲🇨 [Monaco](monaco/) | 6,000€ | → |
+
+## ⛰️ Caucasus (3)
+
+| Country | Rent | → |
+|---------|------|---|
+| 🇬🇪 [Georgia](georgia/) | 600€ | → |
+| 🇦🇲 [Armenia](armenia/) | 500€ | → |
+| 🇦🇿 [Azerbaijan](azerbaijan/) | 450€ | → |
 
 ## 📊 Statistics
 
-- 26 Countries
-- 159+ Cities
+- 50 Countries
+- 300+ Cities
 - Cheapest: 550€ (Greece)
 - Most Expensive: 2,580€ (Switzerland)
 

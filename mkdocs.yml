@@ -29,9 +29,11 @@ nav:
     - norway/index.md
     - sweden/index.md
     - denmark/index.md
+    - finland/index.md
     - estonia/index.md
     - iceland/index.md
-    - finnland/index.md
+    - latvia/index.md
+    - lithuania/index.md
   - 🏗️ Eastern Europe:
     - poland/index.md
     - czech/index.md
@@ -39,6 +41,11 @@ nav:
     - romania/index.md
     - serbia/index.md
     - bulgaria/index.md
+    - belarus/index.md
+    - moldova/index.md
+    - ukraine/index.md
+    - russia/index.md
+    - kazakhstan/index.md
   - ☀️ Southern Europe:
     - spain/index.md
     - portugal/index.md
@@ -46,16 +53,34 @@ nav:
     - greece/index.md
     - croatia/index.md
     - malta/index.md
+    - albania/index.md
+    - andorra/index.md
+    - bosnia/index.md
+    - cyprus/index.md
+    - montenegro/index.md
+    - north-macedonia/index.md
+    - san-marino/index.md
+    - turkey/index.md
+    - vatican/index.md
   - 🔵 Central Europe:
     - germany/index.md
     - austria/index.md
     - switzerland/index.md
+    - slovakia/index.md
+    - slovenia/index.md
+    - liechtenstein/index.md
   - 🌊 Western Europe:
     - uk/index.md
     - ireland/index.md
     - netherlands/index.md
     - belgium/index.md
     - france/index.md
+    - luxembourg/index.md
+    - monaco/index.md
+  - ⛰️ Caucasus:
+    - georgia/index.md
+    - armenia/index.md
+    - azerbaijan/index.md
   - 💰 Affiliate: affiliate.md
   - 🎒 Backpack: backpack/index.md
   - 📰 Blog: blog/index.md
