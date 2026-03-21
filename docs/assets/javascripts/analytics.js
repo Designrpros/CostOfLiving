@@ -1,13 +1,13 @@
 // Google Analytics
 var script = document.createElement('script');
 script.async = true;
-script.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCYT87ZMVZ';
+script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HXPB1VVZZW';
 document.head.appendChild(script);
 
 window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
 gtag('js', new Date());
-gtag('config', 'G-KCYT87ZMVZ');
+gtag('config', 'G-HXPB1VVZZW');
 
 // Travelpayouts Verification
 (function () {
