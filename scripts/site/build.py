@@ -181,6 +181,31 @@ def inline_md(text, src):
     return re.sub(r"^<p>(.*)</p>$", r"\1", render_md(text, src).strip(), flags=re.S)
 
 
+# Links that earn a commission: Travelpayouts' redirects and referral codes.
+AFFILIATE = re.compile(r"https?://(tp\.media/r\?|www\.airbnb\.com/c/|[^\"]*/referral/)")
+DISCLOSURE = ('<p class="disclosure">Some links {where} are affiliate links: if you book through them, '
+              "costofliving.no may earn a commission, at no extra cost to you.</p>")
+
+
+def mark_affiliates(content, url):
+    """rel="sponsored" on every link that earns a commission, and a note in each card or article that has one."""
+    def sponsor(m):
+        attrs = re.sub(r'\s*rel="[^"]*"', "", m.group(1))
+        return f'<a rel="sponsored noopener"{attrs}>' if AFFILIATE.search(attrs) else m.group(0)
+
+    content = re.sub(r"<a(\s[^>]*)>", sponsor, content)
+    if url == "/affiliate/":  # the page says so in its first line
+        return content
+    content = re.sub(r'(<section class="card[^"]*">.*?)(\n?\s*</section>)',
+                     lambda m: m.group(1) + ("\n      " + DISCLOSURE.format(where="in this section")
+                                             if 'rel="sponsored' in m.group(1) else "") + m.group(2),
+                     content, flags=re.S)
+    if '<article class="prose">' in content and 'rel="sponsored' in content:
+        content = content.replace('<article class="prose">',
+                                  '<article class="prose">\n' + DISCLOSURE.format(where="on this page"), 1)
+    return content
+
+
 # MARK: Cards
 
 def card(span, kicker, title, body, sub="", extra_class=""):
@@ -425,7 +450,8 @@ def country_lede(slug, name):
 
 
 def page(title, description, url, content):
-    return LAYOUT.substitute(title=e(title), description=e(description), canonical=SITE + quote(url), content=content,
+    return LAYOUT.substitute(title=e(title), description=e(description), canonical=SITE + quote(url),
+                             content=mark_affiliates(content, url),
                              year=date.today().year)
 
 

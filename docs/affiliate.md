@@ -24,7 +24,7 @@ description: Services we recommend - and earn commission from
 
 | Service | Description | Commission |
 |----------|-------------|----------|
-| [Skyscanner](https://tp.media/r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | ✈️ Flight comparison | ~2% |
+| [Aviasales](https://tp.media/r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | ✈️ Flight comparison | ~2% |
 | [Rentalcars.com](https://tp.media/r?marker=710853&p=136&u=https%3A%2F%2Fwww.rentalcars.com) | Car rentals | ~5% |
 | [Discover Cars](https://tp.media/r?marker=710853&p=1630&u=https%3A%2F%2Fwww.discovercars.com) | Car rentals | ~5% |
 | [FlixBus](https://tp.media/r?marker=710853&p=323&u=https%3A%2F%2Fwww.flixbus.com) | 🚌 Budget bus travel | ~2% |

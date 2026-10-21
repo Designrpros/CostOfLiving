@@ -81,7 +81,7 @@ When planning an extended stay abroad, there are three critical legal deadlines 
 
 | Service | Description |
 |----------|-------------|
-| [Skyscanner](https://tp.media/r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | ✈️ Flight price comparison |
+| [Aviasales](https://tp.media/r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | ✈️ Flight price comparison |
 | [Rome2Rio](https://www.rome2rio.com) | 🚌 Transport route planner |
 | [FlixBus](https://tp.media/r?marker=710853&p=323&u=https%3A%2F%2Fwww.flixbus.com) | 🚌 Budget bus travel |
 | [Rail Europe](https://tp.media/r?marker=710853&p=276&u=https%3A%2F%2Fwww.raileurope.com) | 🚂 European train tickets |
