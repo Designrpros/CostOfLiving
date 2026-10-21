@@ -1,0 +1,31 @@
+<main class="wrap">
+  <section class="hero">
+    <div class="crumbs">Europe · $year_label</div>
+    <h1>Is it expensive?</h1>
+    <p class="lede">How much more — or less — everyday spending costs in $count European countries than the EU average, from Eurostat's price levels, the World Bank and national rent statistics. Open data, credited on every page.</p>
+  </section>
+  <div class="grid">
+    <section class="card span-12 rank">
+      <div class="kicker">Every country, cheapest first</div>
+      <h2>Household prices against the EU average</h2>
+      <p class="sub">EU average = 100. Tap a country for prices by category, its neighbours and its cities.</p>
+$rank_rows
+      <div class="legend"><span><i></i>EU average</span><span>Eurostat and World Bank, $year_label</span></div>
+      $no_data
+    </section>
+    <section class="card span-12">
+      <div class="kicker">By region</div>
+      <h2>Find a country</h2>
+      <div class="regions" style="margin-top:16px">
+$regions
+      </div>
+    </section>
+    <section class="card span-12">
+      <div class="kicker">Guides</div>
+      <h2>Living and travelling in Europe</h2>
+      <div class="cities" style="margin-top:16px">
+$guides
+      </div>
+    </section>
+  </div>
+</main>
