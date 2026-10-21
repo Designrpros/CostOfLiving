@@ -42,7 +42,7 @@ description: Cost of Living in Lisbon
 ## 🧭 Explore & Community
 - **Top Activity**: [Belém Tower](https://www.tripadvisor.com/Search?q=Belém Tower Lisbon) — Historic fortress on the Tagus riverfront.
 - **Social**: [Find Lisbon on Reddit](https://www.reddit.com/r/Lisbon/)
-- **Activities**: [Viator Tours in Lisbon](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DLisbon)
+- **Activities**: [Viator Tours in Lisbon](https://www.viator.com/searchResults/all?text=Lisbon)
 
 | Platform | Link |
 |----------|------|

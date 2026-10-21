@@ -42,7 +42,7 @@ description: Cost of Living in Split
 ## 🧭 Explore & Community
 - **Top Activity**: [Diocletian's Palace](https://www.tripadvisor.com/Search?q=Diocletian's Palace Split) — Living history inside a Roman Emperor's home.
 - **Social**: [Find Split on Reddit](https://www.reddit.com/r/Split/)
-- **Activities**: [Viator Tours in Split](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DSplit)
+- **Activities**: [Viator Tours in Split](https://www.viator.com/searchResults/all?text=Split)
 
 | Platform | Link |
 |----------|------|

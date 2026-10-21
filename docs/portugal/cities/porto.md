@@ -42,7 +42,7 @@ description: Cost of Living in Porto
 ## 🧭 Explore & Community
 - **Top Activity**: [Douro River Cruise](https://www.tripadvisor.com/Search?q=Douro River Cruise Porto) — See the city's six bridges from the water.
 - **Social**: [Find Porto on Reddit](https://www.reddit.com/r/Porto/)
-- **Activities**: [Viator Tours in Porto](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DPorto)
+- **Activities**: [Viator Tours in Porto](https://www.viator.com/searchResults/all?text=Porto)
 
 | Platform | Link |
 |----------|------|

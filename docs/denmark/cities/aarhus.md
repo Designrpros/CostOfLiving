@@ -42,7 +42,7 @@ description: Cost of Living in Aarhus
 ## 🧭 Explore & Community
 - **Top Activity**: [ARoS Art Museum](https://www.tripadvisor.com/Search?q=ARoS Art Museum Aarhus) — Walk through the iconic rainbow panorama on the roof.
 - **Social**: [Find Aarhus on Reddit](https://www.reddit.com/r/Aarhus/)
-- **Activities**: [Viator Tours in Aarhus](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DAarhus)
+- **Activities**: [Viator Tours in Aarhus](https://www.viator.com/searchResults/all?text=Aarhus)
 
 | Platform | Link |
 |----------|------|

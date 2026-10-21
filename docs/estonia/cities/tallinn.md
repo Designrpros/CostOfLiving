@@ -42,7 +42,7 @@ description: Cost of Living in Tallinn
 ## 🧭 Explore & Community
 - **Top Activity**: [Old Town Medieval Walk](https://www.tripadvisor.com/Search?q=Old Town Medieval Walk Tallinn) — One of the best-preserved medieval towns in Europe.
 - **Social**: [Find Tallinn on Reddit](https://www.reddit.com/r/Tallinn/)
-- **Activities**: [Viator Tours in Tallinn](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DTallinn)
+- **Activities**: [Viator Tours in Tallinn](https://www.viator.com/searchResults/all?text=Tallinn)
 
 | Platform | Link |
 |----------|------|

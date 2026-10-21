@@ -42,7 +42,7 @@ description: Cost of Living in Amsterdam
 ## 🧭 Explore & Community
 - **Top Activity**: [Anne Frank House](https://www.tripadvisor.com/Search?q=Anne Frank House Amsterdam) — A powerful and moving piece of living history.
 - **Social**: [Find Amsterdam on Reddit](https://www.reddit.com/r/Amsterdam/)
-- **Activities**: [Viator Tours in Amsterdam](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DAmsterdam)
+- **Activities**: [Viator Tours in Amsterdam](https://www.viator.com/searchResults/all?text=Amsterdam)
 
 | Platform | Link |
 |----------|------|

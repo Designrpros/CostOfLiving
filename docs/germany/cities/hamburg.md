@@ -42,7 +42,7 @@ description: Cost of Living in Hamburg
 ## 🧭 Explore & Community
 - **Top Activity**: [Elbphilharmonie](https://www.tripadvisor.com/Search?q=Elbphilharmonie Hamburg) — Modern architectural masterpiece overlooking the harbor.
 - **Social**: [Find Hamburg on Reddit](https://www.reddit.com/r/Hamburg/)
-- **Activities**: [Viator Tours in Hamburg](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DHamburg)
+- **Activities**: [Viator Tours in Hamburg](https://www.viator.com/searchResults/all?text=Hamburg)
 
 | Platform | Link |
 |----------|------|

@@ -42,7 +42,7 @@ description: Cost of Living in Helsinki
 ## 🧭 Explore & Community
 - **Top Activity**: [Suomenlinna Fortress](https://www.tripadvisor.com/Search?q=Suomenlinna Fortress Helsinki) — UNESCO island sea fortress and nature.
 - **Social**: [Find Helsinki on Reddit](https://www.reddit.com/r/Helsinki/)
-- **Activities**: [Viator Tours in Helsinki](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DHelsinki)
+- **Activities**: [Viator Tours in Helsinki](https://www.viator.com/searchResults/all?text=Helsinki)
 
 | Platform | Link |
 |----------|------|

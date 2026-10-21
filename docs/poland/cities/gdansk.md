@@ -42,7 +42,7 @@ description: Cost of Living in Gdańsk
 ## 🧭 Explore & Community
 - **Top Activity**: [The Crane](https://www.tripadvisor.com/Search?q=The Crane Gdansk) — The iconic medieval port crane and landmark.
 - **Social**: [Find Gdansk on Reddit](https://www.reddit.com/r/Gdansk/)
-- **Activities**: [Viator Tours in Gdańsk](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DGdańsk)
+- **Activities**: [Viator Tours in Gdańsk](https://www.viator.com/searchResults/all?text=Gdańsk)
 
 | Platform | Link |
 |----------|------|

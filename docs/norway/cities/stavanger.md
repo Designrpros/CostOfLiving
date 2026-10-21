@@ -42,7 +42,7 @@ description: Cost of Living in Stavanger
 ## 🧭 Explore & Community
 - **Top Activity**: [Preikestolen Day Trip](https://www.tripadvisor.com/Search?q=Preikestolen Day Trip Stavanger) — Hike to the world-famous Pulpit Rock viewpoint.
 - **Social**: [Find Stavanger on Reddit](https://www.reddit.com/r/Stavanger/)
-- **Activities**: [Viator Tours in Stavanger](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DStavanger)
+- **Activities**: [Viator Tours in Stavanger](https://www.viator.com/searchResults/all?text=Stavanger)
 
 | Platform | Link |
 |----------|------|

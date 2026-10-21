@@ -42,7 +42,7 @@ description: Cost of Living in Bucharest
 ## 🧭 Explore & Community
 - **Top Activity**: [Palace of the Parliament](https://www.tripadvisor.com/Search?q=Palace of the Parliament Bucharest) — The heaviest building in the world and a communist relic.
 - **Social**: [Find Bucharest on Reddit](https://www.reddit.com/r/Bucharest/)
-- **Activities**: [Viator Tours in Bucharest](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBucharest)
+- **Activities**: [Viator Tours in Bucharest](https://www.viator.com/searchResults/all?text=Bucharest)
 
 | Platform | Link |
 |----------|------|

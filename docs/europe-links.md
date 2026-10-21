@@ -43,9 +43,9 @@ description: General links for the whole of Europe
 | Link | Description |
 |-------|-------------|
 | [Rome2Rio](https://www.rome2rio.com) | Transport route planning |
-| [Rail Europe](https://tp.media/r?marker=710853&p=276&u=https%3A%2F%2Fwww.raileurope.com) | European trains |
-| [FlixBus](https://tp.media/r?marker=710853&p=323&u=https%3A%2F%2Fwww.flixbus.com) | Budget bus travel |
-| [Aviasales](https://tp.media/r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | Flights |
+| [Rail Europe](https://www.raileurope.com) | European trains |
+| [FlixBus](https://www.flixbus.com) | Budget bus travel |
+| [Aviasales](https://www.aviasales.com) | Flights |
 | [Google Maps](https://maps.google.com) | Navigation |
 
 ## 🎮 Reddit Communities

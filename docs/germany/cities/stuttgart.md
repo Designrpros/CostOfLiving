@@ -42,7 +42,7 @@ description: Cost of Living in Stuttgart
 ## 🧭 Explore & Community
 - **Top Activity**: [Mercedes-Benz Museum](https://www.tripadvisor.com/Search?q=Mercedes-Benz Museum Stuttgart) — A futuristic journey through automotive history.
 - **Social**: [Find Stuttgart on Reddit](https://www.reddit.com/r/Stuttgart/)
-- **Activities**: [Viator Tours in Stuttgart](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DStuttgart)
+- **Activities**: [Viator Tours in Stuttgart](https://www.viator.com/searchResults/all?text=Stuttgart)
 
 | Platform | Link |
 |----------|------|

@@ -42,7 +42,7 @@ description: Cost of Living in Brno
 ## 🧭 Explore & Community
 - **Top Activity**: [Spilberk Castle](https://www.tripadvisor.com/Search?q=Spilberk Castle Brno) — Former fortress and prison with panoramic views.
 - **Social**: [Find Brno on Reddit](https://www.reddit.com/r/Brno/)
-- **Activities**: [Viator Tours in Brno](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBrno)
+- **Activities**: [Viator Tours in Brno](https://www.viator.com/searchResults/all?text=Brno)
 
 | Platform | Link |
 |----------|------|

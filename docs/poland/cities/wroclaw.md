@@ -42,7 +42,7 @@ description: Cost of Living in Wroclaw
 ## 🧭 Explore & Community
 - **Top Activity**: [Wroclaw Dwarves](https://www.tripadvisor.com/Search?q=Wroclaw Dwarves Wroclaw) — Find the hundreds of bronze gnomes hidden across the city.
 - **Social**: [Find Wroclaw on Reddit](https://www.reddit.com/r/Wroclaw/)
-- **Activities**: [Viator Tours in Wroclaw](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DWroclaw)
+- **Activities**: [Viator Tours in Wroclaw](https://www.viator.com/searchResults/all?text=Wroclaw)
 
 | Platform | Link |
 |----------|------|

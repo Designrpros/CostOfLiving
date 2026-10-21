@@ -42,7 +42,7 @@ description: Cost of Living in Rome
 ## 🧭 Explore & Community
 - **Top Activity**: [The Colosseum](https://www.tripadvisor.com/Search?q=The Colosseum Rome) — The iconic symbol of Ancient Roman power.
 - **Social**: [Find Rome on Reddit](https://www.reddit.com/r/Rome/)
-- **Activities**: [Viator Tours in Rome](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DRome)
+- **Activities**: [Viator Tours in Rome](https://www.viator.com/searchResults/all?text=Rome)
 
 | Platform | Link |
 |----------|------|

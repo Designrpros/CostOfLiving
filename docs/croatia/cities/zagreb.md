@@ -42,7 +42,7 @@ description: Cost of Living in Zagreb
 ## 🧭 Explore & Community
 - **Top Activity**: [Museum of Broken Relationships](https://www.tripadvisor.com/Search?q=Museum of Broken Relationships Zagreb) — A unique and emotionally touching experience.
 - **Social**: [Find Zagreb on Reddit](https://www.reddit.com/r/Zagreb/)
-- **Activities**: [Viator Tours in Zagreb](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DZagreb)
+- **Activities**: [Viator Tours in Zagreb](https://www.viator.com/searchResults/all?text=Zagreb)
 
 | Platform | Link |
 |----------|------|

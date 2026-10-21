@@ -42,7 +42,7 @@ description: Cost of Living in Edinburgh
 ## 🧭 Explore & Community
 - **Top Activity**: [Edinburgh Castle](https://www.tripadvisor.com/Search?q=Edinburgh Castle Edinburgh) — The historic fortress and crown jewels of Scotland.
 - **Social**: [Find Edinburgh on Reddit](https://www.reddit.com/r/Edinburgh/)
-- **Activities**: [Viator Tours in Edinburgh](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DEdinburgh)
+- **Activities**: [Viator Tours in Edinburgh](https://www.viator.com/searchResults/all?text=Edinburgh)
 
 | Platform | Link |
 |----------|------|

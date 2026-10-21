@@ -42,7 +42,7 @@ description: Cost of Living in London
 ## 🧭 Explore & Community
 - **Top Activity**: [Tower of London](https://www.tripadvisor.com/Search?q=Tower of London London) — Historic castle, fortress, and home to Crown Jewels.
 - **Social**: [Find London on Reddit](https://www.reddit.com/r/London/)
-- **Activities**: [Viator Tours in London](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DLondon)
+- **Activities**: [Viator Tours in London](https://www.viator.com/searchResults/all?text=London)
 
 | Platform | Link |
 |----------|------|

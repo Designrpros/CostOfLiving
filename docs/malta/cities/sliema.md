@@ -42,7 +42,7 @@ description: Cost of Living in Sliema
 ## 🧭 Explore & Community
 - **Top Activity**: [Sliema Promenade](https://www.tripadvisor.com/Search?q=Sliema Promenade Sliema) — Join the locals for a seaside walk with city views.
 - **Social**: [Find Sliema on Reddit](https://www.reddit.com/r/Sliema/)
-- **Activities**: [Viator Tours in Sliema](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DSliema)
+- **Activities**: [Viator Tours in Sliema](https://www.viator.com/searchResults/all?text=Sliema)
 
 | Platform | Link |
 |----------|------|

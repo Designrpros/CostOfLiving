@@ -42,7 +42,7 @@ description: Cost of Living in Bologna
 ## 🧭 Explore & Community
 - **Top Activity**: [Piazza Maggiore](https://www.tripadvisor.com/Search?q=Piazza Maggiore Bologna) — The grand soul of Italy's culinary capital.
 - **Social**: [Find Bologna on Reddit](https://www.reddit.com/r/Bologna/)
-- **Activities**: [Viator Tours in Bologna](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBologna)
+- **Activities**: [Viator Tours in Bologna](https://www.viator.com/searchResults/all?text=Bologna)
 
 | Platform | Link |
 |----------|------|

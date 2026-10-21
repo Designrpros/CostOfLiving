@@ -42,7 +42,7 @@ description: Cost of Living in Warsaw
 ## 🧭 Explore & Community
 - **Top Activity**: [Royal Castle](https://www.tripadvisor.com/Search?q=Royal Castle Warsaw) — Meticulously rebuilt symbol of Polish history.
 - **Social**: [Find Warsaw on Reddit](https://www.reddit.com/r/Warsaw/)
-- **Activities**: [Viator Tours in Warsaw](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DWarsaw)
+- **Activities**: [Viator Tours in Warsaw](https://www.viator.com/searchResults/all?text=Warsaw)
 
 | Platform | Link |
 |----------|------|

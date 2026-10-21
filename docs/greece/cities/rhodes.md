@@ -42,7 +42,7 @@ description: Cost of Living in Rhodes
 ## 🧭 Explore & Community
 - **Top Activity**: [Old Town Rhodes](https://www.tripadvisor.com/Search?q=Old Town Rhodes Rhodes) — Europe's oldest inhabited medieval city.
 - **Social**: [Find Rhodes on Reddit](https://www.reddit.com/r/Rhodes/)
-- **Activities**: [Viator Tours in Rhodes](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DRhodes)
+- **Activities**: [Viator Tours in Rhodes](https://www.viator.com/searchResults/all?text=Rhodes)
 
 | Platform | Link |
 |----------|------|

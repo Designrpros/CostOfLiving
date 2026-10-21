@@ -42,7 +42,7 @@ description: Cost of Living in Liverpool
 ## 🧭 Explore & Community
 - **Top Activity**: [The Beatles Story](https://www.tripadvisor.com/Search?q=The Beatles Story Liverpool) — Follow the journey of the world's most famous band.
 - **Social**: [Find Liverpool on Reddit](https://www.reddit.com/r/Liverpool/)
-- **Activities**: [Viator Tours in Liverpool](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DLiverpool)
+- **Activities**: [Viator Tours in Liverpool](https://www.viator.com/searchResults/all?text=Liverpool)
 
 | Platform | Link |
 |----------|------|

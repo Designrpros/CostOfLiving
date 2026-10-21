@@ -42,7 +42,7 @@ description: Cost of Living in Marseille
 ## 🧭 Explore & Community
 - **Top Activity**: [Basilique Notre-Dame](https://www.tripadvisor.com/Search?q=Basilique Notre-Dame Marseille) — The golden-topped symbol of Marseille with 360 views.
 - **Social**: [Find Marseille on Reddit](https://www.reddit.com/r/Marseille/)
-- **Activities**: [Viator Tours in Marseille](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMarseille)
+- **Activities**: [Viator Tours in Marseille](https://www.viator.com/searchResults/all?text=Marseille)
 
 | Platform | Link |
 |----------|------|

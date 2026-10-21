@@ -42,7 +42,7 @@ description: Cost of Living in Reykjavik
 ## 🧭 Explore & Community
 - **Top Activity**: [Hallgrímskirkja](https://www.tripadvisor.com/Search?q=Hallgrímskirkja Reykjavik) — Iceland's largest church and best city viewpoint.
 - **Social**: [Find Reykjavik on Reddit](https://www.reddit.com/r/Reykjavik/)
-- **Activities**: [Viator Tours in Reykjavik](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DReykjavik)
+- **Activities**: [Viator Tours in Reykjavik](https://www.viator.com/searchResults/all?text=Reykjavik)
 
 | Platform | Link |
 |----------|------|

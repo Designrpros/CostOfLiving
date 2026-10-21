@@ -42,7 +42,7 @@ description: Cost of Living in Paris
 ## 🧭 Explore & Community
 - **Top Activity**: [The Louvre](https://www.tripadvisor.com/Search?q=The Louvre Paris) — The world's largest and most visited art museum.
 - **Social**: [Find Paris on Reddit](https://www.reddit.com/r/Paris/)
-- **Activities**: [Viator Tours in Paris](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DParis)
+- **Activities**: [Viator Tours in Paris](https://www.viator.com/searchResults/all?text=Paris)
 
 | Platform | Link |
 |----------|------|

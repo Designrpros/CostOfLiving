@@ -24,11 +24,11 @@ description: Services we recommend - and earn commission from
 
 | Service | Description | Commission |
 |----------|-------------|----------|
-| [Aviasales](https://tp.media/r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | ✈️ Flight comparison | ~2% |
-| [Rentalcars.com](https://tp.media/r?marker=710853&p=136&u=https%3A%2F%2Fwww.rentalcars.com) | Car rentals | ~5% |
-| [Discover Cars](https://tp.media/r?marker=710853&p=1630&u=https%3A%2F%2Fwww.discovercars.com) | Car rentals | ~5% |
-| [FlixBus](https://tp.media/r?marker=710853&p=323&u=https%3A%2F%2Fwww.flixbus.com) | 🚌 Budget bus travel | ~2% |
-| [Rail Europe](https://tp.media/r?marker=710853&p=276&u=https%3A%2F%2Fwww.raileurope.com) | 🚂 European trains | ~3% |
+| [Aviasales](https://www.aviasales.com) | ✈️ Flight comparison | ~2% |
+| [Rentalcars.com](https://www.rentalcars.com) | Car rentals | ~5% |
+| [Discover Cars](https://www.discovercars.com) | Car rentals | ~5% |
+| [FlixBus](https://www.flixbus.com) | 🚌 Budget bus travel | ~2% |
+| [Rail Europe](https://www.raileurope.com) | 🚂 European trains | ~3% |
 
 ---
 
@@ -56,7 +56,7 @@ description: Services we recommend - and earn commission from
 
 | Service | Description | Commission |
 |----------|-------------|----------|
-| [Airalo](https://tp.media/r?marker=710853&p=1890&u=https%3A%2F%2Fwww.airalo.com) | 📱 Global eSIM | ~5% |
+| [Airalo](https://www.airalo.com) | 📱 Global eSIM | ~5% |
 | [Holafly](https://www.holafly.com) | Unlimited data | ~5% |
 | [Nomad](https://nomad.com) | eSIM + phone services | ~$20 |
 
@@ -66,7 +66,7 @@ description: Services we recommend - and earn commission from
 
 | Service | Description | Commission |
 |----------|-------------|----------|
-| [SafetyWing](https://tp.media/r?marker=710853&p=1470&u=https%3A%2F%2Fsafetywing.com) | 🛡️ Digital nomad insurance | ~10% |
+| [SafetyWing](https://safetywing.com) | 🛡️ Digital nomad insurance | ~10% |
 | [World Nomads](https://www.worldnomads.com) | Travel insurance | ~5% |
 | [Coverwallet](https://www.coverwallet.com) | Insurance comparison | ~5% |
 

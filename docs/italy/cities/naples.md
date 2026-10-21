@@ -42,7 +42,7 @@ description: Cost of Living in Naples
 ## 🧭 Explore & Community
 - **Top Activity**: [Pompeii Day Trip](https://www.tripadvisor.com/Search?q=Pompeii Day Trip Naples) — Explore the perfectly preserved Roman city.
 - **Social**: [Find Naples on Reddit](https://www.reddit.com/r/Naples/)
-- **Activities**: [Viator Tours in Naples](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DNaples)
+- **Activities**: [Viator Tours in Naples](https://www.viator.com/searchResults/all?text=Naples)
 
 | Platform | Link |
 |----------|------|

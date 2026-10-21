@@ -42,7 +42,7 @@ description: Cost of Living in Sofia
 ## 🧭 Explore & Community
 - **Top Activity**: [Alexander Nevsky Cathedral](https://www.tripadvisor.com/Search?q=Alexander Nevsky Cathedral Sofia) — One of the world's largest Orthodox cathedrals.
 - **Social**: [Find Sofia on Reddit](https://www.reddit.com/r/Sofia/)
-- **Activities**: [Viator Tours in Sofia](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DSofia)
+- **Activities**: [Viator Tours in Sofia](https://www.viator.com/searchResults/all?text=Sofia)
 
 | Platform | Link |
 |----------|------|

@@ -42,7 +42,7 @@ description: Cost of Living in Zurich
 ## 🧭 Explore & Community
 - **Top Activity**: [Lake Zurich](https://www.tripadvisor.com/Search?q=Lake Zurich Zurich) — Take a boat cruise for stunning Alpine views.
 - **Social**: [Find Zurich on Reddit](https://www.reddit.com/r/Zurich/)
-- **Activities**: [Viator Tours in Zurich](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DZurich)
+- **Activities**: [Viator Tours in Zurich](https://www.viator.com/searchResults/all?text=Zurich)
 
 | Platform | Link |
 |----------|------|

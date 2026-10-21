@@ -42,7 +42,7 @@ description: Cost of Living in Budapest
 ## 🧭 Explore & Community
 - **Top Activity**: [Parliament Building](https://www.tripadvisor.com/Search?q=Parliament Building Budapest) — Stunning neo-gothic icon of the Hungarian capital.
 - **Social**: [Find Budapest on Reddit](https://www.reddit.com/r/Budapest/)
-- **Activities**: [Viator Tours in Budapest](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBudapest)
+- **Activities**: [Viator Tours in Budapest](https://www.viator.com/searchResults/all?text=Budapest)
 
 | Platform | Link |
 |----------|------|

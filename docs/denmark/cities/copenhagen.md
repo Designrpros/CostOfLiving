@@ -42,7 +42,7 @@ description: Cost of Living in Copenhagen
 ## 🧭 Explore & Community
 - **Top Activity**: [Tivoli Gardens](https://www.tripadvisor.com/Search?q=Tivoli Gardens Copenhagen) — The world's second-oldest amusement park.
 - **Social**: [Find Copenhagen on Reddit](https://www.reddit.com/r/Copenhagen/)
-- **Activities**: [Viator Tours in Copenhagen](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DCopenhagen)
+- **Activities**: [Viator Tours in Copenhagen](https://www.viator.com/searchResults/all?text=Copenhagen)
 
 | Platform | Link |
 |----------|------|

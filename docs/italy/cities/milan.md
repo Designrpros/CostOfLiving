@@ -42,7 +42,7 @@ description: Cost of Living in Milan
 ## 🧭 Explore & Community
 - **Top Activity**: [Duomo di Milano](https://www.tripadvisor.com/Search?q=Duomo di Milano Milan) — Take the lift to the roof for stunning gothic spires.
 - **Social**: [Find Milan on Reddit](https://www.reddit.com/r/Milan/)
-- **Activities**: [Viator Tours in Milan](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMilan)
+- **Activities**: [Viator Tours in Milan](https://www.viator.com/searchResults/all?text=Milan)
 
 | Platform | Link |
 |----------|------|

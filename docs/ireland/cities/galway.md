@@ -42,7 +42,7 @@ description: Cost of Living in Galway
 ## 🧭 Explore & Community
 - **Top Activity**: [Eyre Square](https://www.tripadvisor.com/Search?q=Eyre Square Galway) — The vibrant heart and meeting place of Galway.
 - **Social**: [Find Galway on Reddit](https://www.reddit.com/r/Galway/)
-- **Activities**: [Viator Tours in Galway](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DGalway)
+- **Activities**: [Viator Tours in Galway](https://www.viator.com/searchResults/all?text=Galway)
 
 | Platform | Link |
 |----------|------|

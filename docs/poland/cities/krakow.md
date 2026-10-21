@@ -42,7 +42,7 @@ description: Cost of Living in Krakow
 ## 🧭 Explore & Community
 - **Top Activity**: [Main Market Square](https://www.tripadvisor.com/Search?q=Main Market Square Krakow) — One of the largest and most beautiful medieval squares in Europe.
 - **Social**: [Find Krakow on Reddit](https://www.reddit.com/r/Krakow/)
-- **Activities**: [Viator Tours in Krakow](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DKrakow)
+- **Activities**: [Viator Tours in Krakow](https://www.viator.com/searchResults/all?text=Krakow)
 
 | Platform | Link |
 |----------|------|

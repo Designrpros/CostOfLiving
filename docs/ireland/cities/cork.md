@@ -42,7 +42,7 @@ description: Cost of Living in Cork
 ## 🧭 Explore & Community
 - **Top Activity**: [English Market](https://www.tripadvisor.com/Search?q=English Market Cork) — Historic food market with incredible local produce.
 - **Social**: [Find Cork on Reddit](https://www.reddit.com/r/Cork/)
-- **Activities**: [Viator Tours in Cork](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DCork)
+- **Activities**: [Viator Tours in Cork](https://www.viator.com/searchResults/all?text=Cork)
 
 | Platform | Link |
 |----------|------|

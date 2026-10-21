@@ -42,7 +42,7 @@ description: Cost of Living in Munich
 ## 🧭 Explore & Community
 - **Top Activity**: [Marienplatz](https://www.tripadvisor.com/Search?q=Marienplatz Munich) — The heart of Munich with the famous Glockenspiel.
 - **Social**: [Find Munich on Reddit](https://www.reddit.com/r/Munich/)
-- **Activities**: [Viator Tours in Munich](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMunich)
+- **Activities**: [Viator Tours in Munich](https://www.viator.com/searchResults/all?text=Munich)
 
 | Platform | Link |
 |----------|------|

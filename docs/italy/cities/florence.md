@@ -42,7 +42,7 @@ description: Cost of Living in Florence
 ## 🧭 Explore & Community
 - **Top Activity**: [Uffizi Gallery](https://www.tripadvisor.com/Search?q=Uffizi Gallery Florence) — The world's greatest collection of Italian art.
 - **Social**: [Find Florence on Reddit](https://www.reddit.com/r/Florence/)
-- **Activities**: [Viator Tours in Florence](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DFlorence)
+- **Activities**: [Viator Tours in Florence](https://www.viator.com/searchResults/all?text=Florence)
 
 | Platform | Link |
 |----------|------|

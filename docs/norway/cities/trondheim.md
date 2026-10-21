@@ -42,7 +42,7 @@ description: Cost of Living in Trondheim
 ## 🧭 Explore & Community
 - **Top Activity**: [Nidaros Cathedral](https://www.tripadvisor.com/Search?q=Nidaros Cathedral Trondheim) — The world's northernmost medieval cathedral.
 - **Social**: [Find Trondheim on Reddit](https://www.reddit.com/r/Trondheim/)
-- **Activities**: [Viator Tours in Trondheim](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DTrondheim)
+- **Activities**: [Viator Tours in Trondheim](https://www.viator.com/searchResults/all?text=Trondheim)
 
 | Platform | Link |
 |----------|------|

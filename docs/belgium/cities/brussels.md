@@ -42,7 +42,7 @@ description: Cost of Living in Brussels
 ## 🧭 Explore & Community
 - **Top Activity**: [Grand Place](https://www.tripadvisor.com/Search?q=Grand Place Brussels) — One of the most beautiful town squares in the world.
 - **Social**: [Find Brussels on Reddit](https://www.reddit.com/r/Brussels/)
-- **Activities**: [Viator Tours in Brussels](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBrussels)
+- **Activities**: [Viator Tours in Brussels](https://www.viator.com/searchResults/all?text=Brussels)
 
 | Platform | Link |
 |----------|------|

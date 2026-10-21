@@ -42,7 +42,7 @@ description: Cost of Living in Barcelona
 ## 🧭 Explore & Community
 - **Top Activity**: [Sagrada Familia](https://www.tripadvisor.com/Search?q=Sagrada Familia Barcelona) — Gaudí's unfinished architectural masterpiece.
 - **Social**: [Find Barcelona on Reddit](https://www.reddit.com/r/Barcelona/)
-- **Activities**: [Viator Tours in Barcelona](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBarcelona)
+- **Activities**: [Viator Tours in Barcelona](https://www.viator.com/searchResults/all?text=Barcelona)
 
 | Platform | Link |
 |----------|------|

@@ -42,7 +42,7 @@ description: Cost of Living in Valletta
 ## 🧭 Explore & Community
 - **Top Activity**: [St. John's Co-Cathedral](https://www.tripadvisor.com/Search?q=St. John's Co-Cathedral Valletta) — Breathtaking baroque interior and Caravaggio masterpieces.
 - **Social**: [Find Valletta on Reddit](https://www.reddit.com/r/Valletta/)
-- **Activities**: [Viator Tours in Valletta](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DValletta)
+- **Activities**: [Viator Tours in Valletta](https://www.viator.com/searchResults/all?text=Valletta)
 
 | Platform | Link |
 |----------|------|

@@ -42,7 +42,7 @@ description: Cost of Living in Malmö
 ## 🧭 Explore & Community
 - **Top Activity**: [Turning Torso](https://www.tripadvisor.com/Search?q=Turning Torso Malmo) — Visit Scandinavia's tallest and most twisted skyscraper.
 - **Social**: [Find Malmo on Reddit](https://www.reddit.com/r/Malmo/)
-- **Activities**: [Viator Tours in Malmö](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMalmö)
+- **Activities**: [Viator Tours in Malmö](https://www.viator.com/searchResults/all?text=Malmö)
 
 | Platform | Link |
 |----------|------|

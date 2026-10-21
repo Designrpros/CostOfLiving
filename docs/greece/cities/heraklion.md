@@ -42,7 +42,7 @@ description: Cost of Living in Heraklion
 ## 🧭 Explore & Community
 - **Top Activity**: [Knossos Palace](https://www.tripadvisor.com/Search?q=Knossos Palace Heraklion) — Explore the mythical heart of Minoan civilization.
 - **Social**: [Find Heraklion on Reddit](https://www.reddit.com/r/Heraklion/)
-- **Activities**: [Viator Tours in Heraklion](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DHeraklion)
+- **Activities**: [Viator Tours in Heraklion](https://www.viator.com/searchResults/all?text=Heraklion)
 
 | Platform | Link |
 |----------|------|
