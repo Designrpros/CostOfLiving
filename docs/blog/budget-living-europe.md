@@ -1,6 +1,7 @@
 ---
 title: How to Live on €1000/month in Europe
 description: A complete guide to budget living in Europe's most affordable cities
+date: 2026-03
 ---
 
 # How to Live on €1000/month in Europe

@@ -1,6 +1,7 @@
 ---
 title: Backpacking Europe on €50/day
 description: A comprehensive guide to budget backpacking through Europe without sacrificing experiences
+date: 2026-03
 ---
 
 # 🎒 Backpacking Europe on €50/day

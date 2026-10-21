@@ -1,6 +1,7 @@
 ---
 title: Finding Affordable Apartments in Europe
 description: Complete guide to renting apartments across Europe - sites, tips, and local advice
+date: 2026-03
 ---
 
 # Finding Affordable Apartments in Europe

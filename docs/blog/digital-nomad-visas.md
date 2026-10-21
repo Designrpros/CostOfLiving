@@ -1,6 +1,7 @@
 ---
 title: Digital Nomad Visas in Europe
 description: Complete guide to digital nomad visas available in European countries
+date: 2026-03
 ---
 
 # Digital Nomad Visas in Europe

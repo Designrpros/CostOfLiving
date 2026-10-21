@@ -1,6 +1,7 @@
 ---
 title: Cheapest Cities to Live in Europe 2026
 description: Our ranked list of the most affordable European cities
+date: 2026-04
 ---
 
 # Cheapest Cities to Live in Europe 2026
