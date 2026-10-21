@@ -603,7 +603,9 @@ def blog_list():
         when = meta.get("updated") or meta["date"]
         year, month = when.split("-")
         label = ("Updated " if "updated" in meta else "") + f"{MONTHS[int(month) - 1]} {year}"
-        posts.append((when, clean_heading(meta["title"]), meta.get("description", ""), url_for(path), label))
+        # Within a month, new posts before updated ones.
+        posts.append(((when, meta["date"]), clean_heading(meta["title"]), meta.get("description", ""), url_for(path),
+                      label))
     items = "\n".join(f'<li><a href="{url}">{e(title)}</a> <span class="post-date">{when}</span>'
                        f'<br>{e(description)}</li>'
                        for _, title, description, url, when in sorted(posts, reverse=True))
