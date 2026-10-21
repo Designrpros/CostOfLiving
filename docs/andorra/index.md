@@ -58,11 +58,11 @@ description: Complete cost of living guide for Andorra
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Pisos.ad](https://www.pisos.ad) | Andorra's property portal: flats to rent and buy |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Govern d'Andorra: Ocupació i treball](https://www.govern.ad/ca/tematiques/ocupacio-i-treball) | The government's employment and work permit pages |
 
-*Data: March 2026*
+*Links checked: October 2026*

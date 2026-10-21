@@ -60,11 +60,11 @@ description: Complete cost of living guide for Moldova
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [999.md](https://999.md) | Classifieds: flats to rent |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Rabota.md](https://www.rabota.md) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

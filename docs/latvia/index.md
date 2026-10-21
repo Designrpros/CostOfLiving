@@ -60,11 +60,12 @@ description: Complete cost of living guide for Latvia
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [SS.lv](https://www.ss.lv) | Classifieds: flats to rent |
+| [City24.lv](https://www.city24.lv) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [CV.lv](https://www.cv.lv) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

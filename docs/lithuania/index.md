@@ -60,11 +60,12 @@ description: Complete cost of living guide for Lithuania
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Aruodas.lt](https://www.aruodas.lt) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [CVbankas.lt](https://www.cvbankas.lt) | Job listings |
+| [CV.lt](https://www.cv.lt) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

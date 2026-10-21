@@ -59,11 +59,12 @@ description: Complete cost of living guide for Turkey (European)
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Sahibinden](https://www.sahibinden.com) | Classifieds: property to rent |
+| [Hepsiemlak](https://www.hepsiemlak.com) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Kariyer.net](https://www.kariyer.net) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

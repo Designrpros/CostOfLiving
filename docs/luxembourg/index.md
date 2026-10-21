@@ -58,11 +58,13 @@ description: Complete cost of living guide for Luxembourg
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [atHome](https://www.athome.lu) | Property listings |
+| [Immotop.lu](https://www.immotop.lu) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Jobs.lu](https://en.jobs.lu) | Job listings |
+| [ADEM](https://adem.public.lu) | The national employment agency |
 
-*Data: March 2026*
+*Links checked: October 2026*

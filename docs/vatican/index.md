@@ -55,14 +55,6 @@ description: Complete cost of living guide for Vatican City
 
 ## 🔗 Useful Links
 
-### 🏠 Housing & Rent
-| Link | Description |
-|------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+Vatican City has no rental market open to the public, and most people who work there live in Rome: see [Italy](../italy/index.md) for housing and jobs.
 
-### 💼 Jobs
-| Link | Description |
-|------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
-
-*Data: March 2026*
+*Links checked: October 2026*

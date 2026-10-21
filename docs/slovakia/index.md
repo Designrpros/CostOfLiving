@@ -60,11 +60,11 @@ description: Complete cost of living guide for Slovakia
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Nehnuteľnosti.sk](https://www.nehnutelnosti.sk) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Profesia.sk](https://www.profesia.sk) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

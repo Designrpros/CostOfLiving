@@ -58,11 +58,11 @@ description: Complete cost of living guide for Liechtenstein
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Immoboerse.li](https://www.immoboerse.li) | Property listings in Liechtenstein |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Ostjob.ch](https://www.ostjob.ch) | Jobs in eastern Switzerland, next door |
 
-*Data: March 2026*
+*Links checked: October 2026*

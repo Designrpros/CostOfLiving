@@ -60,11 +60,11 @@ description: Complete cost of living guide for Cyprus
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Bazaraki](https://www.bazaraki.com/real-estate-to-rent/) | Classifieds: property to rent |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Ergodotisi](https://ergodotisi.com/en-CY/) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

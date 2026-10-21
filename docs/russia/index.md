@@ -60,11 +60,11 @@ description: Complete cost of living guide for Russia (European)
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Cian](https://www.cian.ru) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [hh.ru](https://hh.ru) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

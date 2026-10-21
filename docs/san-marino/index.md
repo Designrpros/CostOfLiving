@@ -58,11 +58,11 @@ description: Complete cost of living guide for San Marino
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Mioaffitto](https://mioaffitto.it/appartamenti-affitto-citta-di-san-marino-111-3-0-77294.html) | Flats to rent in San Marino |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Segreteria di Stato Lavoro](https://www.lavoro.sm) | San Marino's labour ministry |
 
-*Data: March 2026*
+*Links checked: October 2026*

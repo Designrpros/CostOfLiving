@@ -60,11 +60,11 @@ description: Complete cost of living guide for Armenia
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [List.am](https://www.list.am/en/) | Classifieds: flats to rent in Yerevan and beyond |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Staff.am](https://staff.am) | Job portal |
 
-*Data: March 2026*
+*Links checked: October 2026*

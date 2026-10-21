@@ -60,11 +60,11 @@ description: Complete cost of living guide for Albania
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [MerrJep](https://www.merrjep.al) | Classifieds: flats and houses to rent |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Duapune](https://www.duapune.com) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

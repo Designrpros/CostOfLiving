@@ -42,7 +42,7 @@ description: Essential packing list for backpacking Europe
 | Item | Notes |
 |------|-------|
 | 📱 Phone | With offline maps |
-| 🔌 Power adapter | EU plug (Type C/F) |
+| 🔌 Power adapter | Most of Europe: Type C/F. UK, Ireland, Malta, Cyprus: Type G. Switzerland: Type J. Italy also uses Type L |
 | 🔋 Power bank | For long days |
 | 🎧 Headphones | Noise cancelling |
 | 📷 Camera | Optional |
@@ -50,11 +50,15 @@ description: Essential packing list for backpacking Europe
 ### Documents
 | Item | Notes |
 |------|-------|
-| 🛂 Passport | Valid 6+ months |
+| 🛂 Passport | From outside the EU: valid at least 3 months after you leave the Schengen area, and issued in the last 10 years |
 | 💳 Bank cards | Notify bank abroad |
 | 🏥 Travel insurance | Essential! |
 | 🏨 Booking confirmations | Print/digital |
 | 📄 Emergency contacts | |
+
+### Entering Europe from outside the EU
+- **Entry/Exit System (EES):** since April 2026, travellers from outside the EU have their fingerprints and a photo taken at the Schengen border the first time, in place of passport stamps. Allow extra time at the border. ([European Commission](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders_en))
+- **ETIAS:** a €20 travel authorisation for visa-free visitors is coming but not yet in operation; the EU will announce the start date months ahead. Do not pay sites that claim to sell it now. ([Official ETIAS site](https://travel-europe.europa.eu/en/etias))
 
 ---
 
@@ -63,7 +67,7 @@ description: Essential packing list for backpacking Europe
 ### Backpack Size
 - **40-50L** - Perfect for weekend trips
 - **50-65L** - Extended trips (1-3 months)
-- **Carry-on** - Most airlines: 40L max
+- **Carry-on** - Limits vary by airline; budget airlines often include only a small under-seat bag
 
 ### Weight Tips
 - Pack light! Max 10kg recommended
@@ -108,4 +112,4 @@ description: Essential packing list for backpacking Europe
 
 *Happy Travels! ✈️*
 
-*Last updated: March 2026*
+*Updated: October 2026*

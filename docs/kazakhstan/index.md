@@ -59,11 +59,11 @@ description: Complete cost of living guide for Kazakhstan (European)
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Krisha.kz](https://krisha.kz) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [hh.kz](https://hh.kz) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

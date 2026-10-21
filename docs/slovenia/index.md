@@ -60,11 +60,12 @@ description: Complete cost of living guide for Slovenia
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Nepremičnine.net](https://www.nepremicnine.net) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [MojeDelo](https://www.mojedelo.com) | Job listings |
+| [Zavod za zaposlovanje](https://www.ess.gov.si) | Slovenia's employment service |
 
-*Data: March 2026*
+*Links checked: October 2026*

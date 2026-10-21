@@ -60,11 +60,12 @@ description: Complete cost of living guide for Montenegro
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Realitica](https://www.realitica.com) | Property listings |
+| [Oglasi.me](https://oglasi.me) | Classifieds |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Zavod za zapošljavanje](https://www.zzzcg.me) | Montenegro's employment agency |
 
-*Data: March 2026*
+*Links checked: October 2026*

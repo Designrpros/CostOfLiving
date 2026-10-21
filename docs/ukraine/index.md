@@ -60,11 +60,13 @@ description: Complete cost of living guide for Ukraine
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [DIM.RIA](https://dom.ria.com) | Property listings |
+| [OLX](https://www.olx.ua/uk/nedvizhimost/) | Classifieds: property |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Work.ua](https://www.work.ua) | Job listings |
+| [Robota.ua](https://robota.ua) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

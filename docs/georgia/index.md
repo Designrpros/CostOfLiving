@@ -60,11 +60,12 @@ description: Complete cost of living guide for Georgia
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Myhome.ge](https://www.myhome.ge/en/) | Property listings |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Jobs.ge](https://jobs.ge) | Job listings |
+| [HR.ge](https://www.hr.ge) | Job listings and CVs |
 
-*Data: March 2026*
+*Links checked: October 2026*

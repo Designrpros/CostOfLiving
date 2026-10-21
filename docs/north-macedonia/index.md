@@ -60,11 +60,11 @@ description: Complete cost of living guide for North Macedonia
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [Pazar3](https://www.pazar3.mk) | Classifieds: flats to rent |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [Vrabotuvanje](https://www.vrabotuvanje.com.mk) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*

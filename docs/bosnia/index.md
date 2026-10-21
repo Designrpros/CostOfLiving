@@ -60,11 +60,11 @@ description: Complete cost of living guide for Bosnia and Herzegovina
 ### 🏠 Housing & Rent
 | Link | Description |
 |------|-------------|
-| [Numbeo](https://www.numbeo.com) | Global cost data |
+| [PIK.ba](https://pik.ba) | Classifieds, formerly OLX.ba: flats to rent |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
-| [LinkedIn](https://www.linkedin.com) | Professional network |
+| [MojPosao.ba](https://www.mojposao.ba) | Job listings |
 
-*Data: March 2026*
+*Links checked: October 2026*
