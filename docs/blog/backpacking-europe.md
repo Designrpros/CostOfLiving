@@ -1,152 +1,102 @@
 ---
 title: Backpacking Europe on €50/day
-description: A comprehensive guide to budget backpacking through Europe without sacrificing experiences
+description: How to backpack through Europe on €50 a day, and how far that goes in each country by Eurostat's 2025 prices for restaurants and hotels
 date: 2026-03
+updated: 2026-10
 ---
 
-# 🎒 Backpacking Europe on €50/day
+# Backpacking Europe on €50/day
 
-*The ultimate guide to exploring Europe on a budget*
+*Updated October 2026 · first published March 2026*
 
----
+Can you travel Europe on €50 a day? Yes, in much of it, with planning and some flexibility. In the Balkans it leaves room to spare; in Scandinavia and Switzerland it takes hard work.
 
-## 💰 The €50/day Reality
+## Where €50 goes furthest
 
-Can you really travel Europe on €50/day? **Absolutely yes** — but it requires planning, flexibility, and knowing where your money goes.
+The figures below take a day that costs €50 at EU-average prices and show what the same day costs in each country, using Eurostat's 2025 price level for restaurants and hotels, the two things a backpacker spends most on.
 
-### Average Daily Budget Breakdown
+| Country | The same day costs | Restaurants & hotels against the EU average |
+|---------|--------------------|---------------------------------------------|
+| [Bulgaria](../bulgaria/index.md) | €28 | 44% below |
+| [Romania](../romania/index.md) | €30 | 41% below |
+| [Czechia](../czech/index.md) | €35 | 30% below |
+| [Portugal](../portugal/index.md) | €37 | 26% below |
+| [Poland](../poland/index.md) | €40 | 20% below |
+| [Hungary](../hungary/index.md) | €41 | 18% below |
+| [Spain](../spain/index.md) | €43 | 15% below |
+| [Greece](../greece/index.md) | €43 | 14% below |
+| [Croatia](../croatia/index.md) | €45 | 10% below |
+| [Germany](../germany/index.md) | €54 | 8% above |
+| [Italy](../italy/index.md) | €55 | 11% above |
+| [France](../france/index.md) | €58 | 16% above |
+| [Netherlands](../netherlands/index.md) | €60 | 20% above |
+| [Norway](../norway/index.md) | €70 | 40% above |
+| [Switzerland](../switzerland/index.md) | €82 | 63% above |
 
-| Expense | Budget | Tips |
-|---------|--------|------|
-| Accommodation | €20-25 | Hostels, Couchsurfing |
-| Food | €15-20 | Cook, market meals |
-| Transport | €5-10 | FlixBus, walking |
-| Activities | €5-10 | Free museums, walking tours |
-| Buffer | €5 | Emergency fund |
+These are national averages. Capitals and tourist hotspots cost more, and summer prices more than winter ones.
 
----
+## A day on €50
 
-## 🏠 Accommodation Strategies
+A rough plan for a day at EU-average prices:
 
-### Hostels (€15-30/night)
-- **Best for:** Meeting travelers, budget
-- **Book with:** Hostelworld, Booking.com
-- **Pro tip:** Read reviews, check location on Google Maps
+| Expense | Budget | How |
+|---------|--------|-----|
+| Accommodation | €20–25 | Hostel dorms |
+| Food | €15–20 | Cooking, markets, lunch menus |
+| Transport | €5–10 | Buses booked early, walking |
+| Activities | €5–10 | Free museums, walking tours |
+| Buffer | €5 | For the day something goes wrong |
 
-### Couchsurfing (Free)
-- **Best for:** Local experience, free
-- **Start profile:** Minimum 3 references
-- **Pro tip:** Be a good guest, bring small gift
+## Where to sleep
 
-### Airbnb (€30-50/night)
-- **Best for:** Groups, longer stays
-- **Hack:** Book weekly for discounts
+**Hostels** are the backbone of a budget trip: a dorm bed, a kitchen and other travellers. Book through Hostelworld or Booking.com, read recent reviews, and check the location on a map before you pay.
 
-### Wild Camping (Free)
-- **Legal in:** Scotland, Scandinavia, some of Spain
-- **Gear needed:** Tent, sleeping bag
+**Couchsurfing** is free to stay but now charges members a small yearly fee. Fill in your profile properly; hosts read them. Be a good guest and bring something small from home.
 
----
+**Airbnb** makes sense for two or more people or longer stays. Many hosts give a discount for a week or more.
 
-## 🍽️ Food on a Budget
+**Wild camping** is allowed under the right to roam in Norway, Sweden and Finland, and in most of Scotland. In Norway you may camp in uncultivated land for up to two nights, at least 150 metres from houses. In most other countries it is restricted or banned, so use campsites.
 
-### Save Money on Food
+## Eating on a budget
 
-1. **Cook your own meals**
-   - Hostel kitchens save €10-15/day
-   - Buy from supermarkets (Aldi, Lidl)
-   
-2. **Market meals**
-   - Local markets = cheap, fresh
-   - Rotisserie chicken + bread = €5
+1. **Cook your own meals.** A hostel kitchen and a discount supermarket such as Lidl or Aldi save more than anything else.
+2. **Eat at markets.** A rotisserie chicken and bread feed two for little.
+3. **Have lunch out, not dinner.** Look for the *menú del día* in Spain and the *Mittagstisch* in Germany: a set lunch for a fraction of the dinner price.
+4. **Eat street food.** Döner kebab almost everywhere, pizza al taglio in Italy, burek in the Balkans.
 
-3. **Lunch deals**
-   - Many restaurants offer cheap lunch specials
-   - Look for "Menu del dia" in Spain, "Mittagsmenu" in Germany
+A day of cooking for yourself can come in around €15: oats and fruit for breakfast, a sandwich for lunch, a cooked dinner and some snacks.
 
-4. **Street food**
-   - Domer kebab (3-5 euro) everywhere
-   - Pizza al taglio (Italy)
-   - Pretzel (Germany)
+## Getting around
 
-### Sample Daily Food Budget
-
-| Meal | Option | Cost |
-|------|--------|------|
-| Breakfast | Oatmeal + fruit | 2 euro |
-| Lunch | Sandwich + fruit | 4 euro |
-| Dinner | Cooked meal | 6 euro |
-| Snacks | Nuts, chocolate | 3 euro |
-| Total | | 15 euro |
-
----
-
-## Transportation
-
-### Budget Transport Options
-
-| Mode | Cost | Best For |
-|------|------|----------|
-| FlixBus | 5-30 euro | Long distance |
-| Train (student) | 10-50 euro | Comfort |
-| BlaBlaCar | 5-20 euro | Shared rides |
-| Local bus | 1-3 euro | Short trips |
+| Mode | Typical price | Best for |
+|------|---------------|----------|
+| FlixBus | €5–30 | Long distances |
+| Train | €10–50 | Comfort, city centre to city centre |
+| BlaBlaCar | €5–20 | Shared rides |
+| Local bus | €1–3 | Short trips |
 | Walking | Free | Cities |
 
-### Money-Saving Tips
+1. **Book early.** Bus and train prices rise as departure gets closer.
+2. **Travel overnight** and save a night's accommodation.
+3. **Use student discounts.** An ISIC card often pays for itself.
+4. **Look at rail passes** if you are crossing several countries.
+5. **Walk.** It is the best way to see a city anyway.
 
-1. Book early - FlixBus prices rise closer to departure
-2. Travel overnight - Save on accommodation
-3. Use student discounts - ISIC card (15 euro) pays for itself
-4. Consider rail passes - If doing multiple countries
-5. Walk everywhere - Best way to see cities
+## Free things to do
 
----
+- Many museums have a free day or evening each week or month
+- Free walking tours run in most European cities; you tip the guide
+- Churches, parks and markets cost nothing
+- National parks are usually free to enter
 
-## Free Activities
+## Tips
 
-### Museums and Attractions
-- Free museum days - Most cities have them
-- Walking tours - Free (tip-based)
-- National parks - Often free
+1. Stay longer in the cheap countries: the Balkans and Eastern Europe.
+2. Avoid July and August, when prices and crowds peak.
+3. Compare flights on price comparison sites, and look at buses and trains too.
+4. Travel with a friend and split rooms.
+5. If you can work remotely, you can travel for longer.
 
-### Entertainment
-- Free walking tours in most European cities
-- Happy hour - Cheap drinks
-- City parks - Free
-- Churches - Free entry
+## Where the numbers come from
 
----
-
-## Budget by Country
-
-| Country | Daily Budget |
-|---------|--------------|
-| Bulgaria | 35 euro |
-| Romania | 40 euro |
-| Hungary | 45 euro |
-| Poland | 45 euro |
-| Czech Republic | 50 euro |
-| Portugal | 55 euro |
-| Spain | 60 euro |
-| Italy | 65 euro |
-| France | 70 euro |
-| Germany | 70 euro |
-
----
-
-## Pro Tips
-
-1. Stay longer in cheap countries (Eastern Europe, Balkans)
-2. Avoid peak season (July-August)
-3. Use price comparison sites (Skyscanner)
-4. Travel with a friend - Split accommodation costs
-5. Work remotely - Extend your trip
-
----
-
-Europe on a budget is not about missing out - it is about experiencing the real Europe. 
-
-Happy travels!
-
-*March 2026*
+The table uses [Eurostat's price level indices](https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind_1/default/table) for restaurants and hotels, EU27 = 100, 2025. The €50 day and the prices in the other tables are planning figures, not measured prices. More in [About the data](/about/).
