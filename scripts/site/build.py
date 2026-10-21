@@ -593,15 +593,17 @@ MONTHS = ["January", "February", "March", "April", "May", "June", "July", "Augus
 
 
 def blog_list():
-    """Every post under docs/blog/ with its date (front matter, YYYY-MM), newest first; drafts are left out."""
+    """Every post under docs/blog/ with its date (front matter, YYYY-MM), newest first; drafts are left out.
+    A post with updated: (YYYY-MM) is placed and labelled by that date instead."""
     posts = []
     for path in (DOCS / "blog").glob("*.md"):
         meta, text = read_md(path)
         if path.name == "index.md" or meta.get("draft") == "true":
             continue
-        year, month = meta["date"].split("-")
-        posts.append((meta["date"], clean_heading(meta["title"]), meta.get("description", ""), url_for(path),
-                      f"{MONTHS[int(month) - 1]} {year}"))
+        when = meta.get("updated") or meta["date"]
+        year, month = when.split("-")
+        label = ("Updated " if "updated" in meta else "") + f"{MONTHS[int(month) - 1]} {year}"
+        posts.append((when, clean_heading(meta["title"]), meta.get("description", ""), url_for(path), label))
     items = "\n".join(f'<li><a href="{url}">{e(title)}</a> <span class="post-date">{when}</span>'
                        f'<br>{e(description)}</li>'
                        for _, title, description, url, when in sorted(posts, reverse=True))
